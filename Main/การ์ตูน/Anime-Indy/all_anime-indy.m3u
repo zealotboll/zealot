@@ -3,48 +3,48 @@
   "author":"อุ๋ง อุ๋ง",
   "info": "Anime-Indy",
   "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-  "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/Anime-Indy/all_anime-indy.m3u",
+  "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Indy/all_anime-indy.m3u",
   "groups": [
     {
        "name":"🦭รวม🐒", 
        "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/Anime-Indy/anime-indy_anime_.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Indy/anime-indy_anime_.w3u",
        "import":"true"
     },
 	{
        "name":"🦭2023🐒", 
        "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/Anime-Indy/anime-indy_2023_.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Indy/anime-indy_2023_.w3u",
        "import":"true"
     },
     {
        "name":"🦭พากย์ไทย🐒", 
        "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/Anime-Indy/anime-indy_thai_.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Indy/anime-indy_thai_.w3u",
        "import":"true"
     },
     {
        "name":"🦭ซับไทย🐒", 
        "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/Anime-Indy/anime-indy_sub-th_.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Indy/anime-indy_sub-th_.w3u",
        "import":"true"
     },
     {
        "name":"🦭จบแล้ว🐒", 
        "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/Anime-Indy/anime-indy_จบแล้ว_.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Indy/anime-indy_จบแล้ว_.w3u",
        "import":"true"
     },
     {
        "name":"🦭ยังไม่จบ🐒", 
        "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/Anime-Indy/anime-indy_ยังไม่จบ_.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Indy/anime-indy_ยังไม่จบ_.w3u",
        "import":"true"
     },
     {
        "name":"🦭เดอะมูฟวี่🐒", 
        "image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/animeindy2023.jpg",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/Anime-Indy/anime-indy_themovie_.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Indy/anime-indy_themovie_.w3u",
        "import":"true"
     }
   ]
