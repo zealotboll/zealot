@@ -1,0 +1,603 @@
+{
+  "name": "Movies",
+  "author": "อุ๋ง อุ๋ง",
+  "info": "ไม่มีอะไรเป็นไปไม่ได้ ถ้าคุณมุ่งมั่นและพยายามอย่างหนัก",
+  "image": "https://serieshd24.com/wp-content/uploads/2021/01/Serieshd24_logo.png",
+  "stations": [
+    {
+      "name": "Black Panther: Wakanda Forever (2022)",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/Black-Panther-Wakanda-Forever-Poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/b9fd1408/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/b9fd1408"
+    },
+    {
+      "name": "Black Panther: Wakanda Forever (2022)",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/Black-Panther-Wakanda-Forever-Poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/8f100cdb/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/8f100cdb"
+    },
+    {
+      "name": "Werewolf by Night",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/09/Werewolf-by-Night-Poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/17b2087a/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/17b2087a"
+    },
+    {
+      "name": "Werewolf by Night",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/09/Werewolf-by-Night-Poster.jpg",
+      "url": "https://zplays.xyz/embed/uYgG92L9",
+      "referer": "https://zplays.xyz/embed/uYgG92L9"
+    },
+    {
+      "name": "Werewolf by Night",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/09/Werewolf-by-Night-Poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/f480cc76/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/f480cc76"
+    },
+    {
+      "name": "Top Gun: Maverick (2022) ท็อปกัน ฟ้าเหนือฟ้า 2",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/05/ดูหนังTop-Gun-Maverick-2022-seriehd24.jpg",
+      "url": "https://zplays.xyz/embed/NHPVqt63kjhP7eD/",
+      "referer": "https://zplays.xyz/embed/NHPVqt63kjhP7eD/"
+    },
+    {
+      "name": "Top Gun: Maverick (2022) ท็อปกัน ฟ้าเหนือฟ้า 2",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/05/ดูหนังTop-Gun-Maverick-2022-seriehd24.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/559604fa/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/559604fa"
+    },
+    {
+      "name": "Bullet Train (2022) ระห่ำด่วน ขบวนนักฆ่า",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/08/Bullet-Train-2022-2-poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/637bb093/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/637bb093"
+    },
+    {
+      "name": "Bullet Train (2022) ระห่ำด่วน ขบวนนักฆ่า",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/08/Bullet-Train-2022-2-poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/0237ec63/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/0237ec63"
+    },
+    {
+      "name": "Thirteen Lives (2022) 13 ชีวิต",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/07/ดูหนัง-Thirteen-Lives-2022-13-ชีวิต-ซับไทย-พากย์ไทย-SeriesHD24.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/78f9bf1c/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/78f9bf1c"
+    },
+    {
+      "name": "Thirteen Lives (2022) 13 ชีวิต",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/07/ดูหนัง-Thirteen-Lives-2022-13-ชีวิต-ซับไทย-พากย์ไทย-SeriesHD24.jpg",
+      "url": "https://zplays.xyz/embed/w63cg5pq3tdsvee/",
+      "referer": "https://zplays.xyz/embed/w63cg5pq3tdsvee/"
+    },
+    {
+      "name": "The Long Walk (2019) บ่มีวันจาก",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/08/The-Long-Walk-2019-บ่มีวันจาก.jpg",
+      "url": "https://zplays.xyz/embed/hkld9jzy5gz4yvt/",
+      "referer": "https://zplays.xyz/embed/hkld9jzy5gz4yvt/"
+    },
+    {
+      "name": "The Long Walk (2019) บ่มีวันจาก",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/08/The-Long-Walk-2019-บ่มีวันจาก.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/d2bb5976/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/d2bb5976"
+    },
+    {
+      "name": "Cracked ภาพหวาด (2022)",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/07/Cracked-Poster.jpg",
+      "url": "https://zplays.xyz/embed/f0mscsyhg5utdpw/",
+      "referer": "https://zplays.xyz/embed/f0mscsyhg5utdpw/"
+    },
+    {
+      "name": "Cracked ภาพหวาด (2022)",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/07/Cracked-Poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/97df7cd6/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/97df7cd6"
+    },
+    {
+      "name": "เทอมสองสยองขวัญ",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/06/เทอมสองสยองขวัญ-Poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/69f9f527/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/69f9f527"
+    },
+    {
+      "name": "The Last 10 years (2022) สุดท้ายและตลอดไป",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/05/The-Last-10-years-2022-สุดท้ายและตลอดไป.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/2e8ed6ef/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/2e8ed6ef"
+    },
+    {
+      "name": "365 Days 2 : This Day (2022) 365 วัน ภาค 2",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/04/365-days-this-day.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/a4f112ee/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/a4f112ee"
+    },
+    {
+      "name": "Chip ‘n Dale: Rescue Rangers (2022)",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/04/Chip-n-Dale-Rescue-Rangers-2022-poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/1c04c9f2/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/1c04c9f2"
+    },
+    {
+      "name": "All the Old Knives (2022) ออล เดอะ โอลด์ ไนฟ",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/04/All-the-Old-Knives-2022-poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/296552c1/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/296552c1"
+    },
+    {
+      "name": "The King’s Man (2021) กำเนิดโคตรพยัคฆ์คิงส์แมน",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/12/ดูหนัง-The-Kings-Man-2021-กำเนิดโคตรพยัคฆ์คิงส์แมน-poster.jpg",
+      "url": "https://zplays.xyz/embed/ffdjuzq7k9uf102/",
+      "referer": "https://zplays.xyz/embed/ffdjuzq7k9uf102/"
+    },
+    {
+      "name": "The King’s Man (2021) กำเนิดโคตรพยัคฆ์คิงส์แมน",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/12/ดูหนัง-The-Kings-Man-2021-กำเนิดโคตรพยัคฆ์คิงส์แมน-poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/61d8eebb0b6e1Tau/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/61d8eebb0b6e1Tau"
+    },
+    {
+      "name": "The Texas Chainsaw Massacre 9 (2022) สิงหาสับ",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/02/ดูหนัง-The-Texas-Chainsaw-Massacre-9-2022-สิงหาสับ.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/620f819db35e6hCO/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/620f819db35e6hCO"
+    },
+    {
+      "name": "The Texas Chainsaw Massacre 9 (2022) สิงหาสับ",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/02/ดูหนัง-The-Texas-Chainsaw-Massacre-9-2022-สิงหาสับ.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/620f81af259640sg/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/620f81af259640sg"
+    },
+    {
+      "name": "4 KINGS (2021)",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/4Kings-Poster2.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/911b2e1d/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/911b2e1d"
+    },
+    {
+      "name": "4 KINGS (2021)",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/4Kings-Poster2.jpg",
+      "url": "https://zplays.xyz/embed/FopLPActHoS0lwK/",
+      "referer": "https://zplays.xyz/embed/FopLPActHoS0lwK/"
+    },
+    {
+      "name": "Jackass Forever (2022) แจ็คแอส ฟอร์เอฟเวอร์",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/02/ดูหนัง-Jackass-Forever-2022-แจ็คแอส-ฟอร์เอฟเวอร์.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/620de8b935234W3R/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/620de8b935234W3R"
+    },
+    {
+      "name": "Eiffel (2022) ไอเฟล รักเธอสูงเสียดฟ้า",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/01/Eiffel-Poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/620dd2e1b53f4nsO/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/620dd2e1b53f4nsO"
+    },
+    {
+      "name": "Fireheart (2022)",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/02/ดูหนัง-Fireheart-2022-ไฟย์-เฮิร์ท.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/62146a1fcc6e9yvf/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/62146a1fcc6e9yvf"
+    },
+    {
+      "name": "Love and Leashes (2022) รักจูงรัก",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/02/ดูหนัง-Love-and-Leashes-2022-รักจูงรัก.jpg",
+      "url": "https://zplays.xyz/embed/khp0jpb/",
+      "referer": "https://zplays.xyz/embed/khp0jpb/"
+    },
+    {
+      "name": "Love and Leashes (2022) รักจูงรัก",
+      "info": "Sub 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/02/ดูหนัง-Love-and-Leashes-2022-รักจูงรัก.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/62070bdd0d819KiN/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/62070bdd0d819KiN"
+    },
+    {
+      "name": "The Tinder Swindler (2022) สิบแปดมงกุฎทินเดอร์",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/02/ดูซีรีย์-The-Tinder-Swindler-2022-สิบแปดมงกุฎทินเดอร์.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/61fc9144a3c36EG2/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/61fc9144a3c36EG2"
+    },
+    {
+      "name": "The Tinder Swindler (2022) สิบแปดมงกุฎทินเดอร์",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/02/ดูซีรีย์-The-Tinder-Swindler-2022-สิบแปดมงกุฎทินเดอร์.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/61fc91391c386Jzd/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/61fc91391c386Jzd"
+    },
+    {
+      "name": "Tall Girl 2 (2022) รักยุ่งของสาวโย่ง",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/02/ดูหนัง-Tall-Girl-2-2022-รักยุ่งของสาวโย่ง.jpg",
+      "url": "https://zplays.xyz/embed/b8twyss/",
+      "referer": "https://zplays.xyz/embed/b8twyss/"
+    },
+    {
+      "name": "Tall Girl 2 (2022) รักยุ่งของสาวโย่ง",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/02/ดูหนัง-Tall-Girl-2-2022-รักยุ่งของสาวโย่ง.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/62070c94e29c66Fv/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/62070c94e29c66Fv"
+    },
+    {
+      "name": "A Man and A Woman (2016) จูบนั้นฉันจำไม่ลืม",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/01/ดูหนัง-A-Man-and-A-Woman-2016-จูบนั้นฉันจำไม่ลืม.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/61ee4d6dd4a84274/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/61ee4d6dd4a84274"
+    },
+    {
+      "name": "Eternals ฮีโร่พลังเทพเจ้า",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/11/Eternals-Poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/61e771af8b7375sz/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/61e771af8b7375sz"
+    },
+    {
+      "name": "Eternals ฮีโร่พลังเทพเจ้า",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/11/Eternals-Poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/61df818de83d9bDU/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/61df818de83d9bDU"
+    },
+    {
+      "name": "Spider-Man: No Way Home (2021) สไปเดอร์แมน: โน เวย์ โฮม",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/11/ดูหนัง-Spider-Man-No-Way-Home.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/6236c737041beJak/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/6236c737041beJak"
+    },
+    {
+      "name": "No Time to Die (007) พยัคฆ์ร้ายฝ่าเวลามรณะ",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/01/No-Time-to-Die-Poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/61db9d78efbe1Szm/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/61db9d78efbe1Szm"
+    },
+    {
+      "name": "No Time to Die (007) พยัคฆ์ร้ายฝ่าเวลามรณะ",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/01/No-Time-to-Die-Poster.jpg",
+      "url": "https://zplays.xyz/embed/8zmk31h/",
+      "referer": "https://zplays.xyz/embed/8zmk31h/"
+    },
+    {
+      "name": "No Time to Die (007) พยัคฆ์ร้ายฝ่าเวลามรณะ",
+      "info": "Sub 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/01/No-Time-to-Die-Poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/6195ad2348e7ebid/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/6195ad2348e7ebid"
+    },
+    {
+      "name": "No Time to Die (007) พยัคฆ์ร้ายฝ่าเวลามรณะ",
+      "info": "Sub 3",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/01/No-Time-to-Die-Poster.jpg",
+      "url": "https://van.mvx-master5.work/PlayList/ac53eb60b00b4b8e36b63e1888f9444f/master.m3u8",
+      "referer": "https://van.mvx-master5.work/embed/ac53eb60b00b4b8e36b63e1888f9444f"
+    },
+    {
+      "name": "Antlers (2021) แอนท์เลอร์ส",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/12/Antlers-2021-แอนท์เลอร์ส.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/61ea85c8d4f93Mw4/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/61ea85c8d4f93Mw4"
+    },
+    {
+      "name": "Antlers (2021) แอนท์เลอร์ส",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/12/Antlers-2021-แอนท์เลอร์ส.jpg",
+      "url": "https://van.mvx-master5.work/PlayList/90002abec1a97dd177effe3e205d7090/master.m3u8",
+      "referer": "https://van.mvx-master5.work/embed/90002abec1a97dd177effe3e205d7090"
+    },
+    {
+      "name": "Antlers (2021) แอนท์เลอร์ส",
+      "info": "Sub 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/12/Antlers-2021-แอนท์เลอร์ส.jpg",
+      "url": "https://zplays.xyz/embed/wbr8hix/",
+      "referer": "https://zplays.xyz/embed/wbr8hix/"
+    },
+    {
+      "name": "Antlers (2021) แอนท์เลอร์ส",
+      "info": "Sub 3",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/12/Antlers-2021-แอนท์เลอร์ส.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/61b973380947e3YI/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/61b973380947e3YI"
+    },
+    {
+      "name": "The Matrix Resurrections (2021) เดอะ เมทริกซ์ เรเซอเร็คชั่นส์",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/12/ดูหนัง-The-Matrix-Resurrections-2021-เดอะ-เมทริกซ์-เรเซอเร็คชั่นส์-poster.jpg",
+      "url": "https://zplays.xyz/embed/szocue4/",
+      "referer": "https://zplays.xyz/embed/szocue4/"
+    },
+    {
+      "name": "The Matrix Resurrections (2021) เดอะ เมทริกซ์ เรเซอเร็คชั่นส์",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/12/ดูหนัง-The-Matrix-Resurrections-2021-เดอะ-เมทริกซ์-เรเซอเร็คชั่นส์-poster.jpg",
+      "url": "https://zplays.xyz/embed/4ittwz6/",
+      "referer": "https://zplays.xyz/embed/4ittwz6/"
+    },
+    {
+      "name": "The Unforgivable (2021) ตราบาป",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/12/ดูหนัง-The-Unforgivable-2021-ตราบาป.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/61b41476ba04aMKu/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/61b41476ba04aMKu"
+    },
+    {
+      "name": "The Unforgivable (2021) ตราบาป",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/12/ดูหนัง-The-Unforgivable-2021-ตราบาป.jpg",
+      "url": "https://van.mvx-master5.work/PlayList/06ba51ce1e4d87682a9a82afdffbe006/master.m3u8",
+      "referer": "https://van.mvx-master5.work/embed/06ba51ce1e4d87682a9a82afdffbe006"
+    },
+    {
+      "name": "The Unforgivable (2021) ตราบาป",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/12/ดูหนัง-The-Unforgivable-2021-ตราบาป.jpg",
+      "url": "https://van.mvx-master5.work/PlayList/f3213ece10c0a6b1637193a5fc95d1e9/master.m3u8",
+      "referer": "https://van.mvx-master5.work/embed/f3213ece10c0a6b1637193a5fc95d1e9"
+    },
+    {
+      "name": "The Unforgivable (2021) ตราบาป",
+      "info": "Sub 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/12/ดูหนัง-The-Unforgivable-2021-ตราบาป.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/61b420b00fff87HC/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/61b420b00fff87HC"
+    },
+    {
+      "name": "The Whole Truth ปริศนารูหลอน",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/11/The-Whole-Truth-Poster-Serieshd24.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/61a8aacb909df7S0/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/61a8aacb909df7S0"
+    },
+    {
+      "name": "The Whole Truth ปริศนารูหลอน",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/11/The-Whole-Truth-Poster-Serieshd24.jpg",
+      "url": "https://van.mvx-master5.work/PlayList/2c5b4a0fae202c90ce288389f56d01d1/master.m3u8",
+      "referer": "https://van.mvx-master5.work/embed/2c5b4a0fae202c90ce288389f56d01d1"
+    },
+    {
+      "name": "Last Night in Soho (2021) ฝัน-หลอน-ที่โซโห",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/11/ดูหนัง-Last-Night-in-Soho-2021-ฝัน-หลอน-ที่โซโห.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/61eb600e18e0bh7i/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/61eb600e18e0bh7i"
+    },
+    {
+      "name": "Resident Evil: Welcome to Raccoon City (2021) ผีชีวะ: ปฐมบทแห่งเมืองผีดิบ",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/11/ดูหนัง-Resident-Evil-Welcome-to-Raccoon-City-2021-ผีชีวะ-ปฐมบทแห่งเมืองผีดิบ.jpg",
+      "url": "https://van.mvx-master5.work/PlayList/8539646771213e5316e382655abb6932/master.m3u8",
+      "referer": "https://van.mvx-master5.work/embed/8539646771213e5316e382655abb6932"
+    },
+    {
+      "name": "Resident Evil: Welcome to Raccoon City (2021) ผีชีวะ: ปฐมบทแห่งเมืองผีดิบ",
+      "info": "Sub 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/11/ดูหนัง-Resident-Evil-Welcome-to-Raccoon-City-2021-ผีชีวะ-ปฐมบทแห่งเมืองผีดิบ.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/61c433f3b20651kb/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/61c433f3b20651kb"
+    },
+    {
+      "name": "Resident Evil: Welcome to Raccoon City (2021) ผีชีวะ: ปฐมบทแห่งเมืองผีดิบ",
+      "info": "Sub 3",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/11/ดูหนัง-Resident-Evil-Welcome-to-Raccoon-City-2021-ผีชีวะ-ปฐมบทแห่งเมืองผีดิบ.jpg",
+      "url": "https://zplays.xyz/embed/z4ty990/",
+      "referer": "https://zplays.xyz/embed/z4ty990/"
+    },
+    {
+      "name": "Shang-Chi and the Legend of the Ten Rings",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/09/Shang-Chi-and-the-Legend-of-the-Ten-Rings-HD.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/619dbc98cafe5efS/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/619dbc98cafe5efS"
+    },
+    {
+      "name": "Shang-Chi and the Legend of the Ten Rings",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/09/Shang-Chi-and-the-Legend-of-the-Ten-Rings-HD.jpg",
+      "url": "https://van.mvx-master5.work/PlayList/dbd4e1244aca1b46bff2d44e3dcd525a/master.m3u8",
+      "referer": "https://van.mvx-master5.work/embed/dbd4e1244aca1b46bff2d44e3dcd525a"
+    },
+    {
+      "name": "Shang-Chi and the Legend of the Ten Rings",
+      "info": "Thai 3",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/09/Shang-Chi-and-the-Legend-of-the-Ten-Rings-HD.jpg",
+      "url": "https://zplays.xyz/embed/tmb2k5p/",
+      "referer": "https://zplays.xyz/embed/tmb2k5p/"
+    },
+    {
+      "name": "Shang-Chi and the Legend of the Ten Rings",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/09/Shang-Chi-and-the-Legend-of-the-Ten-Rings-HD.jpg",
+      "url": "https://van.mvx-master5.work/PlayList/76235351a98ae74d70119c538d9942be/master.m3u8",
+      "referer": "https://van.mvx-master5.work/embed/76235351a98ae74d70119c538d9942be"
+    },
+    {
+      "name": "Shang-Chi and the Legend of the Ten Rings",
+      "info": "Sub 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/09/Shang-Chi-and-the-Legend-of-the-Ten-Rings-HD.jpg",
+      "url": "https://zplays.xyz/embed/k5p5eg9/",
+      "referer": "https://zplays.xyz/embed/k5p5eg9/"
+    },
+    {
+      "name": "Shang-Chi and the Legend of the Ten Rings",
+      "info": "Sub 3",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/09/Shang-Chi-and-the-Legend-of-the-Ten-Rings-HD.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/618cb65333d5auHa/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/618cb65333d5auHa"
+    },
+    {
+      "name": "Finch",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/11/Finch-Poster.jpg",
+      "url": "https://zplays.xyz/embed/sabc7dg/",
+      "referer": "https://zplays.xyz/embed/sabc7dg/"
+    },
+    {
+      "name": "Finch",
+      "info": "Sub 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/11/Finch-Poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/6186308661e9dcmH/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/6186308661e9dcmH"
+    },
+    {
+      "name": "Finch",
+      "info": "Sub 3",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/11/Finch-Poster.jpg",
+      "url": "https://van.mvx-master5.work/PlayList/0eac4db064d9487f9c0df3e8bbe008c7/master.m3u8",
+      "referer": "https://van.mvx-master5.work/embed/0eac4db064d9487f9c0df3e8bbe008c7"
+    },
+    {
+      "name": "The Power of the Dog (2021) เดอะ พาวเวอร์ ออฟ เดอะ ด็อก",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/11/ดูหนัง-The-power-of-the-dog.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/6195ea3a272bfdSc/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/6195ea3a272bfdSc"
+    },
+    {
+      "name": "Fast & Furious 9 เร็ว แรงทะลุนรก 9",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/F9-Poster.jpg",
+      "url": "https://van.mvx-master5.work/PlayList/f40f3c740ba4b80cef575ec413c3b3e5/master.m3u8",
+      "referer": "https://van.mvx-master5.work/embed/f40f3c740ba4b80cef575ec413c3b3e5"
+    },
+    {
+      "name": "Fast & Furious 9 เร็ว แรงทะลุนรก 9",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/F9-Poster.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/61785124442955Za/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/61785124442955Za"
+    },
+    {
+      "name": "Fast & Furious 9 เร็ว แรงทะลุนรก 9",
+      "info": "Thai 3",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/F9-Poster.jpg",
+      "url": "https://zplays.xyz/embed/3qy3loq/",
+      "referer": "https://zplays.xyz/embed/3qy3loq/"
+    },
+    {
+      "name": "Fast & Furious 9 เร็ว แรงทะลุนรก 9",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/F9-Poster.jpg",
+      "url": "https://van.mvx-master5.work/PlayList/b6073d5fbed71190fefe30fc112e923b/master.m3u8",
+      "referer": "https://van.mvx-master5.work/embed/b6073d5fbed71190fefe30fc112e923b"
+    },
+    {
+      "name": "Dune (2021) ดูน",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/Dune-Poster-Seireshd24.jpg",
+      "url": "https://van.mvx-master5.work/PlayList/c28dedb3a1b64d8a3b223fa2af103817/master.m3u8",
+      "referer": "https://van.mvx-master5.work/embed/c28dedb3a1b64d8a3b223fa2af103817"
+    },
+    {
+      "name": "Dune (2021) ดูน",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/Dune-Poster-Seireshd24.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/61bd60ac08d50pIM/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/61bd60ac08d50pIM"
+    },
+    {
+      "name": "Dune (2021) ดูน",
+      "info": "Thai 3",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/Dune-Poster-Seireshd24.jpg",
+      "url": "https://zplays.xyz/embed/qlxx39w/",
+      "referer": "https://zplays.xyz/embed/qlxx39w/"
+    },
+    {
+      "name": "Dune (2021) ดูน",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/Dune-Poster-Seireshd24.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/6196679aa4cc8KQu/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/6196679aa4cc8KQu"
+    },
+    {
+      "name": "Dune (2021) ดูน",
+      "info": "Sub 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/Dune-Poster-Seireshd24.jpg",
+      "url": "https://van.mvx-master5.work/PlayList/2e90208848e86c8ad8c46f419f16d6c4/master.m3u8",
+      "referer": "https://van.mvx-master5.work/embed/2e90208848e86c8ad8c46f419f16d6c4"
+    },
+    {
+      "name": "There’s Someone Inside Your House (2021) ใครอยู่ในบ้าน",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/Theres-Someone-Inside-Your-House-2021-ใครอยู่ในบ้าน.jpg",
+      "url": "https://van.mvx-master5.work/PlayList/e6f134cb20946693a32e3e80409eb6ef/master.m3u8",
+      "referer": "https://van.mvx-master5.work/embed/e6f134cb20946693a32e3e80409eb6ef"
+    },
+    {
+      "name": "There’s Someone Inside Your House (2021) ใครอยู่ในบ้าน",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/Theres-Someone-Inside-Your-House-2021-ใครอยู่ในบ้าน.jpg",
+      "url": "https://zplays.xyz/embed/lnvl76x/",
+      "referer": "https://zplays.xyz/embed/lnvl76x/"
+    },
+    {
+      "name": "There’s Someone Inside Your House (2021) ใครอยู่ในบ้าน",
+      "info": "Thai 3",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/Theres-Someone-Inside-Your-House-2021-ใครอยู่ในบ้าน.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/6178510b34977hno/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/6178510b34977hno"
+    },
+    {
+      "name": "There’s Someone Inside Your House (2021) ใครอยู่ในบ้าน",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/Theres-Someone-Inside-Your-House-2021-ใครอยู่ในบ้าน.jpg",
+      "url": "https://zplays.xyz/embed/padl9tj/",
+      "referer": "https://zplays.xyz/embed/padl9tj/"
+    },
+    {
+      "name": "There’s Someone Inside Your House (2021) ใครอยู่ในบ้าน",
+      "info": "Sub 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/Theres-Someone-Inside-Your-House-2021-ใครอยู่ในบ้าน.jpg",
+      "url": "https://van.mvx-master5.work/PlayList/7feb2d36e35f47ada487418d4599191d/master.m3u8",
+      "referer": "https://van.mvx-master5.work/embed/7feb2d36e35f47ada487418d4599191d"
+    },
+    {
+      "name": "There’s Someone Inside Your House (2021) ใครอยู่ในบ้าน",
+      "info": "Sub 3",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/10/Theres-Someone-Inside-Your-House-2021-ใครอยู่ในบ้าน.jpg",
+      "url": "https://lb.mvx-master5.work/playlist2/6178510b2fef3GEg/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/6178510b2fef3GEg"
+    },
+    {
+      "name": "Sweet & Sour รักหวานอมเปรี้ยว (2021)",
+      "info": "Sub 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2021/06/Sweet-Sour-Poster.jpg",
+      "url": "https://van.mvx-master5.work/PlayList/7d7cd67283cc4dacbbeeb939c272c2db/master.m3u8",
+      "referer": "https://van.mvx-master5.work/embed/7d7cd67283cc4dacbbeeb939c272c2db"
+    }
+  ]
+}

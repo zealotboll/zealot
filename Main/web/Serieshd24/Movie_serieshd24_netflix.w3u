@@ -1,0 +1,988 @@
+{
+  "name": "Netflix",
+  "author": "อุ๋ง อุ๋ง",
+  "info": "@สลัดไง",
+  "image": "https://serieshd24.com/wp-content/uploads/2021/01/Serieshd24_logo.png",
+  "stations": [
+    {
+      "name": "Kill Boksoon (2023) คิลบกซุน",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/04/AnyConv.com__Kill-Boksoon-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/6b482703/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/6b482703"
+    },
+    {
+      "name": "Kill Boksoon (2023) คิลบกซุน",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/04/AnyConv.com__Kill-Boksoon-2023.webp",
+      "url": "https://zplays.xyz/embed/u3rlreug4z/",
+      "referer": "https://zplays.xyz/embed/u3rlreug4z/"
+    },
+    {
+      "name": "Kill Boksoon (2023) คิลบกซุน",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/04/AnyConv.com__Kill-Boksoon-2023.webp",
+      "url": "https://zplays.xyz/embed/l9qfjn7xpi/",
+      "referer": "https://zplays.xyz/embed/l9qfjn7xpi/"
+    },
+    {
+      "name": "Kill Boksoon (2023) คิลบกซุน",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/04/AnyConv.com__Kill-Boksoon-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/6b67a316/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/6b67a316"
+    },
+    {
+      "name": "Big Mäck: อันธพาลกับทอง (2023)",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Big-Mack-Gangsters-and-Gold-2023.webp",
+      "url": "https://zplays.xyz/embed/4x3q6kvdnf/",
+      "referer": "https://zplays.xyz/embed/4x3q6kvdnf/"
+    },
+    {
+      "name": "Big Mäck: อันธพาลกับทอง (2023)",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Big-Mack-Gangsters-and-Gold-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/5a161728/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/5a161728"
+    },
+    {
+      "name": "Murder Mystery 2 (2023)",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Murder-Mystery-2-2023.webp",
+      "url": "https://zplays.xyz/embed/q96hiep3i5/",
+      "referer": "https://zplays.xyz/embed/q96hiep3i5/"
+    },
+    {
+      "name": "Murder Mystery 2 (2023)",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Murder-Mystery-2-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/f729b412/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/f729b412"
+    },
+    {
+      "name": "Are We There Yet? (2005) อยากสยบเด็กป่วน…ต้องอ่วมตลอดทาง",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Are-We-There-Yet-2005.webp",
+      "url": "https://zplays.xyz/embed/f3bu05lqw5/",
+      "referer": "https://zplays.xyz/embed/f3bu05lqw5/"
+    },
+    {
+      "name": "Are We There Yet? (2005) อยากสยบเด็กป่วน…ต้องอ่วมตลอดทาง",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Are-We-There-Yet-2005.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/3119af6a/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/3119af6a"
+    },
+    {
+      "name": "Case 39 (2009) เคส 39 คดีสยองขวัญหลอนจากนรก",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Case-39-2009.webp",
+      "url": "https://zplays.xyz/embed/r4oc6476rw/",
+      "referer": "https://zplays.xyz/embed/r4oc6476rw/"
+    },
+    {
+      "name": "Case 39 (2009) เคส 39 คดีสยองขวัญหลอนจากนรก",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Case-39-2009.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/7a68e07a/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/7a68e07a"
+    },
+    {
+      "name": "Case 39 (2009) เคส 39 คดีสยองขวัญหลอนจากนรก",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Case-39-2009.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/622dd0b6/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/622dd0b6"
+    },
+    {
+      "name": "Case 39 (2009) เคส 39 คดีสยองขวัญหลอนจากนรก",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Case-39-2009.webp",
+      "url": "https://zplays.xyz/embed/dp941ih819/",
+      "referer": "https://zplays.xyz/embed/dp941ih819/"
+    },
+    {
+      "name": "Act of Valor (2012) หน่วยพิฆาต ระห่ำกู้โลก",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Act-of-Valor-2012.webp",
+      "url": "https://zplays.xyz/embed/jxy52sog4h/",
+      "referer": "https://zplays.xyz/embed/jxy52sog4h/"
+    },
+    {
+      "name": "Act of Valor (2012) หน่วยพิฆาต ระห่ำกู้โลก",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Act-of-Valor-2012.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/c9e906e8/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/c9e906e8"
+    },
+    {
+      "name": "Act of Valor (2012) หน่วยพิฆาต ระห่ำกู้โลก",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Act-of-Valor-2012.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/f72e1c80/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/f72e1c80"
+    },
+    {
+      "name": "Act of Valor (2012) หน่วยพิฆาต ระห่ำกู้โลก",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Act-of-Valor-2012.webp",
+      "url": "https://zplays.xyz/embed/h39iuqxavh/",
+      "referer": "https://zplays.xyz/embed/h39iuqxavh/"
+    },
+    {
+      "name": "Stand up Comedy (2022) หมู่ 2",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Stand-up-Comedy-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/eba5623a/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/eba5623a"
+    },
+    {
+      "name": "Stand up Comedy (2022) หมู่ 2",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Stand-up-Comedy-2022.webp",
+      "url": "https://zplays.xyz/embed/9nyxd5xa4b/",
+      "referer": "https://zplays.xyz/embed/9nyxd5xa4b/"
+    },
+    {
+      "name": "An Unfinished Life (2005) รอวันให้หัวใจไม่ท้อ",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__An-Unfinished-Life-2005.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/784a6039/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/784a6039"
+    },
+    {
+      "name": "An Unfinished Life (2005) รอวันให้หัวใจไม่ท้อ",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__An-Unfinished-Life-2005.webp",
+      "url": "https://zplays.xyz/embed/idns9nk546/",
+      "referer": "https://zplays.xyz/embed/idns9nk546/"
+    },
+    {
+      "name": "Johnny (2023) จอห์นนี่",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Johnny-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/cf91cea1/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/cf91cea1"
+    },
+    {
+      "name": "Johnny (2023) จอห์นนี่",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Johnny-2023.webp",
+      "url": "https://zplays.xyz/embed/1vt1ztv3n9/",
+      "referer": "https://zplays.xyz/embed/1vt1ztv3n9/"
+    },
+    {
+      "name": "Chor Nikal Ke Bhaga (2023) ปล้นกลางอากาศ",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Chor-Nikal-Ke-Bhaga-2023.webp",
+      "url": "https://zplays.xyz/embed/mh32j0885s/",
+      "referer": "https://zplays.xyz/embed/mh32j0885s/"
+    },
+    {
+      "name": "Chor Nikal Ke Bhaga (2023) ปล้นกลางอากาศ",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Chor-Nikal-Ke-Bhaga-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/06bd9474/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/06bd9474"
+    },
+    {
+      "name": "Kuttey (2023)",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Kuttey-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/67a4bc05/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/67a4bc05"
+    },
+    {
+      "name": "Who Are You People (2023)",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Who-Are-You-People-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/88403135/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/88403135"
+    },
+    {
+      "name": "Pornhub: เว็บโป๊พันล้าน (2023)",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Pornhub-Porn-Billion-Sites-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/97c803d7/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/97c803d7"
+    },
+    {
+      "name": "Have a Nice Day! (2023)",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Have-a-Nice-Day-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/0edf549a/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/0edf549a"
+    },
+    {
+      "name": "Luther: The Fallen Sun (2023) ลูเธอร์: อาทิตย์ตกดิน",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Luther-The-Fallen-Sun-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/f7906872/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/f7906872"
+    },
+    {
+      "name": "Call Me Chihiro (2023) ฉันชื่อจิฮิโระ",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/Call-Me-Chihiro-2023.webp",
+      "url": "https://zplays.xyz/embed/tZQBi3AECoSpng0/",
+      "referer": "https://zplays.xyz/embed/tZQBi3AECoSpng0/"
+    },
+    {
+      "name": "Call Me Chihiro (2023) ฉันชื่อจิฮิโระ",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/Call-Me-Chihiro-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/58f312f8/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/58f312f8"
+    },
+    {
+      "name": "Call Me Chihiro (2023) ฉันชื่อจิฮิโระ",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/Call-Me-Chihiro-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/0e04729e/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/0e04729e"
+    },
+    {
+      "name": "Re/Member (2022) ตามล่าศพสยอง",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__Re-Member-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/1ad05c08/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/1ad05c08"
+    },
+    {
+      "name": "Re/Member (2022) ตามล่าศพสยอง",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__Re-Member-2022.webp",
+      "url": "https://zplays.xyz/embed/jqUawBd0we8wZjZ/",
+      "referer": "https://zplays.xyz/embed/jqUawBd0we8wZjZ/"
+    },
+    {
+      "name": "Re/Member (2022) ตามล่าศพสยอง",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__Re-Member-2022.webp",
+      "url": "https://zplays.xyz/embed/GqKWLJLPPtSZUoB/",
+      "referer": "https://zplays.xyz/embed/GqKWLJLPPtSZUoB/"
+    },
+    {
+      "name": "Re/Member (2022) ตามล่าศพสยอง",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__Re-Member-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/3fa8ca40/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/3fa8ca40"
+    },
+    {
+      "name": "Squared Love All Over Again (2023) ความรักกำลังสอง(อีกแล้ว)",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__Squared-Love-All-Over-Again-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/80964a5d/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/80964a5d"
+    },
+    {
+      "name": "Squared Love All Over Again (2023) ความรักกำลังสอง(อีกแล้ว)",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__Squared-Love-All-Over-Again-2023.webp",
+      "url": "https://zplays.xyz/embed/Ia271hRXYuDVVx9/",
+      "referer": "https://zplays.xyz/embed/Ia271hRXYuDVVx9/"
+    },
+    {
+      "name": "The Nomad (2023)",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__The-Nomad-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/cea12ad4/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/cea12ad4"
+    },
+    {
+      "name": "The Nomad (2023)",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__The-Nomad-2023.webp",
+      "url": "https://zplays.xyz/embed/4qQPP9MJF6faFXb/",
+      "referer": "https://zplays.xyz/embed/4qQPP9MJF6faFXb/"
+    },
+    {
+      "name": "Your Place or Mine (2023)",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__Your-Place-or-Mine-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/220f5543/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/220f5543"
+    },
+    {
+      "name": "Your Place or Mine (2023)",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__Your-Place-or-Mine-2023.webp",
+      "url": "https://zplays.xyz/embed/VuMLXoh1m2mJmqX/",
+      "referer": "https://zplays.xyz/embed/VuMLXoh1m2mJmqX/"
+    },
+    {
+      "name": "Carnifex (2022)",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__Carnifex-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/ac01f53b/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/ac01f53b"
+    },
+    {
+      "name": "Stromboli (2022) สตรอมโบลี",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__Stromboli-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/d5784311/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/d5784311"
+    },
+    {
+      "name": "Viking Wolf (2022) หมาป่าไวกิ้ง",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__Viking-Wolf-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/eb9ae711/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/eb9ae711"
+    },
+    {
+      "name": "Night of the Bastard (2022)",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__Night-of-the-Bastard-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/f010d900/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/f010d900"
+    },
+    {
+      "name": "Infiesto (2023) อินฟิสโต เมืองอันตราย",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__Infiesto-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/3891150d/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/3891150d"
+    },
+    {
+      "name": "A Whigker Awway (2020) เหมียวน้อยคอยรัก",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__A-Whigker-Awway-2020.webp",
+      "url": "https://zplays.xyz/embed/lD175hOJRwvJn5Q/",
+      "referer": "https://zplays.xyz/embed/lD175hOJRwvJn5Q/"
+    },
+    {
+      "name": "A Whigker Awway (2020) เหมียวน้อยคอยรัก",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__A-Whigker-Awway-2020.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/713a551b/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/713a551b"
+    },
+    {
+      "name": "Pamela A Love Story (2023) ความรักของพาเมล่า",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__Pamela-A-Love-Story-2023.webp",
+      "url": "https://zplays.xyz/embed/XfAEHGp0wVfNquC/",
+      "referer": "https://zplays.xyz/embed/XfAEHGp0wVfNquC/"
+    },
+    {
+      "name": "Pamela A Love Story (2023) ความรักของพาเมล่า",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/02/AnyConv.com__Pamela-A-Love-Story-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/dde688df/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/dde688df"
+    },
+    {
+      "name": "Raangi (2022) เหยื่อ",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/01/AnyConv.com__Raangi-2022.webp",
+      "url": "https://zplays.xyz/embed/1pdFsHrzk6tb05d/",
+      "referer": "https://zplays.xyz/embed/1pdFsHrzk6tb05d/"
+    },
+    {
+      "name": "Raangi (2022) เหยื่อ",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/01/AnyConv.com__Raangi-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/50aaa471/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/50aaa471"
+    },
+    {
+      "name": "The Post-Truth World (2022) โลกหลังความจริง",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/01/AnyConv.com__The-Post-Truth-World-2022.webp",
+      "url": "https://zplays.xyz/embed/CelFJqWj3bNrlOG/",
+      "referer": "https://zplays.xyz/embed/CelFJqWj3bNrlOG/"
+    },
+    {
+      "name": "The Post-Truth World (2022) โลกหลังความจริง",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/01/AnyConv.com__The-Post-Truth-World-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/66e72783/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/66e72783"
+    },
+    {
+      "name": "Dog Gone (2023) หมาหลง",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/01/AnyConv.com__Dog-Gone-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/901103d2/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/901103d2"
+    },
+    {
+      "name": "Dog Gone (2023) หมาหลง",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/01/AnyConv.com__Dog-Gone-2023.webp",
+      "url": "https://zplays.xyz/embed/9BaKjXk6VXFj8z5/",
+      "referer": "https://zplays.xyz/embed/9BaKjXk6VXFj8z5/"
+    },
+    {
+      "name": "How I Fell in Love with a Gangster (2022)",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/01/How-I-Fell-in-Love-with-a-Gangster-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/6ab1550a/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/6ab1550a"
+    },
+    {
+      "name": "How I Fell in Love with a Gangster (2022)",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/01/How-I-Fell-in-Love-with-a-Gangster-2022.webp",
+      "url": "https://zplays.xyz/embed/EcC3rCkZgMGCazN/",
+      "referer": "https://zplays.xyz/embed/EcC3rCkZgMGCazN/"
+    },
+    {
+      "name": "The Pale Blue Eye (2022) เดอะ เพล บลู อาย",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/01/The-Pale-Blue-Eye-2022.webp",
+      "url": "https://zplays.xyz/embed/nHNCE86KJ62FUr7/",
+      "referer": "https://zplays.xyz/embed/nHNCE86KJ62FUr7/"
+    },
+    {
+      "name": "The Pale Blue Eye (2022) เดอะ เพล บลู อาย",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/01/The-Pale-Blue-Eye-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/5d75edf2/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/5d75edf2"
+    },
+    {
+      "name": "The Pale Blue Eye (2022) เดอะ เพล บลู อาย",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/01/The-Pale-Blue-Eye-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/262478bf/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/262478bf"
+    },
+    {
+      "name": "The Pale Blue Eye (2022) เดอะ เพล บลู อาย",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/01/The-Pale-Blue-Eye-2022.webp",
+      "url": "https://zplays.xyz/embed/Fow5mK3t7V7x9QC/",
+      "referer": "https://zplays.xyz/embed/Fow5mK3t7V7x9QC/"
+    },
+    {
+      "name": "Glass Onion: A Knives Out Mystery (2022) ฆาตกรรมหรรษา ใครฆ่าเพื่อน",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Glass-Onion-A-Knives-Out-Mystery-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/fd4e196a/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/fd4e196a"
+    },
+    {
+      "name": "Glass Onion: A Knives Out Mystery (2022) ฆาตกรรมหรรษา ใครฆ่าเพื่อน",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Glass-Onion-A-Knives-Out-Mystery-2022.webp",
+      "url": "https://zplays.xyz/embed/Yq1WXA172mxMtmG/",
+      "referer": "https://zplays.xyz/embed/Yq1WXA172mxMtmG/"
+    },
+    {
+      "name": "Glass Onion: A Knives Out Mystery (2022) ฆาตกรรมหรรษา ใครฆ่าเพื่อน",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Glass-Onion-A-Knives-Out-Mystery-2022.webp",
+      "url": "https://zplays.xyz/embed/ltuMuUJF5xO3FhM/",
+      "referer": "https://zplays.xyz/embed/ltuMuUJF5xO3FhM/"
+    },
+    {
+      "name": "Glass Onion: A Knives Out Mystery (2022) ฆาตกรรมหรรษา ใครฆ่าเพื่อน",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Glass-Onion-A-Knives-Out-Mystery-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/eeef9269/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/eeef9269"
+    },
+    {
+      "name": "VIOLENT NIGHT (2022) คืนเดือด",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__VIOLENT-NIGHT-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/3df2b775/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/3df2b775"
+    },
+    {
+      "name": "VIOLENT NIGHT (2022) คืนเดือด",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__VIOLENT-NIGHT-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/af4697c7/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/af4697c7"
+    },
+    {
+      "name": "A Not So Merry Christmas (2022) คริสต์มาสไม่หรรษา",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/A-Not-So-Merry-Christmas-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/8ba10685/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/8ba10685"
+    },
+    {
+      "name": "A Not So Merry Christmas (2022) คริสต์มาสไม่หรรษา",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/A-Not-So-Merry-Christmas-2022.webp",
+      "url": "https://zplays.xyz/embed/dumrvp1ixQPWBdh/",
+      "referer": "https://zplays.xyz/embed/dumrvp1ixQPWBdh/"
+    },
+    {
+      "name": "BARDO (2022) บันทึกผิดๆ ของความจริงแค่หยิบมือ",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/BARDO-2022.webp",
+      "url": "https://zplays.xyz/embed/FYalVfFUgB0wDLW/",
+      "referer": "https://zplays.xyz/embed/FYalVfFUgB0wDLW/"
+    },
+    {
+      "name": "BARDO (2022) บันทึกผิดๆ ของความจริงแค่หยิบมือ",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/BARDO-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/1b99610d/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/1b99610d"
+    },
+    {
+      "name": "HELL DOGS (2022) ในบ้านไม้ไผ่",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/HELL-DOGS-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/17c8a6fd/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/17c8a6fd"
+    },
+    {
+      "name": "Who Killed Santa? (2022) เมืองฆาตกรรม: ใครฆ่าซานต้า",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Who-Killed-Santa-2022-.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/0d1abfe1/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/0d1abfe1"
+    },
+    {
+      "name": "The Big 4 (2022)",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__The-Big-4-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/5dedf2f9/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/5dedf2f9"
+    },
+    {
+      "name": "The Big 4 (2022)",
+      "info": "Thai 3",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__The-Big-4-2022.webp",
+      "url": "https://zplays.xyz/embed/JTw4uHtZVShn4WD/",
+      "referer": "https://zplays.xyz/embed/JTw4uHtZVShn4WD/"
+    },
+    {
+      "name": "The Big 4 (2022)",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__The-Big-4-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/4e4ea0e7/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/4e4ea0e7"
+    },
+    {
+      "name": "The Big 4 (2022)",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__The-Big-4-2022.webp",
+      "url": "https://zplays.xyz/embed/kt8VutFzedw4Ete/",
+      "referer": "https://zplays.xyz/embed/kt8VutFzedw4Ete/"
+    },
+    {
+      "name": "Guillermo del Toro’s Pinocchio (2022)",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Guillermo-del-Toros-Pinocchio-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/b7e4b2ab/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/b7e4b2ab"
+    },
+    {
+      "name": "Guillermo del Toro’s Pinocchio (2022)",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Guillermo-del-Toros-Pinocchio-2022.webp",
+      "url": "https://zplays.xyz/embed/8GKDnIHGLpRv1jD/",
+      "referer": "https://zplays.xyz/embed/8GKDnIHGLpRv1jD/"
+    },
+    {
+      "name": "Warriors of Future (2022) นักรบแห่งอนาคต",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Warriors-of-Future-2022.webp",
+      "url": "https://zplays.xyz/embed/yvKTYqtp9dL05wb",
+      "referer": "https://zplays.xyz/embed/yvKTYqtp9dL05wb"
+    },
+    {
+      "name": "Warriors of Future (2022) นักรบแห่งอนาคต",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Warriors-of-Future-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/797d6848/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/797d6848"
+    },
+    {
+      "name": "The Masked Scammer (2022) หน้ากากนักต้มตุ๋น",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__The-Masked-Scammer-2022.webp",
+      "url": "https://zplays.xyz/embed/isJ22xpLgE4WjA7",
+      "referer": "https://zplays.xyz/embed/isJ22xpLgE4WjA7"
+    },
+    {
+      "name": "The Masked Scammer (2022) หน้ากากนักต้มตุ๋น",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__The-Masked-Scammer-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/2dccc702/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/2dccc702"
+    },
+    {
+      "name": "Scrooge: A Christmas Carol (2022)",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Scrooge-A-Christmas-Carol-2022.webp",
+      "url": "https://zplays.xyz/embed/WHfuMsKHgKeb9wV",
+      "referer": "https://zplays.xyz/embed/WHfuMsKHgKeb9wV"
+    },
+    {
+      "name": "Scrooge: A Christmas Carol (2022)",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Scrooge-A-Christmas-Carol-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/72085186/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/72085186"
+    },
+    {
+      "name": "Scrooge: A Christmas Carol (2022)",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Scrooge-A-Christmas-Carol-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/5095c6a4/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/5095c6a4"
+    },
+    {
+      "name": "Scrooge: A Christmas Carol (2022)",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Scrooge-A-Christmas-Carol-2022.webp",
+      "url": "https://zplays.xyz/embed/t11lAOBWkO1BEqL",
+      "referer": "https://zplays.xyz/embed/t11lAOBWkO1BEqL"
+    },
+    {
+      "name": "Lady Chatterley’s Lover (2022) ชู้รัก เลดี้แชตเตอร์เลย์",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Lady-Chatterleys-Lover-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/cb2190ee/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/cb2190ee"
+    },
+    {
+      "name": "Lady Chatterley’s Lover (2022) ชู้รัก เลดี้แชตเตอร์เลย์",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Lady-Chatterleys-Lover-2022.webp",
+      "url": "https://zplays.xyz/embed/KNGk5cswpr9iGvk",
+      "referer": "https://zplays.xyz/embed/KNGk5cswpr9iGvk"
+    },
+    {
+      "name": "Lady Chatterley’s Lover (2022) ชู้รัก เลดี้แชตเตอร์เลย์",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Lady-Chatterleys-Lover-2022.webp",
+      "url": "https://zplays.xyz/embed/cFE3fpDOeeoRzW8",
+      "referer": "https://zplays.xyz/embed/cFE3fpDOeeoRzW8"
+    },
+    {
+      "name": "Lady Chatterley’s Lover (2022) ชู้รัก เลดี้แชตเตอร์เลย์",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Lady-Chatterleys-Lover-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/35bcaaa7/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/35bcaaa7"
+    },
+    {
+      "name": "Qala (2022) ควาล่า",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Qala-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/7d77939b/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/7d77939b"
+    },
+    {
+      "name": "Qala (2022) ควาล่า",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Qala-2022.webp",
+      "url": "https://zplays.xyz/embed/IgagTAcOAB6ZIHk",
+      "referer": "https://zplays.xyz/embed/IgagTAcOAB6ZIHk"
+    },
+    {
+      "name": "Racionais MC’s (2022) จากถนนเชาเปาลู",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Racionais-MCs-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/eece90e8/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/eece90e8"
+    },
+    {
+      "name": "Racionais MC’s (2022) จากถนนเชาเปาลู",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__Racionais-MCs-2022.webp",
+      "url": "https://zplays.xyz/embed/mOPGQK7mbthof2Z",
+      "referer": "https://zplays.xyz/embed/mOPGQK7mbthof2Z"
+    },
+    {
+      "name": "The Action Pack Saves Christmas (2022) แอ็คชั่นแพ็คพิทักษ์คริสต์มาส",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__The-Action-Pack-Saves-Christmas-2022.webp",
+      "url": "https://zplays.xyz/embed/BhWJbIo780DNWxv",
+      "referer": "https://zplays.xyz/embed/BhWJbIo780DNWxv"
+    },
+    {
+      "name": "The Action Pack Saves Christmas (2022) แอ็คชั่นแพ็คพิทักษ์คริสต์มาส",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__The-Action-Pack-Saves-Christmas-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/00603393/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/00603393"
+    },
+    {
+      "name": "The Action Pack Saves Christmas (2022) แอ็คชั่นแพ็คพิทักษ์คริสต์มาส",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__The-Action-Pack-Saves-Christmas-2022.webp",
+      "url": "https://zplays.xyz/embed/PHDouLtGDcE4aeD",
+      "referer": "https://zplays.xyz/embed/PHDouLtGDcE4aeD"
+    },
+    {
+      "name": "The Action Pack Saves Christmas (2022) แอ็คชั่นแพ็คพิทักษ์คริสต์มาส",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/12/AnyConv.com__The-Action-Pack-Saves-Christmas-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/da55aa48/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/da55aa48"
+    },
+    {
+      "name": "The Lost Patient (2022)",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__The-Lost-Patient-2022.webp",
+      "url": "https://zplays.xyz/embed/FCdP4lBkplf9KDu",
+      "referer": "https://zplays.xyz/embed/FCdP4lBkplf9KDu"
+    },
+    {
+      "name": "The Lost Patient (2022)",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__The-Lost-Patient-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/d14bdfb3/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/d14bdfb3"
+    },
+    {
+      "name": "Who’s A Good Boy? (El GUAU) (2022) รักต้องเชื่อง",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__Whos-A-Good-Boy-El-GUAU-2022.webp",
+      "url": "https://zplays.xyz/embed/PbesOqoYrzrQ1xF",
+      "referer": "https://zplays.xyz/embed/PbesOqoYrzrQ1xF"
+    },
+    {
+      "name": "Who’s A Good Boy? (El GUAU) (2022) รักต้องเชื่อง",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__Whos-A-Good-Boy-El-GUAU-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/ca332a7a/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/ca332a7a"
+    },
+    {
+      "name": "The Noel Diary (2022) บันทึกของโนเอล",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__The-Noel-Diary-2022.webp",
+      "url": "https://zplays.xyz/embed/jBpM4h7u3bA0xRL",
+      "referer": "https://zplays.xyz/embed/jBpM4h7u3bA0xRL"
+    },
+    {
+      "name": "The Noel Diary (2022) บันทึกของโนเอล",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__The-Noel-Diary-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/dcd5d63b/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/dcd5d63b"
+    },
+    {
+      "name": "The Noel Diary (2022) บันทึกของโนเอล",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__The-Noel-Diary-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/5486873d/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/5486873d"
+    },
+    {
+      "name": "The Noel Diary (2022) บันทึกของโนเอล",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__The-Noel-Diary-2022.webp",
+      "url": "https://zplays.xyz/embed/YnjU6AkT4rVjohb",
+      "referer": "https://zplays.xyz/embed/YnjU6AkT4rVjohb"
+    },
+    {
+      "name": "Christmas on Mistletoe Farm (2022) คริสต์มาสใต้ต้นรัก",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__Christmas-on-Mistletoe-Farm-2022.webp",
+      "url": "https://zplays.xyz/embed/AK5LISzib9pDbhE",
+      "referer": "https://zplays.xyz/embed/AK5LISzib9pDbhE"
+    },
+    {
+      "name": "Christmas on Mistletoe Farm (2022) คริสต์มาสใต้ต้นรัก",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__Christmas-on-Mistletoe-Farm-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/66f682a9/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/66f682a9"
+    },
+    {
+      "name": "The Violence Action (2022) สาวน้อยนักฆ่า",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__The-Violence-Action-2022.webp",
+      "url": "https://zplays.xyz/embed/Gv9eVI9exInqNLw",
+      "referer": "https://zplays.xyz/embed/Gv9eVI9exInqNLw"
+    },
+    {
+      "name": "The Violence Action (2022) สาวน้อยนักฆ่า",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__The-Violence-Action-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/4968082e/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/4968082e"
+    },
+    {
+      "name": "Slumberland (2022) สลัมเบอร์แลนด์",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__Slumberland-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/8ee1afa3/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/8ee1afa3"
+    },
+    {
+      "name": "Slumberland (2022) สลัมเบอร์แลนด์",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__Slumberland-2022.webp",
+      "url": "https://zplays.xyz/embed/CTx0166mVx2OpdX",
+      "referer": "https://zplays.xyz/embed/CTx0166mVx2OpdX"
+    },
+    {
+      "name": "Don’t Leave (2022) อย่าไปเลยนะ",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__Dont-Leave-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/8555c617/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/8555c617"
+    },
+    {
+      "name": "Don’t Leave (2022) อย่าไปเลยนะ",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__Dont-Leave-2022.webp",
+      "url": "https://zplays.xyz/embed/rvJosUlMuahTh9i",
+      "referer": "https://zplays.xyz/embed/rvJosUlMuahTh9i"
+    },
+    {
+      "name": "Monica, O My Darling (2022) โมนิก้าที่รัก",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__Monica-O-My-Darling-2022.webp",
+      "url": "https://zplays.xyz/embed/DBZHehNUIMGY2KZ",
+      "referer": "https://zplays.xyz/embed/DBZHehNUIMGY2KZ"
+    },
+    {
+      "name": "Monica, O My Darling (2022) โมนิก้าที่รัก",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__Monica-O-My-Darling-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/bdb3f348/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/bdb3f348"
+    },
+    {
+      "name": "My Father’s Dragon (2022) มังกรของพ่อ",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__My-Fathers-Dragon-2022-.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/d106d57e/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/d106d57e"
+    },
+    {
+      "name": "My Father’s Dragon (2022) มังกรของพ่อ",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__My-Fathers-Dragon-2022-.webp",
+      "url": "https://zplays.xyz/embed/egGx9HiBpUgnQWp",
+      "referer": "https://zplays.xyz/embed/egGx9HiBpUgnQWp"
+    },
+    {
+      "name": "My Father’s Dragon (2022) มังกรของพ่อ",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__My-Fathers-Dragon-2022-.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/326e97dd/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/326e97dd"
+    },
+    {
+      "name": "Falling For Christmas (2022) ตกหลุมรักวันคริสต์มาส",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__Falling-For-Christmas-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/6c54168b/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/6c54168b"
+    },
+    {
+      "name": "Lost Bullet 2 (2022)",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__Lost-Bullet-2-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/072c682b/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/072c682b"
+    },
+    {
+      "name": "The Claus Family 2 (2022) คริสต์มาสตระกูลคลอส 2",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__The-Claus-Family-2-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/c6ba8508/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/c6ba8508"
+    },
+    {
+      "name": "The Claus Family 2 (2022) คริสต์มาสตระกูลคลอส 2",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__The-Claus-Family-2-2022.webp",
+      "url": "https://zplays.xyz/embed/hgjtij0cNnOgQ7C",
+      "referer": "https://zplays.xyz/embed/hgjtij0cNnOgQ7C"
+    },
+    {
+      "name": "The Good Nurse (2022)",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__The-Good-Nurse-2022.webp",
+      "url": "https://zplays.xyz/embed/41yQpKab",
+      "referer": "https://zplays.xyz/embed/41yQpKab"
+    },
+    {
+      "name": "The Good Nurse (2022)",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__The-Good-Nurse-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/26147cbd/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/26147cbd"
+    },
+    {
+      "name": "Beyond the Universe (2022) รักเหนือจักรวาล",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__Beyond-the-Universe-2022.webp",
+      "url": "https://zplays.xyz/embed/jAY29Twt",
+      "referer": "https://zplays.xyz/embed/jAY29Twt"
+    },
+    {
+      "name": "Beyond the Universe (2022) รักเหนือจักรวาล",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/11/AnyConv.com__Beyond-the-Universe-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/9d686035/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/9d686035"
+    },
+    {
+      "name": "20th Century Girl 20 (2022) เซนจูรี่ รักนี้ซาบซ่า",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/10/AnyConv.com__20th-Century-Girl-20-2022.webp",
+      "url": "https://zplays.xyz/embed/aECK3j2d",
+      "referer": "https://zplays.xyz/embed/aECK3j2d"
+    },
+    {
+      "name": "20th Century Girl 20 (2022) เซนจูรี่ รักนี้ซาบซ่า",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/10/AnyConv.com__20th-Century-Girl-20-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/aa263677/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/aa263677"
+    },
+    {
+      "name": "All Quiet on the Western Front (2022) แนวรบด้านตะวันตก เหตุการณ์ไม่เปลี่ยนแปลง",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/10/AnyConv.com__All-Quiet-on-the-Western-Front-2022.webp",
+      "url": "https://zplays.xyz/embed/sZQRhA8k",
+      "referer": "https://zplays.xyz/embed/sZQRhA8k"
+    },
+    {
+      "name": "All Quiet on the Western Front (2022) แนวรบด้านตะวันตก เหตุการณ์ไม่เปลี่ยนแปลง",
+      "info": "Thai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/10/AnyConv.com__All-Quiet-on-the-Western-Front-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/b9e96b44/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/b9e96b44"
+    },
+    {
+      "name": "All Quiet on the Western Front (2022) แนวรบด้านตะวันตก เหตุการณ์ไม่เปลี่ยนแปลง",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/10/AnyConv.com__All-Quiet-on-the-Western-Front-2022.webp",
+      "url": "https://zplays.xyz/embed/b3fXckaV",
+      "referer": "https://zplays.xyz/embed/b3fXckaV"
+    },
+    {
+      "name": "All Quiet on the Western Front (2022) แนวรบด้านตะวันตก เหตุการณ์ไม่เปลี่ยนแปลง",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/10/AnyConv.com__All-Quiet-on-the-Western-Front-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/0cb68fd4/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/0cb68fd4"
+    },
+    {
+      "name": "The Chalk Line (2022) ห้ามข้ามเส้น",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/10/AnyConv.com__The-Chalk-Line-2022.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/e767322f/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/e767322f"
+    },
+    {
+      "name": "The Chalk Line (2022) ห้ามข้ามเส้น",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/10/AnyConv.com__The-Chalk-Line-2022.webp",
+      "url": "https://zplays.xyz/embed/PkLdzaZh",
+      "referer": "https://zplays.xyz/embed/PkLdzaZh"
+    }
+  ]
+}

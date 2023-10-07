@@ -1,0 +1,29 @@
+{
+  "name": "Apple TV+",
+  "author": "อุ๋ง อุ๋ง",
+  "info": "@สลัดไง",
+  "image": "https://serieshd24.com/wp-content/uploads/2021/01/Serieshd24_logo.png",
+  "stations": [
+    {
+      "name": "Tetris (2023)",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/04/AnyConv.com__Tetris-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/0dba32b6/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/0dba32b6"
+    },
+    {
+      "name": "Tetris (2023)",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/04/AnyConv.com__Tetris-2023.webp",
+      "url": "https://zplays.xyz/embed/4dhynu1y6r/",
+      "referer": "https://zplays.xyz/embed/4dhynu1y6r/"
+    },
+    {
+      "name": "The Greatest Beer Run Ever (2022) เบียร์ที่ยิ่งใหญ่ที่สุดที่เคยมีมา",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/10/ดูหนังออนไลน์-The-Greatest-Beer-Run-Ever-2022-เบียร์ที่ยิ่งใหญ่ที่สุดที่เคยมีมา.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/3e28e17d/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/3e28e17d"
+    }
+  ]
+}

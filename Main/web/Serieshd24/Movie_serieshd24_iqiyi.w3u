@@ -1,0 +1,50 @@
+{
+  "name": "iQiyi",
+  "author": "อุ๋ง อุ๋ง",
+  "info": "@สลัดไง",
+  "image": "https://serieshd24.com/wp-content/uploads/2021/01/Serieshd24_logo.png",
+  "stations": [
+    {
+      "name": "Journey to the West Ask Tao (2023) ไซอิ๋วลัทธิเต๋า",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Journey-to-the-West-Ask-Tao-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/b40e81f0/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/b40e81f0"
+    },
+    {
+      "name": "Journey to the West Ask Tao (2023) ไซอิ๋วลัทธิเต๋า",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Journey-to-the-West-Ask-Tao-2023.webp",
+      "url": "https://zplays.xyz/embed/a73vo36v4j/",
+      "referer": "https://zplays.xyz/embed/a73vo36v4j/"
+    },
+    {
+      "name": "Kill the Drug Lords (2023) ตำรวจผู้พิทักษ์",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Kill-the-Drug-Lords-2023.webp",
+      "url": "https://zplays.xyz/embed/3o7cyb41q5/",
+      "referer": "https://zplays.xyz/embed/3o7cyb41q5/"
+    },
+    {
+      "name": "Kill the Drug Lords (2023) ตำรวจผู้พิทักษ์",
+      "info": "Subthai 2",
+      "image": "https://serieshd24.com/wp-content/uploads/2023/03/AnyConv.com__Kill-the-Drug-Lords-2023.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/c52d3978/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/c52d3978"
+    },
+    {
+      "name": "Strange door and dark blade (2022) ศาสตราวุธลับกับมิติอัศจรรย์",
+      "info": "Thai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/10/ดูหนังออนไลน์-Strange-door-and-dark-blade-2022-ศาสตราวุธลับกับมิติอัศจรรย์.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/0d8b77d8/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/0d8b77d8"
+    },
+    {
+      "name": "Strange door and dark blade (2022) ศาสตราวุธลับกับมิติอัศจรรย์",
+      "info": "Subthai 1",
+      "image": "https://serieshd24.com/wp-content/uploads/2022/10/ดูหนังออนไลน์-Strange-door-and-dark-blade-2022-ศาสตราวุธลับกับมิติอัศจรรย์.webp",
+      "url": "https://lb.mvx-master5.work/playlist2/8a2183e3/master.m3u8",
+      "referer": "https://lb.mvx-master5.work/embed/8a2183e3"
+    }
+  ]
+}
