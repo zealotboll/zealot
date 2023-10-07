@@ -1,0 +1,263 @@
+{
+"name":"แยก",
+"author":"อุ๋ง อุ๋ง",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/ประเภท.txt",
+"groups": [
+{
+"name":"หนัง Collection",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_collection-movies.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ Collection",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_collection-movies.w3u",
+"import":"true"
+},
+
+{
+"name":"หนัง local",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_local-movies.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ local",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_local-movies.w3u",
+"import":"true"
+},
+
+{
+"name":"หนัง soundtrack-thai",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_soundtrack-thai.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ soundtrack-thai",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_soundtrack-thai.w3u",
+"import":"true"
+},
+{
+"name":"หนัง action",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_action.w3u",
+"import":"true"
+},
+
+{
+"name":"ซีรี่ย์ action",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_action.w3u",
+"import":"true"
+},
+{
+"name":"หนัง adventure",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_adventure.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ adventure",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_adventure.w3u",
+"import":"true"
+},
+{
+"name":"หนัง biography",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_biography.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ biography",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_biography.w3u",
+"import":"true"
+},
+{
+"name":"หนัง comedy",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_comedy.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ comedy",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_comedy.w3u",
+"import":"true"
+},
+{
+"name":"หนัง crime",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_crime.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ crime",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_crime.w3u",
+"import":"true"
+},
+{
+"name":"หนัง documentary",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_documentary.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ documentary",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_documentary.w3u",
+"import":"true"
+},
+{
+"name":"หนัง drama",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_drama.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ drama",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_drama.w3u",
+"import":"true"
+},
+{
+"name":"หนัง family",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_family.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ family",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_family.w3u",
+"import":"true"
+},
+{
+"name":"หนัง fantasy",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_fantasy.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ fantasy",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_fantasy.w3u",
+"import":"true"
+},
+{
+"name":"หนัง horror",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_horror.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ horror",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_horror.w3u",
+"import":"true"
+},
+{
+"name":"หนัง mystery",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_mystery.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ mystery",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_mystery.w3u",
+"import":"true"
+},
+{
+"name":"หนัง romance",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_romance.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ romance",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_romance.w3u",
+"import":"true"
+},
+{
+"name":"หนัง sci-fi",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_sci-fi.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ sci-fi",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_sci-fi.w3u",
+"import":"true"
+},
+{
+"name":"หนัง sport",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_sport.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ sport",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_sport.w3u",
+"import":"true"
+},
+{
+"name":"หนัง superhero",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_superhero-movie.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ superhero",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_superhero-movie.w3u",
+"import":"true"
+},
+{
+"name":"หนัง teen",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_teenmovies.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ teen",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_teenmovies.w3u",
+"import":"true"
+},
+{
+"name":"หนัง thriller",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_thriller.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ thriller",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_thriller.w3u",
+"import":"true"
+},
+{
+"name":"หนัง zombie",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Movie_nung2hdd_zombie-movies.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์ zombie",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Nung2hdd/ประเภท/Series_nung2hdd_zombie-movies.w3u",
+"import":"true"
+}
+]
+}
