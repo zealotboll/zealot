@@ -3,43 +3,43 @@
 "author":"อุ๋ง อุ๋ง",
 "info": "ฟรี 100 %",
 "image":"https://www.animetobi.com/upload/744188dc2e092c515f0b3d38c9ba08de.png?v=1",
-"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/AnimeTobi/all.txt",
+"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/AnimeTobi/all.txt",
 "groups": [
 
 {
 "name":"อนิเมะทั้งหมด",
 "image":"https://www.animetobi.com/upload/744188dc2e092c515f0b3d38c9ba08de.png?v=1",
-"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/AnimeTobi/animetobi_อนิเมะทั้งหมด.html.w3u",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/AnimeTobi/animetobi_อนิเมะทั้งหมด.html.w3u",
 "import":"true"
 },
 {
 "name":"พากย์ไทย",
 "image":"https://www.animetobi.com/upload/744188dc2e092c515f0b3d38c9ba08de.png?v=1",
-"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/AnimeTobi/animetobi_อนิเมะ-พากย์ไทย.html.w3u",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/AnimeTobi/animetobi_อนิเมะ-พากย์ไทย.html.w3u",
 "import":"true"
 },
 {
 "name":"ซับไทย",
 "image":"https://www.animetobi.com/upload/744188dc2e092c515f0b3d38c9ba08de.png?v=1",
-"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/AnimeTobi/animetobi_อนิเมะ-ซับไทย.html.w3u",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/AnimeTobi/animetobi_อนิเมะ-ซับไทย.html.w3u",
 "import":"true"
 },
 {
 "name":"เดอะมูฟวี่",
 "image":"https://www.animetobi.com/upload/744188dc2e092c515f0b3d38c9ba08de.png?v=1",
-"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/AnimeTobi/animetobi_the-movie.html.w3u",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/AnimeTobi/animetobi_the-movie.html.w3u",
 "import":"true"
 },
 {
 "name":"จบเเล้ว",
 "image":"https://www.animetobi.com/upload/744188dc2e092c515f0b3d38c9ba08de.png?v=1",
-"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/AnimeTobi/animetobi_จบเเล้ว.html.w3u",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/AnimeTobi/animetobi_จบเเล้ว.html.w3u",
 "import":"true"
 },
 {
 "name":"ยังไม่จบ",
 "image":"https://www.animetobi.com/upload/744188dc2e092c515f0b3d38c9ba08de.png?v=1",
-"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/AnimeTobi/animetobi_ยังไม่จบ.html.w3u",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/AnimeTobi/animetobi_ยังไม่จบ.html.w3u",
 "import":"true"
 }
 
