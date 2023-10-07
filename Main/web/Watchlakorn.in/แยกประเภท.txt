@@ -2,72 +2,72 @@
    "name":"Watchlakorn.in",
    "author": "อุ๋ง อุ๋ง",
    "image": "https://cdn.watchlakorn.in/images/video_logo.png",
-   "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Watchlakorn.in/แยกประเภท.txt",
+   "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/แยกประเภท.txt",
    "groups":  [
     {
       "name":"ละคร ออนแอร์",
       "image":"https://cdn.watchlakorn.in/images/video_logo.png",
-      "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Watchlakorn.in/Watchlakorn_ละคร-ONAIRnew.w3u",
+      "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/Watchlakorn_ละคร-ONAIRnew.w3u",
       "import":"true"
     },
     {
       "name":"ละคร",
       "image":"https://cdn.watchlakorn.in/images/video_logo.png",
-      "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Watchlakorn.in/Watchlakorn_ละคร.w3u",
+      "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/Watchlakorn_ละคร.w3u",
       "import":"true"
     },
     {
       "name":"ละคร สำรองFUll",
       "image":"https://cdn.watchlakorn.in/images/video_logo.png",
-      "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Watchlakorn.in/Watchlakorn_ละคร_1.w3u",
+      "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/Watchlakorn_ละคร_1.w3u",
       "import":"true"
     },
     {
       "name":"ละครเก่า",
       "image":"https://cdn.watchlakorn.in/images/video_logo.png",
-      "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Watchlakorn.in/Watchlakorn_ละครเก่า.w3u",
+      "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/Watchlakorn_ละครเก่า.w3u",
       "import":"true"
     },
     {
       "name":"ซิกคอม",
       "image":"https://cdn.watchlakorn.in/images/video_logo.png",
-      "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Watchlakorn.in/Watchlakorn_ซิทคอม.w3u",
+      "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/Watchlakorn_ซิทคอม.w3u",
       "import":"true"
     },
     {
       "name":"กีฬา",
       "image":"https://cdn.watchlakorn.in/images/video_logo.png",
-      "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Watchlakorn.in/Watchlakorn_กีฬา.w3u",
+      "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/Watchlakorn_กีฬา.w3u",
       "import":"true"
     },
     {
       "name":"ข่าว",
       "image":"https://cdn.watchlakorn.in/images/video_logo.png",
-      "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Watchlakorn.in/Watchlakorn_ข่าวและเหตุการณ์.w3u",
+      "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/Watchlakorn_ข่าวและเหตุการณ์.w3u",
       "import":"true"
     },
     {
       "name":"ซีรีย์",
       "image":"https://cdn.watchlakorn.in/images/video_logo.png",
-      "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Watchlakorn.in/Watchlakorn_ซีรี่ย์เอเชีย.w3u",
+      "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/Watchlakorn_ซีรี่ย์เอเชีย.w3u",
       "import":"true"
     },
     {
       "name":"ประกวด",
       "image":"https://cdn.watchlakorn.in/images/video_logo.png",
-      "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Watchlakorn.in/Watchlakorn_เรียลลิตี้.w3u",
+      "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/Watchlakorn_เรียลลิตี้.w3u",
       "import":"true"
     },
     {
       "name":"วาไรตี้",
       "image":"https://cdn.watchlakorn.in/images/video_logo.png",
-      "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Watchlakorn.in/Watchlakorn_%E0%B8%A7%E0%B8%B2%E0%B9%84%E0%B8%A3%E0%B8%95%E0%B8%B5%E0%B9%89%20%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%82%E0%B8%8A%E0%B8%A7%E0%B9%8C.w3u",
+      "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/Watchlakorn_%E0%B8%A7%E0%B8%B2%E0%B9%84%E0%B8%A3%E0%B8%95%E0%B8%B5%E0%B9%89%20%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%82%E0%B8%8A%E0%B8%A7%E0%B9%8C.w3u",
       "import":"true"
     },
     {
       "name":"สารคดี",
       "image":"https://cdn.watchlakorn.in/images/video_logo.png",
-      "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/Watchlakorn.in/Watchlakorn_สารคดี.w3u",
+      "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/Watchlakorn_สารคดี.w3u",
       "import":"true"
     }
   ]
