@@ -1,0 +1,32 @@
+{
+ "name": "รวม 9nunghd",
+ "author": "อุ๋ง อุ๋ง ",
+ "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
+ "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+ "groups": [
+    {
+       "name":"รวม", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_.w3u",
+       "import":"true"
+    },
+    {
+       "name":"หนัง", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/รวมหนัง.txt",
+       "import":"true"
+    },
+    {
+       "name":"ซีรีย์", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/รวมซีรีย์.txt",
+       "import":"true"
+    },
+    {
+       "name":"หมวด", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/รวมประเภท.txt",
+       "import":"true"
+    }
+  ]
+}

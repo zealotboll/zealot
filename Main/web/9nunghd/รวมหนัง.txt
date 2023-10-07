@@ -1,0 +1,74 @@
+{
+ "name": "หนัง",
+ "author": "อุ๋ง อุ๋ง ",
+ "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
+ "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+ "groups": [
+    {
+       "name":"หนังใหม่", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_หนังใหม่.w3u",
+       "import":"true"
+    },
+    {
+       "name":"หนังใหม่ 2023", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_หนังใหม่-2023.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ดูหนัง 2023", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_ดูหนัง-2023.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ดูหนัง 2022", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_ดูหนัง-2022.w3u",
+       "import":"true"
+    },
+    {
+       "name":"หนังไทย", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_หนังไทย.w3u",
+       "import":"true"
+    },
+    {
+       "name":"หนังฝรั่ง", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_หนังฝรั่ง.w3u",
+       "import":"true"
+    },
+    {
+       "name":"หนังจีน", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_หนังจีน.w3u",
+       "import":"true"
+    },
+    {
+       "name":"หนังเกาหลี", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_หนังเกาหลี.w3u",
+       "import":"true"
+    },
+    {
+       "name":"หนังญี่ปุ่น", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_หนังญี่ปุ่น.w3u",
+       "import":"true"
+    },
+    {
+       "name":"หนังอินเดีย", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_หนังอินเดีย.w3u",
+       "import":"true"
+    },
+    {
+       "name":"หนังซอมบี้", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_หนังซอมบี้.w3u",
+       "import":"true"
+    }
+  ]
+}

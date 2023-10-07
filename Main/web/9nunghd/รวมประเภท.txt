@@ -1,0 +1,134 @@
+{
+ "name": "ประเภท",
+ "author": "อุ๋ง อุ๋ง ",
+ "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
+ "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+ "groups": [
+    {
+       "name":"TOP IMDb", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_top-imdb.w3u",
+       "import":"true"
+    },
+    {
+       "name":"Netflix", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_netflix.w3u",
+       "import":"true"
+    },
+    {
+       "name":"WeTV", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_wetv.w3u",
+       "import":"true"
+    },
+    {
+       "name":"แอคชั่น Action", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_แอคชั่น-action.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ผจญภัย Adventure", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_ผจญภัย-adventure.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ตลก Comedy", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_ตลก-comedy.w3u",
+       "import":"true"
+    },
+    {
+       "name":"แฟนตาซี Fantasy", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_แฟนตาซี-fantasy.w3u",
+       "import":"true"
+    },
+    {
+       "name":"อาชญากรรม Crime", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_อาชญากรรม-crime.w3u",
+       "import":"true"
+    },
+    {
+       "name":"อนิเมชั่น Animation", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_อนิเมชั่น-animation.w3u",
+       "import":"true"
+    },
+    {
+       "name":"สารคดี Documentary", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_สารคดี-documentary.w3u",
+       "import":"true"
+    },
+    {
+       "name":"สยองขวัญ Horror", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_สยองขวัญ-horror.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ระทึกขวัญ Thriller", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_ระทึกขวัญ-thriller.w3u",
+       "import":"true"
+    },
+    {
+       "name":"โรแมนติก Romance", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_โรแมนติก-romance.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ลึกลับ Mystery", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_ลึกลับ-mystery.w3u",
+       "import":"true"
+    },
+    {
+       "name":"เพลงดนตรี Musicalal", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_เพลงดนตรี-musicalal.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ประวัติศาสตร์ History", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_ประวัติศาสตร์-history.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ดราม่า Drama", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_ดราม่า-drama.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ไซไฟ Sci-fi", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_ไซไฟ-sci-fi.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ชีวประวัติ Biography", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_ชีวประวัติ-biography.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ครอบครัว Family", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_ครอบครัว-family.w3u",
+       "import":"true"
+    },
+    {
+       "name":"กีฬา Sports", 
+       "image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/9nunghd/9nunghd_กีฬา-sports.w3u",
+       "import":"true"
+    }
+  ]
+}
