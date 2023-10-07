@@ -3,42 +3,42 @@
   "author":"อุ๋ง อุ๋ง",
   "info": "Neko-Miku",
   "image":"https://neko-miku.com/images/logo-neko-miku.png",
-  "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/Neko-Miku/all_miku-anime.m3u",
+  "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Neko-Miku/all_miku-anime.m3u",
   "groups": [
     {
        "name":"🦭การ์ตูนอนิเมะใหม่ล่าสุด🐒", 
        "image":"https://neko-miku.com/images/logo-neko-miku.png",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/Neko-Miku/neko-miku_.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Neko-Miku/neko-miku_.w3u",
        "import":"true"
     },
     {
        "name":"🦭การ์ตูนอนิเมะที่จบแล้ว🐒", 
        "image":"https://neko-miku.com/images/logo-neko-miku.png",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/Neko-Miku/neko-miku_anime-final.html.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Neko-Miku/neko-miku_anime-final.html.w3u",
        "import":"true"
     },
     {
        "name":"🦭การ์ตูนอนิเมะยังไม่จบ🐒", 
        "image":"https://neko-miku.com/images/logo-neko-miku.png",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/Neko-Miku/neko-miku_anime-on-air.html.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Neko-Miku/neko-miku_anime-on-air.html.w3u",
        "import":"true"
     },
     {
        "name":"🦭การ์ตูนอนิเมะพากย์ไทย🐒", 
        "image":"https://neko-miku.com/images/logo-neko-miku.png",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/Neko-Miku/neko-miku_anime-sound-thai.html.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Neko-Miku/neko-miku_anime-sound-thai.html.w3u",
        "import":"true"
     },
     {
        "name":"🦭การ์ตูนอนิเมะซับไทย🐒", 
        "image":"https://neko-miku.com/images/logo-neko-miku.png",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/Neko-Miku/neko-miku_anime-sub-thai.html.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Neko-Miku/neko-miku_anime-sub-thai.html.w3u",
        "import":"true"
     },
     {
        "name":"🦭การ์ตูนอนิเมะเดอะมูฟวี่🐒", 
        "image":"https://neko-miku.com/images/logo-neko-miku.png",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/การ์ตูน/Neko-Miku/neko-miku_anime-the-movie.html.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Neko-Miku/neko-miku_anime-the-movie.html.w3u",
        "import":"true"
     }
   ]
