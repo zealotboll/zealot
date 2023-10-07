@@ -1,0 +1,201 @@
+{
+  "name": "เพลงดนตรี",
+  "author": "อุ๋ง อุ๋ง อัพวันที่ 3 กันยายน 2566",
+  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
+  "image": "https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
+  "groups": [
+    {
+      "name": "The Idol (2023)",
+      "image": "http://7yup.net/wp-content/uploads/2023/08/The-Idol-2023.webp",
+      "stations": [
+        {
+          "name": "Episode 1",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2023/08/The-Idol-2023.webp",
+          "url": "https://movie.fun-gg.com/embed/?aFBzeStVNlN3VVpBYndNOFZGM0l5c05lSVo1cW5ZeHFNN2hzUURtZXVxU1U5bmdrUFlNeDBMdm1zU1ZqUVgrWmJDYXcxcktSTmFMejVJUjRtQk9jM3licW1OZTRNSWlaaVRhWkI0VzRJek09Ojpru6yiWAjgTC72AyH%2F2yv0",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 1",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2023/08/The-Idol-2023.webp",
+          "url": "https://movie.fun-gg.com/embed/?WDJyRkh2TlpsSS9JMk1DK3F5QnFQSGZPd0tLeENwSWF1NzZQSWs3R0RKYW1tMkVNZlZIVWZCYzRMWlJrbk1jbGdvU3MwbE1VOFNxVmM2WjdMMHJQcjA1TjJYaldTK1FpTVhmVFVGVVh1SzQ9OjpQgrcEtU5KuSFzcGhLbR7T",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2023/08/The-Idol-2023.webp",
+          "url": "https://movie.fun-gg.com/embed/?WHh6TCs2T0Rud2M2amlBUk5kYmtENS9KMExvNlpoQXFhd0FRbG5uLzNKN3FNaXVFK3A1dFZ3WXBaNUJCZ2cxSFQ0Sk1JMW05T2Fiam1MWWIrajNMUXFGdEhwRXVjUFUwNXVGYXN2SFJEbUE9Ojp6SV5PDI91lYR2PLlRxTKL",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2023/08/The-Idol-2023.webp",
+          "url": "https://movie.fun-gg.com/embed/?RytXM2RHZWF6eVhQYjBDclgweW9OL1E5NmhrRXpCell5ZG84OUdxNU14ek8wcmRvRVlQYVExVGtQZG5CeWpqM3RxeFVJeTYvNDBsSFBDR3VuWGxJbk8rN3ZxVys2cCtPYk5hckMwVnU0TFU9OjpiTWoOE6Lkay9pK9msDjRC",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2023/08/The-Idol-2023.webp",
+          "url": "https://movie.fun-gg.com/embed/?Si9CMzVCVlVJSCtzOTgxZXFSOUFkekc4dEx2Nzc0b3dBM1AxTDBqU3l6aS9GeXFBQTJMbGpsUXlCWk1vV3ZCYjQ5OG03T3RXOHd5OUFEbUlianVoM1dJdEpwR092TWJwTDVwNkxUMytKczQ9OjoLmdFCC3q4a%2FO%2BQB3U%2B6jr",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2023/08/The-Idol-2023.webp",
+          "url": "https://movie.fun-gg.com/embed/?Q1NCa2dCM2xuUTl0L0JrMnRjdHYwbFh0djNsdTdmczVITkJWWC9Nbm43VFJMSTA0dEIvMzhDYjVCenpCRmErZkZIL09hWFNQUGZ1QTJZeXFPSGp4YkI5bGphcXRKVUt5aHRKdXE1VmI0ZlE9OjqDVR6ALUiAKJTYNXh50SM0",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2023/08/The-Idol-2023.webp",
+          "url": "https://movie.fun-gg.com/embed/?NlhMcXY5U1BqSnc3dmdtdTdpMlhsdjcvM3ZDRWNQQ1NLdFd4Nkd2cXEwNGMxU0poT0F5dUFjQ1l6dWVrT1F1blRFSTdvUU5YVVAvUHExcERxY3VicmFIVWpEWFlaU0s4K0lrak5nQTREa1U9OjrFKyWmf9mWf4t%2FUMMqRKB1",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2023/08/The-Idol-2023.webp",
+          "url": "https://movie.fun-gg.com/embed/?QU8rZ3UrUkF2dlgwblV4Wk1OYW1BUDZsQWUzWUZONXdnTGRWa0duNWhmcFFsLy9vajVpYVhCeFZNK1p2NFJRMTRReXV6RnRsSnNOZXMvNjhUMlFXQy9TUDJKYmlUMmZ0TGMzQ3BTcWEzbVU9OjpePB64AvJuM32AHrjFaUJv",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2023/08/The-Idol-2023.webp",
+          "url": "https://movie.fun-gg.com/embed/?UjNZSkFKQy9CS1pHdlVzNVFoYnhqcXM4eE1OVVN6MUtmUWx2OU9qVEg1N2ZIMCs2bVFzSFpNZ3YyVXljanlFK3dXSytpSVlKSmRJcUx4T091a3BUQ3o3N3FEUjdWY2l2RWNoYTR2ZXRRY1U9OjpWhW6f4u2b%2FoVkiKfAnPlc",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2023/08/The-Idol-2023.webp",
+          "url": "https://movie.fun-gg.com/embed/?aFNVTGZLZlJ4RXlVckF1ZGZPZm9yL2pxaTQwNHA1clJla29DeCtwSW5hVmdLVGZGYlZpZ0JUV1BBVm9UNWdtMllTejJLSmc3KzlXNElzZHdsaHFMR3JEdTB5YUlMOFU5Q3NlM2ZFZHVKVm89Ojr2m1wR%2FvmpiKRfPXkxW9wL",
+          "referer": "https://7yup.net/"
+        }
+      ]
+    },
+    {
+      "name": "Hymn of Death (2018) เพลงรักหัวใจสลาย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/Hymn-of-Death-2018-เพลงรักหัวใจสลาย.webp",
+      "stations": [
+        {
+          "name": "Episode 1",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/11/Hymn-of-Death-2018-เพลงรักหัวใจสลาย.webp",
+          "url": "https://movie.fun-gg.com/embed/?VmxtQVlHZVgxM3RsOHQwVFlETThRUDF3N3p5d2UzY3h4OE5BWlhlbVJUYy9EK3NFd2NNWGJ1OGp6bHkwR2ptcnBkbjdnSEZFWldMWi8vVTlaeGQ2eE1VeHNMc3RxOGI2dmg2SXZhdHNVWGVsK3MrR0M4QStha2lLb1k3VGc2ODA6OkrZ2ej4jW%2BgDpL%2F5OQpuWA%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/11/Hymn-of-Death-2018-เพลงรักหัวใจสลาย.webp",
+          "url": "https://movie.fun-gg.com/embed/?VnlBV2xZYTdLK1BDVVJRVFRWMVM0Y3B5OURQby9IUXRPYzBHODlzKzlyTHhGd2hhWnFqZXdWcHVKOUVMazB6RVVVN2NZTVNhUGNKU2s4Z3A4b0FFeXNPZGt0dmtyV0doL1gxZEdYdUV0dVZsTWZlRGMycmtMei9YSlZTa0lGNTY6OrkN6pLRBaa5gG3eMrHPvMg%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/11/Hymn-of-Death-2018-เพลงรักหัวใจสลาย.webp",
+          "url": "https://movie.fun-gg.com/embed/?VzE5dU1UKy8yT25ZOFJhZk5CaG1OLytwZGFqaHZJc2Nra2pSWmRpREEwTjJyVy9wTCtRNTN2ckxFbCtRT1RPdlI0bU1RQ0F4TFREdGRvSTJCY0srSHM5TVNZSEVJcm9LVi9zOXpMSkpUVFk1Zkx4dU9qME12UEpIYXR3cGlhb3k6OjMdrgy0f6axddI6fN4BBlo%3D",
+          "referer": "https://7yup.net/"
+        }
+      ]
+    },
+    {
+      "name": "Annarasumanara [The Sound of Magic] (2022) โอม รักเอยจงมา",
+      "image": "http://7yup.net/wp-content/uploads/2022/09/Annarasumanara-The-Sound-of-Magic-2022-โอม-รักเอยจงมา.webp",
+      "stations": [
+        {
+          "name": "Episode 1",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Annarasumanara-The-Sound-of-Magic-2022-โอม-รักเอยจงมา.webp",
+          "url": "https://movie.fun-gg.com/embed/?bzNhVDJVZDluSlE0RkROUGZTc1N5N2pGQVlEUk1QS0JhQ2g5c0gxZ3Q1UW12TS8xVVhuUGF0eDRaSE0rRWZZdmsrRmxidTUwNDhjaWRXbnlRRmpUZzFtUnJaL016TjUvckg4NUJ4aXVDRC9XVDl6bTBNNk9zRlJvVi9BMkVoZXI6Or0PVi3WWsCAkh9F4zGIqVw%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 1",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Annarasumanara-The-Sound-of-Magic-2022-โอม-รักเอยจงมา.webp",
+          "url": "https://movie.fun-gg.com/embed/?NUpPMjdNcVV4c3NEcFQvbXh1QnNsTnpZSW1TcUQvdEJRbjlLVWZPK0E3WlNmRFZoRnNMQ0VHaXJ1VVRaOW9ES2Y0VlZtZk1FT1N2Y09IeDcvbjJDZStTS3pLWkd2dGFvSm5IeHhFQkVPTTJ4SGVuK1g2SU81a3Y2UmRoak5aNFQ6OmSCp3vTbeDhCc5jK%2BJkthg%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Annarasumanara-The-Sound-of-Magic-2022-โอม-รักเอยจงมา.webp",
+          "url": "https://movie.fun-gg.com/embed/?bDVkQW5KMFJDUEVWZUFXQ21EbTl3c1lDa1FiRFFvWDdpZ1hTUjMxNDcyUUxxUWlCelpYamZXUlV2cXIraEhFdVFyNFA5TUJvekNmRGhuUEdsbmZSQ24zcWpZRk1LbWl5R25kNEVzQWF5d0NyNDZtdCtzVmtZR1BGZjFlcTdLYUc6Ovd%2BueQrNbxfMvAV6IckmlI%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Annarasumanara-The-Sound-of-Magic-2022-โอม-รักเอยจงมา.webp",
+          "url": "https://movie.fun-gg.com/embed/?d3ZINldWS2kzK1pQQ2xkZFhHZWVieCsxSDRVaDdhSTNtOHRmY3RlaUpOajRVZzI3Wk9JcVYrVkVlSGtFOEluODhBSk05Kzg3K0pWdTRnVUJQNzZ0bkhXdSt4cVRNUXJRUzdPSmdBLzRCVzVtZFdEbjA1MXBXNFlWVFRia0JERWk6OlN%2B5Dcs98jsVHau7%2BvjK1o%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Annarasumanara-The-Sound-of-Magic-2022-โอม-รักเอยจงมา.webp",
+          "url": "https://movie.fun-gg.com/embed/?MEJ5U3h1WHh2U2RFVnVwTDlKeWkwM2UxREFhcWRuTnJlc1lqYkJOK0xJRXdPY1dDN1R6bDl1VnUxc0RFdWtBOWU5bktua3d2S3EzMkNraHByeG9DZ0JTQTU5UENlMzUzdDFjVWxzeW8zclJTSUk2emtuVDVPK2hmampxNHNVK1A6OlWTOz%2B%2BAA1vxh25%2BlS%2B2bQ%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Annarasumanara-The-Sound-of-Magic-2022-โอม-รักเอยจงมา.webp",
+          "url": "https://movie.fun-gg.com/embed/?aUhMaVJyaFFxL1RGQ3g2eEZ2eXorMnJ5WS9CdTFWNVVXM0pYUjMwdHNyTUl4d01JaG5DL243WHEyYjRzYXNxN3pmTUJhM09xdktUeE12TzltS1RDQlB4RHpRSFBmUXR4eHJXdEIwdTJTSXlqSkZoQ2NhbGVqN1ErcWtscVZDRzg6OjRwP%2BcclszVZtpA1Rd5ViM%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Annarasumanara-The-Sound-of-Magic-2022-โอม-รักเอยจงมา.webp",
+          "url": "https://movie.fun-gg.com/embed/?eUhpZ1pKRXN5cEVVSFRmbHRkLzZVRTNRbkticmIzazhtSDhBNVJ6YldSdVpwTmthMnBSbWhUVXJnblByb1BwK3RUT0VvWndON2R0dkRhWWwvc3E5bzVMaGdVeExDZVNNdW5mU0h2QzZxYzgveldTV2ljV1ZUS0tNcjZqN0FRclk6OjjJhCm%2BaeC7NRLVp0mk1n4%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Annarasumanara-The-Sound-of-Magic-2022-โอม-รักเอยจงมา.webp",
+          "url": "https://movie.fun-gg.com/embed/?cU9YNmFEMG80UFozdnhjK1BiUDlsa1ptKzJheDBCeWtKNDh3QTFPUjZFdXhBRjZvZGJOZGVjZ3ZhNU5zNDBPRHN6M2t0YTA3TVp6WU1ONkcvL2E5ZWVBZ1pXUzlTQkV5VVhQeTR0b0tmMzFtakVqY3Y1dGxQcGV6VXpvMHBKZ0Q6Ortewoe9J9nlObX%2Fuofj0%2F0%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Annarasumanara-The-Sound-of-Magic-2022-โอม-รักเอยจงมา.webp",
+          "url": "https://movie.fun-gg.com/embed/?UVlHdC9xWGxuMExxNVFRQ2laTExqdTBKK1lOOFI5dWNoSGljMVFPYjV3K2ZKb2I5V3FiVmJEdzdkdUxCdCtteFU4QWFRcVdaN2ozaVZSYmJQaVplbHRkUm9MbkdSVEdsK1oyK0VvOHJ6Q0hlelRQdFQzL2o4QlVjUTlzbjA3VFk6OvoOpYLFd4LDhAe4Rue%2FJt8%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Annarasumanara-The-Sound-of-Magic-2022-โอม-รักเอยจงมา.webp",
+          "url": "https://movie.fun-gg.com/embed/?THRacC82SlZwcEFPVUpjcjZETWh2dFE1N3dIOVpPQWhHVWFGaGxUdEVTSUxlOTQram9jejhVbmJGTjJQN3JCMzhHV1RIaDFyUTZCV1ovTDVza3cwV0IvMmszRkNmUTk0Z2VhOEVrUXhrMHBQV2d3QVdIeTZjTHdNeVFPMmpYMEc6Op7Sna6QGRKPdcg%2B06e1cNY%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Annarasumanara-The-Sound-of-Magic-2022-โอม-รักเอยจงมา.webp",
+          "url": "https://movie.fun-gg.com/embed/?dGRCeWg4T3pLeEhrajhuUUlySFQ3WGJDemcrS1JQWHBEOGdvN2V2Mmx6NmRIVE1jTXJGZFBGSnhTb21mWnhmcm5DNmJBajNxYjJtMGFXbUpNOFFJT2F6dGhqanIyS2FjdWJna1hKRzE0UHVBY3UrRDU1T1ROTG10azF6aHNOVkI6Oo4OvGgvrKpNZKBHzoXW%2FoA%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Annarasumanara-The-Sound-of-Magic-2022-โอม-รักเอยจงมา.webp",
+          "url": "https://movie.fun-gg.com/embed/?Vlh1MlNFWTRzN0Jmem5QLzZTaVZQUERzanJDOXpLdHV2c005QjFpcEUvMzRjTVE5a2xLSWRTdWNhaXVQTW5va1ZEbGFVODFWcktmYVVCSHNmOWRkQ0VHekd5VlBSV1FoK2lhZmJBdDdicmt2RTVGMVZ2d3BlaUxZVGNTYTFrRmg6Oq6Hy6kSG3fVP%2F804V%2Bkt28%3D",
+          "referer": "https://7yup.net/"
+        }
+      ]
+    }
+  ]
+}

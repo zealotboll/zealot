@@ -1,0 +1,25 @@
+{
+"name":"🦭7yup.net🐒",
+"author":"อุ๋ง อุ๋ง",
+"image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
+"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/7yup.net/รวม.txt",
+"groups": [
+
+
+
+{
+"name":"หนัง",
+"image":"https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/7yup.net/7yup-หนัง.w3u",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์",
+"image":"https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/7yup.net/7yup-ซีรีย์.w3u",
+"import":"true"
+},
+
+
+]
+}

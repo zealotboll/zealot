@@ -1,0 +1,598 @@
+{
+  "name": "Prime Video",
+  "author": "อุ๋ง อุ๋ง อัพวันที่ 3 กันยายน 2566",
+  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
+  "image": "https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
+  "groups": [
+    {
+      "name": "The Peripheral (2022) ท่องมิติพลิกโลก",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+      "stations": [
+        {
+          "name": "Episode 1",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+          "url": "https://movie.fun-gg.com/embed/?b3RRZ1Vic2xpcWxpTXRMTHczRGRETWlFZDEvVXNDVGhIT1BQM1NtaFZnQ3krOGw4bCtQTTQzYTU5OHZoVHUxdlVzWnIwT2RJb0tZU2xteXZob1NHU3dMWGo2ZnpHL0Vidmdaamc1RWJnbEJFUVNsYXJBVk9MalMxRVVjZ0tiYUQ6OhWnorUM73S8HQpRm7kkTY4%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 1",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+          "url": "https://movie.fun-gg.com/embed/?VzM0MTRHaklOTzB4NlA0UzFtb1pIT1JTaWQ2MzVTYldPYkVVdUZQUXhCcm1sbVh1bnJFR1ptamlWS2hNMDNwMTNFblo5cGpIM21WUDNZOVRJSmU0VU9XdTB5OGY2VGNwR0RYTFVoRjE3b1JmbkVyUlQzbWtnQUlEcEhjVkt0ZUo6OlBIx5m0xu0zaDP150QZqIQ%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+          "url": "https://movie.fun-gg.com/embed/?ZkVSSVZLTmRqdlFpSUVlaWxMdXk1UStzKzJpV3VibDRYK24yalFJb0FXU2Z1SGR1ZlpvVFpzbWFGM2I3ZGdqVnl2S0tiNXEzb3FVL3UzcXVtak9DendpM0h3K3JSUDA3cUZZeHNsRWQrZG0ybzFUTEVsQmpJSTNtcGdiejE4Q1k6OnHezFh0TnY2nupPGpO9HNc%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+          "url": "https://movie.fun-gg.com/embed/?UzdTbFhYZXNJUTh0WXBYV24rRU1uTkRPWnU1bkQvbWphY1ZWYnU2TFlNdmRSUjFHNnBNTHFoaFB6RkFmV3VVOHY2bVdxTnFwZS9DdU80RWt3TTdmNDkzT3lHdzY1KzA1V2M4ZE4ySVRsU3FVVngvVkQ1aHQrMkx5bmJwZHJ0YW46OnuO3MX3UcJ3LHDfiFSAif8%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+          "url": "https://movie.fun-gg.com/embed/?TElvOVpsdUpodEtpV0NJRHkyTGJGM0JIM1VyVTVtRU5Zd1N3TUxLUlV5ekIxZ082YlRXU0RSREYyR2QrdFVaZE5QL2lpbzZoaHl1SmNnU2V1ZWU0ZzlETEZCRnh0ZTFqOWV3WUlsVHUwandzSjlwczNaMU5OWTdjc25PTk1tQUc6OmS099jPESiIQ2e8exEIaD0%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+          "url": "https://movie.fun-gg.com/embed/?MTQ4aVk3dHJHTHFiM0E3bkYzcGFTWXRrSGxrRFZib0hoNHFlZG9JMHZocHBIVTdyUUM5LzJYNXp2ZHRkbzdzb0dKVnNmRE9aUU5CaC9ndGozSG5jcFdicjd5VlppZ3o3SWtheUp0Y1dScktvb3ZiV1lLclJpZlFXWDZFU0NPZmE6OmPjPtWmT4DXmYwTQEb3Ouk%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+          "url": "https://movie.fun-gg.com/embed/?V3dLMGJ4bGVMRlhjQ1R6c0FsZ3pGMnJ0cGt3TDQrU1VVdmNiK3IvazdWL0s1bXNaWXo5NERxZkhUQjFmK3pNcFRvcUFvaWhuMFJBUFlHOXhzMUZuK0paNWxDQzkxNXB0MkpjL0lBRFp3eTQvTW9YS2tjZXNqOUxRUEsxOU53cmU6OiRT82K9AxCkLtPbCLE31Mo%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+          "url": "https://movie.fun-gg.com/embed/?Z1UvbVBoamk5bVkwUUxYOVZzUFhGdXlkdHpwaUhXdTdZTzdLNWtUNWRGYzlzNTZ1MGtsdDN0RHFJeVJwMDZOdVB5VFVnYk94VzVJTDg0azNuMk9KYnJ2Tm1nRWJaUlJscGwxbEhnaC96enhYOVY2V0JoN2YyM3lGL1R4aTZrTys6OrMNbTr%2FTvMQ8TMt3p1CiH0%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+          "url": "https://movie.fun-gg.com/embed/?c1VpdXdobjhnZFhDLzZjQnRFbk4vcEI4R0FiYlJpdmRQRlhORXkwRnFIME8xcmdiVjEveUhST1psVG8wbjFUaUV1MjU0RWJ1UzZ4bzZtU0tSbDZDSXRtRzlMa1FqUXlyNmszUjl3YWxFT21rODJ0MXNwNENPK0p1RUl5VC82MVA6Om9ayNhCMQgMWw9PZwc8KwA%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+          "url": "https://movie.fun-gg.com/embed/?S0VZUXZDSzA4S2JNTU4vdWQ5TjVWN0w4WnVodEdiYng3V1poSGhIcmkwK3dvdElNbzg5MC9COFM5OTc2N1kwR1QwWkJ3bklPQ1dxSzcwOFRmOXpVS2VMMFh4Mk93b0k0WmZvd2dTcEV4M2RydHpXRFpTZmUyMmR0bUpEWW5LZXg6OrZ382Q2OFWui2DW8ucWwoU%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+          "url": "https://movie.fun-gg.com/embed/?bkNhenJqc1RwV2R3REhMTlE5YTZJMHpKT3h1U1NqcGloVlF3UDhQVWlxaEtvRDJpMnpUcUZQWUs5RnFtakNVQnIrRFdQQ3VRTklXUUo3SzUyYlNQdGVsNTQrR0tQNmNKb1VHR2pWRTRldkUwcEhKRGJtbWdmdFUzTjBZN0p0SkU6OijA6%2F4kSHpg5nBrldMwBzo%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+          "url": "https://movie.fun-gg.com/embed/?dnhoRktjT1lpRzRqekgvaU9VdDczVndybXZnaDBDRmVtQm93Tm52SmtnVmI4RlJydWs1S1RraEl5cWxVL1ZjNFByZkFSOUkxZFhXaUsvNzZqMU9UZ0dVU3pVTzBUVXhxOFBTc0cvQjgxMzJvSXhCQnorYmtmNlU2TlAzM0FHY046OiZ7zo214uDwieZieI3aANk%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+          "url": "https://movie.fun-gg.com/embed/?bUNSSWdUbzdYUlNuZEdKcnU2RmVGcVlvbXZYRGJwZzh3dHZEYWxlMUdQTVpkT0QwN3N3cmpaSFY3ZW5abjZNZlBoWW9ad2F1b3AvbUU0R2JYYXBkeVNla1NyclVhTjkxSEFUdTlMZjlURFFKald1L3JKZ09mSjl1UlpWSmNxSmc6Oq80VApMmfIYIQ6KK8empl4%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+          "url": "https://movie.fun-gg.com/embed/?M2xiZzlCN1J5ODNBVWxnUmszVDRoWlVRUkR2RnczNXE1L2g3NytPZGxvWW45am9GR3RsN1o2MXM1YytIVVpzdjJXZTA4ZWlsSDZFY25qYWdDSkJNQnplWEtsbTBCQXh1VXJ0MlM3bXZaeTg5OVd6N1lIVGZ2SndKSytGRXlHT3o6Oo9UyPJKtiKS99R2yol3I5A%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+          "url": "https://movie.fun-gg.com/embed/?UFUxNHJnQzQ2TDI1Wnd1Z21majlPWm5pNjAyL1JIVFRXVEZwZDIrNkx5Uit1d0xxUDdQN0JyU2lNNnluRVBLU0k1Zk55U3NsREJqSkxDT0tOWWJhZ09wYWZDbk4zamF3OHJaS2RrVUVpK3ZFQUIzaXh2ZkVVUk5jdlZIa1JqR286OsKjSthsAt2VGesDD%2F4F3iA%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/The-Peripheral-2022-ท่องมิติพลิกโลก.webp",
+          "url": "https://movie.fun-gg.com/embed/?S0NrNDRBZzFydzJzT0huUGdKMi9rNzRLMFBCSGs4eE92Z2RjSmxON3dMcVIweWZaUlM0ekJ3YlRHNTRPdGNXL1NKZWNhclVPUG5pam94L3oyMDdxczFBMUROVmxuWjJHNUVSM09ETjA0bHpNcHpxVEpHNWVjOW1XdVBHanBNeE46OmfunV1%2BQDQ8aZmCfthr4k8%3D",
+          "referer": "https://7yup.net/"
+        }
+      ]
+    },
+    {
+      "name": "The Lord of the Rings : The Rings of Power (2022) Season 1",
+      "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+      "stations": [
+        {
+          "name": "Episode 1",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+          "url": "https://movie.fun-gg.com/embed/?U0lKZVVLVkhQMklWM0NoZmE1TFlMT1A2V1o4U29sQWdxY29ERk53Skl6UHh4bGVEU2g1L253NkY1NEc5SnhRdk0yZ09rZEFIVGJsd2E4YTh3NTQxRkd5ZjIxVlJRZzVkVVhjVGF1KytpRmZoVVRzbUk4Ty9jaWw4eWZVWTR2a3I6OklnKdO6Scho%2BCdj7mrRDEw%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 1",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+          "url": "https://movie.fun-gg.com/embed/?SmU4TjdnWDFGV2hiZEZUZ215UEN2U0RYWU40MWRDOVVXa1pRNTEwUHRrbjRZd1E1TGpiRU80ZzhIejAwbGY3MFVTUnpRS2dUbkM2NFo3S1JyNFY5OCtvQklEOGFOLythZGx1YmhEdm1JMmNOZkJTRGp5M3RtRlZkLzFjQ2plSDA6Ou0r%2B%2Bx1r%2Br28mx4wnNN%2BnI%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+          "url": "https://movie.fun-gg.com/embed/?RmVVNkMzTm1LcWdzUGNkOHRUNGMzU3p2LzVUbTJ6Ni9TT3U3Y1lQN1VtMGFmcnM5MkhPL0F3V1ZoRlRXbjIxYTV4dnBZKzRUSXhXRWRHd0pRQ1h0RzVpbU1NRFFzd1JYSURsQzd0M1poSzRGR29rYTJ2QnBQc2lvZWJ1TXRDd0w6Oq2YyGevSYnLQYh2E3%2F5jeU%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+          "url": "https://movie.fun-gg.com/embed/?cXpZMitrSy9xdFNZU2JuL0RMVzQyMnpoVWNuNnl4TU5qcEJGN3VWcXFrM3lYTktvelFhK2NaeGVDRlhWQloyVm0zMXVYelBUeEFQK0FwZ0toUkpQQ3h2YnVLSW5BNWF2NWVIM1dUR2hEMjBGbEF1R21mN2M2WmZHRjAxNXdCM3A6Og%2FhbpcStDIjSwmLNk3%2Bt84%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+          "url": "https://movie.fun-gg.com/embed/?Vi9zNC81U1B4dEZRekk3WXBSSVhiMk00Z3BOVFp1WHVJNy9oT2F0U1krditBNEw1a1ZOeFI4THVGa28wQWxheE9WcTVqQ0JyczltVUE3azRRb256QTRFblBLaTVpRHVyNGVQcFBQN0JiVFNWeVUvUWV0WWlnU3Y2azRFWkhUT0Y6OjM1iTZD6bfFepmatPijHag%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+          "url": "https://movie.fun-gg.com/embed/?RjFsbFFnb3B6eUpVZWlPYnQ0SVFueTM2UDZPb1lLYURsVkFRN25xNk0xMHAzbk9RYXFPY21XQzdiUUFUNTRQTzRaZlJMMnlKQTJBekdDTkc2RUs1Y2ZBQXFnRmdCVkVweXFvREtNYWhFWi9WZjhtQmc4cE9FdGp4bVNNeDhxK206OhKdupq5N2N80IlrOFFBJrY%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+          "url": "https://movie.fun-gg.com/embed/?cWhVcGwrOEZkOUd4UnlYVUtlMW1yRnYvOFBFZXpwNkwvZWc0VEpTblMzazdYQVF6VGpHNjc2eS9OdFcvUmZ5bW93QWVVakFvZ3BXbWNOc3NWTDh4NHFnb0NsdjRid0RrUjBpeTZPa3EraXdjaE5oZTFZL1BuaHJ2SHpja1FtZzM6OgZpdpv61bhuuYVlTE%2FcywA%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+          "url": "https://movie.fun-gg.com/embed/?bnRPTEMyaVhCVFRBUU9DR0xuR24xNTR5VWlkODlSZWNWR2Iwam42OUgwS0s1emxsTDFEUDVmNWoybGk1RllCTHBSbEdhbi9ZbjVwVytlLzZYQUR6WXdLL01HblNidW5XL3hnMTBDekMza2NtVTdiTlBSdjVSN01XOGtybm0xMHE6Oug0zKFkLmlrPkY%2B%2FuPbhCs%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+          "url": "https://movie.fun-gg.com/embed/?T3kzcEJ1aGloUVg3R25PZG5OQzVuRWxiOTlpMDByQVcwNUI0d1B2bkV6ZWNlcHhOZ3NYb1BWVGUza0oxdFQ3MTFSSDFzVGdmOTM3TGNORnZqMUpnOHVCdlJlY3RMRG9JZHhpZzc1Z2lKcUtuSVprQ1RVdE0vMkZQWW1ibjRBQ2U6OrzX2m2vph%2BmHgWQTRC5A%2B4%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+          "url": "https://movie.fun-gg.com/embed/?NXdtY3pobG5MWi9NR1FEc1orSzR0aGNZNmNDblRHMkpXTnhpaFZLZ2xlTDdpa1BCYmRuQi9CMUlDVm8zaWEyb2JtL2F4Rkw5b0xHWEovdEhKcFppMkQ1bE1weHc0Tmdia1VnWXhUdlRrWWZZMUVMZUlUV2NRbW5tc08zMkFtaVI6OgmNADyZRuhZqd2zztbZM68%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+          "url": "https://movie.fun-gg.com/embed/?cGhxUTJHVFNWTlBFdWZSR2RDc1pxZ09mbFNKVWxONDdIbDI5ckNvZnlQb3FuWXN0ejhTallwdDI0Unh4Z0QzRG1aM2RmdmNONHYwSVB4dFZnYUx5N3QyNmNMc3VsQUpEeWQ5TTNCWHUxNHpkN1lJRDZOWjRwanhjZVAzSnFnTmE6Og1eMqyla42OqfjNuUO78n0%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+          "url": "https://movie.fun-gg.com/embed/?TkZCWkYwc1hhZkJrYzQ2MGsrSkgzaURpWlFPWlV2U29zNjBMTGJVM2tnZktzbk5kRkp0N1lFNWV2NWFXREh0L0ZLNWp2WVgvTjFsNUZKY3FjNVVHM21MaU5NYlBobXQ2Nm1GNkJBdWRXNEZQMVJDRWlQSm5qZVpLWSs5RFhxelg6Okyu%2BWl9%2FlPtRtw1sAIhwt0%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+          "url": "https://movie.fun-gg.com/embed/?aE1GRnNobmVHZWw2NFRHTUE2NzJNU1ZhdTZlTDloSHd4Z051SVNOMmt0YWlIc3VmQUVhU3R4bTJnKzhDSkJuRG5qWnYxTHZIWnhhdWpkWGl0YUlxVzJTMzUwNmdKUFBTOUZvT01QalE5ZWhVcjhZWnVLK2hQM21ybE1QN0QrMEk6OnBgVhWZBiDRJ3zYLRvA2aI%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+          "url": "https://movie.fun-gg.com/embed/?blZpZGtzQ2xKbElGUjlOb0hoeU8vTkFCdDJGazZmN2tObmJJREFQb0cwVk1IVngzMi9TdWV3Ty9TY2FiN1ZUVndTdThtVGVHWFFzdStWYm5MeWk2VGpjOWxwNzB1bUpWUlE1Y0xoS2dzNW9NVWUvenFEajM3d2xaMzllNS9BQTY6OuzIkCAP8P6db3Mo5bsnzuE%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+          "url": "https://movie.fun-gg.com/embed/?QVVjelFUVmlsaE93bTZwelhDMW9ianlVMmRXdm8vYnVEeXl4RDBCTmtYWjVwTVBTbTBVQ0xUdHpaRm9iajhxT1RHSFdXTWdidHMxQXVHOTBpN1NDTDc2M1BpQyt4RWpyZU9xTTRWb2hHZThiYks0QkV6amRFNnIwVlRUVWs5aUg6Oua1MCs%2BItxQtgV%2Bhhgg7l8%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/The-Lord-of-the-Rings-The-Rings-of-Power-2022.webp",
+          "url": "https://movie.fun-gg.com/embed/?d0N3aFhTRUF0S3BIcUFVeVVUL1poMjhHWkRCL1Z5V1cyaXVwZDBSQ1RvM2dGaGt1WTRMaXBtT0hJMUtBQ2JSbDNxRVRQSnNKMWlGNWJKOTNJV1VacXlZTUlWemtOeDZYZEhhbzl0cTg2NFNYcWpsalExNDR1R3ZheWxvTWdna3g6OnMwdnUpKZw7dB4tQq0x%2Fiw%3D",
+          "referer": "https://7yup.net/"
+        }
+      ]
+    },
+    {
+      "name": "The Boys (2022) season 3",
+      "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+      "stations": [
+        {
+          "name": "Episode 1",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+          "url": "https://movie.fun-gg.com/embed/?ZFVHcGlja1VLbSs4bjZRUDhCMkNXYVByNWkySUNwdS8vTHZWYnhEMlcxekoyQW1RTnEyU2pZZVF4c3BkVkJkNzJIbFpJSWRSL0c1ZEErandhT2UrdFRqTkJhMEJHLy9iSHNmaUlZSGF5S3UycXdWaXFYNDhPVHhnb0VTSzY5NTQ6OiUcBczIpu9WfHhO01K9GwU%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 1",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+          "url": "https://movie.fun-gg.com/embed/?NFp6b3V2Rm92OEoyRnFlSlJUcG5BSU4wZnFYYkNJTytBZEh4ejIzb0E4LzVjWDlGYmZkYWIwWm4rbXc3YkRKZlVpT0gvR1pmOWd6MzhYK1ZWTENWTThqZlFIWVhPNHBybW4zby9BNnVWSVI0UTBDdEF0OFEwd2Z1NGcyVXd1NDI6Oj7%2BX9zX4AfMtQFaEdNc9Jo%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+          "url": "https://movie.fun-gg.com/embed/?VE0yUFJocnRFU2Y1WVQ4M3NsT09OdUY3M1lmV28zV3ovRHlRbi9tNjc1OVVrNllWbDJtSmxTc0lOZG5ieFRyaW1vSHJSUHZ6Y0F6dEJwWXJpNzd2OURlN2ZLSUVtdVJYYlUzZ2k4N1Z1dlUzTC9OdGxMUm1hSFBNUlprR3BxTVQ6Ot%2B7J%2BnRlt1OJrfGX1rnpVI%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+          "url": "https://movie.fun-gg.com/embed/?a1FvUEx6S2FYWU9DMGM0d2NmNk5pczNHb0Zqb013SEtWRzN5WmYrQ3JqRC9EMTVYTm9RclNWaDZ2aUtTNEptRWIvbzc4ZWtVYlBPS1lhMUJnWUhwSC92OWFtcGUwcmFtOHVsSjNHMnkrb1ZkN0NyZmYxOUVmb3BuTnVmWHBtekM6OhjpB7oxMxzzcU96re2Yqu8%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+          "url": "https://movie.fun-gg.com/embed/?WmplYTBPbUo1MmtheUk2b1lZTWFMUTRMa040VlE2NFhpYUJxalBCZExZUEJFV3BkaHFFeHNJWGFCc2hVdG1LVTBydnJFTFJWVldMQ25iUVUxdEhWUmt5ZlQ2OHc5TXR3aWk4cGhUSS9GL3M0ajhPQmk5UTJhRlpvUXVLaDR1NmI6OhGMk%2BepRytrPOUuFwsOuWc%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+          "url": "https://movie.fun-gg.com/embed/?U3FDS3ZWN0oyODBHTW1mcUloYVZZRzFpWlZERFBqUFpNRUJLd2hzVlJDVlJXNUdhUzRXWjNJRWVYT291dTl4R1U5TGRrSVlpQkFCOTEybEZiUk0wT3B4MnV3L20rWmlVN2NIZ2pGMXBlaklmUy9NMUhBZ2hIM1loNFBKdmhpMlY6OkpSSEPSQJrQ0AYpt7MLHIA%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+          "url": "https://movie.fun-gg.com/embed/?WjFSdkIxbkREVmNWdnl0TVVGckNWSWRlTE1DSGJLUFF0enpZZk9FMTQyUHV6bm9mWFg3MzlGVzdMazZweWNTK3dod2JUNHAzNit2Tk5MSTYrUktwY1Z3UWxoL2lFcDFBdkdZOTBjV2FTbGNoWmJWWjJ2UzY3TUZ3VVk4MXJtRjI6OgnobK2hUWr0JKVP%2BMThKKA%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+          "url": "https://movie.fun-gg.com/embed/?WGdZWjBsMHpJdUFONlhVOUlGRmlVQUlxQmNpUFRnbTNCeDZmcTlsa0s1bXRyVjNkU0s4SUY2Q0owaFE4b3ZWYTA0NDN3MHJ4UHYwbGcyZUZ3Uk9PSjVsSUJ0NjkwQkJCalpXMUNicVdjQVhOTzcxK3lhZGdtbVh2MnRMRGpTbXk6OhvUjiyDOZzJdIPZ1m8oCi0%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+          "url": "https://movie.fun-gg.com/embed/?T01kdXJSRFRUa0c0MktiTjc2YVA2bzhvbkRCU0NvUndSMnBkZUVHZ0lHTkQ4ZzFzekZzOTh5OHRjSXlqUThUN0svLy80dzRNd3pCaUhJeDhCdnRHNWlaRjhEVmVqRTI2Wi9PQkcrSS9VYjZjUm1QYmlibXFSNFY2Unlvb0Uzd246Ogdid%2F5aCkG01piga3PpAeE%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+          "url": "https://movie.fun-gg.com/embed/?Q3J6TldsTm1ocVVEcTNJNUQzOStscUxOdTUvZjd5RWxOS0gvQ1RiVXpmSXpjN05TVDBrYStlU2tDdWdxdnczci9YMWxIMURqTlhVWFpPTHRSdXIyekpFbk4reXVKYkZ0VTJZYWJzajE3RzZLUjdieHNaa0lORGRxVmo5MHBiSFE6Os0dMD3m582%2B00qXmr6AKqg%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+          "url": "https://movie.fun-gg.com/embed/?WXJnWmIzRkNCaFhvRGV4Y0x3cW9BVk9BbWtEOG8wRGFxcFo2bmQ4a0x0NHMwNktUTjV0Mk1CbVNRWTIzZ1I2V01RUkg2R3pnM1h2MkwyenE4V1dCWWk1TFZVR0FzTk9IeDFZQURUNTFKRlQvZmc1QUtMeWlYYVNZYzdvMDgvaW86OsYwYNgLdZ5dE8fIelbRVeY%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+          "url": "https://movie.fun-gg.com/embed/?MHIxaFlNckN1ZmMycTJ6UVAvTjZDdUJYV1VRTXZCYVpKdzNCbGVCbksyaUUwMTJsc3pXKzRNNG9udmNwNUErTDFIb3d3aHhEeGpna056WlhiSmFnUFF2Qmx0QWliSmsrNVFFODRNRDNFYWZrVHphVWtidjBRV2VObC9VVnhPWFU6OqnuzsIDHogVKxXHN%2FAsLLw%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+          "url": "https://movie.fun-gg.com/embed/?eXVzSTRMdjhyZnU5U2tFTWdYVFVCcE4vd2FGcG82UklPVElaR2ptNlVWeGFCNzEvdWx4T1p5L3o4SXd5dEdZM3hJeks1bE1rSHNySTc0d0VXbnJOQ0ZmTDZBd0JISEtDcFEzd1lhQUtGZkpXSjZvWkMzNDByaGdndzBMbFdCZlU6OkIIp6a2vxAVLMei%2F8ZLOj0%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+          "url": "https://movie.fun-gg.com/embed/?NHIzdFNsN2NWMHZ1MDh1dEF6aEVxeEgxZWp3NVIzeXBnTG5JdmdQMHVxQzRDVlI3QjlxV3dqc0tPNkJDN05ZVWh2NXJSQUNta1ZJcndodGE3QjdQN2FnZElucy9icCtSVGd0MXMyOGVzSzl6djNzbU1XL0hEWUJPd1V0d1pwdWw6Oj9V8uOkc%2FlqhdF%2BFPyQiNQ%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+          "url": "https://movie.fun-gg.com/embed/?ME9TWVIyQ3dPWUszeFJObXo2Und0dGsyd3Y2dUVrUFJXSGZGRDg5TWU1RkdER0FoeG5OYjYxVzc3KzZDeEhGOGtiZW9lRVJaN3BtZ2tESnlNd3FHQUhOMUF1WGNUQXJ4OU8wMVBzdUZTVHpNNlovTlhJVXlTWDVWbDE3cXM4Q0s6Otu43tQO9mJiwplNATTlGmk%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2022-season-3.webp",
+          "url": "https://movie.fun-gg.com/embed/?Z0tVSENsU2ovbGl4MkJ1a3JCbldPWXBvOG9OKzk5bi9jOW0zaDVRNGF1ejhyVjFQQUdqdWViTE4zMmo5MlNGeTh1M0l3N1BYaXRzTStKUnM3U0hLOFB2aHdQb3BxaVZDT3AyY3NJZVpKMHNuemJsUnBlb0g4ZlE0VzBJVHFpU206OmTg3FaWNlz7VQvqGN5IpM8%3D",
+          "referer": "https://7yup.net/"
+        }
+      ]
+    },
+    {
+      "name": "The Boys (2020) season 2",
+      "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+      "stations": [
+        {
+          "name": "Episode 1",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+          "url": "https://movie.fun-gg.com/embed/?dlFGcWIvbXdFQU5sRWpxTFN3WXNsN2daWTFReUYzcjg2V2t1N3M0a2tUdW1YQ2thb2x0ZWJRZlBWQmtRTmxKSXN3OGZzN1doWC9tS0NMMFpidUtyZ3dFOXF6c1ZIVDM5N1F0RXJhaE11Z0JrNUN3TG5QZjVhbm1OWTZ5TmxyYjA6OizXlZP4AMSzB5FSLvx%2B16Q%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 1",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+          "url": "https://movie.fun-gg.com/embed/?LzRvZzltMU5PK1VZTDAvcml0K0tsSFdES1I1SG5hWFhHS0lYbGlRRXVUaENCRnN3RXA4MXFrN1hpalZVdEZWWThuSEJZSW9vQ0hCNG5jbVNkc3NrOExWRERlRkFRdnJ2UStidmJieUJIcWkyczVRRGN6WnBMUkx4TzRycHZ5alo6OiFgt%2FR%2BeIRKXzsGh1C8ySQ%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+          "url": "https://movie.fun-gg.com/embed/?dytvWGdJTzVGQzFXZVBOVTREWk1aN3RGMVlLeWtKYWlKNVZRR0svOENhRDNWcS9LY2dRdzVlTHpQSXcxa25jNXBBdGxYQ3dNWjFpVnhJUjFmemJUb2xIN2hFL3VJMDNjQVJNWVdONmQxNnlHTGcwTHNweG1Za2FwMTVHd3laU0s6OqnjealkKwDxj32t1ky8JjQ%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+          "url": "https://movie.fun-gg.com/embed/?cnh2NFhObHVydDFYZURSMTFDRFZ4L2Z4UU1aL21qS0dJNWFLRnVFTE05c3hacm50WXJCMm0vRjArVnFrbnNLSUZTQ2hqekxYU1YyQ1BmMTVjSzZPWlV4RE5HVDBqb3BjSjY2WG9CdEsvV0tTOU00aEIyeHZmejcyaXJCK0J1VmY6Osdl1LHcZdlnu%2FIpl9U9E4E%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+          "url": "https://movie.fun-gg.com/embed/?WmsyK0kxOTRlRzZ4TExZbEI3aXpBYVQxS3lPM2ppUXN6VE5TYStGYm5GTEQrcDlnMnN3VGNKcEUyNzdiMFNOZjZUSkcwdFRxNDdSeGJoaE1HS3B1Ykc2dnNmNmJGckFJMXhxbURKclJYTTM5N0JsazJRaXBFVUdxQytTZUhiY2g6OiUrvfoZdixO%2F%2BJSk%2BR9rLY%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+          "url": "https://movie.fun-gg.com/embed/?RUJQVGMxUXVNWW5UVFhKS1g1QmFWbmdCcTJxWnhLT2tlSlZvbkxxVUcvVjVrWnhtWm9takxpMVlkZkNXSEF4bkhKZFVqVGx5ellJK05jR1QwTTB0UjBsL1dobW1kYnRQUk5scGNRNk5zWU1HZVArUmd0N0FidUJnK08vRzFUQTU6OpUuOpM72wVbTZFi8XRow6o%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+          "url": "https://movie.fun-gg.com/embed/?cjhNcjhtS3krR1FWQ0xoTEtvV1NZYitUcFVnUDZUUFlTQ2VJcCtYbFFBR3EyRE5jczZiQjBCb2gzQm9GKzhZajkvV3ZIa1RaR0lUYVlVWUhnM1IzcjhLRC8vV1M2OVU2RE1FczFiSzQvb0QrUUx5aXFXL3RyTVl1VHFHbnAxcFU6OoaeIkqJAUtuywTWaf6rhZk%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+          "url": "https://movie.fun-gg.com/embed/?TFB3aFRjdXlwZmFhVHRJUWVxM1B6bFNGTFZvTGRJYUlFbG5NUEk0M2tCdFFuVWdtQ3Q3L3hYMGI0RmsxT0orYy9TdjBSSHJ4N3BnQko1anNxN2E0VG5OL2g3QUpvb3Nsa3BDcUVEY2U0NHR0dU0xOVo0NkVnaXNjMit0MmZBU1g6OmfWNrqX3N2hI108syRDWeA%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+          "url": "https://movie.fun-gg.com/embed/?N2F0L1lpUENTeEZ4WURJOW1CY0YwY3k1UjFWcyt1VkY0U3N3M05pZVgvbytlTTdCQUUzWkpEbndVNElLNGtCYVVEN08zNUNoenlCWEc2ekM4VmpPSXczVjAveFUrbGMxdWg1SWVsb1lhRE02dkQvV0wxUXJYUGR3N0YxWi91dFY6OuokF6ZnNWR7%2F307Pl42yrY%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+          "url": "https://movie.fun-gg.com/embed/?cFFtb3pQS1Z1elgvYkhvWTA5dUt4WjVqN2RkTGRJWU56K3lPaVFMWTAzRkRXQzYwUTd5SWdDSXpaZnpGMHdiMThXQ29pN3RnMzBVQndMaVlTTlB3VWJ6RjlXeHR2QVM2d3Qvam5LODgvVUtHUmNtelJIWmd2Mm9YL1d2cDFkOUU6OgqA8i6viGPzAgE%2FXfn5i2s%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+          "url": "https://movie.fun-gg.com/embed/?OUxReWdOYW5WQVpPYWUrZnFEQXRjeDVTQmZwUnFucWtWQm5LZFhxbFdSdDFZWXRWVmdTYUFMYVArTjFHWFNzK0tFMkl1RlVHbm9xK2l1NTg1cXVvUHB4YkF1WFo3cEk5anBsRG10OE9KRjlBc0lraE9IK1FJVnpEcnBBNU1hZTE6OjWChXflmkuE%2Fxfe5rVkYFc%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+          "url": "https://movie.fun-gg.com/embed/?ekpQSTFXUVE3SE5zMVI2N3ZuU0xMaHNSYWtQZ1FTRG03ZkpOSjNvZ1ozSlo4K3Q4VzYweVBVTHdZVENORElSUEszQ0FLd1l6TTBTb1hmVmJFU1RJbEJORDZpdFF6OHljWDBxdzlMSGxQSVdWWWthMnpYZ0NYc0QzaDZFL2FQdU06OnktP3iJBW1YQfvRXaBGQUg%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+          "url": "https://movie.fun-gg.com/embed/?VVJVb3llYkR4V1d0TDF6eXZFZkl4MWFROTZWN2R6Uk84YjRRMk5QV3dNQW05NWdTSk9vUG05LzZaRHVCWjY2cUxOdGhXWmZlVWdQU1YySEhqZXVka0luS29ZQTdvUFd4UHZRbjRGNWFaZlNSL2xtM2RzNXZUWDVpMEk4SEtkbEw6OnMvlpZuuHJWTvTf9wZQwVI%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+          "url": "https://movie.fun-gg.com/embed/?M25UckZrRzlNYk9GQWNqaXJRbkdZUTNhaExsaUdtand2YXJuY3kxOEExdWRCMzY0U3llTEpKWEpyRDJqNXBIbUpXU1U4Zm5YYXR3TTR0MEJTU25EVXZ3ODJwREZWMGxwaG9wdUNVVlg5Q3pyclZaMG4vZTBqMHJuTGZaVk1TTXI6OlXj%2B6dcS4bQULP9S1EZblk%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+          "url": "https://movie.fun-gg.com/embed/?U2xyZlZHdjA4OTZUR21zR3M3ZFB0MEQ2cFVpellhbU9YN3QrM29xdndQVWdDaXlJd1pGWFVSMGlMTVYvOHdCbXdBSXhEOUR1K0l1NUw3bGZMZE5nbUpBUFNxQ1J1cG9uSTROU3VSU0JJb2liZHpqT0ZIMm5kM2FYMnVUaFBYeTA6OpFVzzv%2FC1IMmbx2jad7mkE%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/08/The-Boys-2020-season-2-scaled.webp",
+          "url": "https://movie.fun-gg.com/embed/?UVZwRWx3TVAveml6Mm9laHRpbThmNnhmUnc5d2RGQlpQVGV5U3NyS1FvNWZxK1hzT3VvN2pKcUdLdEVuN3AwV0hlRyszdDJ6cTAwYml4bVZsVFVvbUl1UWprdllHcjVvUk02NSt2RVAra29PZVoycDFLREJIdUNXNVY5MEFNdWc6Or4gOWHmVSTXIxYZPlXEpIs%3D",
+          "referer": "https://7yup.net/"
+        }
+      ]
+    },
+    {
+      "name": "The Boys (2019) season 1",
+      "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+      "stations": [
+        {
+          "name": "Episode 1",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+          "url": "https://movie.fun-gg.com/embed/?dEtLTEN2Z01JcW5JbHo0c295UUlET3hWNThNdCsxZURNYVRxYndBY0IwMWxEUXk5VkM5Wlo5RG1IdmJyMTFpU0FsSGZBYU9sZFVjTnI1MmRZbExwN3hHaWVCc2dFOHFQNGY5VjRVN1hlZC9SMU1LZ1N1TVozZjgvd1FGREI4dkc6OiSu48GhYNIbFd51jouzsMo%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 1",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+          "url": "https://movie.fun-gg.com/embed/?dzBDMnpUbVUvYm4xcG1wWkxGRnliYUZtQlNrNXliRG4wVkJXWSsrdWhobDZFRVVwdm81eDR0cEZOMjhrVXJDUWVWSWRzemNzYlFIZFdNR2FSSjg2Wk8yUURFbkJsc0ZQZVFYcWtLRWc2Y2VhWktVRnVPMThGbG1UT3JoOS9hTXc6Om3AQpaORUgpLtjtdKilscI%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+          "url": "https://movie.fun-gg.com/embed/?TG5nVm9SU0V6TFA1cTU0NHdYbnYxQ085Nms4WHFkUXpLd0VZSnZqTmQ2YzNMc2NpOWRkam1HVUNubWlDZE10c2ZZc0xHeGFwbUtzZUMzNk1aTVppejE0aWxxU0dwY1IzWTNzYjAvK0hORDZyclFSNjQvV2hOU0RrYzBkRzg4aWI6Om%2F9bcXUWcWtOkUvD%2FrXvsw%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+          "url": "https://movie.fun-gg.com/embed/?dkFxTldubFloS1Zmd3pIQzhhZUxFYUJseEJYVDZrYTV3cStBeTNrWStMcG9OQjhqRWxMVEljUHFSZkFtRVZWSE9NWUVlNVIycnNkZUpESTN6NG1FaDB1bnpCVC8zMWlPUDNtZ0ZZVE45TXo4TFQvTFBmai9lZmdpeU1XNHk2OFg6Ol25eGFFyiMWWiwV0l5LoiI%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+          "url": "https://movie.fun-gg.com/embed/?aktNckV2aW5JM2ZlM0lwUnI1cmtLakFrYlVIYmtXUE5WZldLcGVPMitKMDdRZE1KdFNsYy9HY1hhQ3hoeC9mNDZPWlRjV0toSVdlY0w4UWw0YzJKd3pWcm5Ob0hBUHYyYnJ5YjkzcE02QWNuUDVKODQ1UFBlTUtYVndad0FiQjc6OsNfYZJonMUdFK4Z18RhcA8%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+          "url": "https://movie.fun-gg.com/embed/?NHNGYmNJS0QvTjZHNHJid0ZSbm43ZWNPTkNTbUdhRk1HbDVidGRJYU1YYTE2My9tcDZtcWFCYWFEVzY5dVBtdE16UXNiT0oyZzh5NFdXUDhITDBocHYrS0ZTZDcwd2RoK2h5bVFIWTVlMmYzN3Nlc2ZmdjEwU2VIRVgwMzNBVTM6OvHUULaK%2BchXlBWxED%2F1YIA%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+          "url": "https://movie.fun-gg.com/embed/?Q1lBUnZydVlsbGIwMEh4NTJKaktYWVM4RjZESno2b3dZR3JtTmdkVTdvbld0RXl5TVJDTXBxVkZvWDlqSzlYTFpkQXdDSG1EUlhtaHBReVFGdHdOb0N6a1d4RFpCNTA1QmxYV0RlWUQwU2xsSVdiSUZXTnlwTFVFaUk4V3B6NGQ6Oka8xn9TvoXnQfXLniczh4k%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+          "url": "https://movie.fun-gg.com/embed/?dzMxQWtvaHdxUFhrUlhVNy9NUlpWOUFFd0lKUGdxd1VSd1N5dW1sWWV6K2JHMW1xUFJQdVF0RVh4endyTXd1UVU2eDVvejh3OTZhdEE3UnVxS0tGMnA4NjdCQW5NYjVXUHlCbjJOYTVsZ0pqVU5Vd2s3MVk3c2tJZWNMRWpBRk06OpHNWBgIDTinWidjGPWmlus%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+          "url": "https://movie.fun-gg.com/embed/?dTZnTXBTSk9LajlyN2hHdWV2eHcrQXdwd0x3OENlUnF1eTlzZWZhcHlHRWhTNXpDOGF6dDd0U0lUL3JTRitQQndtblFqbTloSWxkNjI1UGxzdmlPOW4vTG5iMHVLMTVtY0x6L1QrWjhLcmd6aXNXaUFsVEYwa0VGTzZMdVVOK2s6OtMN0dYXZez3BOGAI1smMlk%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+          "url": "https://movie.fun-gg.com/embed/?VGdPdzFNNXRIM00rb2pUK2ptbWFtOWRCMStoSzg2SHBOMEV3MzRBTzY3MG9kekdRQXk0T1BES0pXTTNxckcyZm1lYno3RUNMU3gzSTFzL2JxT245VXN1VHVrK3VyUC9xYWx4MTh1VjRUemNrZVdNWFdueVo4WGhIcWN3b3NGYUY6OrZK%2FT96wqzAkPmUSXgGIQY%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+          "url": "https://movie.fun-gg.com/embed/?WVdxK1dIaTc1UUxuRGJRQnJGbit5V3B1Yk9oU3NPZi8zendpQlUyYzBNSjJ0SXFPUHlaUmU5eTNaVHNSM2c2eVJwbWlzQ1p5MjAyVzJEbGs0TDNiOFdKQVRrSlVqQ1hLbzNpZVN5dlcyUzh3YTgxaUljbzJPT2xHeGxpTGpmai86Ou%2Fij2VWB%2B7w9xMIE7oTzHE%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+          "url": "https://movie.fun-gg.com/embed/?Q3E1UU8rMGVLdm5EaGp2UWtsV1pHZ0hpbEZGREVHanhEenk1Szd5QnZobDZBZ1Y0VkVOQnFZSFNFSW96emFGREthTTNma2pLd01lK3pGdG5FR3FzNEFoL01aZm53V2pVOFprQ3gxR2E5ZGV6NTFFN2dnWHpxYjhUQldvTFBkLzQ6OusST04lSkylKb7oShJrrzY%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+          "url": "https://movie.fun-gg.com/embed/?NzlVQ2ZaeGRHdFB2c1ZMdTVKMFN4V3Q1WG1ONmM1RVlMa2pmb2UzNTJROG9nMHBwbXdJUVN4Q1A2VUVjV1k5WGh1b1J2cXhvZHRMZk1FQWVNWWZJa2xlZ3F4RTVuYzAzVkx2aDVobUVzd3dydWY1b25xOU1Gam9uUWpRSTlmSFM6OhCsVGIOEDSwxe41SjF8hR0%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+          "url": "https://movie.fun-gg.com/embed/?NnhtS3U5VWVBSnlGYWJ6Q1BIWGFhSHZBZzUxb05qU25oQ1VSUmszalpRU0MrZXZma29NYkxNM1JISk5XK3huV1k5Q1ZhQjFxZ2pOUVNzWjRTOU41MXMxMW92NFlCS3hPNnhXNkZkQlkzdUhhVTR3LzhXR0FZNjQ2ZU4rdFBRbUs6Om0Tw2LmyP7ZpnJpcRVN64E%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+          "url": "https://movie.fun-gg.com/embed/?VW4yOWM5UG9sOUdGUWltek1QNk55b3dDRFZpM29OOGVwTUtTWHhEeURueU5ZL3RwVmNRUTRmSTN0TStva2kyODEvV2swT0hsOVh6NTJaU0dRRm1zNVhIQ1BVR3c5RGhkS1RCZkRpZGI0YUNiNzVES3M2Z2kzUG85S1djcGxITU86OtXgPjfcfD0KMFiAZiO%2FGcc%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/07/The-Boys-2019-season-1.webp",
+          "url": "https://movie.fun-gg.com/embed/?dkc0MVpEUWw0c3RSSCtBUXA5eU5ra2VTeW5zcU0rMWxzM1MvYnYxdGhUUVVKU0xFcWI4bG8vdWpHK29LdnBqOURMNUJCV2xJNmllUTdLdm52VzEzNzFlVTl5bFEyU2IzaE1FVVJBdVpEMVNERkxFUzdDcHdkRXJwYmxRQ1FyR1A6OvrU0FZXHXLAycX2XJiETD4%3D",
+          "referer": "https://7yup.net/"
+        }
+      ]
+    }
+  ]
+}

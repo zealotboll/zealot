@@ -1,0 +1,794 @@
+{
+  "name": "การ์ตูน",
+  "author": "อุ๋ง อุ๋ง อัพวันที่ 3 กันยายน 2566",
+  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
+  "image": "https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
+  "groups": [
+    {
+      "name": "Love, Death  Robots Season 3 (2022)",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+      "stations": [
+        {
+          "name": "Episode 1",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?OHkyTWhxUWdrRk1UTmxxVWJyVU5rWmRtalhKckJjbnMwLzdTZ3F4amtkUkUxbkt5TitTWGxrMnpJNHVZbkY3VWhENjRaVWVmMWxTSHlrbFFNVGRRWVZGcDZXbWF1V1dlNU4wTVVIYkFNUG9IdEovUmFFRUxhN0tSeVFLWWJqNkM6Og8wdXkwG%2BuEwHin3ycYmY0%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 1",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?b05rVU9NS2ZpUnc1WEQvUVRYelRiQSsybTBZQnJDNWI4enk3RkJCNUREbzZ3bTBDSkMrbDBlU2FuakhPS1pRZXhuMHRrSnhYT21yWGlYcFpJK1Q0dlBrK0VDQm1pcGdWaVFDeFQrSldjVzhtSzcyTWhNb0ZGMWVBb3RzeDNJSmk6OgLVZtQHW%2FD06Tet%2FrDwoZo%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?RDgrelF0YmF2MXorL3ZENFRzVTU5K3lxdko4d1FFdTBmRExoWnhScUh6RmJkMERaaStUQXpydm5hWm53cVFHZDNRWEhpSEJEcEFuREhPRTN4YXhFZldCNndMaHZBRm5takN5bEwzQ2VndGxnNHl0ZGtURzVvZkRpcjF6ZGN4QWc6Oj6Q1QrNKi60AtEhcPDwpz8%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?ZE1Fd2EyajVUN003VVJkdTUraFpIalJ2Sy9VTERneHVqbUV0eURTY0ZJTC9yTlc0YzRrUFlZcFZTMTU1RFU0cFByWk5NV20zV3RnQVk3KzlrMjF3NUc3R3c2cjJMQjdWVitiMWVpRjJBR2xMQkV2K0ttQnZuaVlrZXJwNVZuUzY6Ormsr0qL2L%2FwuHRmPra2r4M%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?MG1pcVF4TEYzbGt2NXR6U2JleUxMVkNIYzB5OEhLcnRSbXA0a1RjM3lvMm9Db2poajZzd29jTWdGMGpNeitrMkkrTFFRK0pnYkdzQ2NYa21TSmVWbzR0ZUJtY0ZEY2t2MDFHdE16RnVtWm5mK0F1NzBUSjU1aFNnc003Z24zM3E6Oo1fwVXZ6lZ1%2BOOZj2pYVHo%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?cjN6dkc1VDFnSjFuM2JueWV0YlVudGkvV0ZIbGlla2d5cnNDaVVxenJoQll6eUx6bTlwUVpoMVEyNUxSc2hzSDc5dTAzTWRuY09jdlFHRW9MNDRLLzZKQmRTcyttanl4d0g0RUNJOFA3dysvU296NUR2dXNmSWpQdTNzRTJFcmw6Oqra8V9OGsFYmv2qnaC1ds0%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?THprOGc3Um5sTkdQRW1MOVZ2SkR0Ykx1eEpuT0RJVGtCUWJ3YmF1TXFwQ0g3UmdObDQrT2JMNXRTak8xaEh3OUphRjVvV2lRa0FPYW5rWE16ZmNSbkZMZWszeTVrNUxtdlZRQ0JKTDJwK1JxcHNvclFPN01TdDFMOGtqalZ0Ym46Omx8JgRfhrhmLniqSz%2F%2By5c%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?VkFBMlFmK3ZURzJlN21QWFUxSFpMd1dVTmw5VGl4S1greXc0bXMrRys4MnJuOHlUcU9HTkxicEpsQXNSaWsyMzhQOUxkK3RJbWhCQVhjbEFiMm1VdXI2NTBTN2VMYjJBMXVhT3pGd3Mwa3hPdnZVUlFtMTdCaFNpZk8wOG13TUk6OrXsrHWnhDD%2B8zE95xwSHQA%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?TEVya20rQ2l6aE9PeksrYnA2ajRzY2hPbFlNWTdjZ3ZQTUdla09jL2hmNElVd2RnUG9lMitEZWZQZ1lHbXdBK1haaHZ3Z1NBeUFMOWk0ekR2Nm5KcEhsM0NJRFJGYi9yYllFR1RpUXQyNmtPdTZxUVFMc0oreE9lZE5SYmVQS286OjWutVmr8HC6jbWWM69lZOQ%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?SForOHJRbFFpWjh5dStFTGc0dlQzdk00ek5nRlZKbkVjeGdlaXdrTC9MKzJ0Zkk4THJTVURnTitsQVZBN3lrNlhXZEtHS25wZHNtNk5KMy82WlQ5eDhOMHRvdTRNa01DQUNMeWR1ajl0NjdxL21zNDh4anhKRjBnU0YwZzNPRTc6Oou1Vb%2Br9HlymFEQ%2B%2BK4f64%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?OXB5UEhzMS9RNXVzR0tvNGZYQlJOUm05Y0VvamFCVUU2VTZpZWUxN0xxMEl5Vlk0QkNjUVNyc2daUXhsZms3OElOL3BjVXpCT1JSNzhwQ3JKQzBRQ0FYbXhQdktCSjRTaGhzS0V4QVlmd1RwN0M4aC9vYXZ3ZThlYTIzbzYzbGU6OjCA%2BOlmbnyIXM8z48rEqlk%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?OENJZVJxNWgwMzR0UlBjenRGc2U4SXhxR0lzRCtuWDdxVE16QnU2bHdmQWpST1psT0xaSUZ2Y2JqMy9ncjdqVWpPWTFkbmZGMmRGNTh5SmVCbHp2d29KVEJQaW9BOGh5Vmt1bTRVZEllcC95L0VkcTlEOSt6Wjg3UlBYdWhXWHE6Ot9jD0YuzOc%2FJ4OaHvob4bg%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?OVpNRWxiYVVVTlhXVEpxTm1rNEdWRmNWck0xK2QzMXI0SU5OaG5ZL0NpcHdCOW9kMDVaY2FPV1VFLzJuRlBFa0tPRmxtWUxURmJVRlFwZTNJdDhMYmZFYWFjL1c2UWZ1cnV1N0Z4NGRBMmo1dnhWUnpuNFdBTGpHeG9jaUIyRzk6Oksil%2Fedj1gytBlr6uk8pFQ%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?Nkd2Z0N2d01Eb0xNdHZXL2JDVldPeGw0RTBRdjBFZ24zbGRzYWFnZ2hBam9oZlNmcDAzMnpSU2pQRWR0N1V1NHYyeExOMkU1OFdscGZMaWloY2pJY0Z0VGgyNU8yNjlRRlZHSVNvMjdQZlk1TnlOVVMrOHNlUGRpSjBOeTRPTXo6OnDRw0AQe9UNZnCk%2FrmGAz0%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?WGxScW9kVUNzZytKMlNHOS9zYm5EN2diekttSm1VSk1yenJVSk1MMWttaTVHWkhFYzFMblZPY2NYMnh0M3ZYSnhwdTlQRWd5eGJrYzJrM3pxVWJGQm9SQzVBYTQvSHA0UU5PZzN4NmlMTUdYYTlkdDZEaFcweFpFaWNjMkxWL086Ou4FfqpSIz2hUD688Qeea84%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?NzZ1ajV3K1laQ2U2cHJyZmMyZjdRRE5lNVBGaitmT1pWclRXWGlMN3pTc2l6ajB0YVhTcGx5My84YmRTcVJHbDhZTGVvU2poQmJXRTRudmg0RTlFQW4xNnZUejM5Nk5GWktxRXJHUXlRenhESnVzdDAzWW1CVU95bmpKYVd5OHE6OlWamN1%2FX5cg08i4AP76cjk%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 9",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?K081bjlCMkE3TDVpSFVnOFowT01sdy9jNWEwdjl2TXRwTEdxK2VkU2htNm9xZTBPQ2lFcGxzN2RiQ0ZYN3NLOXVUU2JRK05Zd05qekFwckprc2RyYmZYdUNvcFRsMGJKSkN5eXo4bUZMNHFZY0ZHdk1GSitGRG1CUzVwMG0yRkE6OkmSusoQfx7gW0LX9UK%2F3WQ%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 9",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/MV5BYTNiYTNkNTAtYzE3ZS00ZDQ1LWEwZTYtZjI1NzYzMWJjY2U4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_-1.jpg",
+          "url": "https://movie.fun-gg.com/embed/?bGo2bVRZbGtOQm5VT1FzUHhPRExJbmtnTS8vNUI4bWxkbDBQeGpYTTE0b0J0ODlXMTUrWTBxSFlGdEpqdGVORFA2dndHazdIRmp1bUVuMHRtTVhFaG1GRHpYdmcxd2pqUXo3ejBNVldqMEYrY1BhMGs2aEloTk03WldDU3J3WlQ6OgHlJNY13WU8AnXTyWUgvoQ%3D",
+          "referer": "https://7yup.net/"
+        }
+      ]
+    },
+    {
+      "name": "Love, Death  Robots Season 2 (2021)",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+      "stations": [
+        {
+          "name": "Episode 1",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+          "url": "https://movie.fun-gg.com/embed/?M0dSRmNlL2lYaUZHN3Zxdkd0V3paSHlEVldVblM0Z0VaYVFTcElYQUxIMjRJRk1SempOa0ZVVm5Ga01vdGpiR1IwZXdETnF4cUI5YUtCTmdWY0Y0WDlQT2NBZUN2d2hkdkVXcllvTTE3V3dPVFBLanQ2UFJ1NEorVy9mVklhdVY6Oktklwg6ObiMTmP2LdHznq0%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 1",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+          "url": "https://movie.fun-gg.com/embed/?VWZjR2xNR2hyeHBHTG9Lb3hwTzFYUEd0WVk4ckl0TEZpRitXdGs4LzJ4SllXQ1JtejhHUjgyTWNwTFNIY0JlbnFzU0xRMEcxenU4dWJnVDFDc21XZXpjS0dOamhqWmw3Z3NVVTNmVnNIOGltM1p1d2tmRnZlRVZNcW5vREFFT2I6OuQQopAvjFu8vgOVWbiLF3Q%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+          "url": "https://movie.fun-gg.com/embed/?c1VmRFJONUNjRmM4V25CNHFYbWdoUE1sUWJtaFcyVDRJalBDeHFIM00wdGQyVXpXTjZtQ05OdlIzVjQ2cnBpM0huSjh5eldiZ1dWc24vc2lXbTFFM1ZneFA1YUo1UzRHSzdDWkw4MERHd3lZbUV0VDJwTER1SENqbzFya3BLcGM6OtkOIFXIP%2FOPZLFcvFy601s%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+          "url": "https://movie.fun-gg.com/embed/?MjF3RzRyN1RtNGgreXdYVHk1NCtpNzVCUmVRa1BtQW56WTdYQndQd3Fma0hSOXdkQUxLZHIwdUFKNEF0QVk4QXFOVG8wYzE5a0w5YmdjeGtURUxsY1lLS0FBL0ZuZ05oNkw2UVBCd1JsVkJwSjF6S0Z5Z1NrcCs0QytyaWxvSVc6Ovd16Lb0lElV7POmKppjmXg%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+          "url": "https://movie.fun-gg.com/embed/?SnpQanZPVVJVKytPZkUvT1pKSVgzWm83MllHU2ZqMEhQSC9DWjEvbnVkaVRRa3ZGdnJXbTRPM3hiU0ZuSGFNM1dKVkJDbkNZYVluZ1pad2tzTy83U2ZDbTJjU25vU1FlL1Vxb2pVTG1KLzlwUEd5T0ZNZHFTNDNXbnFHWGxqSGc6Ov0CLgJhXppq0borEy3PCCI%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+          "url": "https://movie.fun-gg.com/embed/?dEhvalZKZmZCTGYwNVlkb2RMaXZuR2lhWWlSVEdlbHRCZXVmQkM4azJpZ3lhWnVIWkgxbGlib3VtbU9IRmxWa0FOVlRIUnhZRnEvUU5CRjU4VGNxMkJZV0R0eXMrT3o5c05uYisranlJaWtMdkxSQytML0cxYVFkNmtsb2NYdm86OiGRSs46dBCc%2BtvBLld7uXc%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+          "url": "https://movie.fun-gg.com/embed/?NDlvNmJ2L3J3UnRQWWxjUnZYTnd5LzVKRmRKM2h1WnNHdmRGSXhCQ2ZrV2pxMm5SSnY5RHc0ZUZITnZXRHh5cTdLdm1MUHNSb09xd055R2RzRmdMMUp4VEVoelZQdVpNeXg4VFlWSG1EUTFDOEJiNUlRaUVrN1VIaXBGSHVqLzM6OvKn3efVSHDcXHUNCwqTr9U%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+          "url": "https://movie.fun-gg.com/embed/?V1d0Uys5SDYyQ2VvdW84bW10UHlQQnlBSm1kYzBpdXUwaWhZRGpJYnVPeU5rVFdzeXo1QzhzcUZNVWNoWno3d0hQdDVqYXc1QjNidGZxZlpTVzhKRGNLN0lhSm5pRlZ1aFJtR0IveU1XS25FeFF2TGhhRjl3OUJBSG9hazJEdUI6OuSHEQDUR5WgXZfvcFIPrig%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+          "url": "https://movie.fun-gg.com/embed/?bmF6L0VZUW1VVE1US0crMEgwUmxYK2ttejA0TGNGVEV0cThjTjF5WWFQV3FZU3hNNkE2UE4xc3luanFBUTFyTXVJYWNVMUViNHVXV3ZCNG9wem5PY2IyakcyZHlSVkZrSTBFM25iRGI2VXYwQlhQR1cyd0xFOFRYVDlFaEFSUzU6OhqesND%2FbFz9FgppJ%2FkX3co%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+          "url": "https://movie.fun-gg.com/embed/?blRGQmtFdFdkcllrenJLL1FOS2tBd0Mvb3ZNV3FqSGNZMFZHZmZWbGIvaWV2bVZzWSthTUNmUFVWK0tTVWhxaUNHSVN1MDFsMW84SmJxd3h1bE9TeTFVRG1ObUpaOFdERDV1TWZpZW9qRW5SU1RUaytrT2JUTi9zdFM1Q3hxS2s6Oh7aS%2FYhdvh8RjFbQpx8Ry0%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+          "url": "https://movie.fun-gg.com/embed/?TVUxR2xWWHZlazUyL3VyeFVTdmZpcWFzRnhsd3FuOGttWkFLbjJWNjE5MGJCbFNyU0ltTnVhR3BzU1R1OUZVUHNRdjVPV2FyMWRmblp1Rms4QkpwTlpLd2ZuOW54TWlpVmdnbjlyNVFFNkdGbXNqSUwxT1pMb1lmRHVJTFhndDI6OpW7VFCk6djAkV8b9X%2BHpvs%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+          "url": "https://movie.fun-gg.com/embed/?dWFBb0wyWSswNTJnckp2UUJGN01WY0REb01kWE9tRnNjYnJzU1dla1NPTml5enh2QTF5NWhWaUM5ZzZxSW9Wd2xtZUtsZ0hHT3hVaGZuYmQ2QmJHaXdEMXNYby9iZnhzOFBMYk5qcnBHa0w2VytnQ3ZIeC9CdFgwajZNeGJEYVg6OiLDbFmnM%2ByDoTMBX0UPhfM%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+          "url": "https://movie.fun-gg.com/embed/?RklZVnZzOHVoY3doVnNlQStaRHkxNmM4Z21OVTVETnhHWFR1MVlybFFxWlZjZWxuVUJuUVBSV3Q1VDlhN3JKVkJBeFhCSitaNlNFd0xScGplMUZEdytxbFVjRyt4WEpEVEdKa2xWM0F0czR6VmZWMXAvbHlYMmZvS2g5eEVDMDI6OhKFUSxA%2FkhV01Y0E3MkJeY%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+          "url": "https://movie.fun-gg.com/embed/?VG5sY242dTBZOEJQdERPY0FHVDludjRUUld2RlY5M2FjblBBTkFsYmJGdEE3RkNsbWxINmxJTEcwWkQ4UlhxOE1nWlppcFdKQVZ6WnRyV0FrUmZRS1Y4OHFlSWV6eE9QbFlET0dvdnNRMlVDMnZuY0FRK3JiYlJnQ05oSmFBVnI6OgtuBV9ktPd9APHu6cgGdbg%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+          "url": "https://movie.fun-gg.com/embed/?RkxVbUVacER6aXNCUGVYbHhFOVY5alovUVJYZDhJSjVGSCtQdGliQ0ZrNDc1VkZGTWJjTGZIVld0YzhBWDVDTnppU1NyRER5QXM2N1IwYkpBTUl0Q3hmSkkrcWRWSFIrWVJyRXZzeVBqN0lHQW5HU0J6Z1dWYmNHc3NMcFRHRkY6Onqhcg2Udkx%2Be8RwjYk1FDM%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/LoveDeathRobots_S2_KeyArt.webp",
+          "url": "https://movie.fun-gg.com/embed/?dm5vUFpFRWVmK3oyVFhMS1pQdFBOK0VvRFJXRlh0NXBWV2J3bzQ4cXVZLzg3ZXhTOUUxSUFUdVJlY3poMGhpZzJJaDZnRHJtSTZ0SUgrVERXdmNsNjg5aHM4Y2FCWDVDbnZkMlRBN2dRdUdrU3l1S1VKVDJIbnlYczBQUERqNU86Orb9fpZIawaFIcDRisge4uM%3D",
+          "referer": "https://7yup.net/"
+        }
+      ]
+    },
+    {
+      "name": "Love, Death  Robots Season 1 (2019)",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+      "stations": [
+        {
+          "name": "Episode 1",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?WSs4V0RlSWpOeXJlWmtYQnZSL0RDS3dvSVh2Yy9CM0hBY3FaWUFVTmI0NHBxd21VZDFGajdrOUpPNmVVZjc2aVNrSTM5NFljVXRGY3VRei9XNEJjVDVnQkJMVkVmUFdUd0g0cXB6cVYxWVJBUXNvZHdNYnFMVUJsdE1ZbVJ0UjE6OiowCbOrSCpFqwW7ue5O88Y%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 1",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?eHFhem1JeDc2blVQQXlmNzUwbFFxK3lBQVBGSmM2dEJaZmlYYndtdE4rcG5Xb2NtYmNsUUJ6SnJKazZ0NTE5VlRaTk14b1NaUkFFM0ZNV1F5VElVRFRNNUVyVU9PeXpxYTlwNVBmQmt4dldNOGVVQWcvc1pPMmdESmFMNktWc1Q6OocLM%2BzlQdRvObXps%2F5rqLE%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?cTFwbFk3V25qZWJEWXY0Wm51NHRxaFdRSE5SWHljbGhzUHlKYlVXWUswTkRoWlpkcm5qUVZQS0JLb2tHU3pJRk40bWp4aUdxZzA1a3FtSWtlUWF0OHQ5amVPNW5SWlRyUTY3VTlNakNvNnpTWk55bFVVb2JkQm94RkxLSXpBclU6Ou51n42bmBuPkbQRjilANmU%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?RWNrR3dzaElwWHVyVVZRSlNVdlhGSG4xY2VjcElxVDlUN1ZibGZEUC9CUkxoVi91RXhPK1IvYlgvOGgrai9zMUhSS0x3NVBOWnZoTVBrbmxEVmdWREEvcE9WK0pMMHpEaGJXS2JRMWpMTlNSZG82eWE0bU1mUDR1ZmdTeTgvU3I6OtzyPZQIMBCZ4yWcddYF7yY%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?OHBkN0NQekNSRzJRWTVCdjhMeDB0YXBFVml2RkdkUGhHeWFXa3ZJUENGcEQ1aHdrK3dVNzZwK2dzbjM5NnkzeWRHTFh1MFh1UnptQ3BlOUEwNHRsVGdaRW5UWjk4Mis1RkhDL29iQlF3ajJEaFFpcVVVNU5XVSs1NWVwcmNZeko6Ot3gPOYxKCNAcEw%2F%2Bt9RYxA%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?ZFJ0K1Fvamo1OXR2dW1MdnROU21hV2FYd20rQWNyekl3d1g4cmhtVzZRSXNPUENyZkw0NE1ZM0x5SDZRSXZUc2ZTbkJDaG52QSsxeTNSR1VUOFk0Z1kyL09lR1Nuckd4bnVKUGJmc2xKZTNGT2pkK1pTR2QzYXp6Tk9YaUxUaFk6OkfJ5j9cmO5MZX4XI8J3ZQo%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?WWRncnNUaGU2K1RTR2QxY3p4MEMybzVxT1ZENXZDczdzUEdZSG1HeXFnWmhyRm9XNTVYajd2dWpQbUt6QmNFbGtjc093eTVIampjalRNVUVLaktUWi9EQmVpQkZ5ODJaenBBOGFXNWhLd2h1aHBjd0RuUUdUckVYQzFNQi9Qa1E6Oj0hDOrSVWWtuVA78bnBL78%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?K0w4MEpFRnkwTndCSUdHSnFsRW93ZVJPY1dJVzh2c3kxMzNmWkdCcE9nZTJ3YjBOZndYdkxwWWt0ZWVxVlBSdmdNSEdhZjN3bVpZcnByK1dQb0puNWtNd3h4NytyN1NvQWdqZFVCdFZxcUl5cVZUVW9WZ2NHSE16T3VYWHQwbjc6Oux6Re%2FqFplmJuxdED3UqOw%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?djhQNTZOb2JSVi9UdTNLVzlpWk9NL2dBd2ZEWXpRcUVwd0dTc04zeGgxby9mZi8zSHN0TkhCVkp4d1pSZVhwTDhraFM1SlVPNExVaFZtbWRHZVNBdnBNdXRrem84WUp6dFZaRkZ6bUdoRmdnUFpOVWg2OW5nUk5WYlNvOHVrOVc6OgoeqUlWUTfSa8C%2B25R8CQU%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?YTZycG11MnI3NTFoSFlsamF5ZG9OR2g3bGM0SnNPZ1Nodng1UWJDUVd2dkptbkF1T1VVS3N2UzFSZm5wNTU3anpkYVJaOTJaYmVrcUs2TnJ2SUNEZW8vVkJ2U1VEN1hVTjlsamRWK25GQ3ovc2htMzFHeG1qd0FCK3NJY0FiUy86OrOzEMWnGMs6LS44JRvI7Fg%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?cklrV1ZZWkFEWmVzTUFteTVZL2M0a1hWWk9IU0VKSmttbUFMY2ptT0VvYUxZbUJGVEFSNGlKUFRmcnRPc3lhVXcrd3lKcUw5VmZDZk1icmhwR3ovYytCclBPclh2aXJyWW5UWDhhQ1k0UE1XQmVPUFBJbStvaUZQKzBKdys5R1U6OmoA0OT7UR1%2BPXxcOJZdzFE%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?RkIwUndXOVphWTlCMC8yMHBUbHFBRTJtNGphTDNSc2FvaEY5NkMraVlWc2M1U1B3MElUZ3graTFrQ1M5akhPa2VDNnd5RVdDRHBFbkZXYTZaeTdsb2NSajN0TnlPSlVDNWpPY2N3K0p4YWJvS3gwa1VucVV3VmhOTTA5SHZkdk06OiQoIOXALIIgtLUYehcTJZw%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?TE9DYlZhT3M2VlJnM3ZTRTZqN0pWOFBDT0wycUFMQUFnRHBrc0dXQTRqcmJ2dlR2Q2NTdlRzWEUxWnpWT3YvWkR6RDhNTzUyZGNVVTlZemRVNi8vTXFKNGduQkpDbldpWjhYckR5Z0RoZDFtbEJsOWlFbXRqSURYSUxGR2VQc2Q6Oskhumn6O4XP1wNv6QzGs9I%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?a0NXWE15YjYzSFZVY0ZSWVI0MFN1RHRGc25aeDVUMVgxa1ZVUjc4VTBxZW1ZRzVVUkJoeS9yVW9RN2FJTERZYTZ4aDRCNys2VjBDMmJ3U2pCdFZxbWhyb1NNM2J5QmxFZFRoWWxqU2h5RElCaFhoR05kTWZreFlvOSt0SmVVeFU6OhqXEPMidxe2V8kLdXjIhsA%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?cE5HWnJGcC8zYVl3eWZVenExWFJ6OUpYaEhlMitGYVVQTDdzeDEwZm9oekgvc3dLUFZCWkxMOWJKVE1jZ0VlalFGQjYwKzlNS0ZUNW9EbjVZUzVQMEZKV1cySlBpdTdyTEswNEt5WFFzWEp5ZUZmMHJWeFF2V1FmRGhpRDF6bU06OoKnQHE5BX35O504KI4ltes%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?dGxDNzNNbHhKVXREZjFhUk05dmVSbGFPaWNvd1lMeVorckdFeGR3c1FEZFRHVTBvNHA0UFVFTm1vZW9KQVI1UnBNS0VQYzdNd0tRejZzZUQyaUpkMEF0OVNmak9nSXhWZHVSaVUxSDVrMXkxOXhSN0Yrb01pY1FZbTgvekNXc0Y6Op%2F2rib4cUoSqQCI2ssQgsw%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 9",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?VFVjQlVKUG1oM1pTb1JIckljbGJNNU5YSExKZkZwNysva3laTVJpM0o5MUFBYmZKU0JtZWNnVzhpZU1SeUVtYWorL29ycGhPZ2NmeFJERnhxNk94SGJhcTFmcnZITUtRRWRlczM5a3Z6cVNNVnBVWDRaOHdPVEQvYXBlS29UMzM6OpWEZdzgxlKhH5A%2BJNnBjjE%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 9",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?eGhTQ2VsOEg1d3pCUXp3UmFDRGNML0t2TFUrZWNPblJJWUdwVk5rQVJMTVZyek91Vk9vNDFCNWZ6SDlEcStpWUFDK2xIRTdMQmRYUjVkUktZMDd4eStHRERiMzA2Sk5KZm1rR3BvYU9MSzRjL01qSXVyWmNwQTIzMmpzSG9QK246OhALic3DFtVv5wQ21s0pNbA%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 10",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?bVY1SnNXdHNIZ25Nb0xnbUprSSsrZ3VLOFdxektSaXJ4eDcrejhqSU5HVHhNdlZPaUFvd0hFUnBrNWdrRVV1cXB1UCtuNitRVk8rT0JmdWxHZFpET2JYaDArelBzSzFGemloRWYyREJzUHdhWnpEd3FRUzNZdm5nZ3pFaVU1TUU6OrSqxqegbwCUif0v3BI61o8%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 10",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?MkpQbjhWS3lRMFBGejBjQ0tUM2ZmNStCakhTQ2I5a2tQeUZGNVJVTC9IVlZDbTVPQld2VTlxb2w1dXlTVkYvUkV6QkJhcjVtRzJCSWhUOVMvMkxwR2RuZWFpOVJNZVEvOE9mMHRjSXAzaWtaY25ldVpJS2dGM0F3dUxNWFlOUmw6OsULQljQETV0JHI75jzFxwc%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 11",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?cno0dW5weThSUGpNeGdXS1NWcWVQTnA3dE1lTzJNZTR6YjdJZkIrVWk2RHlxMUpNNldwc2E2RUthUXo2Z01LM3NIbFFzNnJHVklDL3VQanBtNThGWERGelU0SWZDQWNGbHcrWkFtMElnNjArQmVKbC9sZ1c5M1ZQS2g3THU2YlY6Ogk6TVK0QKYiR3HZomdxej4%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 11",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?bmd2MkYrNmlURGlpRzNLS0syRVBIV3FIVDhSSmpzc1ljdkMyRW9tRkpTV3R1VXIzYXlheGdBK2RxTVVObFU1SFFXdHBKcUIwOUZBbUM4SVYwQkQ4WVdmblhaZTBueFhLeDArVVpJZGxHTlJBYWxtaDNNSUsyS0kyK2s1RWJWeEg6Osfh5bT5Z0FL1xiLn825SY4%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 12",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?WkZYZ24xUUdYYXlwTmtNNU1uTnVXZVZDeld0SE0xY3EvMFBDUkhyU1dTMktDNXlRK05pclVqell1bWhMTlpNVnlWQTc1VjkyS3RYMUc2cEM0a0tWdXIzUWpZTTdlR0dCRDRUQWt3K3Z0Q25Gem5YM0x4NGpWczFqNXQvUjNRREs6OrNgOr596utDIc0sHjQfJWQ%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 12",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?TXVWbXlheUM2UFZLcXhwUFZ0RXBKYWxIQmlKbmdudlN5S1FDUnkyeEk0bDJqczhhWkVNNmJ1MHZ5c2ZyVGNFNWFacUlVemVBVU1kR0tuTW1GSFlwV25XcFZ2Yk5GZnVLa1J2N3NIRm1XYTR3bjNmWGpCRzB0R2tna2RZQ0Mxd0g6OuCmmSOvnpe%2Br9gejSXVwxA%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 13",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?WXFsR1ZNRkJGVWhSZytvWFByS3RISXQzSm5QbG1tNTRwZjdnYjBFdnNSWGRLUzlZNkJFNWhWSkk4UTZoZDhBbmNWZi9KTWxOZVMyL01EQ3ZlTzlmSWR6Ym1XcXhZcFEzUEZQdUpDbDVQMlo5bGEyWUFvZDMvVWg5VEdUZHVrcjU6OpgSoSgoLo0gNMpp3M4i7hI%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 13",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?K1Z4VllMY0pSZkw0R2c4WXlKandJb3VNTzlkSTMvSzF6Z29BT2RaZVRySWE2ZW54eDE2MHg5RVFhVTRyRGF6UU9Lb1RjRTdEa3h5TGxPczhjcml6bzdITDRQYStTUEVmQkJWK3A3OWJSd1o4bHh0d01DODAycVMzWGhVV0prSmE6Oob3x9Kz9%2BTLWng57J%2B0iYM%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 14",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?b2Zma01kWGE3QnVlZWUvUWhlcGV2UjJ6OFlyd1h0TTV1V1VvcU1RRkxzVWFIRGQyN3A4SUt0WE1Jak5FVlRuZndBbXhlWGpQWG9JTlJDQ1JxVTcyZXpuVWdpT3hxQXBBZ1JXTWtoWng4eXc4bnpVM3ZwYVpBVjhSR25rK1oreE86OltKdyRfdCMqFbuC8ya7%2Bbg%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 14",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?Yktnam53clBZYW91U0hpUlV2MzByZ2RVTDZKNFpxV0tDZHZscmdSRFlrRmJLNW9rd0k4RW1FL1ZSSFlrc1IwdE1EOG5wUThGN3lDdmFaekdaZyswK05lQnlZWElNVXoxRFJXMHRYVzRnRU01UGpRM0dJN25ZcGhwbTJiV3ZDcDU6OsFi5HifzCML25Vxcz4%2BMzc%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 15",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?d2ZrMVBTcXlHZktIRi94RHErYW0rK0JvTkVXR2xNTFNNYkhEQmp2dGxzOHVyajA4VFBRM2VuT0dlU3NXTUh4VkF4WnpZbjM5a0RiWGVYdDRIL2dBd0g2QisyM0orZ25SaVVrS0VjYkY1ZHVwSUhvWWo5M1lTYWIwc096UlVxdW06Op7ZfLV7eSGi%2FA8xuiPmk2k%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 15",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?bXJselo0aUhubEQ4a0JHMCthbHJKTjFLLzhvdU92ZlhnL2dhZ2RvUW8wV2VtelZ1VGYzT0Frc3NBS2hJRnV4OE94T2lxYWNRUVdXVmJ4VGxUNUZEa2YyZlZScTVET1MxeGdYZ3UyVHZLcDdOUXlRUUQ1L0JpTVlER0FIVjhjWDQ6OiYDEVp%2Bs3DiiIbTBAEfXL4%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 16",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?ZlBTRk1hTXVjTWdxRlI0TE9KZ05KL0oxQ3gzeC9BU3FoTERDNnVORWRUWkNaQkQyTHl3Y0twMXhWVHgxaGdnN29xRnExZ1A3M0NzZkI0dHJ3N1lqZjA5VnEzVzdkbDNKMHRiZ2k0Q05tZUticGZuQlBBbDZHczJ6ME55WWNFTEU6OmBmLFAL2gkBYRL3ERacHjE%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 16",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?M1VrTXNZd2w0N2NqcGxkb2lKU3BDVG1RNlE0NmRhazNmTllKdVZvcFVUclNKcUVGZU5qM3dtWHJlckNnTWhTU0dRYjJVU1ZVSVZnMEJWM3BVQ1dzbG4rYkhJY3VZMVA5dWlKVm5MYSt6Nzh2RjlBRUZyeVJkQ2JZUDBTdHVHQm06Omh524Kv6FYkLVOD570K%2BYE%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 17",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?ektYRkVGaWdwb1p0Sy9vRkRHaEJ2bEJyUGlJNUswV09wK3lVWE9Ib0NlZnNacnVMa2tmYm9WT3RZa2RtcDVJckZuKzUrWUpBM3l4MWl4YVBxMWVlQlVSSUdoOEpHSVFoR1lwMW92cmNLUmNZeFFCVHNIL3UrazVJT0Y2NWN0Zkc6OjL0NdKkoUBZDwkyQk3MTgo%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 17",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?VVBiaUJQY3AwMDJSeit0bW0vSVdKVG5IMnZqYmlzSkdKT0ZiRFduTVkrQkxHQmRkM3QyNXJjYlNpd09vdUhQb2E3ejN6ak42K3ZrcGxWMThLN1B2M2Ivcm1ReThQUTNmREVab2UraU5vVkFNWVpOT1A0T2VOU3ZyVWNtUy93dmg6Osue3NXi49aI0SCAXk71Ih4%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 18",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?SnY5UW9mK21LR0JSbWlVbkhhdkFmRHFhNlFrbXBvTnQ5UDVja3E0eGhUZFBPREhYYW1DZVU3eHVCaTBRRFBtVDV2eURVb2I5VkxLT3VMZGxWbnBKaW5OZFAwSis1ZGQ0S0lGRmk5NTZsUFpCdUtZT25qNEFaUFA2R09QT0EyUVc6OnCuBZzMXKMDUhsP6o7GDAc%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 18",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/12/love_death_and_robots.jpg",
+          "url": "https://movie.fun-gg.com/embed/?VThDMzVXWS9hUHM0K0RXL1NlaHBrb2xkczJObWc2TmpUQ2FsRGdoSE1TYjB3NHJGeW9RcU8vd1V1aUgyUlphVlFhcG16MG01d1NwR1dOZ2YvY3psZnh2T3RQQ2MvZGFEVlZ3d2dZaW92VllBRmZxWC91VmhCV2szR2Rmd2FZdVo6Om5c48blun6ZEqbqQom2kC4%3D",
+          "referer": "https://7yup.net/"
+        }
+      ]
+    },
+    {
+      "name": "Cyberpunk Edgerunners (2022) อาชญากรแดนเถื่อน",
+      "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+      "stations": [
+        {
+          "name": "Episode 1",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?ZTRGME8wT0FmaDFqZFhOWnNqbGJZRGR0cUdkQVZoZmtmTUJjb1lDdWVIQndBOVRheGVjbTJwd243eFRkbUF2SFc5QUcwK0R4WWRiM09pWG1TZVcxcVRrOHhWV210ZCt2azF6Vkw5K1VHUHV6OWpNQklLcmdKV1U2QjNkTzUyakk6OudIt%2FmEEQV4w8Sww7WdsLA%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 1",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?VmhVTHlvcEMwRHNZVjZuTlRic2UvRnI5M2VZeVZiR0pzU1V0dDAwcXlhWTgrQWdjSVZucEZjMC81QmNBTm8wWGNWRUQ5WXZVMTVVZkwzZmRZRXJyRExuaFlBK01uWkNNV05QSEduU3lPa2JxeitRYnplWDBJYW9iVXZyeVBVdmc6OtvMDFoDTnKxezo0ocjaoAo%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?Y0pQRjIrMEpydXA0VElxTlFvUFN3bld0L01hR3d0UzF0UExkQkFRMVZmNDczeWV3a3FKc1hyYWFMdHpscC9jQnd2WklpTE00MDJtcUJyaUtsTWV2OGlncWpBU0JpUkVQY1hlZVBCOFZQbnZ3MW4zYTlWTk1IMVduZDNON3M3bXI6Oq9LZE0PWoYKo2PoZK0FwpI%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?K3E5VURUUHN5VVRpekxEbXRFeXhJNFBzOVB3M2dWR0NtYTcyZDNQUlFJajJrRjRxRFlKZytNRTBFYS9TVS9PMHBQd0d5NUxLTk51QUdZVG8wTUVodDlKcDl6M2pkTmhaT2JQcEZZdGEvbUZmMHNEcmVEelJMOENXN0pGb1h1Tzk6OqIZejOVsitlnHXfVVusApY%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?NkpvZExmWEgzRnZWK0VrNEZhREVPcUVwSkUxWWxCQURydjhJOE91V1B0U1pFdHFyYjVNVTB5SW9sdktiTTBqZERjRm5FcTNRU0Z4WXBTdVdnb2dMU2VrZjhXQTMxMWxwanQ1Zk9tU0JRcVluVFQvYlkyZG13NC9SbVdDSVBBZWU6Ogh1ylwH6%2FN5UxJeRe5OT9I%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?U2QycEFCRVZrUzRMZkgyLzk5Q1VlblFzMTUxbWV3UFo3VzR2L1JRK0JsOW84Ky9vK1pUeXJpbHZaTlFHeVd3cklSNnV2L0d6TjV2cnFBdW9JWTZ4aTJvVmFPbkJ4d3VVYm1lZk14dUdmYWRBR3Z5WjNYeUk5L09tYmxhenVUaGM6OoUgcviS7PqQKMrC8wAuq74%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?dmNidnZXTEtMcHgyU0k2dHVuY2doUVArUUZhSkNOWkw3M2xxVnNwZEJKQkhjOWRVck94R2VxZnZWU2xyNERlbG5ZOTJyZDNWdWc1OGtPQW5XeW01R0E3c1RxTEFZc0VJOHM2VVZJcmU4dG9PMURESkRpVlAvTzQzc3JCYmg5OFU6OoiS6olm%2BlrR2awPOxQR5ls%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?WkFvYXhvQzF0dXhtYVc1RTdkbkxkQ1o2d09ZcE80Z3JyNVdOVXkyOHRvNHZEQmliTFlpNGp2SjYyQ253SmtGV1ZOQXQ3Y1UyUm5VN3BEWWhiY1A2MnRCSDBFZC92OWlqV29MdWtkRFdmSHZLZzREVFZVSDZmcWRzSjV6clNQUDA6Ol4dfYxSRGP8A56lZ4NbSew%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?YzJJa0RZLzY2RXZtYlN1cFRpWjNzb0tkcGFwM2VsaTk0RGlZdnkxRUtrTzJRZ0htS2FtcU1CVVRyMUJvTmVUOHZtNUJlZnVIMkpqMXB3UkdwcHl6SlIxRWNrNEdRdnVyUlc1TGpuYjdUcXdJblZMME5maGtEUkR2NUoweWxPUHI6OpS%2F97ypVRWQhKmdNK9o0zo%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?TGF2TlRmOTIwcy9BL2IyaDk3M3I3U09aUDBkdHdhdkNwYkt2b2JjcXZQOUM2UWQzdS8zSkl2cXFLTnJvQm9OL3JWVVhVWEpKSmc4NEt1RVEwUUU5NG11WkVEbm90YWZTMXV2L0JrZ25ZeElNN2grQm1POWtoTWl1VDJGYWpmTWo6OvGSeSNx0MOE3Sl3xYrbrJw%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?M0VrT0szS1dSMWlzZ0RJREE5YlNHOThVNjUxVXNzcUJ0REhKbHl6VTVTd2loTWxaSGxpcCs5RXNEMGZJSWFVa1hRMVpJMWptcnNhOUhPY2xsS212Rk1BOGVoZkVyc2pYbUpWSVJKREtkKzZGL2FZa3NVdE55NytyV0t2OEVPNm86OreSuKTxGMfHSlWKmN1rhbU%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?Z2VtaDgrK0hONUhvVG5HcW91NW5YOVhiMXNxcnR6c3BsSmtvT1VTbUhsY3VuL0VmTDdlOFlZSlVrTlBnTFV2bTRxaHZsdXZ3a1A4U1BTY3p3d2NSR2M5MkF2d3g2VkdwK0pzcThqYWNsVFMxMlcrb1hlNmRaeGZvMHRFci9NZ3A6OsN45kFzjB9%2BSW0ESLyQxcs%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?dkt3RTVLR1JwMEZOWjJ5MGpKQWlmNVNBSFZYSlJjY1BzbEZTZmJnalMwWXR3L0pPLy9URkpKNHpWNFJ5MTUwZFBaV20vcU1UTGpVZnIwVDBodVlJZVlWQ21SSFVmenNTeisweE4yaHgyUDMxNFNvbXgrQUQyVnNBZnNxWWlZNjI6OuSH3zO2RKYcQQc6bhxJ6Kg%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?RFAyblcvU043alpuMTZJUVBLSzhUTTdhZG9KZDZyUytobDVteGxHNjlEa00yNTRTNTBKMktGWGtlQlBQck8zSXN2dGd5NzdhcStjdDYwLzdVajBtMlIvYTB6V2ZJVUZaS2M4QmI1UVNoOXA0U3VRVUgwZXFNenBkQTllalN4VUY6OoeMoc3Cxv1UzYCyKdk09QI%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?aHJ2NmJXM09JRWtYMjVHNC9Ld1pnN29nK2QzajljcG9tWVl1dE1mU1lzdTI5UjlTOXh5ejRYb1VhZkYvdGc3QjRMV0Z0ZnNRWmJWZHErWmt4NUc1ZGFWMVJicTVsMzBwcHR6dlRDaGVyMWRmNkx0ZnpvTFJOZllmTzVZWkJySDE6OiJhQtDUOelTecNf2xgJSxo%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?d0IvaWRPcG9JdFBGWXlpbnRNODhkODFBZ1FMMGpzM2hTa0FqRm52eXl6SjduYmVWd3h3OWVJUURUZW9odG0zdFlOd3J2UjU0SlFOeWM0alR1UkJiSVRXRElFUmN6Ny9NMnBtTkQzRUVHSG03VHVoZ3h0OFNDek5WdElISUtUNDc6Or9a0bHPS%2B%2BTXnPtXW%2BIFgA%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 9",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?TUtGdWU5VzFxV0w0UkE3ZzZDaWVrajJpM0RySlB3T2ZNWUcxaEx4WERzK0xLSE1kS0xxc3c4ZHRUZytjUWFUZzZBb2tLekVQcFRyTVpQUzBNL2FseWNMSi9FK2ZheVVTZWFIY21kb3NqZlVmb2tBZnBkVENHTlpNNGQ3VkxIMDU6Omm16%2BH65Cvsiy%2BobQURVGU%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 9",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?ZGRBWVp5MkVlNGdIc2RmbGVqNUxRVUplaSt4c3dxVVBNU1hlNG94cTBJSmw1amJFZHltbFJ4czA0RmxMUmxKakpFbzJNQW95T1RHL0I5VkFxdlpnWHh0UnBkUVM4L0VLU0NIRlh6M00xdG9rM3c5RlBvanlOdTZYRzM3LzMzV2o6OuXQcWYIqlMZs7Sr9clz0jU%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 10",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?ZW5PaFExcExxVVJpdVI1TG8xakFVaTNDMXY1djI1UWZwb0t1K0xsVlp1ZVNZcEkySkc0MXRQN3hwbHE4Zlc2aGNtLzFMd3NaQXVSS1NDOXY0cCtHd2sxQjhHVjVMKzNodCs2WWsrampudTNFcElPZlNaTG1BZGhwcFF5c3hpcis6Okbj5grGaaO6%2Fh4N%2B4Kg5k0%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 10",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022-อาชญากรแดนเถื่อน.webp",
+          "url": "https://movie.fun-gg.com/embed/?RzR5Z29PVjlLeWh6dlJCRVZoRkFKQU1zSGNkU1EwNHVKdWQ2QzVSSkdIRlZOR1BMM0xLcGxRS2JMY0NYL01xQ1lWcUpLc216Uml4bGREdHhncTc0dmRHQkZGRU9pWlN3anRCVGN1M3prS1BEcU5YOHhNVHZZd3IxRTgxTmxqSDQ6OhRHTLRh0xkqpaF%2B%2B0vcMvk%3D",
+          "referer": "https://7yup.net/"
+        }
+      ]
+    },
+    {
+      "name": "Arcane League of Legends ss1",
+      "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+      "stations": [
+        {
+          "name": "Episode 1",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?MVh0V1Iybk8veDNEbmhER1Vtc0pkdElKcXMvbEljT1dDTElmS1pCVFBJWDZVbnBoTlB3VU9oOFVRU2xacHJrZmtzY0ttUUVIWmx4enhEMHJZcUkvMzJ0OXhpaVcxSC9YM1RVWVB6Smt6cDVNNENUMHpScXZrRHhEQVZtYnNJNG06OkavozRAyPPkVHyI5q7oopk%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 1",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?bncwWWc4Rk5tNUxEZElSSWFFa2pPelVwKzZ4a0xIOVBVMjBldVZMMGFtazQ5OVdra3VDRjBkM3VNbnRVNG10ZzJZcGYyWEp4aExPREJpc2UwL1VFeksrSTJYY1pYbFZEc21lRjViQitVVVpJRmh3WWVERXRmVjUrZXpjWTNPTmE6OkEhleXifEblpQveLtExrfo%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?OTAyWE1WaVZudW1kZ1V2RUtUSDF0dXZCMHVWZmFTc0ZUdERXYWhuWXpsVXZBWEplTXRUNG00Zm94YnhnMzNSME8rRXlTMjFGblNLdUxhMmtMZTQzR3l6R2lYTjFRQ0ViQUNjdjhJSTZSNkM0aEpsbmN1SFMxRENNdTBGd2V0U0o6OulCVPjmMKMyGs3%2FudK0on8%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 2",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?cUdySUhCUTR5bmVZcWxXN0pIMHgzMTZnRnc3bTdtVzl6Tk1qeTRCbmhwZFdkN0hPdlMzS0VsVllkTldyUnJKZEh1OXV4T2VxZE9OcnljbkJHcXZJV25zZTd4N01kdGdkU2NLSVIvT25JRW11UTdGUEVaTitnOTRsUmxrV3BjVlM6OhCYNAxmxZwWOSpL%2Fm7stNk%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?QVJiL1p3Smw0V25xR2ZoK0hFZ3dUaC92aTQ1M0o4NFZSZ3hxWUs1eWpaVFVYR0lJTjFGbWxma05Pc0FBMU0zcWhlYzJsSzc5M1NTSStJU2RSUnhBRjRQRHFwSmVWTHZxaUIxbkJhK25WYjdDUGpHYTJyVmR6Z1RiZHB4RDViUEM6OpbJy9YbWkl05M0chXlVzmU%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 3",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?ZmNMRzBZZERKUDNaSTFFYTExb2RNdEt3NGNha0ZnVEMya21zTmdjSjZ5b0RjTFIxdEZaYjl1ekQxMWlMU0Rzb1JmR1M5VllsaCs4cExVV2xvY3Y5cW1jaXJYS0JPWjNCZTlOUEJocWdFdXRVallweFRlaUNoK2pzWnpRTm1ENTg6On6kYVS3KpJVbb%2FYUhwPCPc%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?KzZTSjZHbHoxaEgxN1YweGVLNysrbERTWU9MSkVydmlSRDRwbFdrdmVFcXZnek5PeVpBam9UTEJGVVpvZldid0l4eEhZN28rRHVCdi9uVHZhVGpMeTFyWmF0NmJOUmhjYTJua3F6ekZZTUJIN2hCeUVwNWRRbjhZaHNrajEwN0k6OrEjA5DQP6kDBz%2FjuHfVsAI%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 4",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?R1hTaU5YMGUzUTBkOHlsQlFSdUg5TEs4ZnkvRmY3bHRXT1J0Vi9KRTY5eXVLYmMwTTQ4NnNrTlNhWS91R1JGZ3NkS1loSGRJbktDSi9rZDI0dGFPZWs0RjkxWWVscHRQSk1QWGNYazB5N0JWUnhKaVJESGM1bjF5OS95Ujg5amE6OsDNvFdzjsI2s1M88YTuiF4%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?cnNiNXgyT2hlVGh4ekhiOFAwakFGWldTOEg3MUo0NzNlMUFHeUlFOVQ0RXhoNlhwbXJ3WHcyTmNHVGhIQnZERXA2S3VFb3ZaMWlaQnNFaEp4WGlmQ0puMENXWGpnVjVmR1FxY0RlbnUrMlN0M1orb3k4OHpjS3JIc0JkSW5WbWc6OsQe9eAVoAgiocmu%2F90fI%2BU%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 5",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?Ny9yYUdNSjFGMkIxZm8vamNJQThOYWt3NWU4cExHbkUxTlVBTWprOWJGN2V3c2tLdEkzUklTbXh1eUlIbjNwRit4RUdOQkhsbmZuV2Y1WGxVUkRvUUVRVC9sTStSbit5bXJXMHBNWk9OMVhqTkxabjhUR2ZBWDV5azU3MzA4ZXQ6OhcKYprfQzj2%2FK1sAywo5wk%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?Q0xqQ1NFbVVWYkxUdXZEUDRReE5GWjNEaGptRHlFQW85V08yNllpU2V0R3hUYWFjU0FRMmpTNXJ5RVhscFBNYzdITnFvQTJvYXZ3Rlk4R2Zta1hrK0sxL0JKOUhEdVNzNDJqVkpTeTFERzg1dWhSV3oxcHlTeUNVeG14U2hLSGo6Oh6JAloERFu%2BDA43eK7VaaM%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 6",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?d3kxc1F5NWp0OHRhV2Nia0JUV1Ziek55aVpYVGd2K2ZjcHg1c2VqQUR1T3NMTjFpRFlNZXZUWTBBYWw3dS9rRElveVA0R1psRjBxanRSNXdiM2tBOGRmVFNiZGkzZDlFQ1k2VzVocWI3d0tBellmaWsxL1JpdnVmNUZFRWZ2VFc6OiGH%2F28Fv%2BwTbz5VfkE10oE%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?NWNEZ1RCTFhDNTdCUXAxUlZwcnJQWEd5bk1GU1c2TUltTklOSnMyWEJJTWYvci9OT1UzK1FsL05uc2FIcS9FV0lLdnc1cFRMUXNNdDJJeTBrTW9XNUJJcWtmM0h4THBpNGV0ZHlkOHI0UnR6KzlGRmNmZGFwaUtNWEVmRG1zTlk6OjSk3AS0siEndgvczKxJuX4%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 7",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?dVJpQ3kzZ01VZ2wxQmJYbWQ5UU9Oc285SkR5QXprRmFpdFFLVWkySERyU3lVVEF0WS85MjNMeDVnVmZtNWdLVlN1Z0p4c1I0MXk3cFAyMlEzM1lxVm5zb3R4aFpDVCtFYkJIa1JwbGlkVzYrVk1jR2RSbUZaOXF1amp6dWRMZmo6Ov51Utr07hhv8uSJUNXpjM8%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?Y3NtaTBBN3EvNUxrdDJGQ0MrUklKcHRxN2QvTmFpbklLZWxkMjIwSjRLUGRuNll5VTBDaEF4TXNVMmJoVFVwbXVlUmc4ejRTdEJCUEJuN3YxcllqZVJZUXpPRkx1R2cxUkJSL1NJSkhCZlhaUXM3Ym5jUk1hdE5PZ1dDRjUyakM6Ok%2B4SeVG9rJTlvBKsgLE3tY%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 8",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?U0lEb0orMVBGRjhyTEdRbkkwOVRBN1BuNUZhS1l5Ykt5aVVGRk5USkZvaXpMUHcyYjQxckRWYWdVTDEvY0FTSHhOUFJVVzR0bm1ZNVN0QVcvc0Q0cEk4RXI2clNNVDdGbjhLSkkzZW82NkpZSjZKZ1lJTngxT0JSbGdSZENLV3k6OjMLgU5YGH4VRgyphQ9ncfg%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 9",
+          "info": "เสียงไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?KzdkTUtMNlJHK1F2Nzlpb1YyU0s3M1I3bXpVdmcwQ0RUNUxzaEllTGl0SWVOK1IzNndISkUwNEFtV2ZnM0J2UUVQV2o0RkswYitRcGI1RE9KZFlsbHdwSXVMRDkwdTgvNzRqNkYyV1ZpOGNwTnY2aFVYZ2o0N2l3QVlIMlU4aWg6OrrO6Us04s3SBilsYMA87g8%3D",
+          "referer": "https://7yup.net/"
+        },
+        {
+          "name": "Episode 9",
+          "info": "Soundtrack/ซับไทย",
+          "image": "http://7yup.net/wp-content/uploads/2022/06/Arcane-League-of-Legends.webp",
+          "url": "https://movie.fun-gg.com/embed/?NjZ3MXp2dlpGVkUyaGlrSUVqU0ZkWDVuakU3VUpPOVcxZ3RORmZtcTRlclJqcDd6c2dsYm1VeW9YdXZ2VDJvWXFKa1lRT0I5OE1EMUl4aFhJWGE5WnhlZk4xczNvc1RFUnc3UGtkVCsrTTdsWGxoai9oTU9WU2JVQkdTU3orWmw6OqXKvPneuSijbSPvmOCWASQ%3D",
+          "referer": "https://7yup.net/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,624 @@
+{
+  "name": "Prime Video",
+  "author": "อุ๋ง อุ๋ง อัพวันที่ 3 กันยายน 2566",
+  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
+  "image": "https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
+  "stations": [
+    {
+      "name": "The Initiated (2023) วังวนปริศนาฆาตกรรม",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/07/The-Initiated-2023-วังวนปริศนาฆาตกรรม.webp",
+      "url": "https://movie.fun-gg.com/embed/?aksxWTVxRGVwWDFTdDd6cWwyYkhLb1l5YzBJbEQxMk9rQ3hLMk1WMVpnRXBNVkdaMjRydGpBNDdTa3FGcGJaMDFzR1lpS05pMzF5TUtFNVhJbnlJSE9DR1I1czVWTmJZZFIyZ29XWS9iVXM9OjpfJNOuBxDs3b9sp2XWazOY",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Coast Guard Malaysia Ops Helang (2023) หน่วยยามฝั่งมาเลเซีย",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/07/Coast-Guard-Malaysia-Ops-Helang-2023-หน่วยยามฝั่งมาเลเซีย.webp",
+      "url": "https://movie.fun-gg.com/embed/?TVc0SVBwWWdaNGx3bzNheUo2SFNsRElwTkpKdW9iMEZCbjl3WW1zeUtGT2YxMm1kRENFNCtST01Kc0wwMU96bGNCa2NqQUNlYWdTTHZXSUYwUHNzV2lrZDA1Yit4TlBHOURFaGh0dUJ5Rnc9Ojod%2FPAa2iBY6y0XUPiwdQYa",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "An Unforgettable Year Summer (2023) ปีที่ไม่อาจลืมเลือน ฤดูร้อน",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/06/An-Unforgettable-Year-Summer-2023-ปีที่ไม่อาจลืมเลือน-ฤดูร้อน.webp",
+      "url": "https://movie.fun-gg.com/embed/?dkh0WlFKRWxuSkpEVjBncS90ZW9jako5dTFrRWl1cXViUUxrS2Y3VC9PM0c3Q0VUa21kTGVHSGtzVU0xQ3l4TWd4V2FOL0sxMUcwSVRBYXo2Q2NPNGlOMm0vVkVPaWF5WkthVWpYeWVtVjA9Ojrw0zpOm%2BWMdOS9qEErGW8U",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "My Fault (2023)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/06/My-Fault-2023.webp",
+      "url": "https://movie.fun-gg.com/embed/?a0Y4WFlVeUdyMWZvY0FMdUdJRmJVdFpRR1lja2dBdjREN1ZGOHlpblFNWkJzSWkrSUpGUlk0azFaQmRsbExJU1IwaDQxaUdldnFMSVJJRStvQXM2SU1IeTFFTUd1NkZORmRCbzBsc09KODg9OjqugQTs8FFK9O0shRM7AZf1",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Medellin (2023) ข้าคือลูกเจ้าพ่อ (มั้ง)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/06/Medellin-2023-ข้าคือลูกเจ้าพ่อ-มั้ง.webp",
+      "url": "https://movie.fun-gg.com/embed/?QlpCbEYyRmVtMFFHQnpQckpqbXdDakxvYk9wdXQyanMrTVBqcWJwMGsraXlHQlEwNnVUYVFWMmRuRW1Sczl1VVdCVC9uWjhzczFsNGNNaFJEMlYrRWlvdmZuWVREbjJINHNvdUY4cUNPZHM9Ojp2Q8meKUt53DSAbJPzXdft",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The Tender Bar (2021) สู่ฝันวันรัก",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/05/The-Tender-Bar-2021-สู่ฝันวันรัก.webp",
+      "url": "https://movie.fun-gg.com/embed/?S3ErN2F5Q3lOaUFobzQ0NDIydzFNVElTMVRKVE9xOWd2YzlLY3RQUmRkWUp1TEc3dks3MzNmYnE4L1p2M3hMWmNtdXAvWHFFYlpzUkVjalJkTUpTS1c5TFQwUWJOUVJhZktVbXg0T29aNVE9Ojqr0xwuh1%2BWJLkXLmWFHiBS",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Don't Make Me Go (2022) ก่อนจากพ่อฝากไว้",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/05/Dont-Make-Me-Go-2022-ก่อนจากพ่อฝากไว้.webp",
+      "url": "https://movie.fun-gg.com/embed/?a0dSWWh2enQwOXYzbDQrSmhPeVphc0szNWpPTEFYbWErTGNjOHhFMEYzYzNKbnI5dzc2SkJJSXhaN3N6S2RoNHZiVEFoZyt0THBYeWFPT3B5T0ZXRHJkOHZKT250OUVld2lpUFR4Sm1hS2c9Ojr%2BzCSok%2F35UWRE476Rh%2B4n",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The Lie (2018)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/05/The-Lie-2018-คำลวง.webp",
+      "url": "https://movie.fun-gg.com/embed/?b0xQMVMzbDRnR3JzSE5aSVFHWGJ5a05rd3REV0VNWTIvVGhUQWZRb2tHQ09qN1BTZ2pkQkhHZktzN1dEZDdpbkFtTUlXK1BGcDBBMVpqczQ3a1BNaFc2dGw4Mko0VnRVeVRzUitWQ284SUk9OjqSbM9la46AEYK0KLP5hDgN",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Blow the Man Down (2019) เมืองซ่อนภัยร้าย",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/05/Blow-the-Man-Down-2019-เมืองซ่อนภัยร้าย.webp",
+      "url": "https://movie.fun-gg.com/embed/?VFN3b1dXMUtydXJlRFNWVFhqMUZUY0dQRWYyb05DOTkrWlZoL3BpLzRvUE01Y3RnRTBXM3FybERIa0ZSM0I1MFJHczBTTTNzSWdwQndnWGtTTTJ6UXRqODV2UGVza1BVd0NVUnFGTzV3Wlk9OjpNtsMR2Qt%2F0Xw53uo4RFCY",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Air (2023) แผนล่าลายเซ็นยอดตำนาน",
+      "info": "เสียงไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/05/Air-2023-แผนล่าลายเซ็นยอดตำนาน.webp",
+      "url": "https://movie.fun-gg.com/embed/?RStMRFBSZjRZUWxhbzlzNFMrQmgwY2krdDNxQnJubVV4MDBDTlhTNG1GUTdDWk1RMVlMSXg0aG9SYlhjLzI3M2oyMU91QklyMVJEZmZpdktoS3FCK0kwTkdvVVpEdmE3cVdaM1ZYVDd5QzQ9OjrPCedNvVZdNycfryzoSe9G",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Air (2023) แผนล่าลายเซ็นยอดตำนาน",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/05/Air-2023-แผนล่าลายเซ็นยอดตำนาน.webp",
+      "url": "https://movie.fun-gg.com/embed/?SWtuR3ZRa1BxNkkxWVNseURLL1lBdnA4akdPYmN4dnVGRWZwRDdBRWVXTjd0WUZYMDcyc3hRZWMyOE56TTJLSksrcjV0WFE3TGFsR1BhWnRhOUNmWWxUM1B3Z2JCdm1MaGFjcE1KRVgrZjA9OjpIUYwYlWteBAjvgG%2BJ0gQp",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The Mad Women's Ball (2021) งานเต้นรำของหญิงวิปลาส",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/05/The-Mad-Womens-Ball-2021-งานเต้นรำของหญิงวิปลาส-scaled.webp",
+      "url": "https://movie.fun-gg.com/embed/?dXd4MWtyVnRLSVpPa3duTnRWemxBY2lWN0J5eEVwSGJseCtwR1pJRDMyOHFhcHBwNy9aMzMyNm5QMzA4dC84aENpWGJRb0tpVnRDT1VkdVRiZEJ5MmdNMUNjK3NwQkZsK1dvWHJ6dVZ3cG89Ojpui3FlYRuLbPF9kXRyoeJ%2B",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The Aeronauts (2019) ท่องสู่แดนแห่งความฝัน",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/05/The-Aeronauts-2019-ท่องสู่แดนแห่งความฝัน.webp",
+      "url": "https://movie.fun-gg.com/embed/?ZER4ZTZYMlBqOGw2ODhCL2hxVERjM2RqMmI0LytvNFozWGJTVGwycTVyeUprSXFxSWFCNlN1VXdvazRXb3E5VE5sbTFxTk9CSWIvSGp0alpGanBKQUZ6ZDFOSy9OUTEyRHh6eDU3ZllJeEU9Ojq8vNqYHsUXrM0xfdXm7FT8",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Gangs of Lagos (2023) แก๊งแห่งลากอส",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/05/Gangs-of-Lagos-2023-แก๊งแห่งลากอส.webp",
+      "url": "https://movie.fun-gg.com/embed/?ajlVWjR5NzgyaERHUzRQWDNrcG5WallIdVM4OXVtQmp6U3VNU3hkd3V5QUZGdFR0TlplZCtnSDBCUVp2SllCWXJHL2dLWjZTY3VhY1VVak1KcFZZaTVDTjBhVWdFbVYzTTViKy9saUp4bHc9OjqsTeevQUccUJ5jY7QvukCQ",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The Map of Tiny Perfect Things (2021) แผนที่วันดีเลิศ",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/05/The-Map-of-Tiny-Perfect-Things-2021-แผนที่วันดีเลิศ.webp",
+      "url": "https://movie.fun-gg.com/embed/?T1pSM2pzc09neDZEU0dwSFhLRW5wcitzQVRZRFRGUnpRdEx1NVlyZlhjdXNpRmQrVmNLZ2pOT2pYbzlYUFF2RmxXd2pRTFp0UUtDcjgwS2dCa2huNjZ0NjhUSUpVWGwyRHRyL29qYnY5VEk9Ojp0WS1xvqjSX35%2F6SmOOb3s",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Being The Ricardos (2021)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/04/Being-The-Ricardos-2021-scaled.webp",
+      "url": "https://movie.fun-gg.com/embed/?T0dBQWwxaytEQVZIQldWZmdFbUZDaEVUc2tQcXNkYU52eUJCRFBuWFBWMm9nODV4VGNPL3JMOThvbHhVQnRBcmdtNCt3TUtLRkNteG5Wdlk3ZnlFQnJPMmI2c0ZhSFFtRUlGSjFxcmt6UzQ9OjqTWihyYSlL8uS%2FEUY%2FSVqe",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Boyz in the Wood (Get Duked!) (2019) เก็ตดยุก",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/04/Boyz-in-the-Wood-Get-Duked-2019-เก็ตดยุก.webp",
+      "url": "https://movie.fun-gg.com/embed/?U2VYenNrSkVpaUlRNDVvNkhWZloxZzJZOGZlQlFwcmhibkRiYXFEL0taM1dOL0xZWjRkUmVrMGhZMUJrRk9iWjF5dktJbEw3L0lFemZUNkdSaDY5TjRLSnFHdzNmK2Q1V1hKNzBSZEhna289Ojpcttr1F9PB5rWdQaUazLyE",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "You Were Never Really Here (2017) คนโหดล้างบาป",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/04/You-Were-Never-Really-Here-2017-คนโหดล้างบาป.webp",
+      "url": "https://movie.fun-gg.com/embed/?eXZaQk1uSGk1d3hxa2o4dTJ0NWpOaVNFMVRNVGUxMWo0VmsxZmMrZE1ZeWlmTU94N3NjclVyUWdvOXdWdWliR0Z3VlhXOE00UXp3UCthT01ucjRqeHdLc2lEeGYvZXZMYUZpRS8vWkxZQTQ9OjoPO8rjrtJaNsAoN%2B2RIISI",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "On a Wing and a Prayer (2023)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/04/On-a-Wing-and-a-Prayer-2023.webp",
+      "url": "https://movie.fun-gg.com/embed/?WUdneGpNLzNQN3diaklwRjJQWDNjdkZZUFk4MTgyaTJIUkRlNzlzTTBxdlhJQ0crSXEzeFpUUm4xMk9ZVDhDVGM5a0pnTTJML3pyYkNZTHh2SEdkeVZXbGZqdE40b2UwSlN1M2lDbzNFYU09OjotnHcKDbfznB2VZWfqwZ3Z",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Emergency (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/03/Emergency-2022-scaled.webp",
+      "url": "https://movie.fun-gg.com/embed/?NlFwdlR5bFlmL0xCSzQwQWZtWXlmY3k1ZUZxMHdhQjFraWduNUxEWVpXTEd0M09Iait0b080dkV3LzZpelFQZWxVc3BNTFUxN1ZyMXl4VE5FRi8rV0hQbWpXQXhMQ3ZNb1E0bG5iZk9SZ3M9Ojp9XB2OU2JWqTzKUvHeeEQu",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Perfect Addiction (2023) ยิ่งรัก ยิ่งแค้น",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/03/Perfect-Addiction-2023-ยิ่งรัก-ยิ่งแค้น.webp",
+      "url": "https://movie.fun-gg.com/embed/?SS9ONDlQNGtuc1JRcW1vb3ljcGQvVUtyYllqb2F6Ti8wOU9Udmg3eHkwMWhTeFUrM2xNcjJmK0s5RTRlSUJmbGFYODZSN0tCeElwaG1tbDRULytTVFlIbGFuWjBROHFjcnVWQlhwaXI4dmM9OjoBpNfXp6GTceGNUB9EMmrf",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Hotel Transylvania  Transformania (2022) โรงแรมผีหนีไปพักร้อน เปลี่ยนร่างไปป่วนโลก",
+      "info": "เสียงไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/03/Hotel-Transylvania-Transformania-2022-โรงแรมผีหนีไปพักร้อน-เปลี่ยนร่างไปป่วนโลก.webp",
+      "url": "https://movie.fun-gg.com/embed/?blplYlBnYXN0RDNYaXJHN0Zqc2l0dDh4bUI2S1U1WTVaZmErSDJFNzB3dDF6MWJOVVhwOVdBNXZUc3hhTUZNdG94UmtlN0tqTzdlY0hVNmlZVTkrN1pUb3ZiazU4akN5YWFKYTBEeTRvZ1E9OjrsfE0UHkCpxJFjMrZo0IBg",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Hotel Transylvania  Transformania (2022) โรงแรมผีหนีไปพักร้อน เปลี่ยนร่างไปป่วนโลก",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/03/Hotel-Transylvania-Transformania-2022-โรงแรมผีหนีไปพักร้อน-เปลี่ยนร่างไปป่วนโลก.webp",
+      "url": "https://movie.fun-gg.com/embed/?ZkwyTFYwSU1xM3VmRDNxMFRqcUZleG40Ull4QVNXZmZ5T3M3dHM4SWhjdGJyREl3THdQclhlWTIvUUk1ZkhqVVdiWTNha0NwY1JQVEpoU1E4Z2FZdmNtbmtVM05XallsblVQeHNnNGZCVUE9OjrKI1ThYy1Dwld5fEEcL9zS",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Troop Zero (2019)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/03/Troop-Zero-2019.webp",
+      "url": "https://movie.fun-gg.com/embed/?bVFzQTVTZXdQTlptVmh5alpBVXFTUjlOaEZNTXpaUmxIR3VhYnlFMUZvMithRGF2N1F4MW92WVFSWnBDVnQremx0WG93dFU5NVBTZjhzbERLcEozVThROGFzaHFPdkp2Wmo3YkZqdGRLdzQ9OjqfD8QUvdzCHnsuExj0%2BdwX",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Sayen (2023) ซาเยน แผน ล่า ฆ่า",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/03/Sayen-2023-ซาเยน-แผน-ล่า-ฆ่า.webp",
+      "url": "https://movie.fun-gg.com/embed/?bW1nK3dULzRMM3RzK2lTY1Nmb1BzamJLU001ZFdGQ01MT1dYZEw0OHh3TExuYkcrQUZXeWZHMlVHd3NJempEZEpob0NxaTdIalpNbXBnRi9HUFlNdnhZMGJ0d25lbzRyYnpVMVNKaC9wcjA9OjoJ0lkqjgtV1vmXDbchDhMP",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Die Hart The Movie (2023)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/02/Die-Hart-The-Movie-2023.webp",
+      "url": "https://movie.fun-gg.com/embed/?RTJHS3podWV3MzVKbFhWZlZtbFBqNmh6RmtHUHpqT09JaUhZcUFNZDFKMU1KeVc1UUpjcWF5dHp2WHptVU9YVGorVUMrTm84VE9HVmFlR0xGY01TSzhtSmo1THY4VWhSTUREaURTYll4dlE9Ojpzs74DIm%2BeiIbEGbWKNweu",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Somebody I Used to Know (2023) คนที่ฉัน...เคยรู้จัก",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/02/Somebody-I-Used-to-Know-2023-คนที่ฉัน...เคยรู้จัก-scaled.webp",
+      "url": "https://movie.fun-gg.com/embed/?cW1zc2hqdkpNd1hkSTlacjZXNDd2YTFLU2hVOHlVVUdlRXZGdkpSQ2s2ckhqYlBnTFVsMzd3dndrU3RnNllyWGNDdXp6TndiSFZwbHowZFRiblFFeE1Fc0FGVng5VURzVHZTbmgyQ2lMUEE9OjpdCvBuVDhmbGtPMz6abcUz",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Honey Boy (2019) เด็กชายผิวสีน้ำผึ้ง",
+      "info": "เสียงไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/02/Honey-Boy-2019-เด็กชายผิวสีน้ำผึ้ง.webp",
+      "url": "https://movie.fun-gg.com/embed/?NDVCU0gyOEVsL2dWU0N5QU8vSlZBQ3ZORXR2UEZDSEpLN0txNHFmdzk3NlcrRDlVSnJ2eFVST2dXWUVHN2JLc3FLaWhlZHdvT0VibkpudWY0VjRiUkQySndMald2bmpjZkhqb2gxZjBlSVE9OjpjbgL%2FpSHhs7%2FG9Q30z1pj",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Honey Boy (2019) เด็กชายผิวสีน้ำผึ้ง",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/02/Honey-Boy-2019-เด็กชายผิวสีน้ำผึ้ง.webp",
+      "url": "https://movie.fun-gg.com/embed/?MmhIdEM5UzBSWHovY0l0WVlIV0tPYkozQkdMUVkvYW9adTlYbjdQZkN0eFY1OURsdDZJYmVGZy9MRVovWlgvbkxpWStFM1B4T01PVHQ0UThndTdYWmo5akl2MFRiUlJVelpRRHZ0dFdFZkU9OjqZBR5QOCN%2F3qkIi0IKU5cL",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The Lost City of Z (2016) นครลับที่สาบสูญ",
+      "info": "เสียงไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/01/The-Lost-City-of-Z-2016-นครลับที่สาบสูญ.webp",
+      "url": "https://movie.fun-gg.com/embed/?ZmhHUWpDTVd2RXNYaWZGZHhuZjM4aFdLYzBYa3hyTk10cXFQc3dBTzFRanFTMVpTWVNTWkpSRlRiYS9NQmJLODVaOFdPMUdOWThFcDZSZkQ4dGhYQ0N4SEM0eWI1ay9mQnB5czMyWDJLK0U9Ojq1KTIf54LyUtYWViLtpXvE",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The Lost City of Z (2016) นครลับที่สาบสูญ",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2023/01/The-Lost-City-of-Z-2016-นครลับที่สาบสูญ.webp",
+      "url": "https://movie.fun-gg.com/embed/?bldiNlFJdjREMjlCZzZ6UlNRaG9rY2dTSHJNcDdwSFpVckZiSy9MRmlaQXlvMUNXTUU5ckkvK3lzelVzRkQvRG9Mak8rSWFxQVlaVlZGSDB0TGQ1YzVaOEhIbnQ0V3N1TEorTmJONk5vems9OjpBxMTAcSV1nUBnn%2FBuYel0",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "All The Old Knives (2022) สายลับอดีตรัก",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/All-The-Old-Knives-2022-สายลับอดีตรัก.webp",
+      "url": "https://movie.fun-gg.com/embed/?WDFrdTRhMFIyMUsvS2VPSzBQWGZ3RkNEeW5oMExFRGI0cGRrVzF6RGJyZ3lpajV1bWdiK0lPeEkzd0p3SERXa3NmTHQ2elpZaWEzeWtWUnVrZ3JlNEpLMXZjRXFZRUpKQUlLTFpBNDNiMk9iQ00ybnlwK0VicTlod2VjVXRLTzM6OozP7JbpUIRvuSG%2F9RHvNNg%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Master (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/Master-2022.webp",
+      "url": "https://movie.fun-gg.com/embed/?eGd6ejAxSU9Sek9mMUJ0cjJNZjBuYlpIVHVYS0tnNWx2QUhyMUlMVHRCZnQ0ZUpkYktUWGpqWVpjSklibHJzSWFMNUwxRjRhZEFQWG45eTA3djRnc2J1dFJBZW4yTDJxTXZFV0R1eVpHRnFjWVhzckd2VENCR1UrMXJBRUFUeGY6OgN4EnrBHMkV5WBXdCKLxwU%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The Electrical Life of Louis Wain (2021) ชีวิตสุดโลดแล่นของหลุยส์ เวน",
+      "info": "เสียงไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/The-Electrical-Life-of-Louis-Wain-2021-ชีวิตสุดโลดแล่นของหลุยส์-เวน.webp",
+      "url": "https://movie.fun-gg.com/embed/?Vkc2OTdDQkVueWtiS3A0ZFRzTmViQSs5QVZneFVTQmUzTGpKc2xWVkQ2a1BZcGpzSlpuL08yamJ6VDZ3RGFpNWZna1FaZnBqck1jZjFUYXp2TTZMQ1E3MmpYcnNVd2tyZ29LQmMxRzVMenVEd2lDZzEySU5EckhOUXp5RGdnVjA6Ol8Lcwn6FYd4jo629kPyjBA%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The Electrical Life of Louis Wain (2021) ชีวิตสุดโลดแล่นของหลุยส์ เวน",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/The-Electrical-Life-of-Louis-Wain-2021-ชีวิตสุดโลดแล่นของหลุยส์-เวน.webp",
+      "url": "https://movie.fun-gg.com/embed/?TU9CWTFaYWtIOHN4eW9mb2gzRzNXOHY1Nm5aS2wrRlVlNlNRN1lCd1NaYTgyT2FpS0Y1azg5aXBmTG9qZlJ4MmFZdzR2UHpTbENtNk5RSnJFUWlaRmkyR212b2ZYZkx2blpHTGNvVFdKNDRPOGlja0N3MnBXaHRpZHpjN3FmTGE6OjtiYyYXm7ImhLbPbB6ax2U%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Something from Tiffany's (2022) แหวนสื่อรักอล",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/Something-from-Tiffanys-2022-แหวนสื่อรักอลวน.webp",
+      "url": "https://movie.fun-gg.com/embed/?MDRaR3V3UzFzYWVkVXBDeFNrclc2S1NqMVpsbElscEUrcVA2NlVFNi9XNVc1SHpySjVodlc5TndzRW1Zb2VDanl2bTVkOUMvUVNweUVPYTJUSHFLc1RUVzI4d2hVdk9LcmZzL1hPVGlGK2ZnNFlOako5VjQ3U05LejZaaEVlMWQ6Oo2KDWAPRoLzRlpIv8Bu8%2BY%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "I Want You Back (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/I-Want-You-Back-2022.webp",
+      "url": "https://movie.fun-gg.com/embed/?S2JEVTdyL0llbDFOZnVMWFEvNUwwWVhTVmZ0d2QrM2VWd1BmdUh0QjBXcW5ZeXdFeUQyb0x5cXBGbzc0ZU14aW5HTXVlNmIyMkpTUS9VRkVqRzFMMzg3cEhMNFByS0thK0JBQ09HeDczRytJYjk1c2h3MUpEaVNVN3ZoNmM1SGk6OprwtEuXAp1GvyS9AnMBWS8%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The Manor (2021)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/The-Manor-2021.webp",
+      "url": "https://movie.fun-gg.com/embed/?UjRmaTVEOGFycEF3WlFMMFFDSG55dmpjeXVDcVZLOEpYOGtNTE93aUJBaDdiU0Y1cVl3Ym4rUDhLZVdIZEtnQmgyRnV3VlJZRk5ROUFOb0V0ZmJIaHVtYzVSMjg5a3hEbW9HeVBuWjI2emxhZy9PdHVTek4zdXJwVHc5dUp6eGQ6OvN4Nb5sjpjpvBjza%2BG4%2F3g%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Nanny (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/Nanny-2022-แนนนี่.webp",
+      "url": "https://movie.fun-gg.com/embed/?VERGUEtGOG9tTmNjNUdKdUF6MGdnbUVreHAyMDJOSER1KzRqaVIwVXhvblVjK0Z3MFJCK1l0bTZPQmhnU01YTUtWMGpOTGhLSDk5NDBPb29WdDRHVmltZVcwQmUwNUhROTRUN2c3d05OYy9SSUlLcWt5eW4yUGJLbzROTFd0QTc6Oqyj0mW8XritGQtAdg4p%2F%2FQ%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Hawa (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/Hawa-2022-ฮาวา.webp",
+      "url": "https://movie.fun-gg.com/embed/?L3JqZDRBZE95VmI4YWJaOWFRNURYaUh6VXFUTEEvQW1sYnA2NkZ6aEZ0aUFLNEovR3dwMy9OSnJ3Tis5Ri9NZWpkUzArVUh1R1ZUYklBTDdmN0RSV1EralFHWXdiUmNSR3IvT0lhbkRwampIYkYzZTFwcEpJSGpCbVhhSVlSS3Y6OpNPxSn4%2Bcm2JO9%2Fz4uP55U%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Good Night Oppy (2022) ฝันดีนะ อ็อปปี้",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/Good-Night-Oppy-2022-ฝันดีนะ-อ็อปปี้-scaled.webp",
+      "url": "https://movie.fun-gg.com/embed/?Z1BuMFA5RkdGemFTNWVyVDA5SmNPeUI0M2FVN0wraXZWUE5scjhjTTdJVmdhdzhBNk9BSHRzS3Jsdi9zZmdUOFcwWUMrc1ZtQk5idjRadWxpYkFFUFBnNkFobmxWL28yRnAzS215ZnlwZG9zWWxGZFo2SFh1cE54cjhNK3dlVXc6OjMwOpK%2Bet9qFcWT3Bsg5wI%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Gehraiyaan (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/Gehraiyaan-2022.webp",
+      "url": "https://movie.fun-gg.com/embed/?R0Rua0krQlAzSlpiVHFsVkdiMXZNNXV5VDM2WDdsK2hxdjlKY081T1hoOW1wZUZwS2Y3RS96cmZlb1Fab292d0NXRHh6bUE2ZkE1cm4yYnNweWdvTFAyNWhlOGJHSXM4WVN4WUY5TWt6TUVzS282SXpQWkdaS216UGdReFdRdTU6Ovco3iKaAuAss9rRbu3HW%2FY%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The Neon Demon (2016) สวย อันตราย",
+      "info": "เสียงไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/The-Neon-Demon-2016-สวย-อันตราย.webp",
+      "url": "https://movie.fun-gg.com/embed/?MFBXbGJ6SkU0WVAzMjJzaHVjRjVTeW9oQU5TWFVqZHRvUDNCZW9wTWZrcTZ0eVhXRlJHQzN0ZmxDRmtSTldtdjM2VCt3RWFyMVNlRzBNdnVBSm5veEhiUVhCbmZJMjZVUS91MGtQT1MrdTZRSXkzZzJQL0NxVllYeEhOUW9EOWo6OpTghu8l6IarOqeQHmuhqv8%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The Neon Demon (2016) สวย อันตราย",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/The-Neon-Demon-2016-สวย-อันตราย.webp",
+      "url": "https://movie.fun-gg.com/embed/?L2hlOVlFRWFudytwd3lhSG1ZNURBWldJcmVkZXNhTUVQNElMbUNaWG1LMWRPOWM2dU9NZ2hxNmhDMkIxU2VZS0Y5MHN2UHdnUy9ncm5DSmJJVUFyWlRxMjlWOU5ucXE2MFFldElQRzhjMVNEekFTRnlwM2VpSXVna2JkSWhFbm86Oo83O%2B4j24ftUqXlC9jY7VA%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Bliss (2021) สุขแท้สองโลก",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/Bliss-2021-สุขแท้สองโลก.webp",
+      "url": "https://movie.fun-gg.com/embed/?MldpbzVvWmJaMW5SOTFhbys0MHNUSXNCUEhaVnhTWTZXUExBbDZNM1ZQQ0FiSFNWN0Nta2duVU1aM0ViMHhRZzZNTlFKNW5Zb3pIaDVSNVVnTW5vNnpkdjl2QlV0M25vdUNrbWRlbkg1RnI1UmIrYmk0bnJvc1V3eTNMWUwvRU06OsfUG9umvVLPz01HuwrhEwo%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Beautiful Boy (2018) แด่ลูกชายสุดที่รัก",
+      "info": "เสียงไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/Beautiful-Boy-2018-แด่ลูกชายสุดที่รัก.webp",
+      "url": "https://movie.fun-gg.com/embed/?TDhoQ0IrQ3JySk02MVViZkpDdDJYM2t1MlJSbGJBOXBzZ0FBRlJEVW9oU3dWbGxEdGRMUjMySVVrRFIyQzBBR0d3V0tPL1J3Y2l1aXRyOS9QUXBkUU52N25vZkJnNEN2UHRjYStxNXBROU1URTFybVJoSXpzdG51dzBnaFFkME06OvNbCDbvVRv8%2BnohkO0q2aY%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Beautiful Boy (2018) แด่ลูกชายสุดที่รัก",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/Beautiful-Boy-2018-แด่ลูกชายสุดที่รัก.webp",
+      "url": "https://movie.fun-gg.com/embed/?UWVUVnZoUW50aysvSUxOazV5b3U5VS94WTNobjkySGQ5a1FOb0xQUC9JWGZLNzZ5cXI5R25BWko3SUErODBrOURUUjAzczYzQlVFT0ZaZmIyekZJWnRCZ2JGY2hXR2V1RzBseUVLWDFmUTJ1WFhPOStkeWpXcmpORFBlOUZNcHA6Ov6kKtDo2xr3jipgKCsHExg%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Sound of Metal (2019) เสียงที่หายไป",
+      "info": "เสียงไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/Sound-of-Metal-2019-เสียงที่หายไป.webp",
+      "url": "https://movie.fun-gg.com/embed/?bWJuVklTNzNrT2ZMRy92YUNMUmRlYmp1MzNLTWZMN29PVi85aVR2M1IvU3d4K0NWdzNBcTdpMnUzdzFkMFdtSm1PK3dGSC9Bd2Z6WVRHSnF4US95TEtCa2FBZUFtS0MxYzY5Z3ZmNjBYSW81cUJFTlV3SS9JdGZvM25iTk1Majk6OrIZOVnDO5sIQoxxrVrnOpw%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Sound of Metal (2019) เสียงที่หายไป",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/Sound-of-Metal-2019-เสียงที่หายไป.webp",
+      "url": "https://movie.fun-gg.com/embed/?dUdTV2Vvd25DaG4rdkgwWE5EUXllV2wrbjBJSkRva25JemJ6dk1aU0xDRUQ4d0FBYzgvSlBwOTRabUExVHBIcXAyVkU5N3ltZzJSamg3bmVBR2k1K1l6bEFpVFRFSGxONExEeDdjOEoxUXZMMzF4TDdFR2x5OFhoL2V5ZE1mb0g6OuAuZjA7tL6KtkeXW4SPg6Y%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The People We Hate at the Wedding (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/The-People-We-Hate-at-the-Wedding-2022.webp",
+      "url": "https://movie.fun-gg.com/embed/?ZzVyL2prT1ZtaVJZSlp3NUlvTlpNZ0dMRjJvSEgwVTZ4STJIR1VQYmxhT2xVYUpnbUZxUHBOZU1OMS9ZQWJjeGVWYzZRS09aeGRVOGw5VnRqTEQyS3B0dEZFaVE4YmswWnZ6czc0Y1FoSjZWT2RtT0poSno4ZlhVQWZ0bzZrZ0s6Okk%2F3HXkXQ1ODGRMlDMBHHI%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Tomorrow Is Today (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/Tomorrow-Is-Today-2022.webp",
+      "url": "https://movie.fun-gg.com/embed/?R0NRMWJlOGJHaCtOTU9LbGp0NElGalh5cUc4R0ZtSi9xZEtPZGdXTjJnck5VVkU1ZjA3VlZLVDM5T0ZiSkNYQjF2dnJPaVZ2ZW1hY0xVS3FvNDJLM1cvdDFsWk16dWJOWUxlbHJVZmU2MU9nS3VzVU4xTndaYlNhMzZKdXpuR2E6Or6riLe3rE2uV4YBjDbJjE0%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Evil Eye (2020) นัยน์ตาปีศาจ",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/Evil-Eye-2020-นัยน์ตาปีศาจ.webp",
+      "url": "https://movie.fun-gg.com/embed/?YXFDZHdKWVJYeGo4clByL3VLNWdXYlVUd0pTL2ptQ2JpdmVFNkozdnVUblJBQ0ZQamkzYlpFT0pTV2dLVnZvTEJ2aHA1dzV1MFN6ZllUWnBYRFJ4VExjQURFeU1NSGJFYTlGTmM2L1ZYeVFhUTh1U1hjNWdPOU8zTkpuRXpJU2Q6OrZdKBoZoDcRLgb4vTRQ64g%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Nocturne (2020) สมุดปริศนาเพื่อนร่วมห้อง",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/Nocturne-2020-สมุดปริศนาเพื่อนร่วมห้อง.webp",
+      "url": "https://movie.fun-gg.com/embed/?SEtRM1JIR1ZTK2pKUThPeFloSVFSRitDQjcvVVlxdWtrRktWVW9aejVUbkx5NWFjMGdWbnovL1dSdlhqV2dlVHhwSmg4TkFGaHF5OTYyR0VIUHhlSTRyOUxSUkVNRy9jbldaMmlnODhOc1hNZFlaWmE3WWJtblczWkx2YzI2dkM6OkAX5eT%2FKBQtd0PoIIyy9z8%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Meet Cute (2022) ย้อนเวลาป่วนรัก",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/12/Meet-Cute-2022-ย้อนเวลาป่วนรัก.webp",
+      "url": "https://movie.fun-gg.com/embed/?cTFJQjZmbEF4M2EvNzZ5TWJYSkU3ZVZIZXJRcTlLWm9hbEF0VGx3ekV1cWZONDhGTEFDYUd1N2xLUnVkVDhhUGRSb1p3VVNrNEUyTytIdXpoWG1uaVEzd3FUQ282cGVJWUtsVXlSUmNTNDlnNEd4TjRKcjlNWmJBN21oY0EvRUQ6OoyMAY5ZUORqnaGTZgkoVW0%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The Voyeurs (2021) ส่อง แส่ ซวย",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/The-Voyeurs-2021-ส่อง-แส่-ซวย.webp",
+      "url": "https://movie.fun-gg.com/embed/?U2wzRWt6dlI2UG40VXM2cHovRHYrVTVyc29PVGNMejl3cFlmS1h2TzUrMW5Ua0RWdE5nbDRFQVpVQzNkb0FCZjNlMTFGSXY2Z25BZjAxRnJPYWUwTkVXQTYwMWF1TFp3Rm9IeWxkVVJYdS9xcXZORGV6OGNpd1JjSnlWTEtrQ3k6OjthrOlWqN5D8AIh9BxMH8U%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Sachertorte (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/Sachertorte-2022.webp",
+      "url": "https://movie.fun-gg.com/embed/?MzU5SDBiRWNkcWtCa1lLNjFadUtsdk9HMlFWUG1lSW1EV0FJcnB5b2VSaTdZNlBkS1R5Zm5RQmx0VXhaQjhyVG1CVU91VnNkMkpXZTczQmNndUFkbHlqZmtsbHRxb2VJZnovSmk1MDVtS1V5SjNFb21Fck1rTTVMZ1pzVlVPRU06Ooo4kVxxBaz94M1XBODbqow%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Flight-Risk (2022) เที่ยวบินมหาภัย",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/Flight-Risk-2022-เที่ยวบินมหาภัย.webp",
+      "url": "https://movie.fun-gg.com/embed/?ZGRsSC9nZmp5enVOWEJRZ0tuc3RJSWozSHJTTG82RVpETHNFRnJhdGZZMnUwV0ZLRHlFTDdoMXpWN2RwZUV5US9XNWdQQmNJRExHZkFESldyYTlXd3J5TzFURGtrRC9zT1U0M2dGeHFIbEVMVkhHRXZJNGhlTnRNU0JLNEdwdXg6OtIRLTkELosHay%2FG5cMN2Ds%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Prizefighter The Life of Jem Belcher (2022) สังเวียนสู้เพื่อแชมป์",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/Prizefighter-The-Life-of-Jem-Belcher-2022-สังเวียนสู้เพื่อแชมป์.webp",
+      "url": "https://movie.fun-gg.com/embed/?OTRhRjY1T0Jvb05XaTg4T3JEZUVhTFV1clRCVW1GR0dsRy9sbVF6cW1PRFZtMldpMEtJMkEzaStBWDIydGhZYjVLZW5uUmRaRnFNZmJEWUJ1MDJVaDM0RkZjZysxeUQ2dEhLU0MydllHd3pVdElpcVZZRFAvK3MrM3E3V2phams6OhvxSeBuz0k0KEt9QRcfwls%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Goodnight Mommy (2022) แม่ครับ...หลับซะเถอะ",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/Goodnight-Mommy-2022-แม่ครับ...หลับซะเถอะ.webp",
+      "url": "https://movie.fun-gg.com/embed/?ZUt4bVNGc0Flayt0VFRtcUpoS2NFRWM1SS9PQ3BBYVk3Vm5GV1JrOGNyblA3L2ROSDhXM3dyS2xrUGFzYVFHT3g4ZTNpOXhpRVllWXVaSS9rY2p0Nys5RXB5OEZlc2hucDNOVGx3MENiN2lJa0JMRGQ3RmhVaEwydW9pMXFFekQ6Onwyutws2aoo%2Bo3EybbDOUc%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "My Best Friend's Exorcism (2022) เพื่อนรัก เพื่อนหลอน",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/My-Best-Friends-Exorcism-2022-เพื่อนรัก-เพื่อนหลอน.webp",
+      "url": "https://movie.fun-gg.com/embed/?REl0YThLU0lOM1lpMU1WU0RPOXpwc3Z3Z1FBeGdySWRKc0RvMDUrK01hT0JIbXRwdTNuVTlXcGRQRUxnYUNlTjJab09KMjFYMVRSeE50YnhLeTFOV2dBT2lMYW5YRzhySmdQMGRUK2pmeFFTS1BkTWxockNZaU5qUWNyaFJUaFE6Ono3NYKtYNfF7qUxRlSj9qE%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Man of the Match (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/Man-of-the-Match-2022-แมน-ออฟ-เดอะ-แมตช์.webp",
+      "url": "https://movie.fun-gg.com/embed/?bEQ3MGJVVUhXNlc1SiswVDZkYUd1cjdja3pJSEJwYVlnSlFFQ2htb3hlZkZMZ1ZoOXl1K1BNMnNnYkFwQU1NSVRkQ3lVK2V0V3doeGx4N2svdkQ0bFNwcCtQMTYyZkhQMmpNNnNid2ZCbXVmamczNDhZMldFL3dRRGNHU2V5dWM6Ou5PXex5f%2F6olVO9tfu27u0%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Autumn Beat (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/Autumn-Beat-2022.webp",
+      "url": "https://movie.fun-gg.com/embed/?Q1ZXb3VjUjdVdjZ2TktxTmJGQjNxT2xMZWdVc00yeFcrRU1OT3hPN2V1V1gwMTNjTU1TRUIwUHRiZi9IZHhPdmRIamFxTXJDYnE1N0VMNjk0YUFNUXFNL3FhZGJRZzZpQzlPcXcvZTRmTXhCbVNGNlVLRE1yTzErR1ZZVXJHNTQ6Ou6iZ0V32DXOeKsx4BsjUMo%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The Only Living Boy in New York (2017) ถ้าเหงา แล้วเรารักกันได้ไหม",
+      "info": "เสียงไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/The-Only-Living-Boy-in-New-York-2017-ถ้าเหงา-แล้วเรารักกันได้ไหม.webp",
+      "url": "https://movie.fun-gg.com/embed/?OUQ1emZaZUdLQlpabmlMNEIxK25zYnd6Szg2U2p0RUZyT1l3eW1GbE4zNk5CdlU4K01GWDcxdHlwaTlIRXhTQnNmeHFOQkNucEFhRHk1VjhGK0tRbTNWcmkyeXJoekhhYkg1S1hmL1ZBdERsU2NMZHVNMFFTdWdRenplcVBielY6Om2sf7wM%2BbWHBzkzEefop%2B0%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The Only Living Boy in New York (2017) ถ้าเหงา แล้วเรารักกันได้ไหม",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/The-Only-Living-Boy-in-New-York-2017-ถ้าเหงา-แล้วเรารักกันได้ไหม.webp",
+      "url": "https://movie.fun-gg.com/embed/?U1pXeXlHTGNUc3E0aFdHZzBSS2VjVjIzai9qdW1INTlJejA0SUpVdmRobXFCVGdGbFR6ZnFCdzhwZjNBT1JyKzZtUTBGZUtYaFY5STlJUVdKaHV4SjdZdXR2ODFxdlFxZ252OUc3U3pweVVPdHUrQjNpNENxNHcydGptcEhmQlI6Oven%2BxK1oBTtHxqiSLdsjqg%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Catherine Called Birdy (2022) แคเธอรีน ชื่อเล่นเบอร์ดี้",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/Catherine-Called-Birdy-2022-แคเธอรีน-ชื่อเล่นเบอร์ดี้.webp",
+      "url": "https://movie.fun-gg.com/embed/?TVZ0S0dtSUZzaHhpcXVCY2g1eVkrY2xabWVmQkVzZ0VaVnlHOWw4S09CdnNmbUc3OFUyZ1JzNitmUVNQUFgzeUp0RTE5VWVwS0JvVDVVZmd3dm11NnI4blJKVVdJYzBrT1Q0cGdmRjQ2Y2cwbSt4OC95SDk2UmhwUFBiZ2RtL0M6OguxFHNxGR2%2BBNF63XhIeT0%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Overdose (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/Overdose-2022.webp",
+      "url": "https://movie.fun-gg.com/embed/?a3BTUGFVcmdFelR2Wk8xSDVpeDB2U2hhSXJDOXRoY2ZSelg0N3RSVkNiZ2pTL0JxV3IvUFh3SjFzL01YYWo5aUdCQ1pFeC96eHMvWHR3OWxhRnhCYzhyU3kvdU1VMjhtemNqazhMZ29GbTI1QjloYjhDWkpKZlpheG11bUxlMUo6OpnVqkz3bYKxQi0n4cPfwIA%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Cinderella (2021)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/Cinderella-2021.webp",
+      "url": "https://movie.fun-gg.com/embed/?Q1VEcG1LVFRqMFEyQzI0c01zZUFoZUE2RDhxTDFod3pBaDBXazVzRTlKU25VOTQ4bk1Wdnh6R2lad3YyMDJIdE5jdnlPa09udzZFN3BsVWxJUVZycnZzWDlMbVFUaVNYM3p3aEIxQlhLNjg0Rm4rMWp5VXJQZm1pdm94eWQ2eVc6Oud42G6nvS3HC0MVDBH2Koo%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "My Policeman (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/My-Policeman-2022.webp",
+      "url": "https://movie.fun-gg.com/embed/?RlJ0N3J4dG9BajhLVWxSNEgyNXpZVFM3eDdmdkExUlNBY2NlTit3OG9pRHgwQjdrT0pJU2NHTXdGd3FLSEVNVEFCR3RQdi9pZlh5bE5YbWtiTGw2ZGFLcXhGMjFXZ3BhZDFpVE9hRjRwK3BBS0RWbk5Rdk1NY2QvV2lkU3BzUU06OmDBcE0zARblAGkxYpMdUvM%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Gringo (2018) กริงโก้ ซวยสลัด",
+      "info": "เสียงไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/Gringo-2018-กริงโก้-ซวยสลัด.webp",
+      "url": "https://movie.fun-gg.com/embed/?SGlONURPVCtQN1RNeStKT3hXSXFuV2JIQzFnazFES1pDSnd5NDdzUTFFZThhNUJrMVFVbjJuNzFyc1UzUkdzZlQ0Vnd3R2tERFA2eVZMazBYN3BGTkJ3VUllV2hUS24zNnN6SFBQc0gvT1F0MU43VkVnVDcyeHVhR0JWYjd2ZEE6OpTDgmSnfpwN6eaqv7%2BgVKA%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Gringo (2018) กริงโก้ ซวยสลัด",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/Gringo-2018-กริงโก้-ซวยสลัด.webp",
+      "url": "https://movie.fun-gg.com/embed/?WHhYM2pqaDRKK0xDeWQzaC83MS9nYS9XQ2lsN0piL2NzL041N0Z6NGNSS0hrc0tIcGtZVXNvUklnMDE0SVZndjNINlo1a0hPZzFrMEcycldUK1ZXa0orVGlRdmJXS2VJbkZvMTZkeDZtSkNJRDNJNFRKa25WSlZCTHZHbHBUa0M6On4OsUowUrzaNXY3pq9SOZ8%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Encounter (2021)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/Encounter-2021.webp",
+      "url": "https://movie.fun-gg.com/embed/?VG5qWVZWYUtCTkFWNi93OXlFN1g2dnQ3cUlwekcvQm94Qm15NWlNMEdyUlVZOW1USG5CS3NvNHA0SEowUkY0Ync1T084K3R4clJKK0NxdlhXZXk4NGFQWkFsWlpqaTM1SzZvUTJuQWF3VlZOclJURVJTUTIycW5YRk9na2ZTOUw6Oqx8kQXZfYMouFmgYXFAong%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Northern Skies Over Empty Space (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/Northern-Skies-Over-Empty-Space-2022.webp",
+      "url": "https://movie.fun-gg.com/embed/?Zk51Y2xndW5ycFpDREtoOUc4UFh4MUNsckF5ZXBDU3paSkJVN3ZWYmttalE4Q0I2QnR2YzVuTDZ1aXRnSFJiazR4STZKVVN1MHE3QXlxVU5WM0VCd1htZmRsc3dlWk9qYWQraFpHdmRCREFrZUZPOVlNeXNKaWhweDJNeU14emk6Ou3zPMxU54rbf%2Bszov7x3tI%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Run Sweetheart Run (2020)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/11/Run-Sweetheart-Run-2020.webp",
+      "url": "https://movie.fun-gg.com/embed/?N1hJT3M0SzhKQS9lYWhiRDNJZGVPVTRnaDNBZEVSNVZWWFdiaThSelF4YnFzZGJUaGZpemxsU2NJLy9xWnNTeVRuRFpMRFEzRkVqeXlmdEE4WDg3d2xseldvTGY4R2FqOCs1SzFSZXY0N3Y1cFo0aFlFTU9NbXViUTR3UG5yNGc6OhJuSKXydzJFuZVQQRBUwkE%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Classico (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/10/Classico-2022.webp",
+      "url": "https://movie.fun-gg.com/embed/?Y0QwUEpjVnNpdnVNckFYcExNaE5rakJLN0NJQmc1OHhLVTU5a1ZRdHVwMk9KM0tPeTUyRE1hMzBjYzlYcHU5RDBqODl4T3JtNXBSbi92dUxwZTUxRXRYMUJlUnk4RENUSzVkWnpqakp3V2Z3RnVtS2NMb05uajlwcmNpWS9FS2c6OvROnAp2cOJpGrMZh%2FmP%2FL4%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Argentina, 1985 (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/10/Argentina-1985-2022.webp",
+      "url": "https://movie.fun-gg.com/embed/?YjRhVFVTNC9wUkIwNXpoOXpRSUlqTTJQaGg3TC9kakxFUnNEWDg3R0ZqR3BOSXZ0U3BVZDM0WVBXL1I2ZXFkVWJNWC9Da3dnNVhBOWlrUEFvelZUWTJYSTY2ZGtINEduUFpHNWFnVmk4dS83L0hJWnFud25iaVRmQTZpV0NCOU46OqZLk7aNxAZZFqNKn1KduQE%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Ammu (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/10/Ammu-2022.webp",
+      "url": "https://movie.fun-gg.com/embed/?NjM2cjlHcEd2cnd3d3hnUnJFMEFaS1BSb0g2NWdrZm4xcml6dTFkaFhNNVFaWXZBSytDYTVDZmZBelVhWGpVOUJqUkhHUFhWbnFheEhmZzJ5bUpjRFQ5RWdTNExEYzdhcXk5U0dwOWpSdWdNdUZ0dys5c3lJSkhIZS9hVEMrWVk6Oj%2Bhe05xoTXZSb4D62twrso%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Jai Bhim (2021)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/10/Jai-Bhim-2021.webp",
+      "url": "https://movie.fun-gg.com/embed/?eG96SGFrQmxyS3ZDNnZwTjVkQ1I1ZTdmVGdPRm5DckhzL24rdWpZOTVnMEw3UlV3TXBKUWZYZ3FwK01YVm52S0M1eXJOZWVoTmRjQS95dmhRRjI4akhuNFdzS2ZxRjFjUHhsdlo0LzB5elFYdEJ4RzdUZVR4VFhyVUh6WmtyZ0E6OlzQoxA8q1oA%2FDDJzo6IOLs%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "The Tomorrow War (2021)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/09/The-Tomorrow-War-2021-ข้ามเวลา-หยุดโลกวินาศ-1.webp",
+      "url": "https://movie.fun-gg.com/embed/?WlBBdWpncFhLWWZheDJHQTk0c09qMVlXb2pnVlBGQmJQallSVWZ5V0pPNkJZMXdZRDBJMEV0TzNncVFXRFI2RE1HM3RXVWZYNjJ4UkFLMnVoTTVrcXdDODd0UzlNMy9pUEVxUFVQNlp5eHRNUmFoZTVNK2tPOHZncVZpT3ZUaFY6OobkC49tjcWSCcFd0NDA4T0%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Drishyam 2 (2021)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/09/Drishyam-2-2021-ภาพลวง-2.webp",
+      "url": "https://movie.fun-gg.com/embed/?VkNaQ2szZlJzdTRsZEdjT3h1bitTZTUvZTJidU9sRSt5QXBzWHlhVnVzWi9PcDN4VU82Y2VndW40N0ZmWGxFY0pBYjJDbkxyVUViYkhWdUdXSUlzLytGYXloWWNZdDdtWTU5YzNtNGVucENxM2tQYTljZG4vUTNBVWhFWWc0dDM6Ohv2cKkKWiUv6CTDtMo4tZM%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Samaritan (2022)",
+      "info": "เสียงไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/09/Samaritan-2022-ซามาริทัน.webp",
+      "url": "https://movie.fun-gg.com/embed/?QUE5a01PUy9hcVB3QTd6SlR1cGlqV202dEQzLy9kVDA4OTVVWTB6bUNQQnBTS3EyN0EzL0xTdFB5ZzBhdnR4R0RYVUtDb3F4YWdaNENSUnlJOUZaRHAvMy9ubFRhbjFuQ0NWNGx2dldWaWdZVzBBWmt4VHRON21hV1czcFZja1M6Opa1ijbHHPkBGEOjK9EkNfY%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Samaritan (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/09/Samaritan-2022-ซามาริทัน.webp",
+      "url": "https://movie.fun-gg.com/embed/?N3JDSEo2dWQvU3Z4LzNTWVFWUVcwN296M0MzQXkxcWlGclNDL3NDOWpUY3V5VzJMRy9UcFpua01LSUxFTzl4cC9TbmJEUk5RNkxnOVdDS2hvZCtvcXIreSt4RTVlSGFoZ011dlRLSVZpR1NZNWtzeTlyL1QrSmhoRE4yUzJhWjI6Oiw%2FGQUxQYkTk7vrvfjy0%2B4%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Jalsa (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/08/4my.webp",
+      "url": "https://movie.fun-gg.com/embed/?Q0JjOXk2bnpZS2JWM1F5VDA2aVl2UEZFNkNLdmZpUnJOVC9qRytjS0QzZTRPZFd1UGZNTnpWM2l4dmZnRUdUVW05ZFJTekJlTE0vRDhxRVhKZFF6Rll0SEpoRlJCYWlrRTA2UmQrVjB4YkdoblF2Q3ZBK1ZBMTNwODdwOHJINFg6OqyAR3A2aVpzIcxRhotZ1hg%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Thirteen Lives (2022) 13 ชีวิต",
+      "info": "เสียงไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/08/Thirteen-Lives-2022-13-ชีวิต.webp",
+      "url": "https://movie.fun-gg.com/embed/?dGljMlJhOXpzSG9oUkRiWVJMemt4cmYrUyszSnd3UTJYNzRrYWVoVUUveE5aRnhLQzZuallKbDI1VXJOWEtqM21VSmQyZC9iMjVTcXJob0hxSnZidFY2YU9WRExQNUpMZ1hWOTgxcDIxazRCbndnUWZGd3cxMnRMbGtWa1lNbms6OqW1CfMPH42e59ecASUxqds%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Jolt (2021) สวย แรง สูง",
+      "info": "เสียงไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/08/Jolt.webp",
+      "url": "https://movie.fun-gg.com/embed/?VHpTcGtRTlovYWlCK3dpQTdaNkxLZnlxQzU1dTBEWmNManpHRkJRVWlacExyY3p0N3JvekRqK1k2alVIZnlrK09jVndHMS9xanAwSEtDV0ZWeFZ4aHY2b2xmT01OQ2h4dmZTTDhiZVNxVnl3KzBtK0JHTkdwMnlTSDQyN1VVU1k6OkZUd8ATi%2BqtTVHt7HaiKVQ%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Jolt (2021) สวย แรง สูง",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/08/Jolt.webp",
+      "url": "https://movie.fun-gg.com/embed/?SEdLTUdiUUt1REEvRzhwQ0dRb2ZWVCtGOXB0L1hpVCtlMFlHOG41MXhsbzlFRk9peS9Sd3NqdStHKytwRlBNSkJxNkFzNm9paFpMSUlVdWtOLytWQkFqVENqalIvOGQrU0R2Y1JleFJZMlJNanU4OEpibG9SdXhVTWpUSFRxUnY6Op9r3hw38AHraWSz3%2Fri3yw%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "JugJugg Jeeyo (2022)",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/08/JugJugg-Jeeyo-2022.webp",
+      "url": "https://movie.fun-gg.com/embed/?S0UySkI4V3YrVncvcncyb0J3WjA3cmVOQlphZHB0ODJEL0htNWxzbEhNQjhsSnpHc1poYmlzK0MrOFg1UUsvOTFZWnBvK1M3TG4yYW9IU2twbk9XTWlUNnREYTNPaTVtenBBZ3BFZ05DMUs0Qm1wWlBvMUkxcjlubG40UkJzeG86OpDDyqslwW7pFFKo22D7MBc%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Anything's Possible (2022) อะไร ๆ ก็เป็นไปได้",
+      "info": "เสียงไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/08/Anythings-Possible-2022-อะไร-ๆ-ก็เป็นไปได้.webp",
+      "url": "https://movie.fun-gg.com/embed/?SmxQNW9nV0FDeUJMbTQvVUFVZDh5NWE4RmRxRFFRYi9xako5blBCeGk1YkwvUHRtenY5cS8rMW9tdk45aDFoYjRmZDFJbmJiMXJnaGtPaXJmSmxhcTQ0aGdvanJmRW5ZK0JIOHJ0N1JkUG45Q3VPS2hqd0xxeWZ2ODdNK25rZVk6OtdAHIiWfIfe7jcf%2BUbifMc%3D",
+      "referer": "https://7yup.net/"
+    },
+    {
+      "name": "Anything's Possible (2022) อะไร ๆ ก็เป็นไปได้",
+      "info": "Soundtrack/ซับไทย",
+      "image": "http://7yup.net/wp-content/uploads/2022/08/Anythings-Possible-2022-อะไร-ๆ-ก็เป็นไปได้.webp",
+      "url": "https://movie.fun-gg.com/embed/?em1ST21WRnlvYlZhT3FwdjNTN1M1MlZUYlMrVjlqS1FpVDd6RHhPVURSNUpDaTFhWGZEd1I1VzMyTnVHT1V6Qm9MSkx6Q0F2ODk3WEtQRUhNeDVVdVRKSzRKZU9YNEUvUTlNbEFBczBOVTRXd2RxblhvSEFseEZqcVVzN3dwMSs6Ovq8KFbZxqTboQzTRI8KKkI%3D",
+      "referer": "https://7yup.net/"
+    }
+  ]
+}
