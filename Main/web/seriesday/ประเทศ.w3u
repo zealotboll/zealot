@@ -1,0 +1,50 @@
+{
+ "name": "Seriesday แยกตามประเทศ",
+ "author": "อุ๋ง อุ๋ง ",
+ "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
+ "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+ "groups": [
+    {
+       "name":"ซีรี่ย์ไทย", 
+       "image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/seriesday/seriesday_ซีรี่ย์ไทย.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ซีรี่ย์ฝรั่ง", 
+       "image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/seriesday/seriesday_ซีรี่ย์ฝรั่ง.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ซีรี่ย์จีน", 
+       "image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/seriesday/seriesday_ซีรี่ย์จีน.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ซีรี่ย์เกาหลี", 
+       "image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/seriesday/seriesday_ซีรี่ย์เกาหลี.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ซีรี่ย์ญี่ปุ่น", 
+       "image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/seriesday/seriesday_ซีรี่ย์ญี่ปุ่น.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ซีรี่ย์เอเชีย", 
+       "image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/seriesday/seriesday_ซีรี่ย์เอเชีย.w3u",
+       "import":"true"
+    },
+    {
+       "name":"ซีรี่ย์อินเดีย", 
+       "image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/seriesday/seriesday_ซีรี่ย์อินเดีย.w3u",
+       "import":"true"
+    }
+  ]
+}
