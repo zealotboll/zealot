@@ -1,0 +1,243 @@
+{
+  "name": "Star Wars รวมหนัง | Nung2HD",
+  "author": "อุ๋ง อุ๋งnung2hdd",
+  "info": "",
+  "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+  "groups": [
+    {
+      "name": "Rogue One A Star Wars Story (2016) โร้ค วัน ตำนานสตาร์ วอร์ส",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/Rogue-One-A-Star-Wars-Story-.jpg",
+      "stations": [
+        {
+          "name": "Rogue One A Star Wars Story (2016) โร้ค วัน ตำนานสตาร์ วอร์ส(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/Rogue-One-A-Star-Wars-Story-.jpg",
+          "url": "https://streamhls.com/view/4912d499-89c7-57ce-8ed1-a5e73c084f2d.m3u8"
+        },
+        {
+          "name": "Rogue One A Star Wars Story (2016) โร้ค วัน ตำนานสตาร์ วอร์ส(Soundtrack ซับ)",
+          "info": "Soundtrack ซับ",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/Rogue-One-A-Star-Wars-Story-.jpg",
+          "url": "https://streamhls.com/view/5472c40c-17b1-54a0-a94e-4c94589d37d2.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Solo A Star Wars Story (2018) ฮาน โซโล ตำนานสตาร์ วอร์ส",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2018/05/Hansolo-1.jpg",
+      "stations": [
+        {
+          "name": "Solo A Star Wars Story (2018) ฮาน โซโล ตำนานสตาร์ วอร์ส(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/05/Hansolo-1.jpg",
+          "url": "https://streamhls.com/view/d6f148ff-68f3-5c8b-8669-ade3094ccaf8.m3u8"
+        },
+        {
+          "name": "Solo A Star Wars Story (2018) ฮาน โซโล ตำนานสตาร์ วอร์ส(Soundtrack ซับ)",
+          "info": "Soundtrack ซับ",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/05/Hansolo-1.jpg",
+          "url": "https://streamhls.com/view/03abd109-0572-50d3-bb49-2c7d3fe290a4.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Episode VIII The Last Jedi (2017) สตาร์ วอร์ส ปัจฉิมบทแห่งเจได",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2018/03/Star-Wars-Episode-VIII-The-Last-Jedi-2017.jpg",
+      "stations": [
+        {
+          "name": "Star Wars Episode VIII The Last Jedi (2017) สตาร์ วอร์ส ปัจฉิมบทแห่งเจได(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/03/Star-Wars-Episode-VIII-The-Last-Jedi-2017.jpg",
+          "url": "https://streamhls.com/view/b3f1c6e9-9259-5e74-ae8c-45547406a56a.m3u8"
+        },
+        {
+          "name": "Star Wars Episode VIII The Last Jedi (2017) สตาร์ วอร์ส ปัจฉิมบทแห่งเจได(Soundtrack ซับ)",
+          "info": "Soundtrack ซับ",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/03/Star-Wars-Episode-VIII-The-Last-Jedi-2017.jpg",
+          "url": "https://streamhls.com/view/f1c01101-d175-521c-8bd9-c442c26d50ff.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Episode IX The Rise of Skywalker (2019) สตาร์ วอร์ส กำเนิดใหม่สกายวอล์คเกอร์",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2019/12/db32LaOibwEliAmSL2jjDF6oDdj_250x375.jpg",
+      "stations": [
+        {
+          "name": "Star Wars Episode IX The Rise of Skywalker (2019) สตาร์ วอร์ส กำเนิดใหม่สกายวอล์คเกอร์(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2019/12/db32LaOibwEliAmSL2jjDF6oDdj_250x375.jpg",
+          "url": "https://streamhls.com/view/1aadf68c-8c91-53f9-9b61-690a9642055b.m3u8"
+        },
+        {
+          "name": "Star Wars Episode IX The Rise of Skywalker (2019) สตาร์ วอร์ส กำเนิดใหม่สกายวอล์คเกอร์(Soundtrack ซับ)",
+          "info": "Soundtrack ซับ",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2019/12/db32LaOibwEliAmSL2jjDF6oDdj_250x375.jpg",
+          "url": "https://streamhls.com/view/f9d39a72-58a4-5d43-900e-1aa7fca4ed08.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Rebels Spark of Rebellion (2014) ศึกกบฎพิทักษ์จักรวาล",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2014/12/m1504-343x500.jpg",
+      "stations": [
+        {
+          "name": "Star Wars Rebels Spark of Rebellion (2014) ศึกกบฎพิทักษ์จักรวาล(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2014/12/m1504-343x500.jpg",
+          "url": "https://streamhls.com/view/a05a2432-21a9-55db-bcdb-af876139eac1.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars The Clone Wars (2008) สตาร์ วอร์ส สงครามโคลน",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2018/05/xd6yhmtS6mEURZLwUDT5raEMbf.jpg",
+      "stations": [
+        {
+          "name": "Star Wars The Clone Wars (2008) สตาร์ วอร์ส สงครามโคลน(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2018/05/xd6yhmtS6mEURZLwUDT5raEMbf.jpg",
+          "url": "https://streamhls.com/view/ed5b5938-df9b-5853-9d1c-f375073c5827.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars 7 The Force Awakens (2015) สตาร์ วอร์ส 7 อุบัติการณ์แห่งพลัง",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20200209090538star-wars-episode-vii-the-force-awakens-57262eeb1560f.jpg",
+      "stations": [
+        {
+          "name": "Star Wars 7 The Force Awakens (2015) สตาร์ วอร์ส 7 อุบัติการณ์แห่งพลัง(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20200209090538star-wars-episode-vii-the-force-awakens-57262eeb1560f.jpg",
+          "url": "https://streamhls.com/view/855ead92-709b-5e6b-ac25-3aa6048c36ee.m3u8"
+        },
+        {
+          "name": "Star Wars 7 The Force Awakens (2015) สตาร์ วอร์ส 7 อุบัติการณ์แห่งพลัง(Soundtrack ซับ)",
+          "info": "Soundtrack ซับ",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20200209090538star-wars-episode-vii-the-force-awakens-57262eeb1560f.jpg",
+          "url": "https://streamhls.com/view/6db37dd3-ae50-5d14-a678-578646bbdb4a.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Episode 2 Attack of the Clones (2002) กองทัพโคลนส์จู่โจม",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122083707star-wars-attack-of-the-clones-episode-2-ii-movie-poster.jpg",
+      "stations": [
+        {
+          "name": "Star Wars Episode 2 Attack of the Clones (2002) กองทัพโคลนส์จู่โจม(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122083707star-wars-attack-of-the-clones-episode-2-ii-movie-poster.jpg",
+          "url": "https://streamhls.com/view/afb2f46f-0b67-5847-8fd2-ab118d536954.m3u8"
+        },
+        {
+          "name": "Star Wars Episode 2 Attack of the Clones (2002) กองทัพโคลนส์จู่โจม(Soundtrack ซับ)",
+          "info": "Soundtrack ซับ",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122083707star-wars-attack-of-the-clones-episode-2-ii-movie-poster.jpg",
+          "url": "https://streamhls.com/view/fa78c88f-ab5f-5af2-8456-c5d45df273e3.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Episode 6 Return of the Jedi (1983) การกลับมาของเจได",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122082055Star_wars_episode_6.jpg",
+      "stations": [
+        {
+          "name": "Star Wars Episode 6 Return of the Jedi (1983) การกลับมาของเจได(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122082055Star_wars_episode_6.jpg",
+          "url": "https://streamhls.com/view/daef0c04-0e1b-52f0-a512-05d679a29f5a.m3u8"
+        },
+        {
+          "name": "Star Wars Episode 6 Return of the Jedi (1983) การกลับมาของเจได(Soundtrack ซับ)",
+          "info": "Soundtrack ซับ",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122082055Star_wars_episode_6.jpg",
+          "url": "https://streamhls.com/view/aabeba80-983a-5176-aabc-f8469a4e2b7d.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Episode 5 The Ekmpire Strikes Bac (1980) จักรวรรดิเอมไพร์โต้กลับ",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122082333Episode_5.jpg",
+      "stations": [
+        {
+          "name": "Star Wars Episode 5 The Ekmpire Strikes Bac (1980) จักรวรรดิเอมไพร์โต้กลับ(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122082333Episode_5.jpg",
+          "url": "https://streamhls.com/view/b6cde570-dd76-5a2d-a7e2-3218dd34441e.m3u8"
+        },
+        {
+          "name": "Star Wars Episode 5 The Ekmpire Strikes Bac (1980) จักรวรรดิเอมไพร์โต้กลับ(Soundtrack ซับ)",
+          "info": "Soundtrack ซับ",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122082333Episode_5.jpg",
+          "url": "https://streamhls.com/view/c71b5293-9302-5a88-8edb-3a34f8554ec8.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Episode 4 A New Hope (1977) ความหวังใหม่",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122082656Episode_IV.jpg",
+      "stations": [
+        {
+          "name": "Star Wars Episode 4 A New Hope (1977) ความหวังใหม่(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122082656Episode_IV.jpg",
+          "url": "https://streamhls.com/view/35b1d4e8-a167-5934-930a-e000f12f30b1.m3u8"
+        },
+        {
+          "name": "Star Wars Episode 4 A New Hope (1977) ความหวังใหม่(Soundtrack ซับ)",
+          "info": "Soundtrack ซับ",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122082656Episode_IV.jpg",
+          "url": "https://streamhls.com/view/b6c4b7b4-314b-5603-b723-d615f219027e.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Episode 3 Revenge of the Sith (2005) ซิธชำระแค้น",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122083153revenge-of-the-sith.jpg",
+      "stations": [
+        {
+          "name": "Star Wars Episode 3 Revenge of the Sith (2005) ซิธชำระแค้น(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122083153revenge-of-the-sith.jpg",
+          "url": "https://streamhls.com/view/920b2bdf-e1cb-50dc-a71a-7c8c6673820a.m3u8"
+        },
+        {
+          "name": "Star Wars Episode 3 Revenge of the Sith (2005) ซิธชำระแค้น(Soundtrack ซับ)",
+          "info": "Soundtrack ซับ",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122083153revenge-of-the-sith.jpg",
+          "url": "https://streamhls.com/view/1fc7dc2f-cc2a-5b66-b68f-bbef869eac3a.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Episode 1 The Phantom Menace (1999) ภัยซ่อนเร้น",
+      "info": "HD Thai+SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122084418Star-Wars-1-The-Phantom-Menace.jpg",
+      "stations": [
+        {
+          "name": "Star Wars Episode 1 The Phantom Menace (1999) ภัยซ่อนเร้น(พากย์ไทย)",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122084418Star-Wars-1-The-Phantom-Menace.jpg",
+          "url": "https://streamhls.com/view/a8337c77-2b22-5fe6-a088-bb41762c3334.m3u8"
+        },
+        {
+          "name": "Star Wars Episode 1 The Phantom Menace (1999) ภัยซ่อนเร้น(Soundtrack ซับ)",
+          "info": "Soundtrack ซับ",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/05/20170122084418Star-Wars-1-The-Phantom-Menace.jpg",
+          "url": "https://streamhls.com/view/4da66bfb-bcd6-5da6-ad92-17f98643ff31.m3u8"
+        }
+      ]
+    }
+  ]
+}

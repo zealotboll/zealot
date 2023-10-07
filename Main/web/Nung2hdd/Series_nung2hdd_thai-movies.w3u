@@ -1,0 +1,71 @@
+{
+  "name": "หนังไทย | Nung2HD",
+  "author": "อุ๋ง อุ๋ง อัพวันที่ 08/07/2023",
+  "info": "ผิดน้อย ผิดมาก ไม่สำคัญเท่ากับสำนึกผิดหรือเปล่า",
+  "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+  "groups": [
+    {
+      "name": "Delete (2023)",
+      "info": "HD Thai",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Delete2023.jpg",
+      "stations": [
+        {
+          "name": "Episode 1(Thai)",
+          "info": "Thai",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Delete2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/8a0e5388-e8fa-5d8c-914b-6dd3d00a5b5a.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode 2(Thai)",
+          "info": "Thai",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Delete2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/a1f534de-ef54-59c6-91fd-93c16af2b1b8.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode 3(Thai)",
+          "info": "Thai",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Delete2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/734df942-0b46-5b42-b63e-2a0c20a53b1c.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode 4(Thai)",
+          "info": "Thai",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Delete2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/447727e1-a168-5203-8c41-4ac9039e5007.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode 5(Thai)",
+          "info": "Thai",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Delete2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/3ad843f3-9899-5ac0-9609-065ce86148b1.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode 6(Thai)",
+          "info": "Thai",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Delete2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/7063ba5a-2f03-54bc-b7e3-6dd32cd2bd09.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode 7(Thai)",
+          "info": "Thai",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Delete2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/5b57313b-e8a7-59bc-b023-780386f56335.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "Episode 8(Thai)",
+          "info": "Thai",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Delete2023.jpg",
+          "url": "https://sgcdnseriesn.xyz/view/d6123987-8f73-5bb2-86c0-77fd2bf2d658.m3u8",
+          "referer": "https://sgcdnseriesn.xyz/"
+        }
+      ]
+    }
+  ]
+}
