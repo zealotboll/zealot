@@ -1,0 +1,44 @@
+{
+"name":"หนัง",
+"author":"อุ๋ง อุ๋ง",
+"info": "@สลัดไง",
+"image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
+"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/123HD/123hd.txt",
+"groups": [
+
+
+
+{
+"name":"หนัง",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/123HD/123hdหนัง.txt",
+"import":"true"
+},
+{
+"name":"ซีรี่ย์",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/123HD/123hdซีรี่.txt",
+"import":"true"
+},
+{
+"name":"1970-2021",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/123HD/1970-2021.txt",
+"import":"true"
+},
+{
+"name":"แยกตามประเภท",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/123HD/123hdประเภทหนัง.txt",
+"import":"true"
+},
+{
+"name":"Cartoon",
+"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
+"url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/main/web/123HD/cartoon.txt",
+"import":"true"
+},
+
+
+]
+}
