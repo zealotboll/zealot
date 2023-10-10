@@ -5,7 +5,13 @@
 	"image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
 	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/อุ๋ง%20อุ๋ง.txt",
 	"groups": [
-    
+{
+	"name":"TV Digital", 
+	"image":"https://v1.igetweb.com/www/aosat/article/art_42205644.png",
+	"url":"https://pastebin.com/raw/85xPY9SY",
+	"import":"true"
+  },
+
   {
 	"name":"🦭จัดให้🐒", 
 	"image":"https://lh3.googleusercontent.com/-PPiF3ZR4_Q8/ZQyd_dEuGwI/AAAAAAAAFrE/emFbzgZoAQocp54EV6UN6LxDNHP5z7cJACNcBGAsYHQ/h120/Untitled-4.png",
