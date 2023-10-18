@@ -18,6 +18,24 @@
 "import":"true"
 },
 
+{"name":" TV Online",
+"author":"จัดทำและรับชมฟรี ห้ามซื้อขาย",
+"image":"https://lh3.googleusercontent.com/vtO1GOAYW_3MMOgeSImh382QuhXVx4uMRd7nqXoXkAy5Mchy5aWePspuPhztyY8qAtV_",
+"url":"https://script.google.com/macros/s/AKfycbycMvinGvioalpz6z4c2j9uYtLYGZPPRFnMmfqstZRQjo7Yv52YjpkLSLASXhgwZflm/exec",
+"import": "true"},
+
+{"name": " For ฟรี.. นะจ๊ะ",
+"author": "ผู้เฒ่าพเนจร",
+"url": "http://tiny.cc/freetv2238",
+"image": "https://www.dropbox.com/s/wlr7j50udgjzyzj/20220417_131341_0000.png?dl=1",
+"import": "true"},
+{
+"name": "PLAYIDTV",
+"image": "https://media1.giphy.com/media/kGRe6CuGKe3HhlENE7/giphy.webp?cid=6c09b952t1vz9meqabs9k6ouq4yemgby3c47nm6m2ed4jj1n&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g",
+"url": "https://2nud.short.gy/playidtv.w3u",
+"info": "กดทุกครั้งก่อนชม",
+"import": false
+},
 
   {
 	"name":"🦭จัดให้🐒", 
