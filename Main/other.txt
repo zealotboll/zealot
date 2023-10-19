@@ -30,6 +30,31 @@
 "image": "https://i.pinimg.com/originals/0a/f9/1c/0af91c7c8c1b537a395d0a9d8b356d00.gif",
 "import": "true"},
 
+{"name": "[XTEMUS TV]",
+"author": "ใช้สำหรับเพื่อความบันเทิงเท่านั้น",
+"url": "https://playlist.xtemus.com/?playlist=t256y454t41554",
+"image": "https://tv.xtemus.com/images/x-logo.gif",
+"import": "true"},
+
+{"name": "แบ่งปัน Av",
+"author": "ดูฟรีไม่มีค่าใช้จ่าย",
+"image": "https://sv1.picz.in.th/images/2023/08/22/dW3Issl.png",
+"url": "https://pastebin.com/V0K9wj7d",
+"info": "",
+    "groups": [
+ 
+	{"name":"","image": "https://sv1.picz.in.th/images/2023/08/22/dW3FYia.png",
+ "url": "https://drive.google.com/uc?id=10tK2qS7oraHSmaHndwgUhMBepkaUkDIo","import": false},
+]
+}
+
+{"name": "guflix",
+"author": "",
+"url": "http://guflix.streaming-fast.com/wiseplay/guflix.html",
+"image": "http://guflix.streaming-fast.com/logo/guflix.gif",
+"import": "true"},
+
+
 
 ]
 }
