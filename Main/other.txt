@@ -4,12 +4,6 @@
 "image":"https://mrclown.tv/wp-content/uploads/2014/11/MC_SightWords-Other.jpg",
 "url": "https://github.com/zealotboll/zealot/blob/main/Main/other.txt",
 "groups": [
-{
-"name":"Sport Channel",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g5NUSyMS2OB-fZCEMSCdLFnAxKutGuycn9clJfdVMT7e2VKH&usqp=CAU",
-"url":"https://pastebin.com/EhARAHhP",
-"import":"true"
-},
 
 {"name":" TV Online",
 "author":"จัดทำและรับชมฟรี ห้ามซื้อขาย",
@@ -28,7 +22,14 @@
 "url": "https://2nud.short.gy/playidtv.w3u",
 "info": "กดทุกครั้งก่อนชม",
 "import": false
-}
+},
+
+{"name": "📺TV+JAV📺",
+"author": "",
+"url": "https://bit.ly/3JY0Byc",
+"image": "https://i.pinimg.com/originals/0a/f9/1c/0af91c7c8c1b537a395d0a9d8b356d00.gif",
+"import": "true"},
+
 
 ]
 }
