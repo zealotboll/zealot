@@ -1,4 +1,10 @@
 {
+"name":"Others",
+"author":"",
+"image":"https://mrclown.tv/wp-content/uploads/2014/11/MC_SightWords-Other.jpg",
+"url": "https://github.com/zealotboll/zealot/blob/main/Main/other.txt",
+"groups": [
+{
 "name":"Sport Channel",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g5NUSyMS2OB-fZCEMSCdLFnAxKutGuycn9clJfdVMT7e2VKH&usqp=CAU",
 "url":"https://pastebin.com/EhARAHhP",
@@ -22,4 +28,7 @@
 "url": "https://2nud.short.gy/playidtv.w3u",
 "info": "กดทุกครั้งก่อนชม",
 "import": false
+}
+
+]
 }
