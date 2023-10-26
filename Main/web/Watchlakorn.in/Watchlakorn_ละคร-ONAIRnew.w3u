@@ -4,8 +4,8 @@
  "info": "Watchlakorn.in",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
-  
- {"name":"พรหมลิขิต",
+
+{"name":"พรหมลิขิต",
    "info":"Watchlakorn.in",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1697591154.jpg",
    "stations": [
@@ -13,6 +13,18 @@
     	 "info": "วันที่ 18 ตุลาคม 2566",
     	 "image": "https://cdn.watchlakorn.in/storage/images/av-1697591154.jpg",
      	"url": "https://www.watchlakorn.in/egdeny/efc99faca182ec8948d40f8225a3a73a/aGQ=/master.m3u8",
+     	"referer": "https://www.watchlakorn.in/"
+   	},
+	{"name": "พรหมลิขิต ตอนที่ 2",
+    	 "info": "วันที่ 19 ตุลาคม 2566",
+    	 "image": "https://cdn.watchlakorn.in/storage/images/av-1697591154.jpg",
+     	"url": "https://www.watchlakorn.in/egdeny/f31273e9482af430f67146c9bedfc3b9/aGQ=/master.m3u8",
+     	"referer": "https://www.watchlakorn.in/"
+   	},
+	{"name": "พรหมลิขิต ตอนที่ 3",
+    	 "info": "วันที่ 25 ตุลาคม 2566",
+    	 "image": "https://cdn.watchlakorn.in/storage/images/av-1697591154.jpg",
+     	"url": "https://www.watchlakorn.in/egdeny/e62f6c89830d9f1813a39471f460ace8/aGQ=/master.m3u8",
      	"referer": "https://www.watchlakorn.in/"
    	},
    ]
