@@ -36,21 +36,16 @@
 "image": "https://tv.xtemus.com/images/x-logo.gif",
 "import": "true"},
 
-{"name": "guflix",
-"author": "",
-"url": "http://guflix.streaming-fast.com/wiseplay/guflix.html",
-"image": "http://guflix.streaming-fast.com/logo/guflix.gif",
-"import": "false"},
-
 {"name":"A",
 "image":"",
 "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/AV.txt",
 "import":"true"},
 
-
-
-
-
+{"name": "guflix",
+"author": "",
+"url": "http://guflix.streaming-fast.com/wiseplay/guflix.html",
+"image": "http://guflix.streaming-fast.com/logo/guflix.gif",
+"import": "false"},
 
 
 ]
