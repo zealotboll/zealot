@@ -36,10 +36,6 @@
 "image": "https://tv.xtemus.com/images/x-logo.gif",
 "import": "true"},
 
-{"name":"A",
-"image":"",
-"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/AV.txt",
-"import":"true"},
 
 {"name": "guflix",
 "author": "",
@@ -48,5 +44,9 @@
 "import": "false"},
 
 
+{"name":"",
+"image":"",
+"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/AV.txt",
+"import":"true"},
 ]
 }
