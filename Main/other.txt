@@ -5,11 +5,6 @@
 "url": "https://github.com/zealotboll/zealot/blob/main/Main/other.txt",
 "groups": [
 
-{"name": "guflix",
-"author": "",
-"url": "http://guflix.streaming-fast.com/wiseplay/guflix.html",
-"image": "http://guflix.streaming-fast.com/logo/guflix.gif",
-"import": "false"},
 
 {"name":" TV Online",
 "author":"จัดทำและรับชมฟรี ห้ามซื้อขาย",
@@ -47,5 +42,12 @@
 "image":"",
 "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/AV.txt",
 "import":"true"},
+
+{"name": "guflix",
+"author": "",
+"url": "http://guflix.streaming-fast.com/wiseplay/guflix.html",
+"image": "http://guflix.streaming-fast.com/logo/guflix.gif",
+"import": "false"},
+
 ]
 }
