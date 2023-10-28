@@ -5,6 +5,12 @@
 "url": "https://github.com/zealotboll/zealot/blob/main/Main/other.txt",
 "groups": [
 
+{"name": "guflix",
+"author": "",
+"url": "http://guflix.streaming-fast.com/wiseplay/guflix.html",
+"image": "http://guflix.streaming-fast.com/logo/guflix.gif",
+"import": "false"},
+
 {"name":" TV Online",
 "author":"จัดทำและรับชมฟรี ห้ามซื้อขาย",
 "image":"https://lh3.googleusercontent.com/vtO1GOAYW_3MMOgeSImh382QuhXVx4uMRd7nqXoXkAy5Mchy5aWePspuPhztyY8qAtV_",
@@ -35,13 +41,6 @@
 "url": "https://playlist.xtemus.com/?playlist=t256y454t41554",
 "image": "https://tv.xtemus.com/images/x-logo.gif",
 "import": "true"},
-
-
-{"name": "guflix",
-"author": "",
-"url": "http://guflix.streaming-fast.com/wiseplay/guflix.html",
-"image": "http://guflix.streaming-fast.com/logo/guflix.gif",
-"import": "false"},
 
 
 {"name":"",
