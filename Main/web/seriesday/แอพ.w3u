@@ -7,55 +7,55 @@
     {
        "name":"NETFLIX", 
        "image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_netflix.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/seriesday/seriesday_netflix.w3u",
        "import":"true"
     },
     {
        "name":"IQIYI", 
        "image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_iqiyi.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/seriesday/seriesday_iqiyi.w3u",
        "import":"true"
     },
     {
        "name":"WETV", 
        "image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_wetv.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/seriesday/seriesday_wetv.w3u",
        "import":"true"
     },
     {
        "name":"VIU", 
        "image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_viu.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/seriesday/seriesday_viu.w3u",
        "import":"true"
     },
     {
        "name":"HBO", 
        "image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_hbo.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/seriesday/seriesday_hbo.w3u",
        "import":"true"
     },
     {
        "name":"APPLE TV", 
        "image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_apple-tv.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/seriesday/seriesday_apple-tv.w3u",
        "import":"true"
     },
     {
        "name":"DISNEY+", 
        "image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_disney-plus.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/seriesday/seriesday_disney-plus.w3u",
        "import":"true"
     },
     {
        "name":"AMAZON PRIME", 
        "image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_amazon-prime-video.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/seriesday/seriesday_amazon-prime-video.w3u",
        "import":"true"
     },
     {
        "name":"YOUKU", 
        "image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
-       "url":"https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/seriesday_youku.w3u",
+       "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/seriesday/seriesday_youku.w3u",
        "import":"true"
     }
   ]
