@@ -1,0 +1,56 @@
+{"name": "V8Movie-HD",
+ "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
+ "image": "https://www.v8movie-hd.com/wp-content/themes/v8moviehd/img/logo-v8hd.png",
+ "url":"",
+ "groups": [
+		{
+			"name": "หน้า Home",
+			"image": "https://www.v8movie-hd.com/wp-content/themes/v8moviehd/img/logo-v8hd.png",
+			"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/v8movie-hd_.w3u",
+			"import": "false"
+		},
+		{
+			"name": "หนัง",
+			"author": "เจียว เจียว",
+			"image": "https://www.v8movie-hd.com/wp-content/themes/v8moviehd/img/logo-v8hd.png",
+			"groups": [
+			{
+				"name": "หนังในปี 2023",
+				"image": "https://www.v8movie-hd.com/wp-content/themes/v8moviehd/img/logo-v8hd.png",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/v8movie-hd_2023.w3u",
+				"import": "false"
+			},
+			{
+				"name": "ดูหนังใหม่ 2022",
+				"image": "https://www.v8movie-hd.com/wp-content/themes/v8moviehd/img/logo-v8hd.png",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/v8movie-hd_ดูหนังใหม่.w3u",
+				"import": "false"
+			},
+			{
+				"name": "ดูหนังฝรั่ง",
+				"image": "https://www.v8movie-hd.com/wp-content/themes/v8moviehd/img/logo-v8hd.png",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/v8movie-hd_ดูหนังฝรั่ง.w3u",
+				"import": "false"
+			},
+			{
+				"name": "ดูหนังไทย",
+				"image": "https://www.v8movie-hd.com/wp-content/themes/v8moviehd/img/logo-v8hd.png",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/v8movie-hd_ดูหนังไทย.w3u",
+				"import": "false"
+			},
+			{
+				"name": "ดูหนัง Netflix",
+				"image": "https://www.v8movie-hd.com/wp-content/themes/v8moviehd/img/logo-v8hd.png",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/v8movie-hd_ดูหนัง-netflix.w3u",
+				"import": "false"
+			},
+			{
+				"name": "TOP IMDb",
+				"image": "https://www.v8movie-hd.com/wp-content/themes/v8moviehd/img/logo-v8hd.png",
+				"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/v8movie-hd_top-imdb.w3u",
+				"import": "false"
+			}
+		  ]
+		}
+	  ]
+	},
