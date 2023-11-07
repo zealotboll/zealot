@@ -2,6 +2,7 @@
 		"name": "TvAllSeries",
 		"author": "เจียว เจียว",
 		"image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+                "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/TvAllSeries/tv_all_group.txt",
 		"groups": [
 		{
 		   "name": "หน้า Home", 
