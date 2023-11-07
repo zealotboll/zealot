@@ -1,0 +1,64 @@
+{
+ "name": "คอนเสิร์ต",
+ "author": "เจียว เจียว อัพวันที่ 23 ตุลาคม  2566",
+ "info": "Watchlakorn ที่สุดของคนรักละคร",
+ "image": "https://cdn.watchlakorn.in/images/video_logo.png",
+ "groups": [
+  {
+   "name": "ทีวี3สัญจร  [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1295932571.jpg",
+   "stations": []
+  },
+  {
+   "name": "Power3PowerTeamConcert  [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1293590353.jpg",
+   "stations": []
+  },
+  {
+   "name": "7สีคอนเสิร์ต  [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1295751375.jpg",
+   "stations": [
+    {
+     "name": "7 สีคอนเสิร์ต บิ๊กซี พระราม 2 สาขา 2 การเคหะธนบุรี",
+     "info": "วันที่ 5 พฤศจิกายน2565",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295751375.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/71690ee945a79dbd4886ce72eb9bb546/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "7 สีคอนเสิร์ต ออนทัวร์ จ.เชียงราย",
+     "info": "วันที่ 3 ธันวาคม2565",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295751375.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/65cf72e9e46d51659231fd8d47165a0d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "7 สีคอนเสิร์ต ออนทัวร์ บิ๊กซี จ.สุราษฎธ์ธานี",
+     "info": "วันที่ 4 กุมภาพันธ์2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295751375.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6eeaec7615a3a322f7da25f467ba4e01/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "7 สีคอนเสิร์ต",
+     "info": "วันที่ 11 มีนาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295751375.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a919c58f79dc492b9ccf7f5a638bf1e3/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "7 สีคอนเสิร์ต บิ๊กซี ชลบุรี 2",
+     "info": "วันที่ 30 กันยายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295751375.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/50c1321408c7f131173a96054470024d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "ConcertPowerTeam  [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1288853917.jpg",
+   "stations": []
+  }
+ ]
+}
