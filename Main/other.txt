@@ -47,11 +47,17 @@
 "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/AV.txt",
 "import":"true"},
 
-{"name": "guflix",
-"author": "",
+{"name": "🅶🆄🅵🅻🅸🆇",
+"author": "🅶🆄🅵🅻🅸🆇 🅗🅘",
 "url": "http://guflix.streaming-fast.com/wiseplay/guflix.html",
 "image": "http://guflix.streaming-fast.com/logo/guflix.gif",
 "import": "false"},
+
+{"name": "🅶🆄🅵🅻🅸🆇",
+"author": "🅶🆄🅵🅻🅸🆇 🅗🅘",
+"url": "http://guflix.streaming-fast.com/free_wiseplay/4399bddfbc4ef38eb1a1d992572ae577/guflixfree.w3u",
+"image": "http://guflix.streaming-fast.com/logo/guflix.gif",
+"imageScale": "center"},
 
 ]
 }
