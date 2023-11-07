@@ -86,6 +86,12 @@
 	"import":"true"
   },
   {
+	"name":"V8Movie-HD", 
+	"image":"https://www.v8movie-hd.com/wp-content/themes/v8moviehd/img/logo-v8hd.png",
+	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/V8Movie/V8_all.txt",
+	"import":"true"
+  },
+  {
 	"name":"🦭Watchlakorn.in", 
 	"image":"https://cdn.watchlakorn.in/images/video_logo.png",
 	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/แยกประเภท.txt",
