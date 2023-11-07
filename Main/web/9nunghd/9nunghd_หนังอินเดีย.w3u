@@ -1,18 +1,88 @@
 {
  "name": "หนังอินเดีย",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 26 กันยายน 2566",
+ "author": "เจียว เจียว อัพวันที่ 29 ตุลาคม 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
   {
+   "name": "Detective Byomkesh Bakshy! (2015) บอย์มเกช บัคชี นักสืบกู้ชาติ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7IvuZioWIvj8UAIWJhGtLsqwwt-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Detective Byomkesh Bakshy! (2015) บอย์มเกช บัคชี นักสืบกู้ชาติ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7IvuZioWIvj8UAIWJhGtLsqwwt-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/55981c9e-5755-5834-9272-e1834c15c498.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Kabul Express (2006) กาพุล เอกซ์เพรส",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/55JOXvEqxQtB1QQPAEmzCwpXXwY-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Kabul Express (2006) กาพุล เอกซ์เพรส",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/55JOXvEqxQtB1QQPAEmzCwpXXwY-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/71499f91-657a-5b7f-8380-28fa3dcdbb92.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "IJOGBON (2023) เพชรเถื่อน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/x6UdslsJh7tOcV7H92xlhv2M0pQ-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "IJOGBON (2023) เพชรเถื่อน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/x6UdslsJh7tOcV7H92xlhv2M0pQ-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/d2c86687-0afb-54d4-a660-e33bba04f344.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "House of Spies (2023) เฮาส์ ออฟ สปาย",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Khufiya-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "House of Spies (2023) เฮาส์ ออฟ สปาย",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Khufiya-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/3930e37d-e0ac-5d22-935c-2ea751dcf4a1.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Gandeevadhari Arjuna (2023) ล้มแผนอหังการ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Gandeevadhari-Arjuna-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Gandeevadhari Arjuna (2023) ล้มแผนอหังการ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Gandeevadhari-Arjuna-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/f8232297-1aff-58d3-82ce-10bebbaa37d4.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Bhola Shankar (2023) โบลา ชังการ์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Bhola-Shankar-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Bhola-Shankar-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Bhola Shankar (2023) โบลา ชังการ์",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Bhola-Shankar-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Bhola-Shankar-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/26e76a8a-e044-5d27-84e0-e752d99bcdf8.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -20,13 +90,13 @@
   },
   {
    "name": "Bro (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Bro-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Bro-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Bro (2023)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Bro-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Bro-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/12ed3e86-7948-5a42-86c2-f57489c17863.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -34,13 +104,13 @@
   },
   {
    "name": "Raatchasi (2019) รัตชาซี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Raatchasi-2019.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Raatchasi-2019-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Raatchasi (2019) รัตชาซี",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Raatchasi-2019.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Raatchasi-2019-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a39b2aea-d257-578c-9d3d-52fabc597d08.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -48,13 +118,13 @@
   },
   {
    "name": "Virata Parvam (2022) ลำนำรักระหว่างรบ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Virata-Parvam-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Virata-Parvam-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Virata Parvam (2022) ลำนำรักระหว่างรบ",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Virata-Parvam-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Virata-Parvam-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/09c54ac7-684f-541c-b24b-fe4ac3e07703.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -62,13 +132,13 @@
   },
   {
    "name": "Andhadhun (2018) บทเพลงในโลกมืด",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Andhadhun-2018.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Andhadhun-2018-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Andhadhun (2018) บทเพลงในโลกมืด",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Andhadhun-2018.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Andhadhun-2018-190x300-c-default.webp",
      "url": "https://streamhls.com/view/07c0dcf4-d79b-557b-b014-8d98952530c6.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -76,13 +146,13 @@
   },
   {
    "name": "Bawaal (2023) บาวาล",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Bawaal-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Bawaal-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Bawaal (2023) บาวาล",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Bawaal-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Bawaal-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/bafb54b1-e013-5be2-a9f9-5b31ce10c988.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -90,13 +160,13 @@
   },
   {
    "name": "Adipurush (2023) อดิปุรุช",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Adipurush-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Adipurush-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Adipurush (2023) อดิปุรุช",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Adipurush-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Adipurush-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/dae2f002-7b9f-52c8-87c3-304ccb116275.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -104,69 +174,27 @@
   },
   {
    "name": "Veeran (2023) วีรัน ฮีโร่สายฟ้าทมิฬ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Veeran-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Veeran-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Veeran (2023) วีรัน ฮีโร่สายฟ้าทมิฬ",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Veeran-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Veeran-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9d50ddb3-8e29-5efd-8615-d6bf72acdcb3.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
-   "name": "Ponniyin Selvan Part 2 (2023) ปนนิยิน เซลวัน 2",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Ponniyin-Selvan-Part-2-2023.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Ponniyin Selvan Part 2 (2023) ปนนิยิน เซลวัน 2",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Ponniyin-Selvan-Part-2-2023.webp",
-     "url": "https://streamhls.com/view/ea4b2629-9808-503c-a885-3a4cf6c4638d.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Afwaah (2023) ข่าวลือ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Afwaah-2023.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Afwaah (2023) ข่าวลือ",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Afwaah-2023.webp",
-     "url": "https://streamhls.com/view/85b22d4e-64c5-522a-8d08-b5bd969550f4.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Lust Stories 2 (2023) เรื่องรัก เรื่องใคร่ 2",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Lust-Stories-2-2023.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Lust Stories 2 (2023) เรื่องรัก เรื่องใคร่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Lust-Stories-2-2023.webp",
-     "url": "https://streamhls.com/view/aa92f629-c698-52bc-811b-ab0beff12f52.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Raajneeti (2010) มายาการเมือง",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Raajneeti-2010.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Raajneeti-2010-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Raajneeti (2010) มายาการเมือง",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Raajneeti-2010.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Raajneeti-2010-190x300-c-default.webp",
      "url": "https://streamhls.com/view/2f105ddd-9313-5e21-af27-7ff4afa12582.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -174,13 +202,13 @@
   },
   {
    "name": "Bholaa (2023) โภลา",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Bholaa-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Bholaa-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Bholaa (2023) โภลา",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Bholaa-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Bholaa-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/1599ae12-ecbf-5141-b978-139c67e93be2.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -188,13 +216,13 @@
   },
   {
    "name": "Yeh Jawaani Hai Deewani (2013) ทริปซ่าท้าหัวใจ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Yeh-Jawaani-Hai-Deewani-2013.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Yeh-Jawaani-Hai-Deewani-2013-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Yeh Jawaani Hai Deewani (2013) ทริปซ่าท้าหัวใจ",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Yeh-Jawaani-Hai-Deewani-2013.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Yeh-Jawaani-Hai-Deewani-2013-190x300-c-default.webp",
      "url": "https://streamhls.com/view/13e1bb6b-5062-5dc6-a992-2d2cc61d4f58.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -202,13 +230,13 @@
   },
   {
    "name": "Gumraah (2023) คนหน้าเหมือน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Gumraah.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Gumraah-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Gumraah (2023) คนหน้าเหมือน",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Gumraah.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Gumraah-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0170dfbf-a230-5d84-8b40-af4cf6af8b3c.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -216,13 +244,13 @@
   },
   {
    "name": "Kathal: A Jackfruit Mystery (2023) คดีวุ่น ขนุนอลเวง",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Kathal-A-Jackfruit-Mystery-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Kathal-A-Jackfruit-Mystery-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Kathal: A Jackfruit Mystery (2023) คดีวุ่น ขนุนอลเวง",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Kathal-A-Jackfruit-Mystery-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Kathal-A-Jackfruit-Mystery-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ff6eb419-293c-58b6-ac6b-4ef3a39f2deb.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -230,13 +258,13 @@
   },
   {
    "name": "Abang Long Fadil 3 (2022) อาบัง ลอง ฟาดิล 3",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Abang-Long-Fadil-32022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Abang-Long-Fadil-32022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Abang Long Fadil 3 (2022) อาบัง ลอง ฟาดิล 3",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Abang-Long-Fadil-32022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Abang-Long-Fadil-32022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d2c71006-f024-567b-9b3e-370328600513.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -244,13 +272,13 @@
   },
   {
    "name": "Juang (2022) ภัยร้ายโควิด",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Juang-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Juang-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Juang (2022) ภัยร้ายโควิด",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Juang-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Juang-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/1c2145d3-917b-5d61-b3c3-e891ed5aeaed.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -258,13 +286,13 @@
   },
   {
    "name": "Kelab Rojak (2023) เดอะ โรจาค คลับ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Kelab-Rojak-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Kelab-Rojak-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Kelab Rojak (2023) เดอะ โรจาค คลับ",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Kelab-Rojak-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Kelab-Rojak-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/081cc0cc-5f3c-5404-9a58-974f72601eff.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -272,13 +300,13 @@
   },
   {
    "name": "Mother’s Day is Cancelled (2023) อลหม่านวันแม่",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Mother-s-Day-is-Cancelled-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Mother-s-Day-is-Cancelled-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Mother’s Day is Cancelled (2023) อลหม่านวันแม่",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Mother-s-Day-is-Cancelled-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Mother-s-Day-is-Cancelled-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3355be8c-0fc1-5597-be23-62c103ff543b.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -286,13 +314,13 @@
   },
   {
    "name": "Ravanasura (2023) ซ้อนแผนฆ่า",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Ravanasura-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Ravanasura-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Ravanasura (2023) ซ้อนแผนฆ่า",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Ravanasura-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Ravanasura-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/faa76cd4-52a8-5f56-a430-2a79f7c1a425.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -300,13 +328,13 @@
   },
   {
    "name": "Mrs. Chatterjee Vs Norway (2023) สงครามของแม่",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Mrs-Chatterjee-Vs-Norway-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Mrs-Chatterjee-Vs-Norway-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Mrs. Chatterjee Vs Norway (2023) สงครามของแม่",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Mrs-Chatterjee-Vs-Norway-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Mrs-Chatterjee-Vs-Norway-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/004a464a-c32a-5d7e-9f50-0029f56950c0.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -314,13 +342,13 @@
   },
   {
    "name": "Chhorii (2021)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Chhorii-2021.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Chhorii-2021-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Chhorii (2021)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Chhorii-2021.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Chhorii-2021-190x300-c-default.webp",
      "url": "https://streamhls.com/view/1d16f5fa-281e-5fce-8918-ebc83af89a0e.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -328,13 +356,13 @@
   },
   {
    "name": "Tu Jhoothi Main Makkaar (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Tu-Jhoothi-Main-Makkaar-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Tu-Jhoothi-Main-Makkaar-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Tu Jhoothi Main Makkaar (2023)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Tu-Jhoothi-Main-Makkaar-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Tu-Jhoothi-Main-Makkaar-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/1120c944-56ee-5321-ae71-1939e56c6e89.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -342,13 +370,13 @@
   },
   {
    "name": "Quasi (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Quasi-2023-Poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Quasi-2023-Poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Quasi (2023)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Quasi-2023-Poster.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Quasi-2023-Poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ce985b66-d9d1-58f6-8b21-4ab93be7654e.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -356,13 +384,13 @@
   },
   {
    "name": "Faraaz (2023) วีรบุรุษคืนวิกฤติ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Faraaz-2023-Poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Faraaz-2023-Poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Faraaz (2023) วีรบุรุษคืนวิกฤติ",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Faraaz-2023-Poster.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Faraaz-2023-Poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/bafde638-8ab3-523c-aa16-e68776e81aa9.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -370,13 +398,13 @@
   },
   {
    "name": "Amigos (2023) เพื่อนยาก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Amigos-2023-Poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Amigos-2023-Poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Amigos (2023) เพื่อนยาก",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Amigos-2023-Poster.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Amigos-2023-Poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/07079d5c-1088-5e62-afc9-dbf324ef1468.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -384,13 +412,13 @@
   },
   {
    "name": "Pathaan (2023) ปาทาน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Pathaan-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Pathaan-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Pathaan (2023) ปาทาน",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Pathaan-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Pathaan-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/8b18d462-94ff-5854-a729-e09439a98dec.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -398,13 +426,13 @@
   },
   {
    "name": "Vaathi (2023) ครู",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Vaathi-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Vaathi-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Vaathi (2023) ครู",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Vaathi-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Vaathi-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ce9325c2-a9cb-517d-b503-8a9a51a7e0d3.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -412,20 +440,20 @@
   },
   {
    "name": "Rrr (2022) ภารกิจทริปเปิ้ลอาร์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/ncXklBeNi7X7OETqmDVEgaf8ItQ.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/ncXklBeNi7X7OETqmDVEgaf8ItQ-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Rrr (2022) ภารกิจทริปเปิ้ลอาร์",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/ncXklBeNi7X7OETqmDVEgaf8ItQ.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/ncXklBeNi7X7OETqmDVEgaf8ItQ-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6ba4d796-dc10-5b73-aa60-8b8424b28738.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Rrr (2022) ภารกิจทริปเปิ้ลอาร์",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/ncXklBeNi7X7OETqmDVEgaf8ItQ.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/ncXklBeNi7X7OETqmDVEgaf8ItQ-190x300-c-default.webp",
      "url": "https://streamhls.com/view/00f1bf1c-85e6-5fa5-b448-18373378986c.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -433,13 +461,13 @@
   },
   {
    "name": "Kuttey (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Kuttey-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Kuttey-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Kuttey (2023)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Kuttey-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Kuttey-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0a9ca099-d0a9-53bc-b102-e304344dfbee.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -447,13 +475,13 @@
   },
   {
    "name": "The Nightingale of Bursa (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Nightingale-of-Bursa-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Nightingale-of-Bursa-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "The Nightingale of Bursa (2023)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Nightingale-of-Bursa-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Nightingale-of-Bursa-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/2f9ed2d3-715c-5e67-bb12-e84282cfc726.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -461,13 +489,13 @@
   },
   {
    "name": "Nanpakal Nerathu Mayakkam (2023) ดุจดั่งฝันตอนกลางวัน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Nanpakal-Nerathu-Mayakkam-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Nanpakal-Nerathu-Mayakkam-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Nanpakal Nerathu Mayakkam (2023) ดุจดั่งฝันตอนกลางวัน",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Nanpakal-Nerathu-Mayakkam-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Nanpakal-Nerathu-Mayakkam-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c8bf8e21-db39-5f47-9736-23879d485654.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -475,13 +503,13 @@
   },
   {
    "name": "Waltair Veerayya (2023) ข้ามทะเลไปจับโจร",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Waltair-Veerayya-2023.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Waltair-Veerayya-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Waltair Veerayya (2023) ข้ามทะเลไปจับโจร",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Waltair-Veerayya-2023.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Waltair-Veerayya-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/609035b5-e857-58ad-a3da-64a911660d1e.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -489,13 +517,13 @@
   },
   {
    "name": "Force 2 (2016)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Force-2-2016.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Force-2-2016-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Force 2 (2016)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Force-2-2016.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Force-2-2016-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9f333785-672a-5e59-9781-aa3cbe328617.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -503,13 +531,13 @@
   },
   {
    "name": "Cirkus (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Cirkus-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Cirkus-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Cirkus (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Cirkus-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Cirkus-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0757b184-7827-5ffc-bb6b-6ecfafdf3b54.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -517,13 +545,13 @@
   },
   {
    "name": "An Action Hero (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/An-Action-Hero-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/An-Action-Hero-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "An Action Hero (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/An-Action-Hero-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/An-Action-Hero-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c57ce23e-2273-58db-aae6-9b4b97c8c7d6.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -531,13 +559,13 @@
   },
   {
    "name": "Kaapa (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Kaapa-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Kaapa-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Kaapa (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Kaapa-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Kaapa-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/4e348e9b-c7f9-5809-992e-7833db08c7fa.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -545,13 +573,13 @@
   },
   {
    "name": "Mister Mummy (2022) คุณนายแม่",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Mister-Mummy-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Mister-Mummy-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Mister Mummy (2022) คุณนายแม่",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Mister-Mummy-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Mister-Mummy-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/78112d7a-f4bb-5abf-9dfe-01347cae9171.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -559,13 +587,13 @@
   },
   {
    "name": "Thai Massage (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Thai-Massage-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Thai-Massage-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Thai Massage (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Thai-Massage-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Thai-Massage-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/11eff3fc-a430-5ff3-a0c1-b97ff14af4ec.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -573,13 +601,13 @@
   },
   {
    "name": "Gatta Kusthi (2022) หนุ่มหมัดหนักหารัก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Gatta-Kusthi.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Gatta-Kusthi-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Gatta Kusthi (2022) หนุ่มหมัดหนักหารัก",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Gatta-Kusthi.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Gatta-Kusthi-190x300-c-default.webp",
      "url": "https://streamhls.com/view/35990496-07a0-5113-b029-aead98588990.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -587,13 +615,13 @@
   },
   {
    "name": "Mili (2022) มิลี่",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Mili-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Mili-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Mili (2022) มิลี่",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Mili-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Mili-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/4baafa17-6b3d-5ec2-82cb-b56ec0495225.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -601,13 +629,13 @@
   },
   {
    "name": "Double XL (2022) ดับเบิล เอ็กซ์แอล",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Double-XL.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Double-XL-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Double XL (2022) ดับเบิล เอ็กซ์แอล",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Double-XL.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Double-XL-190x300-c-default.webp",
      "url": "https://streamhls.com/view/20d24f8e-bb5c-5442-b528-89111712ed9c.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -615,13 +643,13 @@
   },
   {
    "name": "Tara vs Bilal (2022) รักปะทะใจ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Tara-vs-Bilal-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Tara-vs-Bilal-2022-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Tara vs Bilal (2022) รักปะทะใจ",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Tara-vs-Bilal-2022.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Tara-vs-Bilal-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/102f4ec6-e7fb-5779-b150-a57917f9353f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -629,13 +657,13 @@
   },
   {
    "name": "Kalaga Thalaivan (2022) ขบถองค์กรเถื่อน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Kalaga-Thalaivan-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Kalaga-Thalaivan-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Kalaga Thalaivan (2022) ขบถองค์กรเถื่อน",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Kalaga-Thalaivan-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Kalaga-Thalaivan-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/1b2c9e0c-091a-512b-ab58-e4de32858fb0.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -643,13 +671,13 @@
   },
   {
    "name": "Ariyippu Declaration (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Ariyippu-Declaration-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Ariyippu-Declaration-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Ariyippu Declaration (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Ariyippu-Declaration-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Ariyippu-Declaration-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/7dd32183-3492-5ce1-a01c-55d19e1d2f07.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -657,13 +685,13 @@
   },
   {
    "name": "Code Name Tiranga (2022) ปฏิบัติการเดือดทีรังกา",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Code-Name-Tiranga-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Code-Name-Tiranga-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Code Name Tiranga (2022) ปฏิบัติการเดือดทีรังกา",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Code-Name-Tiranga-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Code-Name-Tiranga-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5de893b6-5e02-59c9-9fba-a1e69f06deb6.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -671,13 +699,13 @@
   },
   {
    "name": "Doctor G (2021) ดอกเตอร์ จี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Doctor-G.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Doctor-G-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Doctor G (2021) ดอกเตอร์ จี",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Doctor-G.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Doctor-G-190x300-c-default.webp",
      "url": "https://streamhls.com/view/29cd35af-8dbf-5991-96a7-6c75f75343a9.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -685,13 +713,13 @@
   },
   {
    "name": "Gehraiyaan (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Gehraiyaan-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Gehraiyaan-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Gehraiyaan (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Gehraiyaan-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Gehraiyaan-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/58579a50-be09-53c9-ae76-6c04aaf3c50e.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -699,13 +727,13 @@
   },
   {
    "name": "Goodbye (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Goodbye-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Goodbye-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Goodbye (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Goodbye-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Goodbye-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/eab05b3b-af52-5e92-b010-c39c7ac168e5.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -713,13 +741,13 @@
   },
   {
    "name": "Godfather (2022) ก็อดฟาเธอร์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Godfather-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Godfather-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Godfather (2022) ก็อดฟาเธอร์",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Godfather-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Godfather-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/54bd8315-3cf0-504a-9472-e159a9129fd8.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -727,13 +755,13 @@
   },
   {
    "name": "Happy Birthday (2022) สุขสันต์วันเกิด",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Happy-Birthday-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Happy-Birthday-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Happy Birthday (2022) สุขสันต์วันเกิด",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Happy-Birthday-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Happy-Birthday-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/dba00318-439f-548e-9111-e2862f85b00f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -741,13 +769,13 @@
   },
   {
    "name": "Ammu (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Ammu-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Ammu-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Ammu (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Ammu-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Ammu-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/59d6d043-e6a6-5695-a99d-da49055e8feb.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -755,13 +783,13 @@
   },
   {
    "name": "Ranga Ranga Vaibhavanga (2022) ทั้งเก๊ก ทั้งกั๊ก แต่ก็รักนะ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Ranga-Ranga-Vaibhavanga-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Ranga-Ranga-Vaibhavanga-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Ranga Ranga Vaibhavanga (2022) ทั้งเก๊ก ทั้งกั๊ก แต่ก็รักนะ",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Ranga-Ranga-Vaibhavanga-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Ranga-Ranga-Vaibhavanga-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9752478a-2c9b-5760-9199-3bdee154e235.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -769,13 +797,13 @@
   },
   {
    "name": "Dongalunnaru Jagratha (2022) ปล้นรถนรก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Dongalunnaru-Jagratta-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Dongalunnaru-Jagratta-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Dongalunnaru Jagratha (2022) ปล้นรถนรก",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Dongalunnaru-Jagratta-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Dongalunnaru-Jagratta-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f93583f5-e6bd-5f65-af6b-f91f66eadfb3.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -783,13 +811,13 @@
   },
   {
    "name": "Oru Thekkan Thallu Case (2022) อินเดียใต้ตะลุมบอน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Oru-Thekkan-Thallu-Case-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Oru-Thekkan-Thallu-Case-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Oru Thekkan Thallu Case (2022) อินเดียใต้ตะลุมบอน",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Oru-Thekkan-Thallu-Case-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Oru-Thekkan-Thallu-Case-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/321c7f98-d61c-599e-ba04-14c607813f69.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -797,13 +825,13 @@
   },
   {
    "name": "Brij Mohan Amar Rahe (2018) โธ่ถัง กรรมของผม!",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Brij-Mohan-Amar-Rahe-2018.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Brij-Mohan-Amar-Rahe-2018-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Brij Mohan Amar Rahe (2018) โธ่ถัง กรรมของผม!",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Brij-Mohan-Amar-Rahe-2018.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Brij-Mohan-Amar-Rahe-2018-190x300-c-default.webp",
      "url": "https://streamhls.com/view/497ed8ea-6653-5514-be58-ec74b7c4057d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -811,13 +839,13 @@
   },
   {
    "name": "Oh My Dog (2022) โอ้หมาของฉัน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Oh-My-Dog-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Oh-My-Dog-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Oh My Dog (2022) โอ้หมาของฉัน",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Oh-My-Dog-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Oh-My-Dog-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d402690c-ba9f-5a75-8218-f08872311ff9.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -825,13 +853,13 @@
   },
   {
    "name": "Good Luck Sakhi (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Good-Luck-Sakhi-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Good-Luck-Sakhi-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Good Luck Sakhi (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Good-Luck-Sakhi-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Good-Luck-Sakhi-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/581d17d4-28e0-5f8b-9a4d-2606cc5569f2.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -839,13 +867,13 @@
   },
   {
    "name": "Middle Class Melodies (2020)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Middle-Class-Melodies-2020.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Middle-Class-Melodies-2020-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Middle Class Melodies (2020)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Middle-Class-Melodies-2020.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Middle-Class-Melodies-2020-190x300-c-default.webp",
      "url": "https://streamhls.com/view/8bf8bc7d-a4f7-5f3b-a2b6-f8c6a4d0604c.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -853,13 +881,13 @@
   },
   {
    "name": "Sandeep Aur Pinky Faraar (2021) แซนดีฟ ออ พิงกี้ ฟาร่า",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/sandeep-aur-pinky-faraar.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/sandeep-aur-pinky-faraar-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Sandeep Aur Pinky Faraar (2021) แซนดีฟ ออ พิงกี้ ฟาร่า",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/sandeep-aur-pinky-faraar.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/sandeep-aur-pinky-faraar-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3351a2fa-4740-5b9b-a908-2c1f2a0fafd2.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -867,13 +895,13 @@
   },
   {
    "name": "Vadhayiyaan Ji Vadhayiyaan (2018) วัธยายาน จิ วัธยายาน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Vadhayiyaan-Ji-Vadhayiyaan-2018.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Vadhayiyaan-Ji-Vadhayiyaan-2018-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Vadhayiyaan Ji Vadhayiyaan (2018) วัธยายาน จิ วัธยายาน",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Vadhayiyaan-Ji-Vadhayiyaan-2018.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Vadhayiyaan-Ji-Vadhayiyaan-2018-190x300-c-default.webp",
      "url": "https://streamhls.com/view/562795f0-3b6b-5ce8-a85b-f9b5cd6ef99c.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -881,13 +909,13 @@
   },
   {
    "name": "Jathi Ratnalu (2021) จาธิ รัทนาลู",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Jathi-Ratnalu-2021.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Jathi-Ratnalu-2021-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Jathi Ratnalu (2021) จาธิ รัทนาลู",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Jathi-Ratnalu-2021.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Jathi-Ratnalu-2021-190x300-c-default.webp",
      "url": "https://streamhls.com/view/60bc7e15-fc3d-5eb9-a8e4-9f2121fec4b1.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -895,13 +923,13 @@
   },
   {
    "name": "Bheemante Vazhi (2021)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bheemante-Vazhi-2021.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bheemante-Vazhi-2021-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Bheemante Vazhi (2021)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bheemante-Vazhi-2021.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bheemante-Vazhi-2021-190x300-c-default.webp",
      "url": "https://streamhls.com/view/fd9b8297-c367-57b5-8678-b14d81be19b6.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -909,13 +937,13 @@
   },
   {
    "name": "Fraud Saiyyan (2019) สามีกำมะลอ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Fraud-Saiyaan-2019.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Fraud-Saiyaan-2019-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Fraud Saiyyan (2019) สามีกำมะลอ",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Fraud-Saiyaan-2019.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Fraud-Saiyaan-2019-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f47c44d7-7a4e-53a7-9a8f-6245cd18bb72.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -923,13 +951,13 @@
   },
   {
    "name": "Galwakdi (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Galwakdi-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Galwakdi-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Galwakdi (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Galwakdi-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Galwakdi-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/17aa0819-f462-5067-b3fc-6f9339b38164.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -937,13 +965,13 @@
   },
   {
    "name": "Jogi (2022) สู้เพื่อศรัทธา",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Jogi-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Jogi-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Jogi (2022) สู้เพื่อศรัทธา",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Jogi-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Jogi-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/fa6835cf-7d08-5457-9bdf-8df38b0afdd0.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -951,13 +979,13 @@
   },
   {
    "name": "Sarileru Neekevvaru (2020) แกร่งไร้เทียมทาน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Sarileru-Neekevvaru-2020.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Sarileru-Neekevvaru-2020-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Sarileru Neekevvaru (2020) แกร่งไร้เทียมทาน",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Sarileru-Neekevvaru-2020.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Sarileru-Neekevvaru-2020-190x300-c-default.webp",
      "url": "https://streamhls.com/view/cf9b3570-a108-5109-bb69-6e790a8da58d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -965,13 +993,13 @@
   },
   {
    "name": "Mahaan (2022) มหายาน ชายผู้ยิ่งใหญ่",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Mahaan-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Mahaan-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Mahaan (2022) มหายาน ชายผู้ยิ่งใหญ่",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Mahaan-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Mahaan-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f48aea6a-e9e1-5e02-8f4e-0e2d8b0048c9.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -979,13 +1007,13 @@
   },
   {
    "name": "Saani Kaayidham (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Saani-Kaayidham-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Saani-Kaayidham-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Saani Kaayidham (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Saani-Kaayidham-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Saani-Kaayidham-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/bfc99fa4-5b4f-54dc-9794-da6b8ac8871a.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -993,13 +1021,13 @@
   },
   {
    "name": "Acharya (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Acharya-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Acharya-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Acharya (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Acharya-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Acharya-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/57cf3e69-1b9e-5b10-9000-9d786005dccb.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1007,13 +1035,13 @@
   },
   {
    "name": "Bachchan Pandey (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bachchan-Pandey-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bachchan-Pandey-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Bachchan Pandey (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bachchan-Pandey-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bachchan-Pandey-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ef9974b7-c4db-5d8e-ad9f-2e8e6bbc8192.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1021,13 +1049,13 @@
   },
   {
    "name": "Bell Bottom (2021) การผจญภัยของนักสืบดิวาการ์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bell-Bottom-2021.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bell-Bottom-2021-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Bell Bottom (2021) การผจญภัยของนักสืบดิวาการ์",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bell-Bottom-2021.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bell-Bottom-2021-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d9811091-2cda-583d-b4fa-ae40f46fe2c0.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1035,13 +1063,13 @@
   },
   {
    "name": "Ek Villain Returns (2022) วายร้ายรีเทิร์น",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Ek-Villain-Returns-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Ek-Villain-Returns-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Ek Villain Returns (2022) วายร้ายรีเทิร์น",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Ek-Villain-Returns-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Ek-Villain-Returns-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/20b0bb28-d51b-5f19-bc84-37d610512502.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1049,13 +1077,13 @@
   },
   {
    "name": "Man of the Match (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Man-of-the-Match-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Man-of-the-Match-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Man of the Match (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Man-of-the-Match-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Man-of-the-Match-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/14b1c7e9-fc47-52d3-969a-831898764853.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1063,13 +1091,13 @@
   },
   {
    "name": "Hit The First Case (2022) คดีแรก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Hit-The-First-Case-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Hit-The-First-Case-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Hit The First Case (2022) คดีแรก",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Hit-The-First-Case-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Hit-The-First-Case-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/846c58ec-b7f1-5cd0-9bfe-cb00bab35087.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1077,27 +1105,27 @@
   },
   {
    "name": "Pushpa The Rise Part 1 (2021) พุชป้า กลับมาตะลุย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Pushpa-The-Rise-Part-1-2021.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Pushpa-The-Rise-Part-1-2021-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Pushpa The Rise Part 1 (2021) พุชป้า กลับมาตะลุย",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Pushpa-The-Rise-Part-1-2021.webp",
-     "url": "https://streamhls.com/view/f22ee9b3-0e46-5dbb-9436-88fffd8b0820.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Pushpa-The-Rise-Part-1-2021-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/4f979776-42a6-5f56-93ff-b0f237021ed3.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
    "name": "K.G.F Chapter 2 (2022) เคจีเอฟ บทที่ 2",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/K.G.F-Chapter-2.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/K.G.F-Chapter-2-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "K.G.F Chapter 2 (2022) เคจีเอฟ บทที่ 2",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/K.G.F-Chapter-2.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/K.G.F-Chapter-2-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6b7e3af7-aa76-591d-bd80-e1f973cba413.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1105,13 +1133,13 @@
   },
   {
    "name": "Shamshera (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Shamshera-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Shamshera-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Shamshera (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Shamshera-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Shamshera-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f53fc70e-7a95-5a63-bc34-6188818e1d01.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1119,13 +1147,13 @@
   },
   {
    "name": "Godse (2022) กระชากยุติธรรม",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Godse-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Godse-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Godse (2022) กระชากยุติธรรม",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Godse-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Godse-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6f738609-f618-5a89-ba76-6a204fff9570.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1133,13 +1161,13 @@
   },
   {
    "name": "Heropanti 2 (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Heropanti-2-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Heropanti-2-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Heropanti 2 (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Heropanti-2-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Heropanti-2-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/4116e40d-4631-5651-9fbb-225298fd7248.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1147,20 +1175,20 @@
   },
   {
    "name": "Darlings (2022) ที่รัก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Darlings-2022-ที่รัก.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Darlings-2022-ที่รัก-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Darlings (2022) ที่รัก",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Darlings-2022-ที่รัก.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Darlings-2022-ที่รัก-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d27a31bb-1755-56cb-92f0-923e2ba176fe.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Darlings (2022) ที่รัก",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Darlings-2022-ที่รัก.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Darlings-2022-ที่รัก-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5d69410c-fe45-5555-ae81-f689d46848fd.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1168,13 +1196,13 @@
   },
   {
    "name": "FIR (2022) เฟอร์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/FIR-2022.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/FIR-2022-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "FIR (2022) เฟอร์",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/FIR-2022.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/FIR-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3c28e27f-9217-51d3-b95f-09fc3a220c14.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1182,13 +1210,13 @@
   },
   {
    "name": "Sher Shivraj 2022",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/Sher.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/Sher-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Sher Shivraj 2022",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/Sher.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/Sher-190x300-c-default.webp",
      "url": "https://streamhls.com/view/befee4f6-0c5b-5de3-8bc9-8e59728119ac.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1196,55 +1224,55 @@
   },
   {
    "name": "Jug Jugg Jeeyo (2022)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/ovyWtXhPRKKpSyMUIVYBWiurggY.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/ovyWtXhPRKKpSyMUIVYBWiurggY-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Jug Jugg Jeeyo (2022)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/ovyWtXhPRKKpSyMUIVYBWiurggY.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/ovyWtXhPRKKpSyMUIVYBWiurggY-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f411013e-6c1b-5918-8759-2cb0f53e5e67.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
-   "name": "Jaadugar (Love Goals) (2022) เป้าหมายรัก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/AmN1EdNRzpwLMzQSPkIFtIVbsxk.webp",
-   "info": "SoundTrack(T)",
-   "stations": [
-    {
-     "name": "Jaadugar (Love Goals) (2022) เป้าหมายรัก",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/AmN1EdNRzpwLMzQSPkIFtIVbsxk.webp",
-     "url": "https://streamhls.com/view/b7d435bb-a417-5e02-bf34-3b9ab4a1dd36.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Anek (2022) สงครามสันติ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/fIHF8WrZpoomx0QSVTe74NeYGUD.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/fIHF8WrZpoomx0QSVTe74NeYGUD-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Anek (2022) สงครามสันติ",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/fIHF8WrZpoomx0QSVTe74NeYGUD.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/fIHF8WrZpoomx0QSVTe74NeYGUD-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0f54a968-9be4-58f3-9879-23dbaebd4617.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
+   "name": "Jaadugar (Love Goals) (2022) เป้าหมายรัก",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/AmN1EdNRzpwLMzQSPkIFtIVbsxk-190x300-c-default.webp",
+   "info": "SoundTrack(T)",
+   "stations": [
+    {
+     "name": "Jaadugar (Love Goals) (2022) เป้าหมายรัก",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/AmN1EdNRzpwLMzQSPkIFtIVbsxk-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/b7d435bb-a417-5e02-bf34-3b9ab4a1dd36.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "The Valet (2022) บรรยายไทย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/q7FmdJHKMLIC4XgWfcFRIu2iVdL.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/q7FmdJHKMLIC4XgWfcFRIu2iVdL-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "The Valet (2022) บรรยายไทย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/q7FmdJHKMLIC4XgWfcFRIu2iVdL.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/q7FmdJHKMLIC4XgWfcFRIu2iVdL-190x300-c-default.webp",
      "url": "https://streamhls.com/view/718640e2-6575-5ad8-80b2-619563984a09.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1252,13 +1280,13 @@
   },
   {
    "name": "Petite Maman (2021) เจ้าหญิงน้อย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/fxl2ARZO2vRfUGDfqSz2bostauE.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/fxl2ARZO2vRfUGDfqSz2bostauE-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Petite Maman (2021) เจ้าหญิงน้อย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/fxl2ARZO2vRfUGDfqSz2bostauE.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/fxl2ARZO2vRfUGDfqSz2bostauE-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a828dd6b-458e-57ea-9b8f-1b2a9a081bdb.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1266,13 +1294,13 @@
   },
   {
    "name": "Petromax (2019) บ้านหลังนี้ (ไม่) มีผี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/m8LQrSxh3I8FDZ2erJsqK4cGnyI.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/m8LQrSxh3I8FDZ2erJsqK4cGnyI-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Petromax (2019) บ้านหลังนี้ (ไม่) มีผี",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/m8LQrSxh3I8FDZ2erJsqK4cGnyI.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/m8LQrSxh3I8FDZ2erJsqK4cGnyI-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d87929ec-ec21-5bd6-aa3d-f17c1f0c2c1d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1280,13 +1308,13 @@
   },
   {
    "name": "Mere Dad Ki Maruti (2013) คนอลวนรถอลเวง",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/xzJIm62ZMewLP5sweQoRqAuVXhP.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/xzJIm62ZMewLP5sweQoRqAuVXhP-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Mere Dad Ki Maruti (2013) คนอลวนรถอลเวง",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/xzJIm62ZMewLP5sweQoRqAuVXhP.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/xzJIm62ZMewLP5sweQoRqAuVXhP-190x300-c-default.webp",
      "url": "https://streamhls.com/view/718a4ea3-dd8e-5cb8-bbdc-26243ddcb862.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1294,13 +1322,13 @@
   },
   {
    "name": "Janamaithri (2019) ชนาไมทรี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/esEz3yOBjQFqsTBmveQyeNa3Gjj.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/esEz3yOBjQFqsTBmveQyeNa3Gjj-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Janamaithri (2019) ชนาไมทรี",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/esEz3yOBjQFqsTBmveQyeNa3Gjj.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/esEz3yOBjQFqsTBmveQyeNa3Gjj-190x300-c-default.webp",
      "url": "https://streamhls.com/view/78b2bbe9-d2d2-51d7-8053-ad083dbcf152.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1308,13 +1336,13 @@
   },
   {
    "name": "Kaksha Gyaarvi (2018) กักชา กยารวี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/wuPLvo9QdhkV1tDF9xTgLip2MIw.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/wuPLvo9QdhkV1tDF9xTgLip2MIw-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Kaksha Gyaarvi (2018) กักชา กยารวี",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/wuPLvo9QdhkV1tDF9xTgLip2MIw.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/wuPLvo9QdhkV1tDF9xTgLip2MIw-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c4fe0584-2c6d-543e-b612-208800fe7dfd.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1322,13 +1350,13 @@
   },
   {
    "name": "Drishyam 2 (2021) บรรยายไทย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/8RJBCUGE27LX06tAES4jTELN0KA.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/8RJBCUGE27LX06tAES4jTELN0KA-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Drishyam 2 (2021) บรรยายไทย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/8RJBCUGE27LX06tAES4jTELN0KA.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/8RJBCUGE27LX06tAES4jTELN0KA-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5a00e89b-0115-56a9-b8b3-4974c50ffaa0.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1336,13 +1364,13 @@
   },
   {
    "name": "Road to Ladakh (2003) โร้ดทูลาดักห์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/VwTIkV.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/VwTIkV-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Road to Ladakh (2003) โร้ดทูลาดักห์",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/VwTIkV.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/VwTIkV-190x300-c-default.webp",
      "url": "https://streamhls.com/view/755691a4-87fe-5dbe-8bc4-e2280977d9e1.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1350,13 +1378,13 @@
   },
   {
    "name": "To Let (2019) ตูเลต",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4EZMSwTeYxQxIs1eEpNqpCbNeFB.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4EZMSwTeYxQxIs1eEpNqpCbNeFB-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "To Let (2019) ตูเลต",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4EZMSwTeYxQxIs1eEpNqpCbNeFB.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4EZMSwTeYxQxIs1eEpNqpCbNeFB-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d9ac163b-ead0-5132-b27a-f0109c704cbe.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1364,13 +1392,13 @@
   },
   {
    "name": "One Cut Two Cut (2022) บรรยายไทย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/lecQEQja7by9D7uZjAQE7H9EUqA.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/lecQEQja7by9D7uZjAQE7H9EUqA-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "One Cut Two Cut (2022) บรรยายไทย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/lecQEQja7by9D7uZjAQE7H9EUqA.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/lecQEQja7by9D7uZjAQE7H9EUqA-190x300-c-default.webp",
      "url": "https://streamhls.com/view/71c9f353-2dca-5acf-be22-8450255d3eea.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1378,13 +1406,13 @@
   },
   {
    "name": "Hero (2019) ฮีโร่",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/1wNVijazGGdplBB57t7dGuHwz3o.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/1wNVijazGGdplBB57t7dGuHwz3o-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Hero (2019) ฮีโร่",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/1wNVijazGGdplBB57t7dGuHwz3o.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/1wNVijazGGdplBB57t7dGuHwz3o-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f91e1855-6d05-59b6-9500-ab323691794e.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1392,13 +1420,13 @@
   },
   {
    "name": "Action (2019) แอ๊คชั่น",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/2K4cZbZQCZvDCKOb5MCoqbjNfw2.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/2K4cZbZQCZvDCKOb5MCoqbjNfw2-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Action (2019) แอ๊คชั่น",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/2K4cZbZQCZvDCKOb5MCoqbjNfw2.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/2K4cZbZQCZvDCKOb5MCoqbjNfw2-190x300-c-default.webp",
      "url": "https://streamhls.com/view/70070c07-ba09-5c34-81e7-fb68f451b04b.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1406,13 +1434,13 @@
   },
   {
    "name": "Velle (2021) บรรยายไทย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/uhq3hWo4KwkoXb4BJ0sixZEWCn9.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/uhq3hWo4KwkoXb4BJ0sixZEWCn9-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Velle (2021) บรรยายไทย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/uhq3hWo4KwkoXb4BJ0sixZEWCn9.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/uhq3hWo4KwkoXb4BJ0sixZEWCn9-190x300-c-default.webp",
      "url": "https://streamhls.com/view/18f058cf-6d40-52f3-97dc-68c334f5d407.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1420,13 +1448,13 @@
   },
   {
    "name": "Theeran Adhigaaram Ondru (2017) ทีรัน อาดิกาอารัม ออนดรู",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/ssYIBfoEj3eX46ARQNaJZP8qpxL.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/ssYIBfoEj3eX46ARQNaJZP8qpxL-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Theeran Adhigaaram Ondru (2017) ทีรัน อาดิกาอารัม ออนดรู",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/ssYIBfoEj3eX46ARQNaJZP8qpxL.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/ssYIBfoEj3eX46ARQNaJZP8qpxL-190x300-c-default.webp",
      "url": "https://streamhls.com/view/673978c1-6f36-5b15-a3d6-b4a344b3ecfb.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1434,13 +1462,13 @@
   },
   {
    "name": "Sullu (2019) พ่ายแพ้",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/odfW1ZNoRRam6M1VGbLtk6zVnM9.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/odfW1ZNoRRam6M1VGbLtk6zVnM9-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Sullu (2019) พ่ายแพ้",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/odfW1ZNoRRam6M1VGbLtk6zVnM9.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/odfW1ZNoRRam6M1VGbLtk6zVnM9-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b96573d6-ad0b-5be6-9713-82841dabe5b2.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1448,13 +1476,13 @@
   },
   {
    "name": "Pattas (2020) ประทัด: คนแกร่ง สังเวียนเดือด",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/3nEPS4918NKb33Txte2BWEDInaq.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/3nEPS4918NKb33Txte2BWEDInaq-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Pattas (2020) ประทัด: คนแกร่ง สังเวียนเดือด",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/3nEPS4918NKb33Txte2BWEDInaq.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/3nEPS4918NKb33Txte2BWEDInaq-190x300-c-default.webp",
      "url": "https://streamhls.com/view/8d379b97-db92-533f-834d-80366e529ce6.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1462,13 +1490,13 @@
   },
   {
    "name": "Jayeshbhai Jordaar (2022) บรรยายไทย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/dv93VspYwwNPbvdB0AcddhiDrGU.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/dv93VspYwwNPbvdB0AcddhiDrGU-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Jayeshbhai Jordaar (2022) บรรยายไทย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/dv93VspYwwNPbvdB0AcddhiDrGU.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/dv93VspYwwNPbvdB0AcddhiDrGU-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b87493d6-691c-52ab-95bc-899af59df044.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1476,13 +1504,13 @@
   },
   {
    "name": "Jack and Daniel (2019) แจ๊คกับแดเนียล",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/tCad25r7nkbjLipOZMpJ1uxYWk0.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/tCad25r7nkbjLipOZMpJ1uxYWk0-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Jack and Daniel (2019) แจ๊คกับแดเนียล",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/tCad25r7nkbjLipOZMpJ1uxYWk0.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/tCad25r7nkbjLipOZMpJ1uxYWk0-190x300-c-default.webp",
      "url": "https://streamhls.com/view/386fe105-0619-5830-8f1f-88a8991955f4.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1490,13 +1518,13 @@
   },
   {
    "name": "Humble Politiciann Nograj (2018) ฮัมเบิล โพลิทีเชียน นคราช",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/8ouswX9c4FUHjUwhTzOiX3RAzwA.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/8ouswX9c4FUHjUwhTzOiX3RAzwA-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Humble Politiciann Nograj (2018) ฮัมเบิล โพลิทีเชียน นคราช",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/8ouswX9c4FUHjUwhTzOiX3RAzwA.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/8ouswX9c4FUHjUwhTzOiX3RAzwA-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b313aedc-72d6-536e-b393-c0e8f1d31089.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1504,13 +1532,13 @@
   },
   {
    "name": "The Priest (2021) บรรยายไทย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/mHqi61trOOSLo4N51lrKSBoJ5cC.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/mHqi61trOOSLo4N51lrKSBoJ5cC-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "The Priest (2021) บรรยายไทย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/mHqi61trOOSLo4N51lrKSBoJ5cC.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/mHqi61trOOSLo4N51lrKSBoJ5cC-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b5d7b264-a87c-5413-9940-c1c40898528b.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1518,13 +1546,13 @@
   },
   {
    "name": "Shershaah (2021) บรรยายไทย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/zGvFnwoXJKrYnKhoVPytqkqCJ8V.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/zGvFnwoXJKrYnKhoVPytqkqCJ8V-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Shershaah (2021) บรรยายไทย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/zGvFnwoXJKrYnKhoVPytqkqCJ8V.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/zGvFnwoXJKrYnKhoVPytqkqCJ8V-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ecb581c2-acb3-5305-a82a-2e9f8a884a44.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1532,13 +1560,13 @@
   },
   {
    "name": "Mumbai Saga (2021) เดือดระอุ เมืองมุมไบ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4xTtLkGEmUD5Oqjsv3lrkeLr2NW.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4xTtLkGEmUD5Oqjsv3lrkeLr2NW-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Mumbai Saga (2021) เดือดระอุ เมืองมุมไบ",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4xTtLkGEmUD5Oqjsv3lrkeLr2NW.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4xTtLkGEmUD5Oqjsv3lrkeLr2NW-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d500de5a-50e0-5c06-8eab-a851388f876c.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1546,13 +1574,13 @@
   },
   {
    "name": "Beast (2022) บีสต์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4hqtjslVCaDVgblg7iCtGIy7exO.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4hqtjslVCaDVgblg7iCtGIy7exO-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Beast (2022) บีสต์",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4hqtjslVCaDVgblg7iCtGIy7exO.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4hqtjslVCaDVgblg7iCtGIy7exO-190x300-c-default.webp",
      "url": "https://streamhls.com/view/cfa8f29d-0dc6-5558-834f-08203455e936.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1560,13 +1588,13 @@
   },
   {
    "name": "Jersey (2022) เจอร์ซีย์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/ur2D5MXrwBBymQ7DjG0cOFen2yh.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/ur2D5MXrwBBymQ7DjG0cOFen2yh-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Jersey (2022) เจอร์ซีย์",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/ur2D5MXrwBBymQ7DjG0cOFen2yh.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/ur2D5MXrwBBymQ7DjG0cOFen2yh-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a84ce0c4-646e-5785-83b2-195826375cb1.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1574,13 +1602,13 @@
   },
   {
    "name": "Jai Bhim (2021) บรรยายไทย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/mPMQl3voLNlZQt3STGV5KAcLN4h.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/mPMQl3voLNlZQt3STGV5KAcLN4h-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Jai Bhim (2021) บรรยายไทย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/mPMQl3voLNlZQt3STGV5KAcLN4h.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/mPMQl3voLNlZQt3STGV5KAcLN4h-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d6e3818d-1da9-5926-895c-e0af4d9dbe22.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1588,13 +1616,13 @@
   },
   {
    "name": "Jalsa (2022) บรรยายไทย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/h7lazOfbemCtX7ZZYnqmZx4IHxD.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/h7lazOfbemCtX7ZZYnqmZx4IHxD-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Jalsa (2022) บรรยายไทย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/h7lazOfbemCtX7ZZYnqmZx4IHxD.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/h7lazOfbemCtX7ZZYnqmZx4IHxD-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b165cb2b-8456-5d39-aec6-b2617ea4550a.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1602,13 +1630,13 @@
   },
   {
    "name": "Thar (2022) หมู่บ้านเลือด",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/tiRG2E8A8Km56celb68UnJJzODr.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/tiRG2E8A8Km56celb68UnJJzODr-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Thar (2022) หมู่บ้านเลือด",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/tiRG2E8A8Km56celb68UnJJzODr.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/tiRG2E8A8Km56celb68UnJJzODr-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6b0337e2-c172-5321-9de4-0d6099114e37.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1616,13 +1644,13 @@
   },
   {
    "name": "Bharat Ane Nenu (2018) บาห์รัตอาเนนีนู",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/a0hFV8G0ofyPgPEjVcYrueuxFex.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/a0hFV8G0ofyPgPEjVcYrueuxFex-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Bharat Ane Nenu (2018) บาห์รัตอาเนนีนู",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/a0hFV8G0ofyPgPEjVcYrueuxFex.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/a0hFV8G0ofyPgPEjVcYrueuxFex-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5009eaf1-aff8-52fa-bfde-bdf31c2943b1.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1630,13 +1658,13 @@
   },
   {
    "name": "Dasvi (2022) สอบจากคุก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zL40soH0AYoBD5BVNu9U2B98ejD.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zL40soH0AYoBD5BVNu9U2B98ejD-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Dasvi (2022) สอบจากคุก",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zL40soH0AYoBD5BVNu9U2B98ejD.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zL40soH0AYoBD5BVNu9U2B98ejD-190x300-c-default.webp",
      "url": "https://streamhls.com/view/7e53c4d1-d4aa-5536-9f0c-3873198801cb.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1644,13 +1672,13 @@
   },
   {
    "name": "Cobalt Blue (2022) ปรารถนาสีน้ำเงิน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yyKZRbZCFkxlXZprPfnmn799Twa.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yyKZRbZCFkxlXZprPfnmn799Twa-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Cobalt Blue (2022) ปรารถนาสีน้ำเงิน",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yyKZRbZCFkxlXZprPfnmn799Twa.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yyKZRbZCFkxlXZprPfnmn799Twa-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a9c0912e-0611-5b5c-8564-59f7f412bbc5.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1658,13 +1686,13 @@
   },
   {
    "name": "Love Tactics (2022) ยุทธวิธีกำราบรัก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/9mXoEX9RNsRD1bG8nmJSfhwaM3O.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/9mXoEX9RNsRD1bG8nmJSfhwaM3O-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Love Tactics (2022) ยุทธวิธีกำราบรัก",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/9mXoEX9RNsRD1bG8nmJSfhwaM3O.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/9mXoEX9RNsRD1bG8nmJSfhwaM3O-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a1c20291-b701-558b-930b-35854049d60d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1672,13 +1700,13 @@
   },
   {
    "name": "Looop Lapeta (2022) วันวุ่นเวียนวน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/onGdT8sYi89drvSJyEJnft97rOq.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/onGdT8sYi89drvSJyEJnft97rOq-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Looop Lapeta (2022) วันวุ่นเวียนวน",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/onGdT8sYi89drvSJyEJnft97rOq.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/onGdT8sYi89drvSJyEJnft97rOq-190x300-c-default.webp",
      "url": "https://streamhls.com/view/73c2d619-28dd-5d6a-a5b9-d506db1af08d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1686,13 +1714,13 @@
   },
   {
    "name": "Shyam Singha Roy (2021) รำลึกอดีตรัก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/iU1vOMlnX2zdzL4lBeZuqQC2lgu.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/iU1vOMlnX2zdzL4lBeZuqQC2lgu-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Shyam Singha Roy (2021) รำลึกอดีตรัก",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/iU1vOMlnX2zdzL4lBeZuqQC2lgu.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/iU1vOMlnX2zdzL4lBeZuqQC2lgu-190x300-c-default.webp",
      "url": "https://streamhls.com/view/1958cd5b-d182-5a2e-81f3-7095ff2298bc.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1700,13 +1728,13 @@
   },
   {
    "name": "Kurup (2021) อาชญากรเหนือเมฆ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/bQU8Ru6hVHHkELTM0mAxThuXFQY.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/bQU8Ru6hVHHkELTM0mAxThuXFQY-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Kurup (2021) อาชญากรเหนือเมฆ",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/bQU8Ru6hVHHkELTM0mAxThuXFQY.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/bQU8Ru6hVHHkELTM0mAxThuXFQY-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c611bb43-2273-5e78-ab36-bea8fbac051d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1714,13 +1742,13 @@
   },
   {
    "name": "Meenakshi Sundareshwar (2021) คู่โสดกำมะลอ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qDuTWET9QdSronOvoyWj2MjVvVr.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qDuTWET9QdSronOvoyWj2MjVvVr-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Meenakshi Sundareshwar (2021) คู่โสดกำมะลอ",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qDuTWET9QdSronOvoyWj2MjVvVr.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qDuTWET9QdSronOvoyWj2MjVvVr-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b9ac64f7-db28-508b-97f9-280ca54e4c3c.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1728,13 +1756,13 @@
   },
   {
    "name": "Ankahi Kahaniya (2021) เรื่องรัก เรื่องหัวใจ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/wNDu6aBv0yynUr8TcvSLUe8QLPt.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/wNDu6aBv0yynUr8TcvSLUe8QLPt-190x300-c-default.webp",
    "info": "SoundTrack(T)",
    "stations": [
     {
      "name": "Ankahi Kahaniya (2021) เรื่องรัก เรื่องหัวใจ",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/wNDu6aBv0yynUr8TcvSLUe8QLPt.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/wNDu6aBv0yynUr8TcvSLUe8QLPt-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3bbfc7e1-8f84-516b-8352-56dd83fd737a.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1742,20 +1770,20 @@
   },
   {
    "name": "Jagame Thandhiram (2021) โลกนี้สีขาวดำ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/goLoLNagbnWpPQh4YQE9R2hSLqj.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/goLoLNagbnWpPQh4YQE9R2hSLqj-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Jagame Thandhiram (2021) โลกนี้สีขาวดำ",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/goLoLNagbnWpPQh4YQE9R2hSLqj.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/goLoLNagbnWpPQh4YQE9R2hSLqj-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9a50763b-7a36-5250-8144-61efd8dd4194.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Jagame Thandhiram (2021) โลกนี้สีขาวดำ",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/goLoLNagbnWpPQh4YQE9R2hSLqj.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/goLoLNagbnWpPQh4YQE9R2hSLqj-190x300-c-default.webp",
      "url": "https://streamhls.com/view/af377c8e-a319-5a83-9203-eba97d69a117.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1763,13 +1791,13 @@
   },
   {
    "name": "Love or Money (2021)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kisYQIfUzXYBopZuSDVXDEyRXyl.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kisYQIfUzXYBopZuSDVXDEyRXyl-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Love or Money (2021)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kisYQIfUzXYBopZuSDVXDEyRXyl.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kisYQIfUzXYBopZuSDVXDEyRXyl-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c01e4df7-6f8d-5faa-bdb0-570aedb7bc8f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1777,13 +1805,13 @@
   },
   {
    "name": "Wild Dog (2021)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8377XckHbfJDMrkSpEa9ZQJlVE0.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8377XckHbfJDMrkSpEa9ZQJlVE0-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Wild Dog (2021)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8377XckHbfJDMrkSpEa9ZQJlVE0.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8377XckHbfJDMrkSpEa9ZQJlVE0-190x300-c-default.webp",
      "url": "https://streamhls.com/view/aef68bad-89e7-501f-b057-46a127a69d24.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1791,13 +1819,13 @@
   },
   {
    "name": "Uppena (2021) น้ำขึ้นให้รีบรัก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qO5ofw2mTJgDEguKBadZ7HyOyn.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qO5ofw2mTJgDEguKBadZ7HyOyn-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Uppena (2021) น้ำขึ้นให้รีบรัก",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qO5ofw2mTJgDEguKBadZ7HyOyn.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qO5ofw2mTJgDEguKBadZ7HyOyn-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3c2081da-ca0b-5687-8615-2a56731e4b13.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1805,13 +1833,13 @@
   },
   {
    "name": "Roohi (2021) ผีลักเจ้าสาว",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qHpEGFx13ntiAVl94e08EJ5ss4U.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qHpEGFx13ntiAVl94e08EJ5ss4U-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Roohi (2021) ผีลักเจ้าสาว",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qHpEGFx13ntiAVl94e08EJ5ss4U.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qHpEGFx13ntiAVl94e08EJ5ss4U-190x300-c-default.webp",
      "url": "https://streamhls.com/view/2bc85eac-368d-53bc-820b-72257953ae27.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1819,13 +1847,13 @@
   },
   {
    "name": "One (2021)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/b709793ddbef7d0876af6b36da912ced.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/b709793ddbef7d0876af6b36da912ced-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "One (2021)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/b709793ddbef7d0876af6b36da912ced.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/b709793ddbef7d0876af6b36da912ced-190x300-c-default.webp",
      "url": "https://streamhls.com/view/e5597ce2-aa56-5dc7-ab6e-49802d4a3fb2.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1833,13 +1861,13 @@
   },
   {
    "name": "Malang (2020) บ้า ล่า ระห่ำ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/noi7E47L0bpu60DO1jcYAvCqfSS.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/noi7E47L0bpu60DO1jcYAvCqfSS-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Malang (2020) บ้า ล่า ระห่ำ",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/noi7E47L0bpu60DO1jcYAvCqfSS.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/noi7E47L0bpu60DO1jcYAvCqfSS-190x300-c-default.webp",
      "url": "https://streamhls.com/view/72c00b5a-1605-550e-9455-950a5cbfb5ed.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1847,13 +1875,13 @@
   },
   {
    "name": "Panga (2020)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Ap8NRozS7wlWCMmsd3RIDP1xzGP.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Ap8NRozS7wlWCMmsd3RIDP1xzGP-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Panga (2020)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Ap8NRozS7wlWCMmsd3RIDP1xzGP.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Ap8NRozS7wlWCMmsd3RIDP1xzGP-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0b3f9948-d0ae-529e-b6e8-229221d2d663.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1861,13 +1889,13 @@
   },
   {
    "name": "Baaghi 3 (2020) ยอดคนสุดกระห่ำ 3",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/14nxzkz2ZE0BXoywF6UnP5rjfcL.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/14nxzkz2ZE0BXoywF6UnP5rjfcL-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Baaghi 3 (2020) ยอดคนสุดกระห่ำ 3",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/14nxzkz2ZE0BXoywF6UnP5rjfcL.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/14nxzkz2ZE0BXoywF6UnP5rjfcL-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9725d885-f06a-53b9-99be-d495115d60f7.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1875,13 +1903,13 @@
   },
   {
    "name": "Chhapaak (2020)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cr5KqiolMMRUEJxrNLWESxyVVeU.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cr5KqiolMMRUEJxrNLWESxyVVeU-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Chhapaak (2020)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cr5KqiolMMRUEJxrNLWESxyVVeU.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cr5KqiolMMRUEJxrNLWESxyVVeU-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0d64598e-7f09-5f68-81ed-7a9fcef7cbf3.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1889,13 +1917,13 @@
   },
   {
    "name": "Dil Bechara (2020)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yNBRZc8K9sxUjpObMj3t8IbbwK5.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yNBRZc8K9sxUjpObMj3t8IbbwK5-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Dil Bechara (2020)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yNBRZc8K9sxUjpObMj3t8IbbwK5.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yNBRZc8K9sxUjpObMj3t8IbbwK5-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c8265f04-753c-5289-9228-5d5a38121d6d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1903,13 +1931,13 @@
   },
   {
    "name": "Malang (2020) | NETFLIX บ้า ล่า ระห่ำ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4rv8hy7t1sw-14687-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4rv8hy7t1sw-14687-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Malang (2020) | NETFLIX บ้า ล่า ระห่ำ",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4rv8hy7t1sw-14687-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4rv8hy7t1sw-14687-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/72c00b5a-1605-550e-9455-950a5cbfb5ed.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1917,13 +1945,13 @@
   },
   {
    "name": "Love Aaj Kal (2020) เวลากับความรัก 2",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/mnud4xa1wgk-15191-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/mnud4xa1wgk-15191-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Love Aaj Kal (2020) เวลากับความรัก 2",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/mnud4xa1wgk-15191-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/mnud4xa1wgk-15191-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/2cb5cb17-72ad-520f-8a25-b4b4b18cc5b1.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1931,13 +1959,13 @@
   },
   {
    "name": "Ala Vaikunthapurramuloo (2020) ทายาทหัวใจแท้",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/dezt4f87vq1-13036-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/dezt4f87vq1-13036-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Ala Vaikunthapurramuloo (2020) ทายาทหัวใจแท้",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/dezt4f87vq1-13036-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/dezt4f87vq1-13036-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/4d69cd05-6e25-5027-ae2a-0d748308e953.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1945,19 +1973,19 @@
   },
   {
    "name": "Super Deluxe (2019) ซูเปอร์ดีลักซ์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/6N346GcTUjhYa0InIiGHW61Zo3O.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/6N346GcTUjhYa0InIiGHW61Zo3O-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": []
   },
   {
    "name": "Petta (2019) อย่าแหย่เสือแก่",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yNkTNIjPl4QSQmVNQyfopM4wcFF.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yNkTNIjPl4QSQmVNQyfopM4wcFF-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Petta (2019) อย่าแหย่เสือแก่",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yNkTNIjPl4QSQmVNQyfopM4wcFF.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yNkTNIjPl4QSQmVNQyfopM4wcFF-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f28c00db-fdb6-57e0-99dd-57e652dbb494.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1965,13 +1993,13 @@
   },
   {
    "name": "Notebook (2019)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xWGuyAriV4h3vzSSplITsJlIUSX.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xWGuyAriV4h3vzSSplITsJlIUSX-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Notebook (2019)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xWGuyAriV4h3vzSSplITsJlIUSX.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xWGuyAriV4h3vzSSplITsJlIUSX-190x300-c-default.webp",
      "url": "https://streamhls.com/view/7118c99b-f2bc-51cf-8204-a0f366996d5b.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1979,13 +2007,13 @@
   },
   {
    "name": "Maharshi (2019) มหาฤษี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/pV6xLQh54ga8oaQqJtUqLp12LwQ.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/pV6xLQh54ga8oaQqJtUqLp12LwQ-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Maharshi (2019) มหาฤษี",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/pV6xLQh54ga8oaQqJtUqLp12LwQ.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/pV6xLQh54ga8oaQqJtUqLp12LwQ-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6e5a3cab-1aeb-5c48-a036-1cf65ff8e207.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -1993,55 +2021,27 @@
   },
   {
    "name": "Triple Seat (2019)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5jJXlGY3oHtjSXs8x8GOLMJk8Px.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5jJXlGY3oHtjSXs8x8GOLMJk8Px-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Triple Seat (2019)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5jJXlGY3oHtjSXs8x8GOLMJk8Px.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5jJXlGY3oHtjSXs8x8GOLMJk8Px-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d623aac8-6e36-5c8d-a442-6c6bec2060aa.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
-   "name": "Axone (2019) เมนูร้าวฉาน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/72jl3wcqx6r-15342-poster.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Axone (2019) เมนูร้าวฉาน",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/72jl3wcqx6r-15342-poster.webp",
-     "url": "https://streamhls.com/view/6316fe3c-0be2-5df7-af18-6682fa715647.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Asuran (2019) อัสลาน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zlievojt45n-15005-poster.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Asuran (2019) อัสลาน",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zlievojt45n-15005-poster.webp",
-     "url": "https://streamhls.com/view/a40460b3-b38e-5b79-a8e2-af83ec91e627.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Venky Mama (2019) บรรยายไทย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/thksy92uw1q-15283-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/thksy92uw1q-15283-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Venky Mama (2019) บรรยายไทย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/thksy92uw1q-15283-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/thksy92uw1q-15283-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6384bd1a-577f-58d0-aaa9-b3be4e02f7b8.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2049,27 +2049,55 @@
   },
   {
    "name": "Bigil (2019) บรรยายไทย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/x5icyqpae6o-15340-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/x5icyqpae6o-15340-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Bigil (2019) บรรยายไทย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/x5icyqpae6o-15340-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/x5icyqpae6o-15340-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/e021f92c-f8bf-58b6-b6be-6bec34aa4b84.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
+   "name": "Axone (2019) เมนูร้าวฉาน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/72jl3wcqx6r-15342-poster-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Axone (2019) เมนูร้าวฉาน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/72jl3wcqx6r-15342-poster-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/6316fe3c-0be2-5df7-af18-6682fa715647.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Asuran (2019) อัสลาน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zlievojt45n-15005-poster-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Asuran (2019) อัสลาน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zlievojt45n-15005-poster-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/a40460b3-b38e-5b79-a8e2-af83ec91e627.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Ghawre Bairey Aaj (2019) บรรยายไทย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/6y0iuox9dh3-14874-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/6y0iuox9dh3-14874-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Ghawre Bairey Aaj (2019) บรรยายไทย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/6y0iuox9dh3-14874-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/6y0iuox9dh3-14874-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5b62472e-d4e3-5140-aa79-207659d0e85d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2077,13 +2105,13 @@
   },
   {
    "name": "Dear Comrade (2019) ถึงเพื่อน…เพื่อน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qkedgcf6uom-15001-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qkedgcf6uom-15001-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Dear Comrade (2019) ถึงเพื่อน…เพื่อน",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qkedgcf6uom-15001-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qkedgcf6uom-15001-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b5e7034b-2f3b-572a-91c2-96bf791207b8.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2091,13 +2119,13 @@
   },
   {
    "name": "Kesari (2019) เคซารี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1ycrikgbend-14498-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1ycrikgbend-14498-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Kesari (2019) เคซารี",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1ycrikgbend-14498-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1ycrikgbend-14498-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/e8c054ab-e6db-520b-8fb4-7f61af061dcf.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2105,13 +2133,13 @@
   },
   {
    "name": "Sye Raa Narasimha Reddy (2019) ไซร่า นาราซิมฮา เรดดี้",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/c2w43gqpskm-12305-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/c2w43gqpskm-12305-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Sye Raa Narasimha Reddy (2019) ไซร่า นาราซิมฮา เรดดี้",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/c2w43gqpskm-12305-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/c2w43gqpskm-12305-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3a929c75-0da4-54ff-a49b-1cb260466d98.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2119,13 +2147,13 @@
   },
   {
    "name": "Motichoor Chaknachoor (2019) ยูฮู้ ความรักอยู่ไหน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/up0nyxbz45t-12012-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/up0nyxbz45t-12012-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Motichoor Chaknachoor (2019) ยูฮู้ ความรักอยู่ไหน",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/up0nyxbz45t-12012-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/up0nyxbz45t-12012-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/165545cd-07c2-5662-a7df-7e8d18eeb0ec.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2133,13 +2161,13 @@
   },
   {
    "name": "Laal Kaptaan กัปตันแดงเดือด (2019) บรรยายไทย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ydqjrp7xh01-12022-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ydqjrp7xh01-12022-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Laal Kaptaan กัปตันแดงเดือด (2019) บรรยายไทย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ydqjrp7xh01-12022-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ydqjrp7xh01-12022-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/82cfe931-2f90-5dbb-9a7c-5b3698aaba34.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2147,19 +2175,19 @@
   },
   {
    "name": "Saaho (2019) เกมปล้นนรก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/e97jh0ax1s8-11828-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/e97jh0ax1s8-11828-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": []
   },
   {
    "name": "Jackpot (2019)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cdx630rlf1q-11197-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cdx630rlf1q-11197-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Jackpot (2019)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cdx630rlf1q-11197-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cdx630rlf1q-11197-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/56fc9737-1a76-5cf9-9918-f597b991a256.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2167,13 +2195,13 @@
   },
   {
    "name": "Ghost Stories (2020) เรื่องผี เรื่องวิญญาณ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eu4b3xycjfd-11307-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eu4b3xycjfd-11307-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Ghost Stories (2020) เรื่องผี เรื่องวิญญาณ",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eu4b3xycjfd-11307-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eu4b3xycjfd-11307-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0a8d9e96-5587-5e7c-8f8d-880266e53557.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2181,13 +2209,13 @@
   },
   {
    "name": "Aadai (2019) อาได",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4lkdbxri71u-11326-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4lkdbxri71u-11326-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Aadai (2019) อาได",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4lkdbxri71u-11326-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4lkdbxri71u-11326-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5ca7da0d-cbc5-5ed6-a8ee-c854ed5f7818.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2195,13 +2223,13 @@
   },
   {
    "name": "Kalank (2019) ด้วยรักและแรงแค้น",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ltgu4zq9woh-10930-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ltgu4zq9woh-10930-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Kalank (2019) ด้วยรักและแรงแค้น",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ltgu4zq9woh-10930-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ltgu4zq9woh-10930-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/1f12f183-fc33-5c10-8224-39a027a18eb3.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2209,13 +2237,13 @@
   },
   {
    "name": "War (2019) สงคราม",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2p840udjg3m-11043-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2p840udjg3m-11043-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "War (2019) สงคราม",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2p840udjg3m-11043-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2p840udjg3m-11043-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/dfac198e-c0b1-5b82-8c9d-4a8ea7863236.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2223,13 +2251,13 @@
   },
   {
    "name": "The Sky Is Pink (2019) ใต้ฟ้าสีชมพู",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/itn36qs20za-11127-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/itn36qs20za-11127-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "The Sky Is Pink (2019) ใต้ฟ้าสีชมพู",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/itn36qs20za-11127-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/itn36qs20za-11127-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/cd29204f-cbd4-5cb7-9e18-ad9cc12164d5.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2237,13 +2265,13 @@
   },
   {
    "name": "Fraud Saiyyan (2019) สามีกำมะลอ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191029075611p17131997_v_v8_aa.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191029075611p17131997_v_v8_aa-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Fraud Saiyyan (2019) สามีกำมะลอ",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191029075611p17131997_v_v8_aa.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191029075611p17131997_v_v8_aa-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c37352f3-d80e-5e96-a8b5-c52d4f4524c3.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2251,13 +2279,13 @@
   },
   {
    "name": "Manikarnika The Queen of Jhansi (2019) (ซับไทย)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2019102515251791kWzfCuahL._RI_.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2019102515251791kWzfCuahL._RI_-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Manikarnika The Queen of Jhansi (2019) (ซับไทย)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2019102515251791kWzfCuahL._RI_.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2019102515251791kWzfCuahL._RI_-190x300-c-default.webp",
      "url": "https://streamhls.com/view/1646580e-77eb-569b-b316-b683e68181fa.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2265,13 +2293,13 @@
   },
   {
    "name": "Game Over (2019) เกมโอเวอร์ (ภาษาฮินดี)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190822201121MV5BZDA5OTIyZmY.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190822201121MV5BZDA5OTIyZmY-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Game Over (2019) เกมโอเวอร์ (ภาษาฮินดี)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190822201121MV5BZDA5OTIyZmY.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190822201121MV5BZDA5OTIyZmY-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9f0eec9c-0cee-58e9-aa0e-c387fd9c10e6.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2279,13 +2307,13 @@
   },
   {
    "name": "Baaghi 2 (2018) ยอดคนสุดกระห่ำ 2",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1E2lUedrxlzIgReszV0OuJ5JpvG.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1E2lUedrxlzIgReszV0OuJ5JpvG-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Baaghi 2 (2018) ยอดคนสุดกระห่ำ 2",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1E2lUedrxlzIgReszV0OuJ5JpvG.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1E2lUedrxlzIgReszV0OuJ5JpvG-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6e510373-d1aa-521a-859e-740f28e1016a.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2293,13 +2321,13 @@
   },
   {
    "name": "Bhaagamathie (2018) พาคามฐี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/31e7l5xq9sj-15422-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/31e7l5xq9sj-15422-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Bhaagamathie (2018) พาคามฐี",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/31e7l5xq9sj-15422-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/31e7l5xq9sj-15422-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/67a33de5-0a71-5fd2-a8c5-6d31b6f42b1e.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2307,19 +2335,19 @@
   },
   {
    "name": "Rangasthalam (2018) บรรยายไทย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/502aj1yf3id-14221-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/502aj1yf3id-14221-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": []
   },
   {
    "name": "Go-Go Sisters (2018) ไป-ไป แม่สาวน้อย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7l2af8vzrxb-14313-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7l2af8vzrxb-14313-poster-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Go-Go Sisters (2018) ไป-ไป แม่สาวน้อย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7l2af8vzrxb-14313-poster.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7l2af8vzrxb-14313-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c4f2aa7a-5867-5896-80f0-24e2e06b29c4.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2327,13 +2355,13 @@
   },
   {
    "name": "Tumbbad (2018) คำสาปแห่งทุมบ์บาด",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/89empxuiocy-13858-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/89empxuiocy-13858-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Tumbbad (2018) คำสาปแห่งทุมบ์บาด",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/89empxuiocy-13858-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/89empxuiocy-13858-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/e615da5e-cde5-538a-a309-592d8c049cec.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2341,13 +2369,13 @@
   },
   {
    "name": "Baazaar (2018) บรรยายไทย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/25m4tocrv7b-11711-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/25m4tocrv7b-11711-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Baazaar (2018) บรรยายไทย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/25m4tocrv7b-11711-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/25m4tocrv7b-11711-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/dbd9c44e-16cf-5022-be1f-c14001be4c03.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2355,13 +2383,13 @@
   },
   {
    "name": "Padmaavat (2018) ปัทมาวัต",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/gsjyc38it9o-10932-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/gsjyc38it9o-10932-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Padmaavat (2018) ปัทมาวัต",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/gsjyc38it9o-10932-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/gsjyc38it9o-10932-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/709fe87b-00cf-5172-b60f-aa4da437e60b.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2369,13 +2397,13 @@
   },
   {
    "name": "Jalebi – The Taste of Everlasting Love (2018)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qz71ufnxtwa-10936-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qz71ufnxtwa-10936-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Jalebi – The Taste of Everlasting Love (2018)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qz71ufnxtwa-10936-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qz71ufnxtwa-10936-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/04b30dd0-d32b-5329-9923-daea36313153.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2383,13 +2411,13 @@
   },
   {
    "name": "Sui Dhaaga Made in India (2018) หนุ่มทอผ้าล่าฝัน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191028083923188579_aa.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191028083923188579_aa-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Sui Dhaaga Made in India (2018) หนุ่มทอผ้าล่าฝัน",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191028083923188579_aa.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191028083923188579_aa-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6c17fa85-6588-567e-91d5-3c37ff2529d5.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2397,13 +2425,13 @@
   },
   {
    "name": "Zero (2018) ซีโร่ คนเล็กใจใหญ่ (ซับไทย)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190620113723MV5BYmU1MWJmZDgtNDk1NC0.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190620113723MV5BYmU1MWJmZDgtNDk1NC0-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Zero (2018) ซีโร่ คนเล็กใจใหญ่ (ซับไทย)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190620113723MV5BYmU1MWJmZDgtNDk1NC0.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190620113723MV5BYmU1MWJmZDgtNDk1NC0-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c10e9275-55ea-59ca-b1b9-dc2b84f08dd5.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2411,13 +2439,13 @@
   },
   {
    "name": "Hichki (2018) สะอึก (ซับไทย)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vawEeGTT115cJBFezPWiit0j533.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vawEeGTT115cJBFezPWiit0j533-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Hichki (2018) สะอึก (ซับไทย)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vawEeGTT115cJBFezPWiit0j533.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vawEeGTT115cJBFezPWiit0j533-190x300-c-default.webp",
      "url": "https://streamhls.com/view/bc22b60f-94ec-5be9-b987-94ddc752e7fc.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2425,13 +2453,13 @@
   },
   {
    "name": "Kadvi Hawa (2017)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/byOKAa9yAVk5fYzEFk31NPS086s.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/byOKAa9yAVk5fYzEFk31NPS086s-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Kadvi Hawa (2017)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/byOKAa9yAVk5fYzEFk31NPS086s.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/byOKAa9yAVk5fYzEFk31NPS086s-190x300-c-default.webp",
      "url": "https://streamhls.com/view/fc28d605-8543-5a17-8a24-cbea1713248f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2439,13 +2467,13 @@
   },
   {
    "name": "The Ghazi Attack (2017)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uFAwFoRf1BULZtufwFObUIUK0Um.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uFAwFoRf1BULZtufwFObUIUK0Um-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "The Ghazi Attack (2017)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uFAwFoRf1BULZtufwFObUIUK0Um.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uFAwFoRf1BULZtufwFObUIUK0Um-190x300-c-default.webp",
      "url": "https://streamhls.com/view/83e89953-a084-57b3-ac40-ab94c69fd38f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2453,13 +2481,13 @@
   },
   {
    "name": "Kaatru Veliyidai (2017) รักจากฟากฟ้า",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eAhi75mHLylj5J0ZsjhaVTtHhQD.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eAhi75mHLylj5J0ZsjhaVTtHhQD-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Kaatru Veliyidai (2017) รักจากฟากฟ้า",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eAhi75mHLylj5J0ZsjhaVTtHhQD.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eAhi75mHLylj5J0ZsjhaVTtHhQD-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b5a25f19-d73d-55b0-89af-438fb592cc4d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2467,13 +2495,13 @@
   },
   {
    "name": "Simran (2017) ซิมรัน โบยบินไกลเกินฝัน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191029074651wc28w6EW198EB5NHKmmfDpiOkqf.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191029074651wc28w6EW198EB5NHKmmfDpiOkqf-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Simran (2017) ซิมรัน โบยบินไกลเกินฝัน",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191029074651wc28w6EW198EB5NHKmmfDpiOkqf.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191029074651wc28w6EW198EB5NHKmmfDpiOkqf-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b6992974-09fc-5ff4-b11f-7eae5a032810.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2481,13 +2509,13 @@
   },
   {
    "name": "OK Jaanu (2017) ลิขิตรักตามใจเธอ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/90knpjvzr86-10934-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/90knpjvzr86-10934-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "OK Jaanu (2017) ลิขิตรักตามใจเธอ",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/90knpjvzr86-10934-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/90knpjvzr86-10934-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/7429f396-0006-5241-bd28-8e603f125d8f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2495,13 +2523,13 @@
   },
   {
    "name": "Baahubali 2 The Conclusion (2017) เปิดตำนานบาฮูบาลี 2",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/sXf30F2HFpsFPXlNz7jpOySSV9I.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/sXf30F2HFpsFPXlNz7jpOySSV9I-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Baahubali 2 The Conclusion (2017) เปิดตำนานบาฮูบาลี 2",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/sXf30F2HFpsFPXlNz7jpOySSV9I.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/sXf30F2HFpsFPXlNz7jpOySSV9I-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a61a2e25-2b62-5d8d-9f54-f1d8e9b41220.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2509,13 +2537,13 @@
   },
   {
    "name": "The Worthy (2016) ผู้อยู่รอด",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/fDBlIFntmminhCOaSTv3Gn0WByC.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/fDBlIFntmminhCOaSTv3Gn0WByC-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "The Worthy (2016) ผู้อยู่รอด",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/fDBlIFntmminhCOaSTv3Gn0WByC.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/fDBlIFntmminhCOaSTv3Gn0WByC-190x300-c-default.webp",
      "url": "https://streamhls.com/view/67645bc9-a4a3-5c5d-8cc5-8f329223ee4e.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2523,13 +2551,13 @@
   },
   {
    "name": "Natsamrat (2016) บรรยายไทย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xg37cqz8a4o-15424-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xg37cqz8a4o-15424-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Natsamrat (2016) บรรยายไทย",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xg37cqz8a4o-15424-poster.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xg37cqz8a4o-15424-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/90476091-5895-5a2a-90ee-11c248a98bd5.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2537,13 +2565,13 @@
   },
   {
    "name": "Dangal (2016) ปล้ำฝันสนั่นโลก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tt5074352.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tt5074352-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Dangal (2016) ปล้ำฝันสนั่นโลก",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tt5074352.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tt5074352-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ed3392bb-c188-5374-9b84-7bd821659fef.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2551,13 +2579,13 @@
   },
   {
    "name": "Befikre (2016) ถ้าหัวใจมีรัก [ซับไทย]",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Befikre-2016-Sub-TH.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Befikre-2016-Sub-TH-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Befikre (2016) ถ้าหัวใจมีรัก [ซับไทย]",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Befikre-2016-Sub-TH.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Befikre-2016-Sub-TH-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9ad5d0a0-a146-5998-ab0d-5fdb97f63650.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2565,33 +2593,27 @@
   },
   {
    "name": "Sultan สุลต่าน (2016)(บรรยายไทย)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Sultan282016295BSubTH5D.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Sultan282016295BSubTH5D-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Sultan สุลต่าน (2016)(บรรยายไทย)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Sultan282016295BSubTH5D.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Sultan282016295BSubTH5D-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6f3b1467-8eed-5bfb-adb9-7278ba8bb1cd.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
   },
   {
-   "name": "Detective Byomkesh Bakshy! (2015) บอย์มเกช บัคชี นักสืบกู้ชาติ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7IvuZioWIvj8UAIWJhGtLsqwwt.webp",
-   "info": "ซับไทย",
-   "stations": []
-  },
-  {
    "name": "Prem Ratan Dhan Payo (2015) บัลลังก์รักสลับร่าง",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/pCxT9c2E0YhzxsSkweVW2ELO3mS.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/pCxT9c2E0YhzxsSkweVW2ELO3mS-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Prem Ratan Dhan Payo (2015) บัลลังก์รักสลับร่าง",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/pCxT9c2E0YhzxsSkweVW2ELO3mS.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/pCxT9c2E0YhzxsSkweVW2ELO3mS-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9a4b10f1-b160-5550-b6a7-a59db0382e37.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2599,13 +2621,13 @@
   },
   {
    "name": "Baahubali The Beginning (2015) เปิดตำนานบาฮูบาลี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uYsiKArSSY8ZfH9arxD6IDZLnCm.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uYsiKArSSY8ZfH9arxD6IDZLnCm-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Baahubali The Beginning (2015) เปิดตำนานบาฮูบาลี",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uYsiKArSSY8ZfH9arxD6IDZLnCm.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uYsiKArSSY8ZfH9arxD6IDZLnCm-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f105e909-ba89-5732-bdfc-015b8c5fe0f9.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2613,13 +2635,13 @@
   },
   {
    "name": "1000 Rupee Note (2014) พลิกชีวิตพันรูปี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/oFFLlUTaphyr1ptha9OGmrLCitu.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/oFFLlUTaphyr1ptha9OGmrLCitu-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "1000 Rupee Note (2014) พลิกชีวิตพันรูปี",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/oFFLlUTaphyr1ptha9OGmrLCitu.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/oFFLlUTaphyr1ptha9OGmrLCitu-190x300-c-default.webp",
      "url": "https://streamhls.com/view/827adf0d-fc96-5e47-bdac-f57c6dc3ff3f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2627,13 +2649,13 @@
   },
   {
    "name": "PK (2014) [ซับไทย]",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/JHntr.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/JHntr-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "PK (2014) [ซับไทย]",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/JHntr.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/JHntr-190x300-c-default.webp",
      "url": "https://streamhls.com/view/2ba15ab4-1a99-59cf-b8a1-a1dbdfd33b19.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2641,13 +2663,13 @@
   },
   {
    "name": "Kal Ho Naa Ho (2013) โอ้รัก สุดชีวิต",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/RxqG2n.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/RxqG2n-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Kal Ho Naa Ho (2013) โอ้รัก สุดชีวิต",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/RxqG2n.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/RxqG2n-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a710ceed-968a-5cd0-a9fb-21b1d2a5cf4f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2655,13 +2677,13 @@
   },
   {
    "name": "Sparks (2013) โคตรเกรียนเมืองคนบาป",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Sparks2013.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Sparks2013-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Sparks (2013) โคตรเกรียนเมืองคนบาป",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Sparks2013.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Sparks2013-190x300-c-default.webp",
      "url": "https://streamhls.com/view/caea18ee-19ec-580b-9e0d-62848f418f04.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2669,13 +2691,13 @@
   },
   {
    "name": "Dhoom 3 (2013) มหกรรมล่า คนเหนือเมฆ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Dhoom-3.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Dhoom-3-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Dhoom 3 (2013) มหกรรมล่า คนเหนือเมฆ",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Dhoom-3.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Dhoom-3-190x300-c-default.webp",
      "url": "https://streamhls.com/view/bc962006-3827-594b-95ea-64b09d0a45c7.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2683,13 +2705,13 @@
   },
   {
    "name": "Dabangg 2 (2012) มือปราบกำราบเซียน 2",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Dabangg-2-2012-E0B8A1E0B8B7E0B8ADE0B89BE0B8A3E0B8B2E0B89AE0B881E0B8B3E0B8A3E0B8B2E0B89AE0B980E0B88BE0B8B5E0B8A2E0B899-2.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Dabangg-2-2012-E0B8A1E0B8B7E0B8ADE0B89BE0B8A3E0B8B2E0B89AE0B881E0B8B3E0B8A3E0B8B2E0B89AE0B980E0B88BE0B8B5E0B8A2E0B899-2-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Dabangg 2 (2012) มือปราบกำราบเซียน 2",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Dabangg-2-2012-E0B8A1E0B8B7E0B8ADE0B89BE0B8A3E0B8B2E0B89AE0B881E0B8B3E0B8A3E0B8B2E0B89AE0B980E0B88BE0B8B5E0B8A2E0B899-2.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Dabangg-2-2012-E0B8A1E0B8B7E0B8ADE0B89BE0B8A3E0B8B2E0B89AE0B881E0B8B3E0B8A3E0B8B2E0B89AE0B980E0B88BE0B8B5E0B8A2E0B899-2-190x300-c-default.webp",
      "url": "https://streamhls.com/view/465d5d3d-4568-505b-99c9-0103040bb59d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2697,13 +2719,13 @@
   },
   {
    "name": "Barfi! (2012) นายคนเนี้ยะ!!! บาร์ฟี่",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/BARFI.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/BARFI-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Barfi! (2012) นายคนเนี้ยะ!!! บาร์ฟี่",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/BARFI.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/BARFI-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0010fe75-1e0d-5b89-a0da-cd6e3e1a21d2.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2711,13 +2733,13 @@
   },
   {
    "name": "Don 2 (2011) ดอน นักฆ่าหน้าหยก 2",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Don228201129.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Don228201129-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Don 2 (2011) ดอน นักฆ่าหน้าหยก 2",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Don228201129.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Don228201129-190x300-c-default.webp",
      "url": "https://streamhls.com/view/30c5488b-7a11-53d2-b327-db5c4e85797d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2725,13 +2747,13 @@
   },
   {
    "name": "No Problem (2010) เอาอยู่คร๊าบบบ!!!",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/proble.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/proble-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "No Problem (2010) เอาอยู่คร๊าบบบ!!!",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/proble.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/proble-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0c44f1f0-5f24-5e04-8677-ab4abc6d7535.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2739,13 +2761,13 @@
   },
   {
    "name": "Billu (2009) บิลลู",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nmWKskigmvBow3uOP4RPQOIaUux.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nmWKskigmvBow3uOP4RPQOIaUux-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Billu (2009) บิลลู",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nmWKskigmvBow3uOP4RPQOIaUux.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nmWKskigmvBow3uOP4RPQOIaUux-190x300-c-default.webp",
      "url": "https://streamhls.com/view/72f6fb68-7ef7-55af-8e1a-1b0c7bb474a5.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2753,13 +2775,13 @@
   },
   {
    "name": "3 Idiots (2009) [ซับไทย]",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/3-Idiots.ZAKKY_.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/3-Idiots.ZAKKY_-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "3 Idiots (2009) [ซับไทย]",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/3-Idiots.ZAKKY_.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/3-Idiots.ZAKKY_-190x300-c-default.webp",
      "url": "https://streamhls.com/view/91267d43-b6be-5871-ac8f-c4d85cdb4fa1.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2767,13 +2789,13 @@
   },
   {
    "name": "Delhi-6 (2009) เดลฮี สวรรค์แดนภารตะ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Delhi-628200929.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Delhi-628200929-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Delhi-6 (2009) เดลฮี สวรรค์แดนภารตะ",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Delhi-628200929.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Delhi-628200929-190x300-c-default.webp",
      "url": "https://streamhls.com/view/73af19c0-20d3-54f2-bdb6-104c9ef2e14d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2781,20 +2803,20 @@
   },
   {
    "name": "Ghajini เกิดมาฆ่า…กาจินี (2008)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/rkivh35t7l2-11271-poster.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/rkivh35t7l2-11271-poster-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Ghajini เกิดมาฆ่า…กาจินี (2008)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/rkivh35t7l2-11271-poster.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/rkivh35t7l2-11271-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/33a7047e-8706-54a0-8a73-5e832d76f847.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Ghajini เกิดมาฆ่า…กาจินี (2008)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/rkivh35t7l2-11271-poster.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/rkivh35t7l2-11271-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/32095319-2eee-5a1b-b37c-37808005683b.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2802,13 +2824,13 @@
   },
   {
    "name": "Om Shanti Om (2007) โอม ศานติ โอม",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tSaZOdHDBx4wxMa3E5ztkhPVYyO.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tSaZOdHDBx4wxMa3E5ztkhPVYyO-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Om Shanti Om (2007) โอม ศานติ โอม",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tSaZOdHDBx4wxMa3E5ztkhPVYyO.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tSaZOdHDBx4wxMa3E5ztkhPVYyO-190x300-c-default.webp",
      "url": "https://streamhls.com/view/731512ff-e1ce-5b3a-89d2-ba1f76f51d9a.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2816,13 +2838,13 @@
   },
   {
    "name": "Like Stars on Earth Taare Zameen Par (2007) ดวงดาวเล็กๆ บนผืนโลก [ซับไทย]",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Laar.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Laar-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Like Stars on Earth Taare Zameen Par (2007) ดวงดาวเล็กๆ บนผืนโลก [ซับไทย]",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Laar.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Laar-190x300-c-default.webp",
      "url": "https://streamhls.com/view/23f870e7-216a-5cae-9a14-22d64414803b.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2830,13 +2852,13 @@
   },
   {
    "name": "Don (2006) ดอน นักฆ่าหน้าหยก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Don28200629.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Don28200629-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Don (2006) ดอน นักฆ่าหน้าหยก",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Don28200629.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Don28200629-190x300-c-default.webp",
      "url": "https://streamhls.com/view/50d0a719-d3de-5ec3-b469-f4e5ba88650a.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2844,13 +2866,13 @@
   },
   {
    "name": "Rang De Basanti (2006) เลือดเนื้อพลีเสรีชน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Rang-De-Basanti-2006.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Rang-De-Basanti-2006-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Rang De Basanti (2006) เลือดเนื้อพลีเสรีชน",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Rang-De-Basanti-2006.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Rang-De-Basanti-2006-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5f4e6b8e-ca9c-505c-adf4-697ac629913f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2858,13 +2880,13 @@
   },
   {
    "name": "Baabul (2006) พ่อเหนือเกล้าเหนือชีวิต",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Baabul-2006-Hindi-720p-WEB-HDRip-1.2GB.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Baabul-2006-Hindi-720p-WEB-HDRip-1.2GB-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Baabul (2006) พ่อเหนือเกล้าเหนือชีวิต",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Baabul-2006-Hindi-720p-WEB-HDRip-1.2GB.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Baabul-2006-Hindi-720p-WEB-HDRip-1.2GB-190x300-c-default.webp",
      "url": "https://streamhls.com/view/2be7bb1c-c6f4-5053-92e8-f86d4e7807a5.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2872,20 +2894,20 @@
   },
   {
    "name": "Paradise Now (2005) พาราไดซ์ นาว อุดมการณ์ปลิดโลก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qWZkYa8VdcDZk8uzRB2PfhpM9IL.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qWZkYa8VdcDZk8uzRB2PfhpM9IL-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Paradise Now (2005) พาราไดซ์ นาว อุดมการณ์ปลิดโลก",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qWZkYa8VdcDZk8uzRB2PfhpM9IL.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qWZkYa8VdcDZk8uzRB2PfhpM9IL-190x300-c-default.webp",
      "url": "https://streamhls.com/view/14598d7b-6dd3-524f-956a-cc61b1baf78d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Paradise Now (2005) พาราไดซ์ นาว อุดมการณ์ปลิดโลก",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qWZkYa8VdcDZk8uzRB2PfhpM9IL.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qWZkYa8VdcDZk8uzRB2PfhpM9IL-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b8f36a8e-a941-58f7-9224-780f72fa8e1c.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2893,13 +2915,13 @@
   },
   {
    "name": "Elaan (2005) ทีมล่าฆ่าไม่ปราณี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Elaan_1247412468_2005.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Elaan_1247412468_2005-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Elaan (2005) ทีมล่าฆ่าไม่ปราณี",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Elaan_1247412468_2005.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Elaan_1247412468_2005-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3c5747e3-2c6f-52a0-9ef8-6b7707368bb3.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2907,13 +2929,13 @@
   },
   {
    "name": "K-9 P.I. (2002)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/lkI06uQJCnujYoN6MJzjnsxryaI.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/lkI06uQJCnujYoN6MJzjnsxryaI-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "K-9 P.I. (2002)",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/lkI06uQJCnujYoN6MJzjnsxryaI.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/lkI06uQJCnujYoN6MJzjnsxryaI-190x300-c-default.webp",
      "url": "https://streamhls.com/view/7a0bccdc-dc7d-5124-9a9a-cf153399ec3e.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2921,20 +2943,20 @@
   },
   {
    "name": "Kabhi Khushi Kabhie Gham (2001) ฟ้ามิอาจกั้นรัก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190307094331MV5BZjc5NGExODktNjE3MC.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190307094331MV5BZjc5NGExODktNjE3MC-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
    "stations": [
     {
      "name": "Kabhi Khushi Kabhie Gham (2001) ฟ้ามิอาจกั้นรัก",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190307094331MV5BZjc5NGExODktNjE3MC.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190307094331MV5BZjc5NGExODktNjE3MC-190x300-c-default.webp",
      "url": "https://streamhls.com/view/e2205984-4f74-582e-8930-eaaa455e7aac.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Kabhi Khushi Kabhie Gham (2001) ฟ้ามิอาจกั้นรัก",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190307094331MV5BZjc5NGExODktNjE3MC.webp",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190307094331MV5BZjc5NGExODktNjE3MC-190x300-c-default.webp",
      "url": "https://streamhls.com/view/bcffb9ac-c03d-5728-b507-0e53061532cb.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2942,13 +2964,13 @@
   },
   {
    "name": "Salaam Bombay (1998) สลัมบอมเบย์ เด็กข้างถนน {ซับไทย}",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/d4750-salaam-bombay.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/d4750-salaam-bombay-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Salaam Bombay (1998) สลัมบอมเบย์ เด็กข้างถนน {ซับไทย}",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/d4750-salaam-bombay.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/d4750-salaam-bombay-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b30d261e-73ce-599f-bfd7-96f77f068f2f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2956,13 +2978,13 @@
   },
   {
    "name": "Kama Sutra A Tale of Love (1996) กามาสุตรา ต้นกำเนิดตำนานรัก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/dwbLcEPIjVISly6DW8GLX8vsZlE.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/dwbLcEPIjVISly6DW8GLX8vsZlE-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Kama Sutra A Tale of Love (1996) กามาสุตรา ต้นกำเนิดตำนานรัก",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/dwbLcEPIjVISly6DW8GLX8vsZlE.webp",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/dwbLcEPIjVISly6DW8GLX8vsZlE-190x300-c-default.webp",
      "url": "https://streamhls.com/view/377119a8-fd41-5bf6-b38a-91fdb2a4a940.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
@@ -2970,13 +2992,13 @@
   },
   {
    "name": "Gandhi (1982) มหาตมะ คานธี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/GANDHI-TH.webp",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/GANDHI-TH-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "Gandhi (1982) มหาตมะ คานธี",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/GANDHI-TH.webp",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/GANDHI-TH-190x300-c-default.webp",
      "url": "https://streamhls.com/view/133b284b-0266-5767-bd5e-6ed6095a724d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
