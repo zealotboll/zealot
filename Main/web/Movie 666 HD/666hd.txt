@@ -1,0 +1,47 @@
+{"name": "666HD",
+ "author": "อุ๋ง อุ๋ง",
+ "image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
+	"groups": [
+		{"name": "หนัง",
+		 "author": "อุ๋ง อุ๋ง",
+		 "image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
+			"groups": [
+				{"name": "รวม หนัง",
+				 "image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
+				 "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Movie_666hd_movies.w3u",
+				 "import": "false"
+						},
+					{"name": "แยกตามประเทศ",
+					 "image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
+						 "groups": [
+							{"name": "ซีรีย์จีน",
+							"image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
+							"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Movie_666hd_หนังจีน.w3u",
+							"import": "false"
+								}
+			  				]
+						}
+		  			]
+				},
+		{"name": "ซีรีย์",
+		 "image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
+			"groups": [
+				{"name": "รวม ซีรีย์ ",
+				 "image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
+				 "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Series_666hd_series.w3u",
+				 "import": "false"
+						},
+					{"name": "แยกตามประเทศ",
+					 "image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
+					 	"groups": [
+							{"name": "ซีรีย์จีน",
+							 "image": "https://666hd.com/wp-content/uploads/2022/08/666-hd.webp",
+							 "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/-/Series_666hd_ซีรีย์จีน.w3u",
+							 "import": "false"
+								}
+			  				]
+						}
+		  			]
+				}
+	  		]
+		},
