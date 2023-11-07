@@ -92,6 +92,12 @@
 	"import":"true"
   },
   {
+	"name":"ชอบหนัง", 
+	"image":"https://www.ชอบหนัง.com/wp-content/themes/like_nung/images/logo.png",
+	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/ชอบหนัง/list_ชอบหนัง.txt",
+	"import":"true"
+  },
+  {
 	"name":"🦭Watchlakorn.in", 
 	"image":"https://cdn.watchlakorn.in/images/video_logo.png",
 	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/แยกประเภท.txt",
