@@ -2,7 +2,6 @@
 		name": "Watchlakorn.in",
 		"author": "เจียว เจียว",
 		"image": "https://cdn.watchlakorn.in/images/video_logo.png",
-		"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/watchlakorn_group.txt",
 		"groups":  [
 		{
 			"name": "ละคร ONAIR",
@@ -65,4 +64,4 @@
 			"import": "false"
 		}
 	  ]
-	},
+	}
