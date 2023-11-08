@@ -1,9 +1,1332 @@
 {
  "name": "หนังในปี 2023",
- "author": "เจียว เจียว อัพวันที่ 23 พฤศจิกายน 2566",
+ "author": "เจียว เจียว อัพวันที่ 08 พฤศจิกายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.v8movie-hd.com/wp-content/themes/v8moviehd/img/logo-v8hd.png",
  "groups": [
+  {
+   "name": "Five Nights at Freddy’s (2023) 5 คืนสยองที่ร้านเฟรดดี้",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Five-Nights-at-Freddys-2023.jpg",
+   "info": "HD พากย์ไทย/ซับ",
+   "stations": [
+    {
+     "name": "Five Nights at Freddy’s (2023) 5 คืนสยองที่ร้านเฟรดดี้",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Five-Nights-at-Freddys-2023.jpg",
+     "url": "https://streamhls.com/view/eb4a949d-cd90-5fe7-a9f9-d54d47c47b56.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "Five Nights at Freddy’s (2023) 5 คืนสยองที่ร้านเฟรดดี้",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Five-Nights-at-Freddys-2023.jpg",
+     "url": "https://streamhls.com/view/197c60c4-460a-574c-88c7-1c6d600d8796.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Land of Gold (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Land-of-Gold-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Land of Gold (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Land-of-Gold-2023.jpg",
+     "url": "https://streamhls.com/view/d71edac5-ef67-5418-b160-d5cf5684bb2d.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Baker (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/The-Baker-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "The Baker (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/The-Baker-2023.jpg",
+     "url": "https://streamhls.com/view/c6e980e8-a51c-5df1-b734-045a4de8a225.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Fingernails (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Fingernails-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Fingernails (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Fingernails-2023.jpg",
+     "url": "https://streamhls.com/view/80cea5d0-a8c9-5af0-a7d2-a6232975cd9b.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Pet Sematary: Bloodlines (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Pet-Sematary-Bloodlines-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Pet Sematary: Bloodlines (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Pet-Sematary-Bloodlines-2023.jpg",
+     "url": "https://streamhls.com/view/e50f82dc-3e68-539b-9055-154f5eace8d4.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Praise This (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Praise-This-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Praise This (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Praise-This-2023.jpg",
+     "url": "https://streamhls.com/view/3c6c0e49-20e3-5c76-a182-bfd4217eac3e.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Strays (2023) ชีวิตหมาต้องไม่หมา",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Strays-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Strays (2023) ชีวิตหมาต้องไม่หมา",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Strays-2023.jpg",
+     "url": "https://streamhls.com/view/73a0310a-ee66-5c86-bd28-0689a014ef4b.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Face Off 6: The Ticket of Destiny (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Face-Off-6-The-Ticket-of-Destiny-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Face Off 6: The Ticket of Destiny (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Face-Off-6-The-Ticket-of-Destiny-2023.jpg",
+     "url": "https://streamhls.com/view/9af39954-3fb6-5310-bd3a-a5ed807efee6.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Daily Dose of Sunshine (2023) รับแดดอุ่น กรุ่นไอรัก",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+   "info": "HD พากย์ไทย",
+   "stations": [
+    {
+     "name": "ซีซั่น 1 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1657871d-aac3-5eba-bc36-fc087e3130ed.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/1657871d-aac3-5eba-bc36-fc087e3130ed.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/8997ce42-63d9-5b32-8ab8-a5f0a96529e0.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/8997ce42-63d9-5b32-8ab8-a5f0a96529e0.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/6766504a-c978-59f6-9201-a069bff89a5c.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/6766504a-c978-59f6-9201-a069bff89a5c.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/4dd79cd2-62ae-5d31-8a96-ca3b68475cd6.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/4dd79cd2-62ae-5d31-8a96-ca3b68475cd6.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/63c01887-21de-5dd4-a4fd-9fc77eac2b8c.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/63c01887-21de-5dd4-a4fd-9fc77eac2b8c.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/442c7a41-f519-5393-b1d2-20c09563de53.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/442c7a41-f519-5393-b1d2-20c09563de53.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/eb8c5f92-1b9f-5d83-8584-204af25ad787.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/eb8c5f92-1b9f-5d83-8584-204af25ad787.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/d884519f-81ab-5492-8fc8-9b322fb7baa4.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/d884519f-81ab-5492-8fc8-9b322fb7baa4.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/61ddde9d-c31b-5b19-b221-0ba6ba43ec6c.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/61ddde9d-c31b-5b19-b221-0ba6ba43ec6c.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/99b29b4b-5664-5236-b363-f0a6ef969a63.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/99b29b4b-5664-5236-b363-f0a6ef969a63.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/9be3a1d2-535e-508d-974d-226aa76d9d84.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/9be3a1d2-535e-508d-974d-226aa76d9d84.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/8652130d-28b4-58ca-a7df-6822608fb3ed.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/8652130d-28b4-58ca-a7df-6822608fb3ed.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "NYAD (2023) ว่ายเพื่อฝัน",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/NYAD-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "NYAD (2023) ว่ายเพื่อฝัน",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/NYAD-2023.jpg",
+     "url": "https://streamhls.com/view/2933ffe1-cf10-526a-9b4a-dba55dc00431.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Sly: ซิลเวสเตอร์ สตอลโลน (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Sly-202.jpg",
+   "info": "HD พากย์ไทย/ซับ",
+   "stations": [
+    {
+     "name": "Sly: ซิลเวสเตอร์ สตอลโลน (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Sly-202.jpg",
+     "url": "https://streamhls.com/view/c5869f83-2d76-5b76-9fb4-2ff8df2b2fe9.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "Sly: ซิลเวสเตอร์ สตอลโลน (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Sly-202.jpg",
+     "url": "https://streamhls.com/view/c87d74d1-b06b-5156-a50b-081116e7626a.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Cigarette Girl (2023) ความรักควันบุหรี่",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+   "info": "HD พากย์ไทย",
+   "stations": [
+    {
+     "name": "ซีซั่น 1 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/30cfe90f-5703-520c-a174-c8da572171ea.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/30cfe90f-5703-520c-a174-c8da572171ea.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/63f1d356-11d6-5377-bfce-707dc6e4c0d8.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/63f1d356-11d6-5377-bfce-707dc6e4c0d8.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/0ad625f2-ee56-5189-a89e-382d1cf1f173.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/0ad625f2-ee56-5189-a89e-382d1cf1f173.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/db5883da-ce56-5a1f-9c01-48161ccc90f4.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/db5883da-ce56-5a1f-9c01-48161ccc90f4.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/35641e85-abc2-5c48-88d4-ed0a1dc4d1e3.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Cigarette-Girl-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/35641e85-abc2-5c48-88d4-ed0a1dc4d1e3.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "All the Light We Cannot See (2023) ดั่งแสงสิ้นแรงฉาน",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/All-the-Light-We-Cannot-See-2023.jpg",
+   "info": "HD พากย์ไทย",
+   "stations": [
+    {
+     "name": "ซีซั่น 1 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/All-the-Light-We-Cannot-See-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/69e20eed-d41c-5350-b9e4-e7137e147158.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/All-the-Light-We-Cannot-See-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/69e20eed-d41c-5350-b9e4-e7137e147158.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/All-the-Light-We-Cannot-See-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/f53acb53-a56e-54f9-800b-dc09da44220d.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/All-the-Light-We-Cannot-See-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/f53acb53-a56e-54f9-800b-dc09da44220d.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/All-the-Light-We-Cannot-See-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e9632f84-fbb6-570b-a487-8a7735288b26.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/All-the-Light-We-Cannot-See-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e9632f84-fbb6-570b-a487-8a7735288b26.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/All-the-Light-We-Cannot-See-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7152be23-f831-5bbb-82f6-f7c06661ff7f.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/All-the-Light-We-Cannot-See-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7152be23-f831-5bbb-82f6-f7c06661ff7f.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "My Precious (2023) รักแรกโคตรลืมยาก",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/My-Precious-2023.jpg",
+   "info": "HD พากย์ไทย",
+   "stations": [
+    {
+     "name": "My Precious (2023) รักแรกโคตรลืมยาก",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/My-Precious-2023.jpg",
+     "url": "https://streamhls.com/view/186176e5-4150-5741-87bf-40acfacec133.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Knuckle Girl (2023) เจ๊ทวงแค้น",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Knuckle-Girl-2023.jpg",
+   "info": "HD พากย์ไทย/ซับ",
+   "stations": [
+    {
+     "name": "Knuckle Girl (2023) เจ๊ทวงแค้น",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Knuckle-Girl-2023.jpg",
+     "url": "https://streamhls.com/view/ebf02aad-21d5-59b5-8b7a-446edeaaea43.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "Knuckle Girl (2023) เจ๊ทวงแค้น",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Knuckle-Girl-2023.jpg",
+     "url": "https://streamhls.com/view/efd5d6a7-981a-525f-a769-0a292a88ef6e.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Swan Princess: Far Longer Than Forever (2023) เจ้าหญิงหงส์ขาว ตอน ตราบนานชั่วกัลปาวสาน",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/The-Swan-Princess-Far-Longer-Than-Forever-2023.jpg",
+   "info": "HD พากย์ไทย/ซับ",
+   "stations": [
+    {
+     "name": "The Swan Princess: Far Longer Than Forever (2023) เจ้าหญิงหงส์ขาว ตอน ตราบนานชั่วกัลปาวสาน",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/The-Swan-Princess-Far-Longer-Than-Forever-2023.jpg",
+     "url": "https://streamhls.com/view/992a0ef0-b016-597d-8a8a-21494177a262.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "The Swan Princess: Far Longer Than Forever (2023) เจ้าหญิงหงส์ขาว ตอน ตราบนานชั่วกัลปาวสาน",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/The-Swan-Princess-Far-Longer-Than-Forever-2023.jpg",
+     "url": "https://streamhls.com/view/5adbc655-66eb-59fb-aa7a-6cb58c9b21b7.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Rebound (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Rebound-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Rebound (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Rebound-2023.jpg",
+     "url": "https://streamhls.com/view/c285b403-53c0-5d4a-85a8-1398ae28e232.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "My Worst Neighbor (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/My-Worst-Neighbor-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "My Worst Neighbor (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/My-Worst-Neighbor-2023.jpg",
+     "url": "https://streamhls.com/view/ad80edde-005f-587f-a6a5-d64c78a6e2dc.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี่",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/PAW-Patrol-The-Mighty-Movie-2023.jpg",
+   "info": "HD พากย์ไทย",
+   "stations": [
+    {
+     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี่",
+     "info": "",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/PAW-Patrol-The-Mighty-Movie-2023.jpg",
+     "url": "https://streamhls.com/view/136a6829-56d1-5ed0-8250-a432edab0be2.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Lost in the Stars (2023) เมียผมหายในหมู่ดาว",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Lost-in-the-Stars-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Lost in the Stars (2023) เมียผมหายในหมู่ดาว",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Lost-in-the-Stars-2023.jpg",
+     "url": "https://streamhls.com/view/082f9673-f3db-5682-85e6-e2184975719a.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Locked In (2023) ต้องขัง",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Locked-In-2023.jpg",
+   "info": "HD พากย์ไทย/ซับ",
+   "stations": [
+    {
+     "name": "Locked In (2023) ต้องขัง",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Locked-In-2023.jpg",
+     "url": "https://streamhls.com/view/c18e1005-8672-5dc0-877b-1e3f9077e7e0.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "Locked In (2023) ต้องขัง",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Locked-In-2023.jpg",
+     "url": "https://streamhls.com/view/99192e35-0551-56c3-9463-4a2492a65d44.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Nuovo Olimpo (2023) รักรีเทิร์น ณ นิวโอลิมปัส",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Nuovo-Olimpo-2023.jpg",
+   "info": "HD พากย์ไทย/ซับ",
+   "stations": [
+    {
+     "name": "Nuovo Olimpo (2023) รักรีเทิร์น ณ นิวโอลิมปัส",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Nuovo-Olimpo-2023.jpg",
+     "url": "https://streamhls.com/view/c0bdaaf5-717d-50de-9b3b-ada3f6858609.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "Nuovo Olimpo (2023) รักรีเทิร์น ณ นิวโอลิมปัส",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Nuovo-Olimpo-2023.jpg",
+     "url": "https://streamhls.com/view/2cf8e6b9-063e-591b-ac46-430d8ba395b6.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Wingwomen (2023) ร่วมด้วยช่วยกัน…ปล้น",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Wingwomen-2023.jpg",
+   "info": "HD พากย์ไทย/ซับ",
+   "stations": [
+    {
+     "name": "Wingwomen (2023) ร่วมด้วยช่วยกัน…ปล้น",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Wingwomen-2023.jpg",
+     "url": "https://streamhls.com/view/e34d929a-8928-5e38-bcaa-369520c12fb4.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "Wingwomen (2023) ร่วมด้วยช่วยกัน…ปล้น",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Wingwomen-2023.jpg",
+     "url": "https://streamhls.com/view/4faab071-727c-562c-bf66-e125bd294968.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "พรหมลิขิต (2023) Love Destiny 2",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+   "info": "HD พากย์ไทย",
+   "stations": [
+    {
+     "name": "ซีซั่น 2 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/de58a7c8-fa6c-573e-b4a4-105e3f88b7c6.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/de58a7c8-fa6c-573e-b4a4-105e3f88b7c6.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7a2f92e2-261c-5d91-88df-3dd5fb5f3426.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7a2f92e2-261c-5d91-88df-3dd5fb5f3426.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/3d20826d-6a9e-5bde-8733-73ee3b6641e5.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/3d20826d-6a9e-5bde-8733-73ee3b6641e5.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/f41fafad-e70f-5875-aa01-f547bb6f7383.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/f41fafad-e70f-5875-aa01-f547bb6f7383.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/00805715-6f88-5c9c-9f4b-a981ed9ed52f.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/00805715-6f88-5c9c-9f4b-a981ed9ed52f.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7a64047a-934a-5345-9a23-f794da1bb815.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7a64047a-934a-5345-9a23-f794da1bb815.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/83042753-b387-51ad-b9de-cea8f96e7782.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/83042753-b387-51ad-b9de-cea8f96e7782.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ce00cfb0-d3f6-5c63-8a38-46ef0e5cbfa5.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/11/Love-Destiny-2-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ce00cfb0-d3f6-5c63-8a38-46ef0e5cbfa5.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023.jpg",
+   "info": "HD พากย์ไทย/ซับ",
+   "stations": [
+    {
+     "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023.jpg",
+     "url": "https://streamhls.com/view/6c5dcca5-564c-5f1b-916a-b06babfecb46.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023.jpg",
+     "url": "https://streamhls.com/view/5b7b47ee-1e2e-531c-b2f9-41079e7db5e6.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "LEGO Marvel Avengers: Code Red (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/LEGO-Marvel-Avengers-Code-Red-2023.jpg",
+   "info": "HD พากย์ไทย",
+   "stations": [
+    {
+     "name": "LEGO Marvel Avengers: Code Red (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/LEGO-Marvel-Avengers-Code-Red-2023.jpg",
+     "url": "https://streamhls.com/view/82e302c8-ea1e-59e7-8181-6a2195be499e.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Yellow Door: ’90s Lo-fi Film Club (2023) ชมรมหนังยุค 90",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Yellow-Door-90s-Lo-fi-Film-Club-2023.jpg",
+   "info": "HD พากย์ไทย/ซับ",
+   "stations": [
+    {
+     "name": "Yellow Door: ’90s Lo-fi Film Club (2023) ชมรมหนังยุค 90",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Yellow-Door-90s-Lo-fi-Film-Club-2023.jpg",
+     "url": "https://streamhls.com/view/1984a0eb-db8c-5aa5-b718-421ca367f488.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "Yellow Door: ’90s Lo-fi Film Club (2023) ชมรมหนังยุค 90",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Yellow-Door-90s-Lo-fi-Film-Club-2023.jpg",
+     "url": "https://streamhls.com/view/2e53667e-a9c9-5ba1-9e68-f2315ea2cd8c.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Pain Hustlers (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Pain-Hustlers-2023.jpg",
+   "info": "HD พากย์ไทย/ซับ",
+   "stations": [
+    {
+     "name": "Pain Hustlers (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Pain-Hustlers-2023.jpg",
+     "url": "https://streamhls.com/view/147ed6e3-73a8-5a68-8597-e577c8e24105.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "Pain Hustlers (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Pain-Hustlers-2023.jpg",
+     "url": "https://streamhls.com/view/6103ab85-529b-5456-bc8e-4d789ccf15c8.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Sister Death (Hermana muerte) (2023) ซิสเตอร์เดท",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Sister-Death-2023.jpg",
+   "info": "HD พากย์ไทย/ซับ",
+   "stations": [
+    {
+     "name": "Sister Death (Hermana muerte) (2023) ซิสเตอร์เดท",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Sister-Death-2023.jpg",
+     "url": "https://streamhls.com/view/b7f0086f-66a3-5368-b55a-8166f8a1ce0c.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "Sister Death (Hermana muerte) (2023) ซิสเตอร์เดท",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Sister-Death-2023.jpg",
+     "url": "https://streamhls.com/view/01c06ac8-5a31-5813-a529-a742d72be66c.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Appendage (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Appendage-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Appendage (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Appendage-2023.jpg",
+     "url": "https://streamhls.com/view/abc116ba-d523-5023-b179-bbcc08185ead.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Blackening (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Blackening-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "The Blackening (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Blackening-2023.jpg",
+     "url": "https://streamhls.com/view/f2b9eeea-6f7e-5ce5-b712-bc6344f04af7.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Prisoner’s Daughter (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Prisoners-Daughter-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Prisoner’s Daughter (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Prisoners-Daughter-2023.jpg",
+     "url": "https://streamhls.com/view/3da21465-bec8-51db-b56e-7ad03fb4b661.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "ONEFOUR: Against All Odds (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/ONEFOUR-Against-All-Odds-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "ONEFOUR: Against All Odds (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/ONEFOUR-Against-All-Odds-2023.jpg",
+     "url": "https://streamhls.com/view/33674e75-4cef-5e13-a54e-298d0e9757f1.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Life on Our Planet (2023) ชีวิตบนโลกของเรา",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+   "info": "HD พากย์ไทย",
+   "stations": [
+    {
+     "name": "ซีซั่น 1 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/92dc0547-cb59-5f35-ad5f-de0acb3c4cba.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/92dc0547-cb59-5f35-ad5f-de0acb3c4cba.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/fcf80d67-b9a8-5bf1-a4f7-4ffcc312448d.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/fcf80d67-b9a8-5bf1-a4f7-4ffcc312448d.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/65436e07-ea5c-5764-981e-d84c9250b2a8.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/65436e07-ea5c-5764-981e-d84c9250b2a8.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/90d4c08a-317c-5452-acba-7971117d5961.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/90d4c08a-317c-5452-acba-7971117d5961.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/68a97c95-e027-5d27-9529-c8e8445633e6.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/68a97c95-e027-5d27-9529-c8e8445633e6.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7f37434a-60b3-5321-b0ce-a8e6a9580e5f.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7f37434a-60b3-5321-b0ce-a8e6a9580e5f.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/3715cf27-0ebd-5be2-89b0-0680f1e5797a.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/3715cf27-0ebd-5be2-89b0-0680f1e5797a.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/562fda18-81be-5d18-93af-8a62d289f573.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Life-on-Our-Planet-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/562fda18-81be-5d18-93af-8a62d289f573.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The After (2023) ดิ อาฟเตอร์",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-After-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "The After (2023) ดิ อาฟเตอร์",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-After-2023.jpg",
+     "url": "https://streamhls.com/view/c79c5655-7db6-521f-97e1-b15c25d66ad8.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Burning Betrayal (2023) ไฟทรยศ",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Burning-Betrayal-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Burning Betrayal (2023) ไฟทรยศ",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Burning-Betrayal-2023.jpg",
+     "url": "https://streamhls.com/view/3432c4fa-ada9-5bd0-90a7-4f6a21a3c19c.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Bad Education (2023) บทเรียน​ชั่ว",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Bad-Education-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Bad Education (2023) บทเรียน​ชั่ว",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Bad-Education-2023.jpg",
+     "url": "https://streamhls.com/view/589852b3-deef-5ee3-9acc-f9501861d8ae.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Long Live Love (2023) ลอง ลีฟ เลิฟว์",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Long-Live-Love-2023.jpg",
+   "info": "HD พากย์ไทย",
+   "stations": [
+    {
+     "name": "Long Live Love (2023) ลอง ลีฟ เลิฟว์",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Long-Live-Love-2023.jpg",
+     "url": "https://streamhls.com/view/9950244c-3ea4-5cc5-bf66-a26ac2d66e9b.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Dive (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Dive-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "The Dive (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Dive-2023.jpg",
+     "url": "https://streamhls.com/view/ac134f5d-e356-565c-b8e8-b174bcd82b56.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "All Fun and Games (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/All-Fun-and-Games-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "All Fun and Games (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/All-Fun-and-Games-2023.jpg",
+     "url": "https://streamhls.com/view/aa761059-b76a-5dfc-8285-bb5f09207409.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Slotherhouse (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Slotherhouse-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Slotherhouse (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Slotherhouse-2023.jpg",
+     "url": "https://streamhls.com/view/09c7d363-0f95-546f-a7ba-a25c94076802.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Exorcists (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Exorcists-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "The Exorcists (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Exorcists-2023.jpg",
+     "url": "https://streamhls.com/view/726f122e-4147-55c8-bb28-18cd59c6a6e6.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Exorcist-Believer-2023.jpg",
+   "info": "HD พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+     "info": "",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Exorcist-Believer-2023.jpg",
+     "url": "https://streamhls.com/view/278e9dc1-4e8b-58c0-b0ff-6729bacfc5da.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Shrapnel (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Shrapnel-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Shrapnel (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Shrapnel-2023.jpg",
+     "url": "https://streamhls.com/view/032bee22-db63-56ff-b8f2-5bcb6c729e73.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Vjeran Tomic: The Spider-Man of Paris (2023) เวรัน โทมิช สไปเดอร์แมนแห่งปารีส",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Vjeran-Tomic-2023.jpg",
+   "info": "HD พากย์ไทย/ซับ",
+   "stations": [
+    {
+     "name": "Vjeran Tomic: The Spider-Man of Paris (2023) เวรัน โทมิช สไปเดอร์แมนแห่งปารีส",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Vjeran-Tomic-2023.jpg",
+     "url": "https://streamhls.com/view/72b42381-1e0f-5563-8f90-b1497913baeb.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "Vjeran Tomic: The Spider-Man of Paris (2023) เวรัน โทมิช สไปเดอร์แมนแห่งปารีส",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Vjeran-Tomic-2023.jpg",
+     "url": "https://streamhls.com/view/cbffac68-a96d-5c46-a4ed-bc57a00f831e.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Surrounded (2023) หญิงดุฝ่าดงปืน",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Surrounded-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Surrounded (2023) หญิงดุฝ่าดงปืน",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Surrounded-2023.jpg",
+     "url": "https://streamhls.com/view/025abf8a-f47d-50b2-85a3-53bc57b29601.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Jemputan Ke Neraka (2023) บัตรเชิญสู่นรก",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Jemputan-Ke-Neraka-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Jemputan Ke Neraka (2023) บัตรเชิญสู่นรก",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Jemputan-Ke-Neraka-2023.jpg",
+     "url": "https://streamhls.com/view/602772df-72bb-5ca8-9691-ebec24be0893.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Dream Girl 2 (2023) ดรีมเกิร์ล 2",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Dream-Girl-2-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Dream Girl 2 (2023) ดรีมเกิร์ล 2",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Dream-Girl-2-2023.jpg",
+     "url": "https://streamhls.com/view/ca880adf-0838-5c58-a087-ed8d2803a31a.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Disco Inferno (2023) ดิสโก้ อินเฟอร์โน",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Disco-Inferno-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "Disco Inferno (2023) ดิสโก้ อินเฟอร์โน",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Disco-Inferno-2023.jpg",
+     "url": "https://streamhls.com/view/24b8dc13-2f37-523b-828c-0f74d330288e.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Devil’s Deal (2023) ดีลนรกคนกินชาติ",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Devil-s-Deal-2023.jpg",
+   "info": "HD พากย์ไทย/ซับ",
+   "stations": [
+    {
+     "name": "The Devil’s Deal (2023) ดีลนรกคนกินชาติ",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Devil-s-Deal-2023.jpg",
+     "url": "https://streamhls.com/view/ed635201-c130-5c1c-9783-16092048413d.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "The Devil’s Deal (2023) ดีลนรกคนกินชาติ",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Devil-s-Deal-2023.jpg",
+     "url": "https://streamhls.com/view/3be6c379-5daf-54d0-b874-b4bc4a958a6d.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Slumber Party (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Slumber-Party-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "The Slumber Party (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Slumber-Party-2023.jpg",
+     "url": "https://streamhls.com/view/2811f37d-d86f-51f7-b18d-82c2a206a317.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Pigeon Tunnel (2023)",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Pigeon-Tunnel-2023.jpg",
+   "info": "HD ซับไทย",
+   "stations": [
+    {
+     "name": "The Pigeon Tunnel (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Pigeon-Tunnel-2023.jpg",
+     "url": "https://streamhls.com/view/ac442a8b-b473-57f6-9cc6-0515a0ca5d6b.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
+  {
+   "name": "80 for Brady (2023) สาวใหญ่ใจแบรดดี้",
+   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/80-for-Brady-2023.jpg",
+   "info": "HD พากย์ไทย/ซับ",
+   "stations": [
+    {
+     "name": "80 for Brady (2023) สาวใหญ่ใจแบรดดี้",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/80-for-Brady-2023.jpg",
+     "url": "https://streamhls.com/view/8eab8d73-9f6a-5c7c-8596-f151da17aaaa.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "80 for Brady (2023) สาวใหญ่ใจแบรดดี้",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/80-for-Brady-2023.jpg",
+     "url": "https://streamhls.com/view/88404b4c-a607-5de7-8e40-d941b25d634c.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    }
+   ]
+  },
   {
    "name": "Doona (2023) ดูนา ไอดอลสาวข้างบ้าน",
    "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Doona-2023.jpg",
@@ -561,6 +1884,48 @@
      "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Worst-of-Evil-2023.jpg",
      "url": "https://sgcdnseriesn.xyz/view/e9249198-0650-5bf0-b814-8f88ae788087.m3u8",
      "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Worst-of-Evil-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e9249198-0650-5bf0-b814-8f88ae788087.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Worst-of-Evil-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/cbfa043a-86a5-59fd-93df-65eca424aba9.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Worst-of-Evil-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/cbfa043a-86a5-59fd-93df-65eca424aba9.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Worst-of-Evil-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e710cb72-1a67-5c67-b172-1a203ab7515d.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Worst-of-Evil-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e710cb72-1a67-5c67-b172-1a203ab7515d.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Worst-of-Evil-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/696dbbf6-20cd-5d8f-a3ae-b7d9ee0e5820.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
     }
    ]
   },
@@ -573,7 +1938,7 @@
      "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/e9249198-0650-5bf0-b814-8f88ae788087.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/696dbbf6-20cd-5d8f-a3ae-b7d9ee0e5820.m3u8",
      "referer": "https://www.v8movie-hd.com/"
     },
     {
@@ -623,6 +1988,90 @@
      "info": "ซับไทย",
      "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
      "url": "https://sgcdnseriesn.xyz/view/e8d63846-ba4e-5a0f-8fec-89b106a3877a.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e8d63846-ba4e-5a0f-8fec-89b106a3877a.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/6a78e95d-d01a-50fe-a3ec-1f974f142837.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/6a78e95d-d01a-50fe-a3ec-1f974f142837.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/a742b1f0-6ead-5953-93a6-e35d26c899b8.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/a742b1f0-6ead-5953-93a6-e35d26c899b8.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/97a4fc06-6c9b-5d64-bbcc-864c0634eae4.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/97a4fc06-6c9b-5d64-bbcc-864c0634eae4.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/d78796cd-b75e-52f5-832c-98258f4f3a3e.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/d78796cd-b75e-52f5-832c-98258f4f3a3e.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/92e91bd5-bc64-5267-86ea-7304260ec290.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/92e91bd5-bc64-5267-86ea-7304260ec290.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Strong-Girl-Nam-Soon-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/baf965c7-3a94-55f9-a2a2-4b9fd88e7f51.m3u8",
      "referer": "https://www.v8movie-hd.com/"
     }
    ]
@@ -875,20 +2324,6 @@
      "info": "",
      "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/It-Lives-Inside-2023.jpg",
      "url": "https://streamhls.com/view/71956443-fa70-514d-8024-721c506b6ffb.m3u8",
-     "referer": "https://www.v8movie-hd.com/"
-    }
-   ]
-  },
-  {
-   "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี่",
-   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/PAW-Patrol-The-Mighty-Movie-2023.jpg",
-   "info": "ZM พากย์ไทย/ซับ",
-   "stations": [
-    {
-     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี่",
-     "info": "",
-     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/PAW-Patrol-The-Mighty-Movie-2023.jpg",
-     "url": "https://streamhls.com/view/8877837b-976e-52b4-a597-acb70daf07f6.m3u8",
      "referer": "https://www.v8movie-hd.com/"
     }
    ]
@@ -1279,20 +2714,6 @@
    ]
   },
   {
-   "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Exorcist-Believer-2023.jpg",
-   "info": "ZM พากย์ไทย/ซับ",
-   "stations": [
-    {
-     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-     "info": "",
-     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Exorcist-Believer-2023.jpg",
-     "url": "https://streamhls.com/view/8835e911-6c1f-5bad-bd65-968d20d3d5af.m3u8",
-     "referer": "https://www.v8movie-hd.com/"
-    }
-   ]
-  },
-  {
    "name": "The Black Demon (2023) เพชฌฆาตพันธุ์ทมิฬ",
    "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/The-Black-Demon-2023.jpg",
    "info": "ZM พากย์ไทย/ซับ",
@@ -1567,7 +2988,7 @@
      "name": "The Nun 2 (2023) เดอะ นัน 2",
      "info": "พากย์ไทย",
      "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/The-Nun-2-2023.jpg",
-     "url": "https://streamhls.com/view/5d22059b-2a90-541e-9ca8-de5a80c2f56b.m3u8",
+     "url": "https://streamhls.com/view/590b09ba-d998-52a6-a197-896b5b89770a.m3u8",
      "referer": "https://www.v8movie-hd.com/"
     },
     {
@@ -1897,6 +3318,34 @@
      "info": "ซับไทย",
      "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Loki-SS2.jpg",
      "url": "https://sgcdnseriesn.xyz/view/9ccd5f89-f6c0-560b-9400-b21f3ee02f34.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Loki-SS2.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/e268091e-b202-511b-81b1-0a146b0f508b.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Loki-SS2.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/6fc08dd9-9e51-54ff-88ae-2482c550d831.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Loki-SS2.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/72fc393b-6659-552e-8d81-b38cd9125786.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Loki-SS2.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/6caf72e0-0aa9-5c63-8f0a-782222334194.m3u8",
      "referer": "https://www.v8movie-hd.com/"
     }
    ]
@@ -2365,7 +3814,7 @@
      "name": "Blue Beetle (2023) บลู บีเทิล",
      "info": "พากย์ไทย",
      "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/08/Blue-Beetle-2023.jpg",
-     "url": "https://streamhls.com/view/7c0c6c0b-021b-5f1f-a8c1-67d05bcc35fb.m3u8",
+     "url": "https://streamhls.com/view/9a2ace38-4e55-56de-bcf4-85879d7029c8.m3u8",
      "referer": "https://www.v8movie-hd.com/"
     },
     {
@@ -2407,7 +3856,7 @@
      "name": "Saw X (2023) ชำแหละแค้น…เกมตัดตาย",
      "info": "",
      "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/10/Saw-X-2023.jpg",
-     "url": "https://streamhls.com/view/0986f9e6-67a8-5773-9d4b-0c61151a7564.m3u8",
+     "url": "https://streamhls.com/view/9fc22956-5db1-5b64-85a9-5054f800461c.m3u8",
      "referer": "https://www.v8movie-hd.com/"
     }
    ]
@@ -2779,6 +4228,34 @@
      "info": "ซับไทย",
      "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/Gen-V-2023.jpg",
      "url": "https://sgcdnseriesn.xyz/view/d505aff3-a456-5ff1-8497-a44474fbacf4.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/Gen-V-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/19962179-5fd4-535e-9339-e33fb11fd157.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/Gen-V-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/cb3f8633-0f54-5fc0-a9d4-461fe740dc8c.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/Gen-V-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7d8310ba-bdfe-5060-9d4c-eabfe5be8a96.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/Gen-V-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/2d42571b-56a4-5f6d-84fd-8e15a4cc00cd.m3u8",
      "referer": "https://www.v8movie-hd.com/"
     }
    ]
@@ -3353,20 +4830,6 @@
      "info": "พากย์ไทย",
      "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/ZIEN-LANG-Best-Friends-Forever-2023.jpg",
      "url": "https://streamhls.com/view/3ed4e9d7-5960-5166-8867-4c38dabf84a3.m3u8",
-     "referer": "https://www.v8movie-hd.com/"
-    }
-   ]
-  },
-  {
-   "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
-   "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023.jpg",
-   "info": "ZM พากย์ไทย/ซับ",
-   "stations": [
-    {
-     "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
-     "info": "",
-     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023.jpg",
-     "url": "https://streamhls.com/view/06bda1c9-bce3-57da-a6b3-8ac685acb2d0.m3u8",
      "referer": "https://www.v8movie-hd.com/"
     }
    ]
@@ -4248,14 +5711,84 @@
      "name": "ซีซั่น 1 ตอนที่ 14",
      "info": "พากย์ไทย",
      "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/2023-Phanom-Naga-The-Bride-of-Naga.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/bf943faa-8ce6-5156-9e37-93eefcc03f1d.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/29a9d9ec-b472-5640-b844-940ffd394eb6.m3u8",
      "referer": "https://www.v8movie-hd.com/"
     },
     {
      "name": "ซีซั่น 1 ตอนที่ 14",
      "info": "ซับไทย",
      "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/2023-Phanom-Naga-The-Bride-of-Naga.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/bf943faa-8ce6-5156-9e37-93eefcc03f1d.m3u8",
+     "url": "https://sgcdnseriesn.xyz/view/29a9d9ec-b472-5640-b844-940ffd394eb6.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/2023-Phanom-Naga-The-Bride-of-Naga.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ddd2c695-3c17-5649-9fc3-cf0ca497478b.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 15",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/2023-Phanom-Naga-The-Bride-of-Naga.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ddd2c695-3c17-5649-9fc3-cf0ca497478b.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/2023-Phanom-Naga-The-Bride-of-Naga.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/2789ec50-3853-5166-a697-fd44ea47d579.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 16",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/2023-Phanom-Naga-The-Bride-of-Naga.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/2789ec50-3853-5166-a697-fd44ea47d579.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/2023-Phanom-Naga-The-Bride-of-Naga.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/39c2c2cc-fe4f-5107-ac2d-af799b274bbe.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 17",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/2023-Phanom-Naga-The-Bride-of-Naga.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/39c2c2cc-fe4f-5107-ac2d-af799b274bbe.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/2023-Phanom-Naga-The-Bride-of-Naga.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/3bd78ea2-8e72-5451-a2d0-5dfc63fcebd6.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 18",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/2023-Phanom-Naga-The-Bride-of-Naga.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/3bd78ea2-8e72-5451-a2d0-5dfc63fcebd6.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/2023-Phanom-Naga-The-Bride-of-Naga.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/10522de1-0c26-5bde-82cc-6ec791d5f5af.m3u8",
+     "referer": "https://www.v8movie-hd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/09/2023-Phanom-Naga-The-Bride-of-Naga.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/10522de1-0c26-5bde-82cc-6ec791d5f5af.m3u8",
      "referer": "https://www.v8movie-hd.com/"
     }
    ]
@@ -5130,7 +6663,7 @@
      "name": "The Moon (2023) ปฏิบัติการพิชิตจันทร์",
      "info": "",
      "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/08/The-Moon-2023.jpg",
-     "url": "https://streamhls.com/view/0ed8e002-a5fe-5bd4-8c3d-e04d53ff1768.m3u8",
+     "url": "https://streamhls.com/view/2165e0d4-0e92-54db-97d5-ebd7f70fef99.m3u8",
      "referer": "https://www.v8movie-hd.com/"
     }
    ]
@@ -16427,7 +17960,7 @@
      "name": "Inside (2023)",
      "info": "ซับไทย",
      "image": "https://www.v8movie-hd.com/wp-content/uploads/2023/04/Inside-2023-Poster.jpg",
-     "url": "https://streamhls.com/view/541cbeb7-0e60-5f39-979e-7a718309e3c6.m3u8",
+     "url": "https://streamhls.com/view/bc0482c0-2f3d-566d-a765-75ed1c15326a.m3u8",
      "referer": "https://www.v8movie-hd.com/"
     }
    ]

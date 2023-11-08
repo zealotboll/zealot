@@ -1,9 +1,79 @@
 {
  "name": "หนังใหม่ 2023",
- "author": "เจียว เจียว อัพวันที่ 04 พฤศจิกายน 2566",
+ "author": "เจียว เจียว อัพวันที่ 08 พฤศจิกายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
+  {
+   "name": "Land of Gold (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/pz7WgHeuuJN88qDuDNzV6KXamdu-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Land of Gold (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/pz7WgHeuuJN88qDuDNzV6KXamdu-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/d71edac5-ef67-5418-b160-d5cf5684bb2d.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Baker (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/lsKpCe7lZtDP2XoVVBrt5jDsEka-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Baker (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/lsKpCe7lZtDP2XoVVBrt5jDsEka-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/c6e980e8-a51c-5df1-b734-045a4de8a225.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Fingernails (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/q04g3un61aeBoheQEso7enM28AF-scaled-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Fingernails (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/q04g3un61aeBoheQEso7enM28AF-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/80cea5d0-a8c9-5af0-a7d2-a6232975cd9b.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Praise This (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/twdgFrp9Sd8rb3TdbWFQXAvslrH-scaled-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Praise This (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/twdgFrp9Sd8rb3TdbWFQXAvslrH-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/3c6c0e49-20e3-5c76-a182-bfd4217eac3e.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Strays (2023) ชีวิตหมาต้องไม่หมา",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/qPwVdQOyypDXjuIxWE3LITqzq0U-scaled-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Strays (2023) ชีวิตหมาต้องไม่หมา",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/qPwVdQOyypDXjuIxWE3LITqzq0U-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/73a0310a-ee66-5c86-bd28-0689a014ef4b.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
   {
    "name": "Face Off 6 : The Ticket Of Destiny (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/9F0L1Ksfe2pqCRIvCdaA7Uvnr9W-190x300-c-default.webp",

@@ -1,9 +1,855 @@
 {
  "name": "หนังในปี: 2023",
- "author": "เจียว เจียว อัพวันที่ 23 พฤศจิกายน 2566",
+ "author": "เจียว เจียว อัพวันที่ 08 พฤศจิกายน 2566",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://www.ชอบหนัง.com/wp-content/themes/like_nung/images/logo.png",
  "groups": [
+  {
+   "name": "Five Nights at Freddy’s (2023) คืนสยองที่เฟรดดี้",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/rOLjOfKkv9pkk8sl0yLSEU49smT-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Five Nights at Freddy’s (2023) คืนสยองที่เฟรดดี้",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/rOLjOfKkv9pkk8sl0yLSEU49smT-265x375.jpg",
+     "url": "https://streamhls.com/view/197c60c4-460a-574c-88c7-1c6d600d8796.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "Five Nights at Freddy’s (2023) คืนสยองที่เฟรดดี้",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/rOLjOfKkv9pkk8sl0yLSEU49smT-265x375.jpg",
+     "url": "https://streamhls.com/view/eb4a949d-cd90-5fe7-a9f9-d54d47c47b56.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Land of Gold (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/pz7WgHeuuJN88qDuDNzV6KXamdu-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Land of Gold (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/pz7WgHeuuJN88qDuDNzV6KXamdu-265x375.jpg",
+     "url": "https://streamhls.com/view/d71edac5-ef67-5418-b160-d5cf5684bb2d.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Baker (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/lsKpCe7lZtDP2XoVVBrt5jDsEka-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Baker (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/lsKpCe7lZtDP2XoVVBrt5jDsEka-265x375.jpg",
+     "url": "https://streamhls.com/view/c6e980e8-a51c-5df1-b734-045a4de8a225.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Louis Armstrong’s Black & Blues (2022)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/j7Bol8Tdm0S8GVNXgbQSOS5AVpD-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Louis Armstrong’s Black & Blues (2022)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/j7Bol8Tdm0S8GVNXgbQSOS5AVpD-265x375.jpg",
+     "url": "https://streamhls.com/view/5f78c2db-c395-5149-8130-933e850abb2b.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-265x375.jpg",
+     "url": "https://streamhls.com/view/136a6829-56d1-5ed0-8250-a432edab0be2.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-265x375.jpg",
+     "url": "https://streamhls.com/view/11c3d816-8763-56ee-abc9-dd97b1ef1568.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Fingernails (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/q04g3un61aeBoheQEso7enM28AF-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Fingernails (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/q04g3un61aeBoheQEso7enM28AF-265x375.jpg",
+     "url": "https://streamhls.com/view/80cea5d0-a8c9-5af0-a7d2-a6232975cd9b.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Praise This (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/twdgFrp9Sd8rb3TdbWFQXAvslrH-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Praise This (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/twdgFrp9Sd8rb3TdbWFQXAvslrH-265x375.jpg",
+     "url": "https://streamhls.com/view/3c6c0e49-20e3-5c76-a182-bfd4217eac3e.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Pet Sematary: Bloodlines (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/yqnNLn24shYnZ6kqGpbwuB3NJ0D-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Pet Sematary: Bloodlines (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/yqnNLn24shYnZ6kqGpbwuB3NJ0D-265x375.jpg",
+     "url": "https://streamhls.com/view/e50f82dc-3e68-539b-9055-154f5eace8d4.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Strays (2023) ชีวิตหมาต้องไม่หมา",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/qPwVdQOyypDXjuIxWE3LITqzq0U-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Strays (2023) ชีวิตหมาต้องไม่หมา",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/qPwVdQOyypDXjuIxWE3LITqzq0U-265x375.jpg",
+     "url": "https://streamhls.com/view/73a0310a-ee66-5c86-bd28-0689a014ef4b.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Face Off 6 : The Ticket Of Destiny (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/9F0L1Ksfe2pqCRIvCdaA7Uvnr9W-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Face Off 6 : The Ticket Of Destiny (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/9F0L1Ksfe2pqCRIvCdaA7Uvnr9W-265x375.jpg",
+     "url": "https://streamhls.com/view/9af39954-3fb6-5310-bd3a-a5ed807efee6.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Sly (2023) ซิลเวสเตอร์ สตอลโลน",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/5rRZWF8KbZQYjZOVZrewdQUbTz7-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Sly (2023) ซิลเวสเตอร์ สตอลโลน",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/5rRZWF8KbZQYjZOVZrewdQUbTz7-265x375.jpg",
+     "url": "https://streamhls.com/view/c5869f83-2d76-5b76-9fb4-2ff8df2b2fe9.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "Sly (2023) ซิลเวสเตอร์ สตอลโลน",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/5rRZWF8KbZQYjZOVZrewdQUbTz7-265x375.jpg",
+     "url": "https://streamhls.com/view/c87d74d1-b06b-5156-a50b-081116e7626a.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Nyad (2023) ว่ายเพื่อฝัน",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/tSwjMBWV3XY15bsIKrAS1UcbERi-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Nyad (2023) ว่ายเพื่อฝัน",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/tSwjMBWV3XY15bsIKrAS1UcbERi-265x375.jpg",
+     "url": "https://streamhls.com/view/2933ffe1-cf10-526a-9b4a-dba55dc00431.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Knuckle Girl (2023) เจ๊ทวงแค้น",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/29t0vg3KPJdmJSgJpkldJAVELZk-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Knuckle Girl (2023) เจ๊ทวงแค้น",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/29t0vg3KPJdmJSgJpkldJAVELZk-265x375.jpg",
+     "url": "https://streamhls.com/view/ebf02aad-21d5-59b5-8b7a-446edeaaea43.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "Knuckle Girl (2023) เจ๊ทวงแค้น",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/29t0vg3KPJdmJSgJpkldJAVELZk-265x375.jpg",
+     "url": "https://streamhls.com/view/efd5d6a7-981a-525f-a769-0a292a88ef6e.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Swan Princess Far Longer Than Forever (2023) เจ้าหญิงหงส์ขาว ตอน ตราบนานชั่วกัลปาวสาน",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/nCUV5k2YqpP6Pdi3FY8WR5VRDHF-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Swan Princess Far Longer Than Forever (2023) เจ้าหญิงหงส์ขาว ตอน ตราบนานชั่วกัลปาวสาน",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/nCUV5k2YqpP6Pdi3FY8WR5VRDHF-265x375.jpg",
+     "url": "https://streamhls.com/view/992a0ef0-b016-597d-8a8a-21494177a262.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "The Swan Princess Far Longer Than Forever (2023) เจ้าหญิงหงส์ขาว ตอน ตราบนานชั่วกัลปาวสาน",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/nCUV5k2YqpP6Pdi3FY8WR5VRDHF-265x375.jpg",
+     "url": "https://streamhls.com/view/5adbc655-66eb-59fb-aa7a-6cb58c9b21b7.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "My Precious (2023) รักแรกโคตรลืมยาก",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/vw4HA43IKIqDuFoxoBQBqz2LXEg-265x375.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "My Precious (2023) รักแรกโคตรลืมยาก",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/vw4HA43IKIqDuFoxoBQBqz2LXEg-265x375.jpg",
+     "url": "https://streamhls.com/view/186176e5-4150-5741-87bf-40acfacec133.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Rebound (2023) รีบาวด์",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/cioCtpRThVQB5UDnwDSGIljIu3j-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Rebound (2023) รีบาวด์",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/cioCtpRThVQB5UDnwDSGIljIu3j-265x375.jpg",
+     "url": "https://streamhls.com/view/c285b403-53c0-5d4a-85a8-1398ae28e232.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "My Worst Neighbor (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/wQfPQOpcZPKpq8tuCkyViQHvNKC-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "My Worst Neighbor (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/wQfPQOpcZPKpq8tuCkyViQHvNKC-265x375.jpg",
+     "url": "https://streamhls.com/view/ad80edde-005f-587f-a6a5-d64c78a6e2dc.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Lost in the Stars (2023) เมียผมหายในหมู่ดาว",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/vE7JtBnH1afjQpIs1C0fugyqz9R-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Lost in the Stars (2023) เมียผมหายในหมู่ดาว",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/vE7JtBnH1afjQpIs1C0fugyqz9R-265x375.jpg",
+     "url": "https://streamhls.com/view/082f9673-f3db-5682-85e6-e2184975719a.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Locked In (2023) ต้องขัง",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/dn8khWEvYMtqUMJadirvWAXTgtO-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Locked In (2023) ต้องขัง",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/dn8khWEvYMtqUMJadirvWAXTgtO-265x375.jpg",
+     "url": "https://streamhls.com/view/c18e1005-8672-5dc0-877b-1e3f9077e7e0.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "Locked In (2023) ต้องขัง",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/dn8khWEvYMtqUMJadirvWAXTgtO-265x375.jpg",
+     "url": "https://streamhls.com/view/99192e35-0551-56c3-9463-4a2492a65d44.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Nuovo Olimpo (2023) รักรีเทิร์น ณ นิวโอลิมปัส",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/202tZxbgyHefvTyvdVpVKa8Kull-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Nuovo Olimpo (2023) รักรีเทิร์น ณ นิวโอลิมปัส",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/202tZxbgyHefvTyvdVpVKa8Kull-265x375.jpg",
+     "url": "https://streamhls.com/view/c0bdaaf5-717d-50de-9b3b-ada3f6858609.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "Nuovo Olimpo (2023) รักรีเทิร์น ณ นิวโอลิมปัส",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/202tZxbgyHefvTyvdVpVKa8Kull-265x375.jpg",
+     "url": "https://streamhls.com/view/2cf8e6b9-063e-591b-ac46-430d8ba395b6.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Wingwomen (2023) ร่วมด้วยช่วยกัน…ปล้น",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/4YlUSrX2kIgA0SlE8h6RkMZjzYQ-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Wingwomen (2023) ร่วมด้วยช่วยกัน…ปล้น",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/4YlUSrX2kIgA0SlE8h6RkMZjzYQ-265x375.jpg",
+     "url": "https://streamhls.com/view/e34d929a-8928-5e38-bcaa-369520c12fb4.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "Wingwomen (2023) ร่วมด้วยช่วยกัน…ปล้น",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/11/4YlUSrX2kIgA0SlE8h6RkMZjzYQ-265x375.jpg",
+     "url": "https://streamhls.com/view/4faab071-727c-562c-bf66-e125bd294968.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-265x375.jpg",
+     "url": "https://streamhls.com/view/6c5dcca5-564c-5f1b-916a-b06babfecb46.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "A Haunting in Venice (2023) ฆาตกรรมหลอนแห่งนครเวนิส",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-265x375.jpg",
+     "url": "https://streamhls.com/view/5b7b47ee-1e2e-531c-b2f9-41079e7db5e6.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "LEGO Marvel Avengers Code Red (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/rDzig50dj7VpLwJ7SThbamETK1G-265x375.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "LEGO Marvel Avengers Code Red (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/rDzig50dj7VpLwJ7SThbamETK1G-265x375.jpg",
+     "url": "https://streamhls.com/view/82e302c8-ea1e-59e7-8181-6a2195be499e.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "LA LA BOY (2023) บักจ่อย สแว็กแก๊ก",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/05/lalaboy-2023-265x375.png",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "LA LA BOY (2023) บักจ่อย สแว็กแก๊ก",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/05/lalaboy-2023-265x375.png",
+     "url": "https://streamhls.com/view/44d496b3-6f58-55f2-ac49-78f73725aa08.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Moon (2023) ปฏิบัติการพิชิตจันทร์",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/08/The-Moon-2023-265x375.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Moon (2023) ปฏิบัติการพิชิตจันทร์",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/08/The-Moon-2023-265x375.jpg",
+     "url": "https://streamhls.com/view/2165e0d4-0e92-54db-97d5-ebd7f70fef99.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Blue Beetle (2023) บลู บีเทิล",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/08/Blue-Beetle-2023-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Blue Beetle (2023) บลู บีเทิล",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/08/Blue-Beetle-2023-265x375.jpg",
+     "url": "https://streamhls.com/view/9a2ace38-4e55-56de-bcf4-85879d7029c8.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "Blue Beetle (2023) บลู บีเทิล",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/08/Blue-Beetle-2023-265x375.jpg",
+     "url": "https://streamhls.com/view/a1cf85df-2ccb-511b-af12-d1ac27b85723.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "M3GAN (2023) เมแกน",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/p2MOk4dDN4VpakB5lZUXFbZwbAa-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "M3GAN (2023) เมแกน",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/p2MOk4dDN4VpakB5lZUXFbZwbAa-265x375.jpg",
+     "url": "https://streamhls.com/view/f29c6e07-9375-5284-a5d1-c25adabd5d3c.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "M3GAN (2023) เมแกน",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/p2MOk4dDN4VpakB5lZUXFbZwbAa-265x375.jpg",
+     "url": "https://streamhls.com/view/4e715ed8-2986-5c6c-ae45-91d715e76a98.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Nun 2 (2023) เดอะ นัน 2",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/09/The-Nun-2-2023-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Nun 2 (2023) เดอะ นัน 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/09/The-Nun-2-2023-265x375.jpg",
+     "url": "https://streamhls.com/view/590b09ba-d998-52a6-a197-896b5b89770a.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "The Nun 2 (2023) เดอะ นัน 2",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/09/The-Nun-2-2023-265x375.jpg",
+     "url": "https://streamhls.com/view/fab18165-402d-5d76-b693-82dee9ace8c0.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Appendage (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/xBlYO5Pih92UKBN3mYUh8Ptiqh2-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Appendage (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/xBlYO5Pih92UKBN3mYUh8Ptiqh2-265x375.jpg",
+     "url": "https://streamhls.com/view/abc116ba-d523-5023-b179-bbcc08185ead.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "OneFour Against All Odds (2023) ดนตรีฝ่าอุปสรรค",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/qNBTpfuT5LS4fWJ0I3RMnfJgKYe-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "OneFour Against All Odds (2023) ดนตรีฝ่าอุปสรรค",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/qNBTpfuT5LS4fWJ0I3RMnfJgKYe-265x375.jpg",
+     "url": "https://streamhls.com/view/33674e75-4cef-5e13-a54e-298d0e9757f1.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Pain Hustlers (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/BtmdiaoXyqO2mKBGZNAOimrvW0-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Pain Hustlers (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/BtmdiaoXyqO2mKBGZNAOimrvW0-265x375.jpg",
+     "url": "https://streamhls.com/view/147ed6e3-73a8-5a68-8597-e577c8e24105.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "Pain Hustlers (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/BtmdiaoXyqO2mKBGZNAOimrvW0-265x375.jpg",
+     "url": "https://streamhls.com/view/6103ab85-529b-5456-bc8e-4d789ccf15c8.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Prisoner’s Daughter (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/2NYd7jKFnilcIOUfDI8o2TOuCmu-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Prisoner’s Daughter (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/2NYd7jKFnilcIOUfDI8o2TOuCmu-265x375.jpg",
+     "url": "https://streamhls.com/view/3da21465-bec8-51db-b56e-7ad03fb4b661.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Blackening (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/ooB4KSRRhp7XYRQUmsi82iFnMNC-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Blackening (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/ooB4KSRRhp7XYRQUmsi82iFnMNC-265x375.jpg",
+     "url": "https://streamhls.com/view/f2b9eeea-6f7e-5ce5-b712-bc6344f04af7.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Sister Death (2023) ซิสเตอร์เดท",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/tO3n5gx1RC1RjzxFGv9BAkNfc1A-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Sister Death (2023) ซิสเตอร์เดท",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/tO3n5gx1RC1RjzxFGv9BAkNfc1A-265x375.jpg",
+     "url": "https://streamhls.com/view/b7f0086f-66a3-5368-b55a-8166f8a1ce0c.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "Sister Death (2023) ซิสเตอร์เดท",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/tO3n5gx1RC1RjzxFGv9BAkNfc1A-265x375.jpg",
+     "url": "https://streamhls.com/view/01c06ac8-5a31-5813-a529-a742d72be66c.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Yellow Door 90’s Lo-fi Film Club (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/8e4stLdtOjtPl7uF0HEp5ifDdHo-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Yellow Door 90’s Lo-fi Film Club (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/8e4stLdtOjtPl7uF0HEp5ifDdHo-265x375.jpg",
+     "url": "https://streamhls.com/view/1984a0eb-db8c-5aa5-b718-421ca367f488.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "Yellow Door 90’s Lo-fi Film Club (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/8e4stLdtOjtPl7uF0HEp5ifDdHo-265x375.jpg",
+     "url": "https://streamhls.com/view/2e53667e-a9c9-5ba1-9e68-f2315ea2cd8c.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Inside (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/04/Inside-2023-265x375.png",
+   "info": "ซับไทย",
+   "stations": []
+  },
+  {
+   "name": "Big Typhoon (2022) ไต้ฝุ่นลูกใหญ่",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2022/10/Big-Typhoon-2022-265x375.png",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Big Typhoon (2022) ไต้ฝุ่นลูกใหญ่",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2022/10/Big-Typhoon-2022-265x375.png",
+     "url": "https://streamhls.com/view/692efba3-f244-5a05-8391-09166204dfa6.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "Big Typhoon (2022) ไต้ฝุ่นลูกใหญ่",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2022/10/Big-Typhoon-2022-265x375.png",
+     "url": "https://streamhls.com/view/253b092f-2b01-56ec-9ea7-c67af05712c4.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "All Fun and Games (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/1m0CTxlotr8H8GaoioL2IJHL1gW-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "All Fun and Games (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/1m0CTxlotr8H8GaoioL2IJHL1gW-265x375.jpg",
+     "url": "https://streamhls.com/view/aa761059-b76a-5dfc-8285-bb5f09207409.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Dive (2023) เดอะไดฟ์",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/o43eMkNkWBBsyxEyyUeQwl4AOe-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Dive (2023) เดอะไดฟ์",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/o43eMkNkWBBsyxEyyUeQwl4AOe-265x375.jpg",
+     "url": "https://streamhls.com/view/ac134f5d-e356-565c-b8e8-b174bcd82b56.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Exorcists (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/zddK1YMeZrVKAEd33YdDUrTzZ4L-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Exorcists (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/zddK1YMeZrVKAEd33YdDUrTzZ4L-265x375.jpg",
+     "url": "https://streamhls.com/view/726f122e-4147-55c8-bb28-18cd59c6a6e6.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Bad Education (2023) บทเรียน​ชั่ว",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/xQLq3m1NXy34tYFjbp7g6KzxquA-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Bad Education (2023) บทเรียน​ชั่ว",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/xQLq3m1NXy34tYFjbp7g6KzxquA-265x375.jpg",
+     "url": "https://streamhls.com/view/589852b3-deef-5ee3-9acc-f9501861d8ae.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Burning Betrayal (2023) ไฟทรยศ",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/wKJP1AI42O2eTjuenBOQCZZPBAd-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Burning Betrayal (2023) ไฟทรยศ",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/wKJP1AI42O2eTjuenBOQCZZPBAd-265x375.jpg",
+     "url": "https://streamhls.com/view/3432c4fa-ada9-5bd0-90a7-4f6a21a3c19c.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Long Live Love! (2023) ลอง ลีฟ เลิฟว์",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/rh2EsxS5Ry2rqWw4vbFBKvWtW1g-265x375.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Long Live Love! (2023) ลอง ลีฟ เลิฟว์",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/rh2EsxS5Ry2rqWw4vbFBKvWtW1g-265x375.jpg",
+     "url": "https://streamhls.com/view/9950244c-3ea4-5cc5-bf66-a26ac2d66e9b.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "The After (2023) ดิ อาฟเตอร์",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/35AwGdQZVGePtkUa1lD2OlRv4UL-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The After (2023) ดิ อาฟเตอร์",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/35AwGdQZVGePtkUa1lD2OlRv4UL-265x375.jpg",
+     "url": "https://streamhls.com/view/c79c5655-7db6-521f-97e1-b15c25d66ad8.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Slotherhouse (2023) สลอเธอร์เฮาส์",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/cPeZYjtt0B2a1gXVKPC6j1xM7fi-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Slotherhouse (2023) สลอเธอร์เฮาส์",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/cPeZYjtt0B2a1gXVKPC6j1xM7fi-265x375.jpg",
+     "url": "https://streamhls.com/view/09c7d363-0f95-546f-a7ba-a25c94076802.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Shrapnel (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/gsRDrAML7hJC8ZCgRQobHIrzbxR-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Shrapnel (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/gsRDrAML7hJC8ZCgRQobHIrzbxR-265x375.jpg",
+     "url": "https://streamhls.com/view/032bee22-db63-56ff-b8f2-5bcb6c729e73.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-265x375.jpg",
+     "url": "https://streamhls.com/view/278e9dc1-4e8b-58c0-b0ff-6729bacfc5da.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-265x375.jpg",
+     "url": "https://streamhls.com/view/f0d503b1-fa52-5481-b5b8-b471b699c6aa.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Vjeran Tomic The Spider-Man of Paris (2023) เวรัน โทมิช สไปเดอร์แมน แห่งปารีส",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/lUBT05GUcG0ms0UjGx4p0YBhqdI-265x375.jpg",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Vjeran Tomic The Spider-Man of Paris (2023) เวรัน โทมิช สไปเดอร์แมน แห่งปารีส",
+     "info": "พากย์ไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/lUBT05GUcG0ms0UjGx4p0YBhqdI-265x375.jpg",
+     "url": "https://streamhls.com/view/72b42381-1e0f-5563-8f90-b1497913baeb.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    },
+    {
+     "name": "Vjeran Tomic The Spider-Man of Paris (2023) เวรัน โทมิช สไปเดอร์แมน แห่งปารีส",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/lUBT05GUcG0ms0UjGx4p0YBhqdI-265x375.jpg",
+     "url": "https://streamhls.com/view/cbffac68-a96d-5c46-a4ed-bc57a00f831e.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Surrounded (2023)",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/fs8SRHjBAQoqgwW7hAZL2zJyOSw-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Surrounded (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/fs8SRHjBAQoqgwW7hAZL2zJyOSw-265x375.jpg",
+     "url": "https://streamhls.com/view/025abf8a-f47d-50b2-85a3-53bc57b29601.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Dream Girl 2 (2023) ดรีมเกิร์ล 2",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/gvNeqDNwZ8isym8CeHZsZk1QiSJ-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Dream Girl 2 (2023) ดรีมเกิร์ล 2",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/gvNeqDNwZ8isym8CeHZsZk1QiSJ-265x375.jpg",
+     "url": "https://streamhls.com/view/ca880adf-0838-5c58-a087-ed8d2803a31a.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Jemputan Ke Neraka (2023) เจมปูตัน เค เนรากา",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/7Wwq3gegxa6GMCnpQNl39Cqf6sh-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Jemputan Ke Neraka (2023) เจมปูตัน เค เนรากา",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/7Wwq3gegxa6GMCnpQNl39Cqf6sh-265x375.jpg",
+     "url": "https://streamhls.com/view/602772df-72bb-5ca8-9691-ebec24be0893.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
+  {
+   "name": "Disco Inferno (2023) ดิสโก้ อินเฟอร์โน",
+   "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/9f6gckLYQoisGh6SdVCydJXTprf-265x375.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Disco Inferno (2023) ดิสโก้ อินเฟอร์โน",
+     "info": "ซับไทย",
+     "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/9f6gckLYQoisGh6SdVCydJXTprf-265x375.jpg",
+     "url": "https://streamhls.com/view/24b8dc13-2f37-523b-828c-0f74d330288e.m3u8",
+     "referer": "https://www.xn--72cf9bd9fk5a.com/"
+    }
+   ]
+  },
   {
    "name": "The Devil’s Deal (2023) ดีลนรกคนกินชาติ",
    "image": "https://www.xn--72cf9bd9fk5a.com/wp-content/uploads/2023/10/1Iz1Ik1rFhSfQLNjsZ1DWtO0nZs-265x375.jpg",

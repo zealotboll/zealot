@@ -1,9 +1,37 @@
 {
  "name": "ดูหนัง 2022",
- "author": "เจียว เจียว อัพวันที่ 29 ตุลาคม 2566",
+ "author": "เจียว เจียว อัพวันที่ 08 พฤศจิกายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
+  {
+   "name": "Louis Armstrong’s Black & Blues (2022)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/j7Bol8Tdm0S8GVNXgbQSOS5AVpD-scaled-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Louis Armstrong’s Black & Blues (2022)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/j7Bol8Tdm0S8GVNXgbQSOS5AVpD-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/5f78c2db-c395-5149-8130-933e850abb2b.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Ancestral (2022) สาปบรรพบุรุษ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/tT4DpPzy4jiBSFbxlFA2gixX1MD-scaled-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Ancestral (2022) สาปบรรพบุรุษ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/tT4DpPzy4jiBSFbxlFA2gixX1MD-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/ecfca4ff-6b99-5381-bfc7-963a7c1eeab0.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
   {
    "name": "Lonely Castle in the Mirror (2022) หมาป่าโดดเดี่ยว ปราสาทเดียวดายในกระจก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/wXyl6aXOCuf6mV7wzRr8DBKeGHV-scaled-190x300-c-default.webp",
