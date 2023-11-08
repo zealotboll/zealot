@@ -1,59 +1,51 @@
-{
-"name":"Others",
+{"name":"Others",
 "author":"",
 "image":"https://mrclown.tv/wp-content/uploads/2014/11/MC_SightWords-Other.jpg",
 "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/other.txt",
-"groups": [
+	"groups": [
 
-{"name":"🦭จัดให้🐒", 
- "image":"https://lh3.googleusercontent.com/-PPiF3ZR4_Q8/ZQyd_dEuGwI/AAAAAAAAFrE/emFbzgZoAQocp54EV6UN6LxDNHP5z7cJACNcBGAsYHQ/h120/Untitled-4.png",
- "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/จัดให้.w3u",
- "import":"true"},
+		{"name":"🦭จัดให้🐒", 
+ 		 "image":"https://lh3.googleusercontent.com/-PPiF3ZR4_Q8/ZQyd_dEuGwI/AAAAAAAAFrE/emFbzgZoAQocp54EV6UN6LxDNHP5z7cJACNcBGAsYHQ/h120/Untitled-4.png",
+ 		 "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/จัดให้.w3u",
+ 		 "import":"true"},
 
-{"name":" TV Online",
-"author":"จัดทำและรับชมฟรี ห้ามซื้อขาย",
-"image":"https://lh3.googleusercontent.com/vtO1GOAYW_3MMOgeSImh382QuhXVx4uMRd7nqXoXkAy5Mchy5aWePspuPhztyY8qAtV_",
-"url":"https://script.google.com/macros/s/AKfycbycMvinGvioalpz6z4c2j9uYtLYGZPPRFnMmfqstZRQjo7Yv52YjpkLSLASXhgwZflm/exec",
-"import": "true"},
+		{"name":" TV Online",
+		 "author":"จัดทำและรับชมฟรี ห้ามซื้อขาย",
+	  	 "image":"https://lh3.googleusercontent.com/vtO1GOAYW_3MMOgeSImh382QuhXVx4uMRd7nqXoXkAy5Mchy5aWePspuPhztyY8qAtV_",
+		 "url":"https://script.google.com/macros/s/AKfycbycMvinGvioalpz6z4c2j9uYtLYGZPPRFnMmfqstZRQjo7Yv52YjpkLSLASXhgwZflm/exec",
+		 "import": "true"},
 
-{"name": " For ฟรี.. นะจ๊ะ",
-"author": "ผู้เฒ่าพเนจร",
-"url": "http://tiny.cc/freetv2238",
-"image": "https://www.dropbox.com/s/wlr7j50udgjzyzj/20220417_131341_0000.png?dl=1",
-"import": "true"},
-{
-"name": "PLAYIDTV",
-"image": "https://media1.giphy.com/media/kGRe6CuGKe3HhlENE7/giphy.webp?cid=6c09b952t1vz9meqabs9k6ouq4yemgby3c47nm6m2ed4jj1n&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g",
-"url": "https://2nud.short.gy/playidtv.w3u",
-"info": "กดทุกครั้งก่อนชม",
-"import": false
-},
+		{"name": "For ฟรี.. นะจ๊ะ",
+		 "author": "ผู้เฒ่าพเนจร",
+		 "url": "http://tiny.cc/freetv2238",
+		 "image": "https://www.dropbox.com/s/wlr7j50udgjzyzj/20220417_131341_0000.png?dl=1",
+		 "import": "true"},
 
-{"name": "📺TV+JAV📺",
-"author": "",
-"url": "https://bit.ly/3JY0Byc",
-"image": "https://i.pinimg.com/originals/0a/f9/1c/0af91c7c8c1b537a395d0a9d8b356d00.gif",
-"import": "true"},
+		{"name": "PLAYIDTV",
+		 "image": "https://media1.giphy.com/media/kGRe6CuGKe3HhlENE7/giphy.webp?cid=6c09b952t1vz9meqabs9k6ouq4yemgby3c47nm6m2ed4jj1n&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g",
+		 "url": "https://2nud.short.gy/playidtv.w3u",
+		 "info": "กดทุกครั้งก่อนชม",
+		 "import": false},
 
-{"name": "[XTEMUS TV]",
-"author": "ใช้สำหรับเพื่อความบันเทิงเท่านั้น",
-"url": "https://playlist.xtemus.com/?playlist=t256y454t41554",
-"image": "https://tv.xtemus.com/images/x-logo.gif",
-"import": "true"},
+		{"name": "📺TV+JAV📺",
+		 "author": "",
+		 "url": "https://bit.ly/3JY0Byc",
+		 "image": "https://i.pinimg.com/originals/0a/f9/1c/0af91c7c8c1b537a395d0a9d8b356d00.gif",
+		 "import": "true"},
 
+		{"name": "[XTEMUS TV]",
+		 "author": "ใช้สำหรับเพื่อความบันเทิงเท่านั้น",
+		 "url": "https://playlist.xtemus.com/?playlist=t256y454t41554",
+		 "image": "https://tv.xtemus.com/images/x-logo.gif",
+		 "import": "true"},
 
-{"name":"",
-"image":"",
-"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/AV.txt",
-"import":"true"},
-
-{"name": "🅶🆄🅵🅻🅸🆇",
-"author": "🅶🆄🅵🅻🅸🆇 🅗🅘",
-"url": "http://guflix.streaming-fast.com/wiseplay/guflix.html",
-"image": "http://guflix.streaming-fast.com/logo/guflix.gif",
-"import": "false"},
-"imageScale": "center"},
+		{"name": "🅶🆄🅵🅻🅸🆇",
+		 "author": "🅶🆄🅵🅻🅸🆇 🅗🅘",
+		 "url": "http://guflix.streaming-fast.com/wiseplay/guflix.html",
+		 "image": "http://guflix.streaming-fast.com/logo/guflix.gif",
+		 "import": "false"},
+		 "imageScale": "center"},
 
 
-]
+	]
 }
