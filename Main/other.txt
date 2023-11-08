@@ -1,5 +1,4 @@
 {"name":"Others",
-"author":"",
 "image":"https://mrclown.tv/wp-content/uploads/2014/11/MC_SightWords-Other.jpg",
 "url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/other.txt",
 	"groups": [
@@ -28,7 +27,6 @@
 		 "import": false},
 
 		{"name": "📺TV+JAV📺",
-		 "author": "",
 		 "url": "https://bit.ly/3JY0Byc",
 		 "image": "https://i.pinimg.com/originals/0a/f9/1c/0af91c7c8c1b537a395d0a9d8b356d00.gif",
 		 "import": "true"},
@@ -44,8 +42,6 @@
 		 "url": "http://guflix.streaming-fast.com/wiseplay/guflix.html",
 		 "image": "http://guflix.streaming-fast.com/logo/guflix.gif",
 		 "import": "false"},
-		 "imageScale": "center"},
-
 
 	]
 }
