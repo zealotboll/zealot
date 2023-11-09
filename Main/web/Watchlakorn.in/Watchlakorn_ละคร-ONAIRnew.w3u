@@ -1,6 +1,6 @@
 {
  "name": "ละคร-ONAIR",
- "author": "เจียว เจียว อัพ วันที่ 07 พฤศจิกายน 2566",
+ "author": "เจียว เจียว อัพ วันที่ 08 พฤศจิกายน 2566",
  "info": "Watchlakorn.in",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
@@ -778,6 +778,83 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1697591154.jpg",
      "url": "https://www.watchlakorn.in/egdeny/1d83b728e71b1239f9a4198135a9ebb8/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พรหมลิขิต   ตอนที่ 10",
+     "info": "วันที่ 8 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1697591154.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/59ad269eecd50527918e9d600699c471/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "vip รักซ่อนชู้",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
+   "stations": [
+    {
+     "name": "vip รักซ่อนชู้  ตอนที่ 1",
+     "info": "วันที่ 11 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/940825b0193ef4871267a9a14620b793/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "vip รักซ่อนชู้  ตอนที่ 2",
+     "info": "วันที่ 12 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6f07993572d1ed650c35494c2e135894/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "vip รักซ่อนชู้  ตอนที่ 3",
+     "info": "วันที่ 18 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0470e8e5e205a1b017122330371f3c38/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "vip รักซ่อนชู้  ตอนที่ 4",
+     "info": "วันที่ 19 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e8a9d8ddb239ed2dc695f95b20155763/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "vip รักซ่อนชู้  ตอนที่ 5",
+     "info": "วันที่ 25 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/c65e15f053f75cf3eec08ea3cc16c206/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "vip รักซ่อนชู้  ตอนที่ 6",
+     "info": "วันที่ 26 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7d9d576396262f0b57f71ab236f228f2/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "vip รักซ่อนชู้  ตอนที่ 7",
+     "info": "วันที่ 1 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a860be6f6df8c57eff7e0b66f66d5f49/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "vip รักซ่อนชู้  ตอนที่ 8",
+     "info": "วันที่ 2 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/912dd9353d9b30409f68b472a5dda5b9/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "vip รักซ่อนชู้  ตอนที่ 9",
+     "info": "วันที่ 8 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/8f8735ac8b4195951bb460f925a16520/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -1282,26 +1359,12 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1688484903.jpg",
      "url": "https://www.watchlakorn.in/egdeny/2222f2c0a2198aba1d35ed774f6824c7/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "คนกลางแล้วไง",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1699285338.jpg",
-   "stations": [
-    {
-     "name": "คนกลางแล้วไง  ตอนที่ 1",
-     "info": "วันที่ 6 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1699285338.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/4515a998a587df949575c7248892890f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
     },
     {
-     "name": "คนกลางแล้วไง  ตอนที่ 2",
-     "info": "วันที่ 7 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1699285338.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7af0935495b9c150aa1a3eece91fa6e6/aGQ=/master.m3u8",
+     "name": "กษัตริยา  ตอนที่ 72",
+     "info": "วันที่ 8 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1688484903.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/38ced101b82d55532088438eeec6d9f1/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1324,194 +1387,26 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699285448.jpg",
      "url": "https://www.watchlakorn.in/egdeny/01907c9b13f2c7652df0a95e541947e3/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "ชีวิตภาคสอง",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1699372838.jpg",
-   "stations": [
+    },
     {
-     "name": "ชีวิตภาคสอง  ตอนที่ 1",
-     "info": "วันที่ 7 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1699372838.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/d80c25fa2c4e9e6aff4770f227af964f/aGQ=/master.m3u8",
+     "name": "แม่โขง  ตอนที่ 3",
+     "info": "วันที่ 8 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699285448.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/44fb606646a52a962490ae73a763ff8a/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
   {
-   "name": "เจ้าสาวบ้านไร่",
+   "name": "มนตราฟ้าฟื้น",
    "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1699456935.jpg",
    "stations": [
     {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 1",
-     "info": "วันที่ 5 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e5d7876f677ed548dcf1740e5043f819/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 2",
-     "info": "วันที่ 6 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/982bb63e10660c9bccdaefc6a633a784/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 3",
-     "info": "วันที่ 9 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f10db7dedaf096d2cc3afba515f90991/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 4",
-     "info": "วันที่ 10 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e32902e3db73200525e9396955d161b8/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 5",
-     "info": "วันที่ 11 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/a9b20f0d832ca3fbf0c0881af1ce0223/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 6",
-     "info": "วันที่ 12 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/36806578c1fc0e74f13f1bfee27bbe95/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 7",
-     "info": "วันที่ 13 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/ea3259095cda73438490c87aa08b5bce/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 8",
-     "info": "วันที่ 16 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/bcd92da010daacd84629ff97b9fe3dab/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 9",
-     "info": "วันที่ 17 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/6f075ca480b9280daef8a1e56d03ed5c/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 10",
-     "info": "วันที่ 18 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/36a858483527614dc70caa6514651c6d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 11",
-     "info": "วันที่ 19 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/256b9b5417a694714ca2a768a6af5487/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 12",
-     "info": "วันที่ 20 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/ed3b840b760c76c641f93ad8ec7f028d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 13",
-     "info": "วันที่ 23 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/6e16fc28f32584014cc776a194eaa16b/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 14",
-     "info": "วันที่ 24 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/747661cb731ac9f2f6cc999a5cc5691d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 15",
-     "info": "วันที่ 25 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/80b9f87ef2f8e452ee64a8e25e583515/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 16",
-     "info": "วันที่ 26 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/338fa19487fcf2b398b74e6d32534ad6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 17",
-     "info": "วันที่ 27 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/89fca35b5a99fa0243562bc409107eeb/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 18",
-     "info": "วันที่ 30 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/a4e925c660c3f437fcadd0401a4ef5af/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 19",
-     "info": "วันที่ 31 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e2175d624fe90e5117fffaa0569144e5/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 20",
-     "info": "วันที่ 1 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/a56521654d70689966654b1629a5360f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 21",
-     "info": "วันที่ 2 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/db009827adc73ea446fad31853556924/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 22",
-     "info": "วันที่ 3 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/2b75837ed814384cdeb1ff04a7e90346/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 23",
-     "info": "วันที่ 6 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/07375e4f3127ec5354725c1c991c632b/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เจ้าสาวบ้านไร่  ตอนที่ 24",
-     "info": "วันที่ 7 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7c4bdf86efed88597d0f2b3c8a5967cf/aGQ=/master.m3u8",
+     "name": "มนตราฟ้าฟื้น  ตอนที่ 1",
+     "info": "วันที่ 8 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699456935.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/26c9a69498a82abd55e577d3016bf279/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1666,6 +1561,62 @@
      "info": "วันที่ 7 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1695216940.jpg",
      "url": "https://www.watchlakorn.in/egdeny/f21201ab779e30cfeadaa42f4157ebba/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เสือตัดสิงห์ ลิงหลอกเจ้า  ตอนที่ 22",
+     "info": "วันที่ 8 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1695216940.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/5d6bd08419934f79f47b793b4993710d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "ไลลาธิดายักษ์ 2",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1698940450.jpg",
+   "stations": [
+    {
+     "name": "ไลลาธิดายักษ์ 2  ตอนที่ 1",
+     "info": "วันที่ 1 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698940450.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6b0e8204da2d4a5504adcdcb7875156f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ไลลาธิดายักษ์ 2  ตอนที่ 2",
+     "info": "วันที่ 2 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698940450.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/28cd55aa5f1be49d155e4430b320bfb9/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ไลลาธิดายักษ์ 2  ตอนที่ 3",
+     "info": "วันที่ 3 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698940450.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/40859affec7f1a40b2233f249ec49657/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ไลลาธิดายักษ์ 2  ตอนที่ 4",
+     "info": "วันที่ 6 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698940450.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/735ed8ab8f99a4b69b999aa3a1c5b89d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ไลลาธิดายักษ์ 2  ตอนที่ 5",
+     "info": "วันที่ 7 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698940450.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/884d852bf4017e25a37a80767fe72e44/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ไลลาธิดายักษ์ 2  ตอนที่ 6",
+     "info": "วันที่ 8 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698940450.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/5d125fe3db8fe5b4aa666b5d11d97a94/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1884,47 +1835,194 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1695827780.jpg",
      "url": "https://www.watchlakorn.in/egdeny/36bddc9debd64b5b9bd13b3cca3d9d96/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มนตราตะเกียงแก้ว  ตอนที่ 31",
+     "info": "วันที่ 8 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1695827780.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7a66e459fa9f20394d29d03e79c65fb1/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
   {
-   "name": "ไลลาธิดายักษ์ 2",
+   "name": "เจ้าสาวบ้านไร่",
    "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1698940450.jpg",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
    "stations": [
     {
-     "name": "ไลลาธิดายักษ์ 2  ตอนที่ 1",
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 1",
+     "info": "วันที่ 5 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e5d7876f677ed548dcf1740e5043f819/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 2",
+     "info": "วันที่ 6 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/982bb63e10660c9bccdaefc6a633a784/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 3",
+     "info": "วันที่ 9 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f10db7dedaf096d2cc3afba515f90991/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 4",
+     "info": "วันที่ 10 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e32902e3db73200525e9396955d161b8/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 5",
+     "info": "วันที่ 11 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a9b20f0d832ca3fbf0c0881af1ce0223/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 6",
+     "info": "วันที่ 12 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/36806578c1fc0e74f13f1bfee27bbe95/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 7",
+     "info": "วันที่ 13 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ea3259095cda73438490c87aa08b5bce/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 8",
+     "info": "วันที่ 16 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/bcd92da010daacd84629ff97b9fe3dab/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 9",
+     "info": "วันที่ 17 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6f075ca480b9280daef8a1e56d03ed5c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 10",
+     "info": "วันที่ 18 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/36a858483527614dc70caa6514651c6d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 11",
+     "info": "วันที่ 19 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/256b9b5417a694714ca2a768a6af5487/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 12",
+     "info": "วันที่ 20 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ed3b840b760c76c641f93ad8ec7f028d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 13",
+     "info": "วันที่ 23 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6e16fc28f32584014cc776a194eaa16b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 14",
+     "info": "วันที่ 24 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/747661cb731ac9f2f6cc999a5cc5691d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 15",
+     "info": "วันที่ 25 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/80b9f87ef2f8e452ee64a8e25e583515/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 16",
+     "info": "วันที่ 26 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/338fa19487fcf2b398b74e6d32534ad6/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 17",
+     "info": "วันที่ 27 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/89fca35b5a99fa0243562bc409107eeb/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 18",
+     "info": "วันที่ 30 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a4e925c660c3f437fcadd0401a4ef5af/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 19",
+     "info": "วันที่ 31 ตุลาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e2175d624fe90e5117fffaa0569144e5/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 20",
      "info": "วันที่ 1 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1698940450.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/6b0e8204da2d4a5504adcdcb7875156f/aGQ=/master.m3u8",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a56521654d70689966654b1629a5360f/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
-     "name": "ไลลาธิดายักษ์ 2  ตอนที่ 2",
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 21",
      "info": "วันที่ 2 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1698940450.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/28cd55aa5f1be49d155e4430b320bfb9/aGQ=/master.m3u8",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/db009827adc73ea446fad31853556924/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
-     "name": "ไลลาธิดายักษ์ 2  ตอนที่ 3",
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 22",
      "info": "วันที่ 3 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1698940450.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/40859affec7f1a40b2233f249ec49657/aGQ=/master.m3u8",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2b75837ed814384cdeb1ff04a7e90346/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
-     "name": "ไลลาธิดายักษ์ 2  ตอนที่ 4",
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 23",
      "info": "วันที่ 6 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1698940450.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/735ed8ab8f99a4b69b999aa3a1c5b89d/aGQ=/master.m3u8",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/07375e4f3127ec5354725c1c991c632b/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
-     "name": "ไลลาธิดายักษ์ 2  ตอนที่ 5",
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 24",
      "info": "วันที่ 7 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1698940450.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/884d852bf4017e25a37a80767fe72e44/aGQ=/master.m3u8",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7c4bdf86efed88597d0f2b3c8a5967cf/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ้าสาวบ้านไร่  ตอนที่ 25",
+     "info": "วันที่ 8 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/24e7e2f0c7953714e57bd3a0e560b5e6/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -2002,6 +2100,48 @@
      "info": "วันที่ 7 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1698062191.webp",
      "url": "https://www.watchlakorn.in/egdeny/3cc68b9390eac3953966cbd66dcd8ad9/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เรือนชฎานาง  ตอนที่ 11",
+     "info": "วันที่ 8 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698062191.webp",
+     "url": "https://www.watchlakorn.in/egdeny/37c326e06fba8ca175a8da18455ab96b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "คนกลางแล้วไง",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1699285338.jpg",
+   "stations": [
+    {
+     "name": "คนกลางแล้วไง  ตอนที่ 1",
+     "info": "วันที่ 6 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699285338.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/4515a998a587df949575c7248892890f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนกลางแล้วไง  ตอนที่ 2",
+     "info": "วันที่ 7 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699285338.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7af0935495b9c150aa1a3eece91fa6e6/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "ชีวิตภาคสอง",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1699372838.jpg",
+   "stations": [
+    {
+     "name": "ชีวิตภาคสอง  ตอนที่ 1",
+     "info": "วันที่ 7 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699372838.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/d80c25fa2c4e9e6aff4770f227af964f/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -2233,1546 +2373,6 @@
      "info": "วันที่ 5 พฤศจิกายน2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
      "url": "https://www.watchlakorn.in/egdeny/72ea5d055cc292a07da893f606e58407/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "Club Friday The Series",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-   "stations": [
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 14 มกราคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/9219f15fb0293d1e4655c4d6433984aa/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 21 มกราคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/857235e2be84e5c408ae084295373b10/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 28 มกราคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/20a5b6c1e945895b02ab89f649ea23df/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 4 กุมภาพันธ์2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/334ac4b054ae28c9c068f01de040253a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 11 กุมภาพันธ์2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/c78d6a7c5a92bb8abc77044d0a6418d6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 18 กุมภาพันธ์2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/acc3a0da013b8e93cc06e40388c9d84c/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 25 กุมภาพันธ์2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/c5b0258ce257d0bd13184a734b9db048/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 4 มีนาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/643f868bcffe00af62a178530e20a3f6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 11 มีนาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/17a68515a231c8f73902dbb61769894f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 18 มีนาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/6fd01250b30177eeee04afa605bc91e7/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 25 มีนาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/9a21954bdacd9d9245e15be484623693/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 8 เมษายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/458ee90d0c00d6e985d54a551c37c9c0/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 15 เมษายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/564430a8a7d448f7310d8bcbaf99570a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 22 เมษายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/8265f84fb7379e355d634f4f95a5cb24/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 29 เมษายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/4dd31856a6d86b43998dba6d0a6ebfa9/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 6 พฤษภาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/91d5fb472ce165ff56ef53cd29d12ca2/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 13 พฤษภาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/bff0378ea5ef0d5d5fa51b14da7db375/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 20 พฤษภาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/8c4e117e7a567f27b337e3f0a12a7de9/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series 8",
-     "info": "วันที่ 27 พฤษภาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e0af81190f24279867e9a184de7d3c68/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 3 มิถุนายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/5b98797a7ffb46e915152ebdfde8a583/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 10 มิถุนายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/aa583f741f50b62be679aa94d976080e/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 17 มิถุนายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/95cffa7476990b0122fddef3a108af06/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 24 มิถุนายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/a3e19d313376301a67986aef17606b9a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series Seasons 9",
-     "info": "วันที่ 1 กรกฏาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e33959f3edc75f8081b5bdce7d5a1670/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักต้องแลก",
-     "info": "วันที่ 8 กรกฏาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/ced31d84e64ac8e40edd90569d7ac374/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักต้องแลก 3",
-     "info": "วันที่ 15 กรกฏาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f03bf92a2fad33b3841b41fea40d7e6a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 22 กรกฏาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/a18cd23adc395e98c40f580515b90353/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 29 กรกฏาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0e28d7e81d096f8c380c9b1522bc58d7/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 5 สิงหาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f2bca486c91f53da1e8f1b7fc57b031a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 12 สิงหาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b7db81a0d8903f7113c31b3f5658667d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 19 สิงหาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/4f1e35cd2b6995a01041d527f185b8df/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 26 สิงหาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/23e29c2c03412055c8381af6a064b933/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 2 กันยายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e3a3b30be06a71ee8f3f6eddfc967c1e/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 9 กันยายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/6aeb4cfd4abc4a5d0c51005c0675bb82/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 16 กันยายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/d0f071f5f3c6640e2d8064a9ec4e60b3/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 23 กันยายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/940d3f8eaab8764a7295751c2ceeb08a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 30 กันยายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/5e9aca993ff33a3cf9feba584bcc6464/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 4 พฤศจิกายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/c666d6defbd27d48d3c46f2116b8b453/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 11 พฤศจิกายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/92996a021dbf2287d498f8f2e81b937c/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 18 พฤศจิกายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b673087490db60b09c3df30a24f1db3a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 25 พฤศจิกายน2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/6b23d77edfef2de9452b5bd4a8a4bbfb/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 2 ธันวาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0d0fea3013170fee5cc8632b64ea950f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 9 ธันวาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/3f018e232a634bf4e7e0530c8a4ac451/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 16 ธันวาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/2610d97bdc658174f4c1ef9a1bfba0e5/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 23 ธันวาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/70116137a6a13b0149b44823f89590e4/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 30 ธันวาคม2560",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/01d176b9f8b43d2b038f6793ad294796/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 6 มกราคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/99c4d930b583c7a91103909727dda7ea/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 13 มกราคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/989f50255ec8277d34156a95547ddae7/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 20 มกราคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/9e2bbc9d4d33a3bace25aef4fa0f8881/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 27 มกราคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e93a67bddaff10bc1d7214032b31ab4a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 3 กุมภาพันธ์2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/a796c59a4d8d723b2292e7019d98411a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 10 กุมภาพันธ์2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/3a1ddd8934ffc8119e59f38e397ab875/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 17 กุมภาพันธ์2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/5b881bd61dde7dc50bc11b01ba4e2881/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 24 กุมภาพันธ์2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f030bd2c73bf4614edaa7e9903af8270/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 3 มีนาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/08679fb20c207066759cb39ef5bd3ce1/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 10 มีนาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/9dbbb36e4a49f250be69fc2526cb6ebb/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 17 มีนาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/328326a78e28829fc7a8f19134a6ef71/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 24 มีนาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/587bfa773e589575e3caa8131dc21fe9/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 31 มีนาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/1cec898fd4497231435de90889795a3e/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 7 เมษายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0d0d8647b69ffc5ae5ddf3fa96f3173f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 14 เมษายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/ff9e7bf01031b5c2e519b08f3b92effd/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 21 เมษายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7ca43cfa8bf562cdb592c049b63a8733/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 28 เมษายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/05edd129f384020fbc7487eeb8143a84/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series เพื่อนรักหรือคนรัก EP.1",
-     "info": "วันที่ 5 พฤษภาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/73c4066c6e26caf3e51c2d7a75186e89/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series เพื่อนรักหรือคนรัก EP.2",
-     "info": "วันที่ 12 พฤษภาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/bdb2c936f58ed4f751297007a4408a7f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series เพื่อนรักหรือคนรัก EP.3",
-     "info": "วันที่ 19 พฤษภาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e2e622e2c17736f5ba4a14d0d8cad37a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series เพื่อนรักหรือคนรัก EP.4",
-     "info": "วันที่ 26 พฤษภาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/15a37e734a5e049ef3d6b4a1fd88af84/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ตัวประกอบ EP.1",
-     "info": "วันที่ 2 มิถุนายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/ef587db8a65ba3a713927770aec294a4/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ตัวประกอบ EP.2",
-     "info": "วันที่ 9 มิถุนายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f3061e5234ce6951761dde156958a514/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ตัวประกอบ EP.3",
-     "info": "วันที่ 16 มิถุนายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/71e022f78aafef755a83251df32cacc0/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ตัวประกอบ EP.4",
-     "info": "วันที่ 23 มิถุนายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/ae1d630b19b8665194f404ba4ce389cb/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ตัวประกอบ EP.5",
-     "info": "วันที่ 30 มิถุนายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/ece155bd504722ec3d8eca8b3f48685c/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series เหตุเกินจากความรู้สึกผิด EP.1",
-     "info": "วันที่ 7 กรกฏาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/eecbebabec97014965017986897e57f9/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series เหตุเกินจากความรู้สึกผิด EP.2",
-     "info": "วันที่ 14 กรกฏาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/4c5121357899134650dfb304979f52ce/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series เหตุเกินจากความรู้สึกผิด EP.3",
-     "info": "วันที่ 21 กรกฏาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/ca7e51f99af5744f21fdae94c5cc9d57/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series เหตุเกินจากความรู้สึกผิด EP.4",
-     "info": "วันที่ 28 กรกฏาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/15f4e5659a02c50961b95e3c8beeea3f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series เขา เธอ และอีกคน EP.1",
-     "info": "วันที่ 4 สิงหาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/bd284dd0b25f3b27ff7de91f378cadf7/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series เขา เธอ และอีกคน EP.2",
-     "info": "วันที่ 11 สิงหาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/a8410407df1c74f21ae68d07998eb56c/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series เขา เธอ และอีกคน EP.3",
-     "info": "วันที่ 18 สิงหาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f1eb7949870b8d020407123ffc1e7a9d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series เขา เธอ และอีกคน EP.4",
-     "info": "วันที่ 25 สิงหาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/a069fc562ef9bcb2e42394a2618dc9ea/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักที่ไม่อยากเลือก EP.1",
-     "info": "วันที่ 1 กันยายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7e1fa8afc60a7a70278cfdbaa7caaa7f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักที่ไม่อยากเลือก EP.2",
-     "info": "วันที่ 8 กันยายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/23948d6c99281a5c7caad99206d0d157/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักที่ไม่อยากเลือก EP.3",
-     "info": "วันที่ 15 กันยายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b108e1dea21ee7a18042954a2a1118de/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักที่ไม่อยากเลือก EP.4",
-     "info": "วันที่ 22 กันยายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/3311ff6362fa11131a478d83c7ed786f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักที่ไม่อยากเลือก EP.5",
-     "info": "วันที่ 29 กันยายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7fab2f982bf7b23f0e0d9e32378162c6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักเราไม่เท่ากัน EP.1",
-     "info": "วันที่ 6 ตุลาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/8721a2ca39c7cadb9720d947fa435175/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักเราไม่เท่ากัน EP.2",
-     "info": "วันที่ 13 ตุลาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/606a7c451d80fec81e07d869bf3830b8/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักเราไม่เท่ากัน EP.3",
-     "info": "วันที่ 20 ตุลาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/8021264829106d1706cb5512da6fd7cb/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักเราไม่เท่ากัน EP.4",
-     "info": "วันที่ 27 ตุลาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/a781afec308fcd51577175a4c1f3713d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ความลับ EP.1",
-     "info": "วันที่ 3 พฤศจิกายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7e0f56f2d596919ccf487e2ba15e8c31/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ความลับ EP.2",
-     "info": "วันที่ 10 พฤศจิกายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/18caefd7414cac480002139c160d525a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ความลับ EP.3",
-     "info": "วันที่ 17 พฤศจิกายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0e9c2b57ec6d21bd05d927ddfa3a6603/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ความลับ EP.4",
-     "info": "วันที่ 24 พฤศจิกายน2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/49635b3edde83748d3390cbd2be28f62/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักร้าย EP.1",
-     "info": "วันที่ 1 ธันวาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/a2d5b92213234429962078a09233569e/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักร้าย EP.2",
-     "info": "วันที่ 8 ธันวาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/db750aa5d9fac1d3da2352861fdb7ec7/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักร้าย EP.3",
-     "info": "วันที่ 15 ธันวาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/fd701ce550f5829f2f6150bd735c7279/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักร้าย EP.4",
-     "info": "วันที่ 22 ธันวาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/8fd517a962b2c36f42cabe11136c81cb/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักร้าย EP.5",
-     "info": "วันที่ 29 ธันวาคม2561",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/477cefed42fa9238d8d1ad98ab280697/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series เจ็บแต่ไม่จบ EP.1",
-     "info": "วันที่ 5 มกราคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/d63528b037f689b76f7f50e375088e6e/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series เจ็บแต่ไม่จบ EP.2",
-     "info": "วันที่ 12 มกราคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f0d8627aaa32db1d5af320bbed5d3e51/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series เจ็บแต่ไม่จบ EP.3",
-     "info": "วันที่ 19 มกราคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/c8adcb929df756163aeb886607811349/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series เจ็บแต่ไม่จบ EP.4",
-     "info": "วันที่ 26 มกราคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/225592024d0c6ddc2168fa50c37332c5/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series คนที่ไม่ยอมรับ EP.1",
-     "info": "วันที่ 2 กุมภาพันธ์2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b8d498ff1bfe42707eb53a44b9ae1f6e/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series คนที่ไม่ยอมรับ EP.2",
-     "info": "วันที่ 9 กุมภาพันธ์2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/858fa0fd4a7daa12ddde1961cb68f8e5/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series คนที่ไม่ยอมรับ EP.3",
-     "info": "วันที่ 16 กุมภาพันธ์2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/225132c33b661c7f028bd8335ed8c651/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series คนที่ไม่ยอมรับ EP.4",
-     "info": "วันที่ 23 กุมภาพันธ์2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/36708522178ea0f999603e32a5297b38/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักล้ำเส้น EP.1",
-     "info": "วันที่ 6 เมษายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/ce4119c9106c7a1b98151bd70ffe424b/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักล้ำเส้น EP.2",
-     "info": "วันที่ 13 เมษายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0a41223c08d04b97317bcf1967458934/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักล้ำเส้น EP.3",
-     "info": "วันที่ 20 เมษายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/6d98eba990e30d4efad675b46b8c62dc/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักล้ำเส้น EP.4",
-     "info": "วันที่ 27 เมษายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e856d9ee5d6417e6bd34d97c7ed9e579/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักมักง่าย EP.1",
-     "info": "วันที่ 11 พฤษภาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/9d7210f228fc515fe09cf7f80439611b/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักมักง่าย EP.2",
-     "info": "วันที่ 18 พฤษภาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/95c571c1a61b1f6ab9e4619cbf0b5bb8/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักมักง่าย EP.3",
-     "info": "วันที่ 25 พฤษภาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/5e082da7e9dcd28c2cf086e5a0da5402/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักมักง่าย EP.4",
-     "info": "วันที่ 1 มิถุนายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/91f78495fa74abd486473bd17974e79a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักมักง่าย EP.5",
-     "info": "วันที่ 8 มิถุนายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/5a95ea042d9d65283709913af735ec52/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักโกหก EP.1",
-     "info": "วันที่ 15 มิถุนายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/dcea2e134de9b3909687e13c650457c6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักโกหก EP.2",
-     "info": "วันที่ 22 มิถุนายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/ef6a2ec7f20064ef33a23d7819267054/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักโกหก EP.3",
-     "info": "วันที่ 29 มิถุนายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/3bcdf0e60e7019e89cfd045796c228a7/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักโกหก EP.4",
-     "info": "วันที่ 6 กรกฏาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/8d54b1bd612403361db7d1918b98780e/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series คนไม่ควรรัก EP.1",
-     "info": "วันที่ 13 กรกฏาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/138f9ab228f752097bf1647c3c72af34/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series คนไม่ควรรัก EP.2",
-     "info": "วันที่ 20 กรกฏาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/a3ffd68d621664661ef62618b8d84589/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series คนไม่ควรรัก EP.3",
-     "info": "วันที่ 27 กรกฏาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f790de79361a8dd8191c8cc6d377e30b/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series คนไม่ควรรัก EP.4",
-     "info": "วันที่ 3 สิงหาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7a63ffc9c0334a8c0e1f56198cc3d8df/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักนอกกฏ EP.1",
-     "info": "วันที่ 10 สิงหาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/8c61d8cf9f33303c186a87bcd201755d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักนอกกฏ EP.2",
-     "info": "วันที่ 17 สิงหาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/2b0ea31b1a31818961345d86220ec1b9/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักนอกกฏ EP.3",
-     "info": "วันที่ 24 สิงหาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/65905cac8d4029ab0b15f17fa6e5a160/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักนอกกฏ EP.4",
-     "info": "วันที่ 31 สิงหาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/cc332e37fa837a73fa3a97873b0f1a8e/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักนอกกฏ EP.5",
-     "info": "วันที่ 7 กันยายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/da4d0319acd8b163fe3ae54962713714/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักไม่รู้จบ EP.1",
-     "info": "วันที่ 14 กันยายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e1e8151d9cb6efd1dd3f43e50c5e46bc/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักไม่รู้จบ EP.2",
-     "info": "วันที่ 21 กันยายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/42891b044a69b4c9ddd70b0457437b1e/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักไม่รู้จบ EP.3",
-     "info": "วันที่ 28 กันยายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/5786d6e6a1ecc8af86cb9abe17a2c733/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักไม่รู้จบ EP.4",
-     "info": "วันที่ 5 ตุลาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0c93b758009b3580e7779019113a8c43/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series หลงรัก EP.1",
-     "info": "วันที่ 12 ตุลาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/9318c209d0f1f6ad92f52f83f1312c0a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series หลงรัก EP.2",
-     "info": "วันที่ 19 ตุลาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b4fb57ad2de0f83bafa1265d0b36e4fa/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series หลงรัก EP.3",
-     "info": "วันที่ 26 ตุลาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/ca91a3d1448f198f218710597546d025/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series หลงรัก EP.4",
-     "info": "วันที่ 2 พฤศจิกายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e2586c15911c22aad7fd2e3eb6635c9c/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักไม่มีสูตร EP.1",
-     "info": "วันที่ 9 พฤศจิกายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/4895efb1b4a4861a7a94e51c7d11a901/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักไม่มีสูตร EP.2",
-     "info": "วันที่ 16 พฤศจิกายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/9622984caa8f4a3c86df3d357fdfafa5/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักไม่มีสูตร EP.3",
-     "info": "วันที่ 23 พฤศจิกายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/46f4f338c4ec2e2de26aaafc647054a4/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักไม่มีสูตร EP.4",
-     "info": "วันที่ 30 พฤศจิกายน2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/48da6956d2ffe7f6d2370dde3d6d8191/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักไม่มีสูตร EP.5",
-     "info": "วันที่ 7 ธันวาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/20ea2eb7c390c7823363999d313f55a7/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักไม่มีตัวตน EP.1",
-     "info": "วันที่ 14 ธันวาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/59ff739b3e76a203646f749677c996d3/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักไม่มีตัวตน EP.2",
-     "info": "วันที่ 21 ธันวาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/84de212fce7cbee3afd0ad0dd0931859/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักไม่มีตัวตน EP.3",
-     "info": "วันที่ 28 ธันวาคม2562",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/efd6a6c058f87a2a2712e07ba65ccd32/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักไม่มีตัวตน EP.4",
-     "info": "วันที่ 11 มกราคม2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0a1428dcac8212afdb8237828db74c90/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ตอนรักไม่ได้มีแค่สองคน EP.1",
-     "info": "วันที่ 25 กรกฏาคม2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/90c2e13323b1785cc17135cef3f13796/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ตอนรักนี้ไม่ได้มีแค่สองคน EP.2",
-     "info": "วันที่ 1 สิงหาคม2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/5ce35afe6d4a55b5af644951627627d2/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ตอนรักนี้ไม่ได้มีแค่สองคน EP.3",
-     "info": "วันที่ 8 สิงหาคม2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/bf7802b3927d63b5e0e2e02a7af5dcf4/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 15 สิงหาคม2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/90eeae2a6b13c7dc9544e214af73f791/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักซับซ้อน EP.1",
-     "info": "วันที่ 22 สิงหาคม2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/22d5d63b882b41fd2ed95b89fcae493d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักซับซ้อน EP.2",
-     "info": "วันที่ 29 สิงหาคม2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e0c0286b12109a290c9afa5ad2f7800b/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 5 กันยายน2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/921584d1d47baf75bb0c4c1a4c85d9a6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักซับซ้อน EP.4",
-     "info": "วันที่ 12 กันยายน2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/564c8f49207ba33a345bcf1a87d20ce3/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักซับซ้อน EP.4",
-     "info": "วันที่ 19 กันยายน2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f109f6dccf5c465f4e4ad758273871c6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series จุดจบของส่วนเกิน EP.1",
-     "info": "วันที่ 26 กันยายน2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7b9d8959af1a8c793c1716a372ee7a33/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 3 ตุลาคม2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/ac1aec49721239e4b60364a713a3e33c/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series จุดจบของส่วนเกิน",
-     "info": "วันที่ 10 ตุลาคม2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/71664b3ded4770b27e5511c402910066/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series คนกินแฟน EP.1",
-     "info": "วันที่ 19 สิงหาคม2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/9ad9cbdf3e699964d511bce5e68140c2/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series คนกินแฟน EP.2",
-     "info": "วันที่ 26 สิงหาคม2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/44c30517f3cdab1c266a1c94fdd46c25/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series คนกินแฟน EP.3",
-     "info": "วันที่ 2 กันยายน2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b2dd2d37081f8be9e6a0e72d439e1f3c/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series คนกินแฟน EP.4",
-     "info": "วันที่ 9 กันยายน2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/177e3603955b7974dba2ede67c2e8d95/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series คนกินแฟน (ตอนจบ)",
-     "info": "วันที่ 16 กันยายน2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/965456479f7dc8178abba4033a4cfba4/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ทะเบียนสมรส",
-     "info": "วันที่ 23 กันยายน2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/204bd4ccf9d107362a82698368b1884a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series  ทะเบียนสมรส",
-     "info": "วันที่ 30 กันยายน2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/bce4fa48758f8b404b6ffa2dee943466/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ทะเบียนสมรส",
-     "info": "วันที่ 7 ตุลาคม2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0ca5910e8668a4f0c38ce67bbee8652b/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ทะเบียนสมรส",
-     "info": "วันที่ 14 ตุลาคม2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/cb29d4144cc17585b9f2329060f1398e/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ทะเบียนสมรส",
-     "info": "วันที่ 21 ตุลาคม2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/c3bccb7aeec7108643ba72f2beef028a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series  รัก 7 ปี",
-     "info": "วันที่ 28 ตุลาคม2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f8b1a344127659c03ebe4f5b296e65eb/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รัก 7 ปี EP.2",
-     "info": "วันที่ 4 พฤศจิกายน2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/6c8963a454fdf13a1387a13533eb765d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รัก 7 ปี",
-     "info": "วันที่ 11 พฤศจิกายน2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/1e3871eae1b1f52f42b57e0e329cff13/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รัก 7 ปี",
-     "info": "วันที่ 18 พฤศจิกายน2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/12784d92c4ae7aa5fd9f1adebd2570c2/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รัก 7 ปี (ตอนจบ)",
-     "info": "วันที่ 25 พฤศจิกายน2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f1f3acaaec866a08a970ac61f4df9ea5/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series คำสาบาน",
-     "info": "วันที่ 2 ธันวาคม2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/54d9b3b46de8673a91731357bd9e71d8/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series คำสาบาน",
-     "info": "วันที่ 9 ธันวาคม2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/4b8dd0c3f92f0f778afd1009c4200552/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 16 ธันวาคม2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/20ca7740bfe99eacafc81f1bb38cffaa/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series คำสาบาน (ตอนจบ)",
-     "info": "วันที่ 23 ธันวาคม2565",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/33322255909cb4bfbfcb18e68b5ac686/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series มือที่สาม",
-     "info": "วันที่ 6 มกราคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/13f8aee435a9df368202f2913c915344/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series มือที่สาม EP.2",
-     "info": "วันที่ 13 มกราคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/fe4d05a6a2ab0a5dcb66840fd250f7cd/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series มือที่สาม EP.3",
-     "info": "วันที่ 20 มกราคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/d8c83ddf381c2ac122a92aa06a3eab01/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series มือที่สาม EP.4",
-     "info": "วันที่ 27 มกราคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/18d70f70b65caa65558a70429eae87be/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ดวงสมพงษ์",
-     "info": "วันที่ 3 กุมภาพันธ์2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7a2235e1deb078c70581760305fdf0a6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series",
-     "info": "วันที่ 10 กุมภาพันธ์2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/cf901bf26f326245fc0f14cb6476f115/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ดวงสมพงษ์",
-     "info": "วันที่ 17 กุมภาพันธ์2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/840332f6a8fe90ce7cd1869ff6cffe2a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ดวงสมพงษ์ EP.4",
-     "info": "วันที่ 24 กุมภาพันธ์2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/844ec7b3192caeb0a4ca5148b3b3ae38/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series สะใภ้จีน",
-     "info": "วันที่ 3 มีนาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/a005ef0444b0cfcd744bf8543babaac3/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series สะใภ้จีน",
-     "info": "วันที่ 10 มีนาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/c24d6152f7391dd3fdd737fa03ca0cfd/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series สะใภ้จีน EP.3",
-     "info": "วันที่ 17 มีนาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/56f38b6b6ff08fd1030371295235c7ba/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series สะใภ้จีน",
-     "info": "วันที่ 24 มีนาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/bce01ab082319f3d504f663398e29a90/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series สะใภ้จีน (ตอนจบ)",
-     "info": "วันที่ 31 มีนาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/a9bc2b113fb78e00a2ce7f64253a90d1/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series กรรมหรือพรหมลิขิต",
-     "info": "วันที่ 7 เมษายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f1fdedec576900c4dec0d8cdf02c6fe7/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series กรรมหรือพรหมลิขิต",
-     "info": "วันที่ 14 เมษายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b7ae617fbbf5a9bee7a1d8981da68ee1/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series กรรมหรือพรหมลิขิต EP.3",
-     "info": "วันที่ 21 เมษายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/aa2f1cb4151a7c779e68809f82933193/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series กรรมหรือพรหมลิขิต (ตอนจบ)",
-     "info": "วันที่ 28 เมษายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/4fdf8874847d185a024a4f2933b49c7d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series สัญญาณอันตราย",
-     "info": "วันที่ 7 พฤษภาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/87a3e3ae1ec89ec940eef888125e021e/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series สัญญาณอันตราย EP.2",
-     "info": "วันที่ 21 พฤษภาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/5eac348965de21f2f802bf7acc943cda/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series สัญญาณอันตราย EP.3",
-     "info": "วันที่ 28 พฤษภาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/dc37553eb3d09c85ba0d9c80bf60d7e0/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series สัญญาณอันตราย (ตอนจบ)",
-     "info": "วันที่ 4 มิถุนายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b13cbe5ed22f8393ef669f97082cddb1/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ลูกเทพ EP.1",
-     "info": "วันที่ 11 มิถุนายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/9e0437bc9ba3a8d84e1bd0589f52ec21/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ลูกเทพ EP.2",
-     "info": "วันที่ 18 มิถุนายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/afc2e332fb84ee56775473a43f85d216/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ลูกเทพ EP.3",
-     "info": "วันที่ 25 มิถุนายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/35746c72c775eb3044c97b6dda9756a6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series ลูกเทพ EP.4",
-     "info": "วันที่ 2 กรกฏาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b64ab2b89341d60d1f8df18d6e6df931/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักสุดหัวใจ EP.1",
-     "info": "วันที่ 9 กรกฏาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/98f03179bedcc78f65b45e2486cd6e6a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักสุดหัวใจ EP.2",
-     "info": "วันที่ 16 กรกฏาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/d3b58a79b3a5b0ab12d39818545757d1/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักสุดหัวใจ EP.3",
-     "info": "วันที่ 23 กรกฏาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/d6050b19515c43be7f8f806c4996d8b0/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักสุดหัวใจ EP.4",
-     "info": "วันที่ 30 กรกฏาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/35ac36f16ce01c32d408adb54be9b1a7/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักเธอไม่มีวันตาย EP.1",
-     "info": "วันที่ 6 สิงหาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/8eae10a0dccf3193ca25ed4e54cf4653/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักเธอไม่มีวันตาย EP.2",
-     "info": "วันที่ 13 สิงหาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7ab34d36f50b1255cb797214af773186/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักเธอไม่มีวันตาย EP.3",
-     "info": "วันที่ 20 สิงหาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/45b3902d6f51c58c8d793ff9df9f8b32/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักเธอไม่มีวันตาย EP.4 (ตอนจบ)",
-     "info": "วันที่ 27 สิงหาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/c834ada1ef9e6b97f65259d697b49439/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักแรกครั้งสุดท้าย EP.1",
-     "info": "วันที่ 3 กันยายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/970e6fc8b4922b223a57f50efae6e7e1/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักแรกครั้งสุดท้าย",
-     "info": "วันที่ 10 กันยายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e541d05356b09f41a99b0c8c633f117f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักแรกครั้งสุดท้าย",
-     "info": "วันที่ 17 กันยายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e5fe6945a9d2fbf5742d6765bb3ec373/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักแรกครั้งสุดท้าย EP.4",
-     "info": "วันที่ 24 กันยายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/5a935786f0fa4d5f854ba5cfd470b5cb/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักแรกครั้งสุดท้าย EP.5 ตอนจบ",
-     "info": "วันที่ 1 ตุลาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f47f29d13901b18b0a5a75f5d3b546e6/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series สงครามกับความรัก EP.1",
-     "info": "วันที่ 8 ตุลาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/141abb68f47f7bd8cd416da9c7f2ed4c/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series สงครามกับความรัก EP.2",
-     "info": "วันที่ 15 ตุลาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/93e09f42154a464ee6c3c681b1296a22/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series สงครามกับความรัก EP.3",
-     "info": "วันที่ 22 ตุลาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/470a2ac89b562d6585d2c23b2769436f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series สงครามกับความรัก EP.4",
-     "info": "วันที่ 29 ตุลาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/83e53a0f53f12ba4e4c3884aa32ea2c9/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "Club Friday The Series รักแท้เฉพาะที่ EP.1",
-     "info": "วันที่ 5 พฤศจิกายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1413643240.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/3b386c80d6df8d61effd9860083125bf/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -4165,153 +2765,6 @@
      "info": "วันที่ 5 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1675610402.jpg",
      "url": "https://www.watchlakorn.in/egdeny/f1b1c1284b6052c83b51a9a418b13f7b/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "ห้ามฟ้าห่มดาว",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1694306443.jpg",
-   "stations": [
-    {
-     "name": "ห้ามฟ้าห่มดาว  ตอนที่ 1",
-     "info": "วันที่ 2 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694306443.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7c9c650fdcd52959c33ef0bb606fc8ed/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ห้ามฟ้าห่มดาว  ตอนที่ 2",
-     "info": "วันที่ 9 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694306443.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/40f2062636a2a2aaeb779114da0a14e4/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ห้ามฟ้าห่มดาว  ตอนที่ 3",
-     "info": "วันที่ 16 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694306443.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/fb921c1502a101506c8ea46dc6bd8e6e/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ห้ามฟ้าห่มดาว  ตอนที่ 4",
-     "info": "วันที่ 23 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694306443.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f39281af0e96d971ab27ac47059bbabc/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ห้ามฟ้าห่มดาว  ตอนที่ 5",
-     "info": "วันที่ 30 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694306443.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/921c392a0ae03e6851472328d95f7f13/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ห้ามฟ้าห่มดาว  ตอนที่ 6",
-     "info": "วันที่ 7 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694306443.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/cfaa6664d5f52d617101f17bdbf177da/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ห้ามฟ้าห่มดาว  ตอนที่ 7",
-     "info": "วันที่ 14 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694306443.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/903ef81c017ba9929eecd777ec2af82b/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ห้ามฟ้าห่มดาว  ตอนที่ 8",
-     "info": "วันที่ 21 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694306443.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7a8226821c4d20db368ecc2c81fd7996/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ห้ามฟ้าห่มดาว  ตอนที่ 9",
-     "info": "วันที่ 28 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694306443.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/84dd47f5677f8b9c7f9cfa8b7162de30/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ห้ามฟ้าห่มดาวตอนจบ  ตอนที่ 10",
-     "info": "วันที่ 4 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694306443.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b0fdc8317d832b8d35421d72f843dbd2/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "ลัดฟ้าล่าฝัน",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
-   "stations": [
-    {
-     "name": "ลัดฟ้าล่าฝัน  ตอนที่ 1",
-     "info": "วันที่ 9 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/9dee45c6c141db3ae32fb5fd4a6af821/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ลัดฟ้าล่าฝัน  ตอนที่ 2",
-     "info": "วันที่ 16 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/1034ba26fc1b481fdce9cd1339c164df/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ลัดฟ้าล่าฝัน  ตอนที่ 3",
-     "info": "วันที่ 23 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/660d5f67c2536e27de610982865750be/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ลัดฟ้าล่าฝัน  ตอนที่ 4",
-     "info": "วันที่ 30 กันยายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/10e4ed3a0654e39cd219bf7ae3b186bb/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ลัดฟ้าล่าฝัน  ตอนที่ 5",
-     "info": "วันที่ 7 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/dcf7eab42c158c8cb7556646c47e477f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ลัดฟ้าล่าฝัน  ตอนที่ 6",
-     "info": "วันที่ 14 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/99eace476ea96c88318ac5659b53df28/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ลัดฟ้าล่าฝัน  ตอนที่ 7",
-     "info": "วันที่ 21 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/7d5235bd34953ae5be3738b0516917da/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ลัดฟ้าล่าฝัน  ตอนที่ 8",
-     "info": "วันที่ 28 ตุลาคม 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/6003f480ce2c7c1e780888f8bdd50913/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "ลัดฟ้าล่าฝัน  ตอนที่ 9",
-     "info": "วันที่ 4 พฤศจิกายน 2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f3e5fde7d137928e56a5176762176383/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
