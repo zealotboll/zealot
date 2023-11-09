@@ -1,9 +1,170 @@
 {
  "name": "ดูหนัง 2023",
- "author": "เจียว เจียว อัพวันที่ 04 พฤศจิกายน 2566",
+ "author": "เจียว เจียว อัพวันที่ 09 พฤศจิกายน 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
+  {
+   "name": "The Claus Family 3 (2023) คริสต์มาสตระกูลคลอส 3",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/1Z7wlsvuY9PfzWzm31M8pssuG27-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Claus Family 3 (2023) คริสต์มาสตระกูลคลอส 3",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/1Z7wlsvuY9PfzWzm31M8pssuG27-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/75837bb0-fe47-5ec4-88ef-5fe931e83caf.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "China Super Police (2023) ซูเปอร์ตำรวจ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/nZ8RegINTY4bQk4xcr1BbB0Vxdx-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "China Super Police (2023) ซูเปอร์ตำรวจ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/nZ8RegINTY4bQk4xcr1BbB0Vxdx-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/e4f1c03a-c420-548b-ba90-259c1462fc4a.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Exorcism (2023) วิญญาณคฤหาสน์หลอน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/qyHzNKsxOx6TLc2iJJ5hYRrBFr6-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Exorcism (2023) วิญญาณคฤหาสน์หลอน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/qyHzNKsxOx6TLc2iJJ5hYRrBFr6-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/b6e702a9-a68e-5910-a2b4-80e85e25b33a.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Breaking Military X-Files Invisible Person (2023) โครงการลับกับมนุษย์ล่องหน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Breaking-Military-X-Files-Invisible-Person-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Breaking Military X-Files Invisible Person (2023) โครงการลับกับมนุษย์ล่องหน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Breaking-Military-X-Files-Invisible-Person-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/d089b930-8948-59a2-8d2c-2132892d083d.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Land of Gold (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/pz7WgHeuuJN88qDuDNzV6KXamdu-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Land of Gold (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/pz7WgHeuuJN88qDuDNzV6KXamdu-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/d71edac5-ef67-5418-b160-d5cf5684bb2d.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Five Nights at Freddy’s (2023) คืนสยองที่เฟรดดี้",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rOLjOfKkv9pkk8sl0yLSEU49smT-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Five Nights at Freddy’s (2023) คืนสยองที่เฟรดดี้",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rOLjOfKkv9pkk8sl0yLSEU49smT-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/197c60c4-460a-574c-88c7-1c6d600d8796.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Five Nights at Freddy’s (2023) คืนสยองที่เฟรดดี้",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rOLjOfKkv9pkk8sl0yLSEU49smT-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/eb4a949d-cd90-5fe7-a9f9-d54d47c47b56.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Baker (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/lsKpCe7lZtDP2XoVVBrt5jDsEka-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Baker (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/lsKpCe7lZtDP2XoVVBrt5jDsEka-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/c6e980e8-a51c-5df1-b734-045a4de8a225.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Fingernails (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/q04g3un61aeBoheQEso7enM28AF-scaled-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Fingernails (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/q04g3un61aeBoheQEso7enM28AF-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/80cea5d0-a8c9-5af0-a7d2-a6232975cd9b.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Praise This (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/twdgFrp9Sd8rb3TdbWFQXAvslrH-scaled-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Praise This (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/twdgFrp9Sd8rb3TdbWFQXAvslrH-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/3c6c0e49-20e3-5c76-a182-bfd4217eac3e.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Pet Sematary: Bloodlines (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/yqnNLn24shYnZ6kqGpbwuB3NJ0D-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Pet Sematary: Bloodlines (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/yqnNLn24shYnZ6kqGpbwuB3NJ0D-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/e50f82dc-3e68-539b-9055-154f5eace8d4.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Strays (2023) ชีวิตหมาต้องไม่หมา",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/qPwVdQOyypDXjuIxWE3LITqzq0U-scaled-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Strays (2023) ชีวิตหมาต้องไม่หมา",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/qPwVdQOyypDXjuIxWE3LITqzq0U-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/73a0310a-ee66-5c86-bd28-0689a014ef4b.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
   {
    "name": "Face Off 6 : The Ticket Of Destiny (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/9F0L1Ksfe2pqCRIvCdaA7Uvnr9W-190x300-c-default.webp",
@@ -138,20 +299,6 @@
    ]
   },
   {
-   "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/136a6829-56d1-5ed0-8250-a432edab0be2.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Lost in the Stars (2023) เมียผมหายในหมู่ดาว",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/vE7JtBnH1afjQpIs1C0fugyqz9R-scaled-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -161,27 +308,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/vE7JtBnH1afjQpIs1C0fugyqz9R-scaled-190x300-c-default.webp",
      "url": "https://streamhls.com/view/082f9673-f3db-5682-85e6-e2184975719a.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Locked In (2023) ต้องขัง",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/dn8khWEvYMtqUMJadirvWAXTgtO-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Locked In (2023) ต้องขัง",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/dn8khWEvYMtqUMJadirvWAXTgtO-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/c18e1005-8672-5dc0-877b-1e3f9077e7e0.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Locked In (2023) ต้องขัง",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/dn8khWEvYMtqUMJadirvWAXTgtO-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/99192e35-0551-56c3-9463-4a2492a65d44.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -250,20 +376,6 @@
    ]
   },
   {
-   "name": "Five Nights at Freddy’s (2023) คืนสยองที่เฟรดดี้",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rOLjOfKkv9pkk8sl0yLSEU49smT-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Five Nights at Freddy’s (2023) คืนสยองที่เฟรดดี้",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rOLjOfKkv9pkk8sl0yLSEU49smT-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/197c60c4-460a-574c-88c7-1c6d600d8796.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "LEGO Marvel Avengers Code Red (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rDzig50dj7VpLwJ7SThbamETK1G-scaled-190x300-c-default.webp",
    "info": "พากย์ไทย",
@@ -327,27 +439,6 @@
    ]
   },
   {
-   "name": "M3GAN (2023) เมแกน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/p2MOk4dDN4VpakB5lZUXFbZwbAa-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "M3GAN (2023) เมแกน",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/p2MOk4dDN4VpakB5lZUXFbZwbAa-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/f29c6e07-9375-5284-a5d1-c25adabd5d3c.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "M3GAN (2023) เมแกน",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/p2MOk4dDN4VpakB5lZUXFbZwbAa-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/4e715ed8-2986-5c6c-ae45-91d715e76a98.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "The Nun 2 (2023) เดอะ นัน 2",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Nun-2-2023-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
@@ -369,20 +460,6 @@
    ]
   },
   {
-   "name": "Appendage (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/xBlYO5Pih92UKBN3mYUh8Ptiqh2-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Appendage (2023)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/xBlYO5Pih92UKBN3mYUh8Ptiqh2-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/abc116ba-d523-5023-b179-bbcc08185ead.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "OneFour Against All Odds (2023) ดนตรีฝ่าอุปสรรค",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/qNBTpfuT5LS4fWJ0I3RMnfJgKYe-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -392,20 +469,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/qNBTpfuT5LS4fWJ0I3RMnfJgKYe-190x300-c-default.webp",
      "url": "https://streamhls.com/view/33674e75-4cef-5e13-a54e-298d0e9757f1.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Prisoner’s Daughter (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/2NYd7jKFnilcIOUfDI8o2TOuCmu-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Prisoner’s Daughter (2023)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/2NYd7jKFnilcIOUfDI8o2TOuCmu-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/3da21465-bec8-51db-b56e-7ad03fb4b661.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -945,6 +1008,48 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/83042753-b387-51ad-b9de-cea8f96e7782.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/ce00cfb0-d3f6-5c63-8a38-46ef0e5cbfa5.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/ce00cfb0-d3f6-5c63-8a38-46ef0e5cbfa5.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/decc2c02-ea20-56ef-9d56-1dc9eefad942.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/decc2c02-ea20-56ef-9d56-1dc9eefad942.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/1362721c-90b1-51d2-a486-275984972b42.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 2 ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/1362721c-90b1-51d2-a486-275984972b42.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
@@ -958,20 +1063,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/thXk2TS22OpXgFlZNV9JZ2KfZEl-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f7f983cc-1389-5369-a4bb-9bee3cdd55a9.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Other Zoey (2023) ไฮโซที่รัก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/f6bFR9tRNXoYCrQTtOdKMig9lkR-scaled-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "The Other Zoey (2023) ไฮโซที่รัก",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/f6bFR9tRNXoYCrQTtOdKMig9lkR-scaled-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/520d0083-7a1a-5447-92ae-c57fbdfbacc3.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -1077,20 +1168,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/3coUbpi12ICX8pDHquenGhGsxWE-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f8042c2e-7828-576c-9c5a-e28883c729f0.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Gold Bodyguard (2023) บอดี้การ์ดเหรียญทอง",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Gold-Bodyguard-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Gold Bodyguard (2023) บอดี้การ์ดเหรียญทอง",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Gold-Bodyguard-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/dea10962-5343-5569-b2bf-98802021a112.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -1427,20 +1504,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Ballerina-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/17fafd18-1d70-5530-8b87-9f2b171fcffe.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Totally Killer (2023) ย้อนเวลาหาฆาตกร",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Totally-Killer-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Totally Killer (2023) ย้อนเวลาหาฆาตกร",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Totally-Killer-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/9bc2f288-c1fb-5964-8f06-6081eada328a.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -2139,6 +2202,20 @@
    ]
   },
   {
+   "name": "Sasaki and Miyano Graduation (2023) ซาซากิกับมิยาโนะ เดอะ มูฟวี่ ภาคจบการศึกษา",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Sasaki-and-Miyano-Graduation-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Sasaki and Miyano Graduation (2023) ซาซากิกับมิยาโนะ เดอะ มูฟวี่ ภาคจบการศึกษา",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Sasaki-and-Miyano-Graduation-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/bbd01f88-c712-5e9b-8c2d-b71a78e9080a.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "The Roof (2023) เดอะรูฟ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/The-Roof-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -2253,6 +2330,27 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Flora-and-Son-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/467da266-4fd8-5f48-822c-0140a9e9edd2.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Nowhere (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Nowhere-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Nowhere (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Nowhere-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/59f1da0c-04f9-5f4a-bec5-3a82785acf3b.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Nowhere (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Nowhere-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/455d07c2-6f78-577f-bb49-220a2962ae88.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -2400,6 +2498,27 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Forgotten-Love-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/fe5ed67a-fafe-5cdd-8b9d-6e382873e275.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "OverHaul (2023) ซิ่งแรงแซงตาย",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/OverHaul-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "OverHaul (2023) ซิ่งแรงแซงตาย",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/OverHaul-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/c1c4c417-3272-5f6f-acfa-37089eda102f.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "OverHaul (2023) ซิ่งแรงแซงตาย",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/OverHaul-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/36668d72-a907-520b-87df-580a57df13ca.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -2965,6 +3084,20 @@
    ]
   },
   {
+   "name": "An Unforgettable Year Winter (2023) ปีที่ไม่อาจลืมเลือน ฤดูหนาว",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/An-Unforgettable-Year-Winter-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "An Unforgettable Year Winter (2023) ปีที่ไม่อาจลืมเลือน ฤดูหนาว",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/An-Unforgettable-Year-Winter-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/f29b4723-8d70-5469-a3d4-8952914583f6.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "An Unforgettable Year Summer (2023) ปีที่ไม่อาจลืมเลือน ฤดูร้อน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/An-Unforgettable-Year-Summer-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -3231,15 +3364,15 @@
    ]
   },
   {
-   "name": "Ransomed (2023) คู่ระห่ำ ไถ่ข้ามโลก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ransomed-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย",
+   "name": "Suspect (2023) ฆ่าสมการลวง",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Suspect-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
    "stations": [
     {
-     "name": "Ransomed (2023) คู่ระห่ำ ไถ่ข้ามโลก",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ransomed-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/69b229b7-9dfa-5104-83c9-8cef85c148fe.m3u8",
+     "name": "Suspect (2023) ฆ่าสมการลวง",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Suspect-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/4306fc34-095d-5b18-90f0-c34bb1125d56.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -3847,6 +3980,27 @@
    ]
   },
   {
+   "name": "The Wandering Earth 2 (2023) ฝ่ามหันตภัยเพลิงสุริยะ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/The-Wandering-Earth-2-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Wandering Earth 2 (2023) ฝ่ามหันตภัยเพลิงสุริยะ",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/The-Wandering-Earth-2-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/b6b4449a-3667-5292-838c-68445c2ffdac.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Wandering Earth 2 (2023) ฝ่ามหันตภัยเพลิงสุริยะ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/The-Wandering-Earth-2-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/74439e1c-b154-522a-8f90-3aed17293989.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Retribution (2023) เหยียบระห่ำ ดับโคตรแค้น",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Retribution-2023-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
@@ -3994,20 +4148,6 @@
    ]
   },
   {
-   "name": "The Counf (El Conde) (2023) ท่านเคานท์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Counf-El-Conde-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "The Counf (El Conde) (2023) ท่านเคานท์",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Counf-El-Conde-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/9202a02a-e5c4-5f74-813e-653ebec7245f.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Once Upon a Crime (2023) กาลครั้งหนึ่งกับคดีปริศนา",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Once-Upon-a-Crime-2023-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
@@ -4080,27 +4220,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Freestyle-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/bfe59c67-539f-5024-8fd1-2edb08982d90.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Elemental (2023) เมืองอลวนธาตุอลเวง",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Elemental-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Elemental (2023) เมืองอลวนธาตุอลเวง",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Elemental-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/1df8baf3-975d-502e-94a5-f3df308518e8.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Elemental (2023) เมืองอลวนธาตุอลเวง",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Elemental-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/26338d41-50e2-5944-8665-daefca200d29.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -4627,6 +4746,34 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/3bd78ea2-8e72-5451-a2d0-5dfc63fcebd6.m3u8",
      "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/10522de1-0c26-5bde-82cc-6ec791d5f5af.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Phanom-Nakha-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/10522de1-0c26-5bde-82cc-6ec791d5f5af.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Three Musketeers D’Artagnan (2023) สามทหารเสือ กำเนิดนักรบดาร์ตาญัง",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Three-Musketeers-D-Artagnan-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Three Musketeers D’Artagnan (2023) สามทหารเสือ กำเนิดนักรบดาร์ตาญัง",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Three-Musketeers-D-Artagnan-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/c4159d35-4b49-5392-b2ab-a629e7948605.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
@@ -4640,27 +4787,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Delicious-Romance-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9fe29e58-a359-5463-bba3-76860c2519b8.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Talk to Me (2023) จับ มือ ผี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Talk-to-Me-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Talk to Me (2023) จับ มือ ผี",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Talk-to-Me-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/b501b8d3-4c9e-5894-8b21-a1eb59d1724d.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Talk to Me (2023) จับ มือ ผี",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Talk-to-Me-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/19c82320-9cb6-5816-ab37-2e5df1deb9fe.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -5142,27 +5268,6 @@
    ]
   },
   {
-   "name": "Cobweb (2023) ก๊อก ก๊อก.. เคาะเรียกผี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Cobweb-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Cobweb (2023) ก๊อก ก๊อก.. เคาะเรียกผี",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Cobweb-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/a0c2d5f2-bc7f-5c1a-9e8b-05669125742e.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Cobweb (2023) ก๊อก ก๊อก.. เคาะเรียกผี",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Cobweb-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/dc221f0e-41d3-5a9e-b42e-840528cfe571.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Lamb Game (2023) แลมป์ เกม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Lamb-Game-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -5172,20 +5277,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Lamb-Game-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ec4937eb-68b0-5f32-8216-6951737a082e.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Vacation Friends 2 (2023) เพื่อนคู่แสบ แอบป่วนงาน 2",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Vacation-Friends-2-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Vacation Friends 2 (2023) เพื่อนคู่แสบ แอบป่วนงาน 2",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Vacation-Friends-2-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/64788fff-0381-546b-b671-34131092892f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -5716,27 +5807,6 @@
    ]
   },
   {
-   "name": "No Hard Feelings (2023) สาวแซ่บ…แอ๊บมาอ่อย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/No-Hard-Feelings-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "No Hard Feelings (2023) สาวแซ่บ…แอ๊บมาอ่อย",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/No-Hard-Feelings-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/56134c0b-e77f-53e2-9396-2a6693a4e99d.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "No Hard Feelings (2023) สาวแซ่บ…แอ๊บมาอ่อย",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/No-Hard-Feelings-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/85f69f2e-a45a-5fc8-a5ef-36365f331779.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "See Hear Love (2023) แม้จะมองไม่เห็น แม้จะไม่ได้ยิน แต่ก็รักเธอสุดหัวใจ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/See-Hear-Love-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -5877,20 +5947,6 @@
    ]
   },
   {
-   "name": "Khun pan 3 (2023) ขุนพันธ์ 3",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Khun-Pan-3-Theme-Poster02-1-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Khun pan 3 (2023) ขุนพันธ์ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Khun-Pan-3-Theme-Poster02-1-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/6c600dbc-3087-5618-af6b-df0db266d79a.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Mystic Land (2023) คุนหลุนแดนลึกลับ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Mystic-Land-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -5991,6 +6047,20 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Soulcatcher-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/fbf350b3-584e-55f2-bdb5-f4ea4e3999c6.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Poisoned (2023) ความจริงที่สกปรกของอาหาร",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Poisoned-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Poisoned (2023) ความจริงที่สกปรกของอาหาร",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Poisoned-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/7b02849b-8001-57aa-8881-1610720d3785.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -6299,27 +6369,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Happiness-for-Beginners-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3bf1990e-c706-5345-acb9-b39030704846.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Missing: The Lucie Blackman Case (2023) สูญหาย: คดีลูซี่ แบล็คแมน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Missing-The-Lucie-Blackman-Case-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Missing: The Lucie Blackman Case (2023) สูญหาย: คดีลูซี่ แบล็คแมน",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Missing-The-Lucie-Blackman-Case-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/4f31a8a0-f09f-5db0-8d60-37656054bbf4.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Missing: The Lucie Blackman Case (2023) สูญหาย: คดีลูซี่ แบล็คแมน",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Missing-The-Lucie-Blackman-Case-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/0c666183-07b2-537a-84b0-6bd73b2fec4f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -7193,20 +7242,6 @@
    ]
   },
   {
-   "name": "You’re Killing Me (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Youre-Killing-Me-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "You’re Killing Me (2023)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Youre-Killing-Me-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/02c6a71b-f8f4-5eb9-b6aa-424401660464.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Travel to The East (2023) ผจญภัย ในแดนตะวันออก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Travel-To-The-East-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -7244,6 +7279,20 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Afwaah-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/85b22d4e-64c5-522a-8d08-b5bd969550f4.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Inhuman Kiss: The Last Breath (Sang Krasue 2) (2023) แสงกระสือ 2",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Inhuman-Kiss-The-Last-Breath2022-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Inhuman Kiss: The Last Breath (Sang Krasue 2) (2023) แสงกระสือ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Inhuman-Kiss-The-Last-Breath2022-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/6087e85d-e98d-5163-a6b8-8a478d97631f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -7335,20 +7384,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Qinling-Town-Tiancoffins-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/125fdabf-0999-54a3-87e7-79bc7ad55b39.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Who Invited Charlie (2023) ใครเชิญชาร์ลี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Who-Invited-Charlie-2022-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Who Invited Charlie (2023) ใครเชิญชาร์ลี",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Who-Invited-Charlie-2022-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/8ea99752-af99-57e2-a3c4-c7402c01a92c.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -7620,20 +7655,6 @@
    ]
   },
   {
-   "name": "Take Care of Maya (2023) ใครจะดูแลมายา",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Take-Care-of-Maya-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Take Care of Maya (2023) ใครจะดูแลมายา",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Take-Care-of-Maya-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/9afe6665-c530-5ede-99af-4fd41d734703.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "One Ranger (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/One-Ranger-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -7711,27 +7732,6 @@
    ]
   },
   {
-   "name": "Black Clover: Sword of the Wizard King (2023) แบล็คโคลเวอร์: ดาบแห่งจักรพรรดิเวทมนตร์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Black-Clover-Sword-of-the-Wizard-King-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Black Clover: Sword of the Wizard King (2023) แบล็คโคลเวอร์: ดาบแห่งจักรพรรดิเวทมนตร์",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Black-Clover-Sword-of-the-Wizard-King-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/b54eb6b2-0362-5032-b46c-3f4c14b86aca.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Black Clover: Sword of the Wizard King (2023) แบล็คโคลเวอร์: ดาบแห่งจักรพรรดิเวทมนตร์",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Black-Clover-Sword-of-the-Wizard-King-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/125d9b20-a417-5bd4-b797-8e33d57b88d6.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Extraction 2 (2023) คนระห่ำภารกิจเดือด 2",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Extraction-22023-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
@@ -7762,6 +7762,20 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/The-Village2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/2e6bd56a-2f77-58cb-afba-933cd69af6c7.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Big Eudemon (2023) ยูเดมอนส์",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Big-Eudemon-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Big Eudemon (2023) ยูเดมอนส์",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Big-Eudemon-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/d7e4ad78-eb30-59c3-9d5f-fd04d5258a4a.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -7900,6 +7914,20 @@
    ]
   },
   {
+   "name": "Sword Art Online the Movie: Progressive – Scherzo of Deep Night (2022) ซอร์ด อาร์ต ออนไลน์ โปรเกรสซีฟ เดอะมูฟวี่ : สแกรโซแห่งสนธยาโศก",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Sword-Art-Online-the-Movie-Progressive-Scherzo-of-Deep-Night-190x300-c-default.webp",
+   "info": "พากย์ไทย(C)",
+   "stations": [
+    {
+     "name": "Sword Art Online the Movie: Progressive – Scherzo of Deep Night (2022) ซอร์ด อาร์ต ออนไลน์ โปรเกรสซีฟ เดอะมูฟวี่ : สแกรโซแห่งสนธยาโศก",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Sword-Art-Online-the-Movie-Progressive-Scherzo-of-Deep-Night-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/fc8bee80-be31-56e0-8783-de3617004bbc.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "The Pope’s Exorcist (2023) โป๊ปปราบผี",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/The-Popes-Exorcist-2023-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
@@ -8000,20 +8028,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Gumraah-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0170dfbf-a230-5d84-8b40-af4cf6af8b3c.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Rich In Love 2 (2023) รวยเล่ห์รัก 2",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Rich-In-Love-2023-1-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Rich In Love 2 (2023) รวยเล่ห์รัก 2",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Rich-In-Love-2023-1-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/793b54ac-ef25-586d-90f0-c95c07a60a2c.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -8168,20 +8182,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/The-Year-I-Started-Masturbating-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5ad8e4cf-3953-51fe-8950-7ee3931450a0.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Independent (2022) ดิอินดิเพนเดนต์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/The-Independent-2022-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "The Independent (2022) ดิอินดิเพนเดนต์",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/The-Independent-2022-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/4cc58888-c25a-59e3-b4db-47c5b88a7389.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -8355,27 +8355,6 @@
    ]
   },
   {
-   "name": "Mother’s Day (2023) วันนี้แม่ต้องโหด",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Mothers-Day-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Mother’s Day (2023) วันนี้แม่ต้องโหด",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Mothers-Day-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/a8a9d9cf-3de7-5763-ba6a-b3957a982e29.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Mother’s Day (2023) วันนี้แม่ต้องโหด",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Mothers-Day-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/93e75f71-e9a5-5a2e-8488-bb7fed1f146c.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Spirit Puppet (2023) หุ่นเชิดวิญญาณ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Spirit-Puppet-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -8420,20 +8399,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/The-Swan-Princess-A-Fairytale-Is-Born-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a0b5652f-d9ec-5bc4-b570-a78d68a4200b.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Disquiet (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Disquiet-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Disquiet (2023)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Disquiet-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/a0950d1c-5211-5109-967a-fdc07f3342f0.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -8901,6 +8866,20 @@
    ]
   },
   {
+   "name": "Gangs of Lagos (2023) แก๊งแห่งลากอส",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Gangs-of-Lagos-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Gangs of Lagos (2023) แก๊งแห่งลากอส",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Gangs-of-Lagos-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/271028f4-a46a-50d3-932f-4a3b50f99725.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Lei Zhenzi Of The Creation Gods (2023) เหลยเจิ้นจื่อ วีรบุรุษเทพสายฟ้า",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Lei-Zhenzi-Of-The-Creation-Gods-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -9132,6 +9111,20 @@
    ]
   },
   {
+   "name": "The Matchmaker (2023) แม่สื่อ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/The-Matchmaker-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Matchmaker (2023) แม่สื่อ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/The-Matchmaker-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/6aa770fa-a59b-55e2-863e-dbaa6fc4783e.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Operation Fortune Ruse de Guerre (2023) ปฏิบัติการระห่ำโคตรคนฟอร์จูน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Operation-Fortune-Ruse-de-Guerre-2023-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
@@ -9230,20 +9223,6 @@
    ]
   },
   {
-   "name": "Mighty Morphin Power Rangers: Once & Always (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Mighty-Morphin-Power-Rangers-Once-And-Always-2022-Poster-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Mighty Morphin Power Rangers: Once & Always (2023)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Mighty-Morphin-Power-Rangers-Once-And-Always-2022-Poster-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/72b500b5-417c-5efe-b5cc-3d4ae84ef1db.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "A Tourist’s Guide to Love (2023) คู่มือรักฉบับนักท่องเที่ยว",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/A-Tourists-Guide-To-Love-2023-Poster-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -9281,20 +9260,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/One-More-Time-2023-Poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5bdde9e4-f32c-5371-955f-cdb5dcf2f6e5.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Ghosted (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Ghosted-2023-Poster-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Ghosted (2023)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Ghosted-2023-Poster-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/bf70157f-0f15-5b83-99f9-f4a3c31b7401.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -9351,20 +9316,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Rooming-With-Danger-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9ad85912-8c64-58d4-b8bc-6d1a0ce05d23.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Geocentric Crisis (2023) วิกฤตใจกลางโลก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Geocentric-Crisis-2023-Poster-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Geocentric Crisis (2023) วิกฤตใจกลางโลก",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Geocentric-Crisis-2023-Poster-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/f02bf7d5-fdbb-5413-892c-c18f57787e95.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -9601,6 +9552,20 @@
    ]
   },
   {
+   "name": "5 แม่บ้านถล่มมาเฟีย Bad Ass Maid (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Bad_Ass_Maid_2023_Poster-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "5 แม่บ้านถล่มมาเฟีย Bad Ass Maid (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Bad_Ass_Maid_2023_Poster-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/6f1909b0-8c1b-5d37-8e80-6a5ff481084b.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Mummies (2023) มัมมี่ส์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Mummies-2023-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
@@ -9645,20 +9610,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Big-Mack-Gangsters-And-Gold-2023-Poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/2aaee0bf-1d1a-54fa-b0d7-008e040f2cc8.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Journey to the West (2023) ไซอิ๋วลัทธิเต๋า",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Journey-to-the-West-2023-Poster-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Journey to the West (2023) ไซอิ๋วลัทธิเต๋า",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Journey-to-the-West-2023-Poster-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/825c3bc1-d7c0-5667-808a-1c3f791780d5.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -9965,6 +9916,20 @@
    ]
   },
   {
+   "name": "Ancient Beast Inostrancevia (2023) ผจญภัยเกาะลับ สัตว์ดึกดำบรรพ์",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Ancient-Beast-Inostrancevia-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Ancient Beast Inostrancevia (2023) ผจญภัยเกาะลับ สัตว์ดึกดำบรรพ์",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Ancient-Beast-Inostrancevia-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/b0036553-086b-5e0e-ae84-e5abb91d5085.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Noise (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Noise-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -10091,15 +10056,15 @@
    ]
   },
   {
-   "name": "The Nightingale of Bursa (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Nightingale-of-Bursa-2023-190x300-c-default.webp",
+   "name": "The Ritual Killer (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Ritual-Killer-2023-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "The Nightingale of Bursa (2023)",
+     "name": "The Ritual Killer (2023)",
      "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Nightingale-of-Bursa-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/2f9ed2d3-715c-5e67-bb12-e84282cfc726.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Ritual-Killer-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/7e24dfa6-5be3-50d4-abcf-3ff6ea87c7ab.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -10625,6 +10590,27 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Somebody-I-Used-to-Know-190x300-c-default.webp",
      "url": "https://streamhls.com/view/40482437-bee9-5970-b5e5-b32c1ca092b8.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Your Place or Mine (2023) รักสลับบ้าน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Your-Place-or-Mine-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Your Place or Mine (2023) รักสลับบ้าน",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Your-Place-or-Mine-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/29a455d0-624e-5633-ac18-e1cc54307bc9.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Your Place or Mine (2023) รักสลับบ้าน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Your-Place-or-Mine-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/b1c69623-0310-5b90-877c-cc117323cffb.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
