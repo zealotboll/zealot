@@ -6,6 +6,44 @@
   "groups": 
 	[
 		{
+			"name":"Suzume no Tojimari การผนึกประตูของซุซุเมะ พากย์ไทย เสียงโรง",
+			"info":"การผนึกประตูของซุซุเมะ พากย์ไทย เสียงโรง",
+			"image":"https://img.shirokami.me/images/2023/04/16/b8caddbd1302271d83b0d1c984d8da5c.jpg",
+			"stations": 
+				[
+					{
+						"name":"Suzume no Tojimari การผนึกประตูของซุซุเมะ พากย์ไทย เสียงโรง",
+						"info":"การผนึกประตูของซุซุเมะ พากย์ไทย เสียงโรง ",
+						"image":"https://img.shirokami.me/images/2023/04/16/b8caddbd1302271d83b0d1c984d8da5c.jpg",
+						"url":"https://files.akuma-player.xyz/view/a1edab11-0ea0-5446-95a2-22a90e258026.m3u8",
+						"referer":"https://www.animehdzeroo.com/"	
+					},
+					
+				]
+		},
+		{
+			"name":"RE:cycle of the PENGUINDRUM Your Train is survival tactic รีไซเคิล ออฟ เพนกวินดรัม ซับไทย",
+			"info":"รีไซเคิล ออฟ เพนกวินดรัม ซับไทย",
+			"image":"https://img.shirokami.me/images/2023/07/03/57aaf8afff2525ee4f00fb8b1fca64c4.jpg",
+			"stations": 
+				[
+					{
+						"name":"RE:cycle of the PENGUINDRUM Part 1 Your Train is survival tactic รีไซเคิล ออฟ เพนกวินดรัม พาร์ท 1 ซับไทย",
+						"info":"รีไซเคิล ออฟ เพนกวินดรัม พาร์ท 1 ซับไทย ",
+						"image":"https://img.shirokami.me/images/2023/07/03/57aaf8afff2525ee4f00fb8b1fca64c4.jpg",
+						"url":"https://files.akuma-player.xyz/view/ef9fb93c-0a78-58d8-b771-784698117896.m3u8",
+						"referer":"https://www.animehdzeroo.com/"	
+					},
+					{
+						"name":"RE:cycle of the PENGUINDRUM Part 2 Your Train is survival tactic รีไซเคิล ออฟ เพนกวินดรัม พาร์ท 2 ซับไทย",
+						"info":"รีไซเคิล ออฟ เพนกวินดรัม พาร์ท 2 ซับไทย ",
+						"image":"https://img.shirokami.me/images/2023/07/03/1798a09a78d227084db1853d8ef488bd.jpg",
+						"url":"https://files.akuma-player.xyz/view/8ea91a2e-ce08-593c-8575-c64f403cc979.m3u8",
+						"referer":"https://www.animehdzeroo.com/"	
+					},
+				]
+		},
+		{
 			"name":"Nimona (2023) นิโมนา พากย์ไทย",
 			"info":"นิโมนา พากย์ไทย",
 			"image":"https://img.shirokami.me/images/2023/07/01/19695c6a3144f9d7fa85563acba1df96.jpg",
@@ -16,6 +54,54 @@
 						"info":"พากย์ไทย ",
 						"image":"https://img.shirokami.me/images/2023/07/01/19695c6a3144f9d7fa85563acba1df96.jpg",
 						"url":"https://files.akuma-player.xyz/view/4d134e91-829b-54ae-be5c-39dda0084e90.m3u8",
+						"referer":"https://www.animehdzeroo.com/"	
+					},
+					
+				]
+		},
+		{
+			"name":"Ultraman X อุลตร้าแมนเอ็กซ์ เดอะ มูฟวี่ พากย์ไทย",
+			"info":"อุลตร้าแมนเอ็กซ์ เดอะ มูฟวี่ พากย์ไทย",
+			"image":"https://img.shirokami.me/images/2023/07/03/b297a547df62d9e5ce6e7d45f27aebee.png",
+			"stations": 
+				[
+					{
+						"name":"Nimona (2023) นิโมนา พากย์ไทย",
+						"info":"พากย์ไทย ",
+						"image":"https://img.shirokami.me/images/2023/07/03/b297a547df62d9e5ce6e7d45f27aebee.png",
+						"url":"https://files.akuma-player.xyz/view/aa6e8959-9251-578a-8a20-8bf8b3620f6b.m3u8",
+						"referer":"https://www.animehdzeroo.com/"	
+					},
+					
+				]
+		},
+		{
+			"name":"Ultraman Dyna อุลตร้าแมนไดน่า การกลับมาของฮาเนจิโร่ พากย์ไทย",
+			"info":"อุลตร้าแมนไดน่า การกลับมาของฮาเนจิโร่ พากย์ไทย",
+			"image":"https://img.shirokami.me/images/2023/07/03/12626eacf55a7b66f795e1793672a4e8.jpg",
+			"stations": 
+				[
+					{
+						"name":"Nimona (2023) นิโมนา พากย์ไทย",
+						"info":"พากย์ไทย ",
+						"image":"https://img.shirokami.me/images/2023/07/03/12626eacf55a7b66f795e1793672a4e8.jpg",
+						"url":"https://files.akuma-player.xyz/view/f31f8d48-a86a-5cec-a249-53b2ca42d276.m3u8",
+						"referer":"https://www.animehdzeroo.com/"	
+					},
+					
+				]
+		},
+		{
+			"name":"Ultraman Tiga Gaiden: Revival of the Ancient Giant อุลตร้าแมนทีก้า ภาคพิเศษ คืนชีพยอดมนุษย์แห่งอดีตกาล พากย์ไทย",
+			"info":"อุลตร้าแมนทีก้า ภาคพิเศษ คืนชีพยอดมนุษย์แห่งอดีตกาล พากย์ไทย",
+			"image":"https://img.shirokami.me/images/2023/07/03/e0511f4ef78316e63fc81fb69f7d2a78.webp",
+			"stations": 
+				[
+					{
+						"name":"Nimona (2023) นิโมนา พากย์ไทย",
+						"info":"พากย์ไทย ",
+						"image":"https://img.shirokami.me/images/2023/07/03/e0511f4ef78316e63fc81fb69f7d2a78.webp",
+						"url":"https://files.akuma-player.xyz/view/9641679f-ac98-5d77-b657-e754487a3b59.m3u8",
 						"referer":"https://www.animehdzeroo.com/"	
 					},
 					
