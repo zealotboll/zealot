@@ -6,6 +6,28 @@
   "groups": 
 	[
 		{
+			"name":"Jujutsu Kaisen 0 The Movie มหาเวทย์ผนึกมาร ซีโร่ เดอะมูฟวี่ 2022",
+			"info":"",
+			"image":"https://img.shirokami.me/images/2023/10/04/719a8413c96dc9b8fb57cc88bb8e1013.jpg",
+			"stations": 
+				[
+					{
+						"name":"Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร ซีโร่ พากย์ไทย",
+						"info":"เดอะมูฟวี่ พากย์ไทย",
+						"image":"https://img.shirokami.me/images/2022/09/30/5bfcc22ab44d14589516e6eb1a4d53a8.jpg",
+						"url":"https://files.akuma-player.xyz/view/1984df41-148b-54e2-9e12-72e120b3a5a7.m3u8",
+						"referer":"https://www.animehdzeroo.com/"	
+					},
+					{
+						"name":"Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร ซีโร่ ซับไทย",
+						"info":"เดอะมูฟวี่ ซับไทย",
+						"image":"https://img.shirokami.me/images/2022/09/22/35e3ec79e93e97a534ff45d19fdefda4.jpg",
+						"url":"https://files.akuma-player.xyz/view/6b077b2f-1afa-53b4-97cc-159dcda66c0f.m3u8",
+						"referer":"https://www.animehdzeroo.com/"	
+					},
+				]
+		},
+		{
 			"name":"Suzume no Tojimari การผนึกประตูของซุซุเมะ พากย์ไทย เสียงโรง",
 			"info":"พากย์ไทย เสียงโรง",
 			"image":"https://img.shirokami.me/images/2023/04/16/b8caddbd1302271d83b0d1c984d8da5c.jpg",
@@ -3006,18 +3028,7 @@
         },
       ]
     },
-    {
-      "name": "Jujutsu Kaisen 0 The Movie (2022) มหาเวทย์ผนึกมาร ซีโร่ พากย์ไทย",
-      "image": "https://img.shirokami.me/images/2022/09/30/5bfcc22ab44d14589516e6eb1a4d53a8.jpg",
-      "stations": [
-        {
-          "name": "Jujutsu Kaisen 0 The Movie (2022) มหาเวทย์ผนึกมาร ซีโร่ เดอะมูฟวี่ พากย์ไทย",
-          "image": "https://img.shirokami.me/images/2022/09/30/5bfcc22ab44d14589516e6eb1a4d53a8.jpg",
-          "url": "https://files.akuma-player.xyz/view/1984df41-148b-54e2-9e12-72e120b3a5a7.m3u8",
-          "referer": "https://www.animehdzeroo.com/"
-        },
-      ]
-    },
+    
     {
       "name": "Summer Ghost ซัมเมอร์โกสท์ พบรักผีสาวในหน้าร้อน ซับไทย",
       "image": "https://img.shirokami.me/images/2022/09/23/e11ade5ba4ede54203d11b47b8240db7.jpg",
@@ -3030,30 +3041,7 @@
         },
       ]
     },
-    {
-      "name": "Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร พากย์ไทย [เสียงไทยโรง]",
-      "image": "https://img.shirokami.me/images/2022/09/22/dd590948b9d651645c0868144a0f16f3.jpg",
-      "stations": [
-        {
-          "name": "Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร พากย์ไทย [เสียงไทยโรง] THE MOVIE",
-          "image": "https://img.shirokami.me/images/2022/09/22/dd590948b9d651645c0868144a0f16f3.jpg",
-          "url": "https://files.akuma-player.xyz/view/da295db9-b110-5d0b-8953-a696261c027b.m3u8",
-          "referer": "https://www.animehdzeroo.com/"
-        },
-      ]
-    },
-    {
-      "name": "Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร ซีโร่ ซับไทย",
-      "image": "https://img.shirokami.me/images/2022/09/22/35e3ec79e93e97a534ff45d19fdefda4.jpg",
-      "stations": [
-        {
-          "name": "Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร ซีโร่ ซับไทย THE MOVIE",
-          "image": "https://img.shirokami.me/images/2022/09/22/35e3ec79e93e97a534ff45d19fdefda4.jpg",
-          "url": "https://files.akuma-player.xyz/view/6b077b2f-1afa-53b4-97cc-159dcda66c0f.m3u8",
-          "referer": "https://www.animehdzeroo.com/"
-        },
-      ]
-    },
+    
     {
       "name": "Luo Xiao Hei Zhan Ji (The Legend of Hei) เฮย ภูตแมวมหัศจรรย์ พากย์ไทย",
       "image": "https://img.shirokami.me/images/2022/09/20/89b3ee10a88ab98bcd295761ad095717.jpg",
@@ -3294,18 +3282,7 @@
         },
       ]
     },
-    {
-      "name": "Jujutsu Kaisen 0 The Movie (2022) มหาเวทย์ผนึกมาร ซีโร่ พากย์ไทย",
-      "image": "https://img.shirokami.me/images/2022/09/30/5bfcc22ab44d14589516e6eb1a4d53a8.jpg",
-      "stations": [
-        {
-          "name": "Jujutsu Kaisen 0 The Movie (2022) มหาเวทย์ผนึกมาร ซีโร่ เดอะมูฟวี่ พากย์ไทย",
-          "image": "https://img.shirokami.me/images/2022/09/30/5bfcc22ab44d14589516e6eb1a4d53a8.jpg",
-          "url": "https://files.akuma-player.xyz/view/1984df41-148b-54e2-9e12-72e120b3a5a7.m3u8",
-          "referer": "https://www.animehdzeroo.com/"
-        },
-      ]
-    },
+   
     {
       "name": "Summer Ghost ซัมเมอร์โกสท์ พบรักผีสาวในหน้าร้อน ซับไทย",
       "image": "https://img.shirokami.me/images/2022/09/23/e11ade5ba4ede54203d11b47b8240db7.jpg",
@@ -3318,30 +3295,7 @@
         },
       ]
     },
-    {
-      "name": "Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร พากย์ไทย [เสียงไทยโรง]",
-      "image": "https://img.shirokami.me/images/2022/09/22/dd590948b9d651645c0868144a0f16f3.jpg",
-      "stations": [
-        {
-          "name": "Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร พากย์ไทย [เสียงไทยโรง] THE MOVIE",
-          "image": "https://img.shirokami.me/images/2022/09/22/dd590948b9d651645c0868144a0f16f3.jpg",
-          "url": "https://files.akuma-player.xyz/view/da295db9-b110-5d0b-8953-a696261c027b.m3u8",
-          "referer": "https://www.animehdzeroo.com/"
-        },
-      ]
-    },
-    {
-      "name": "Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร ซีโร่ ซับไทย",
-      "image": "https://img.shirokami.me/images/2022/09/22/35e3ec79e93e97a534ff45d19fdefda4.jpg",
-      "stations": [
-        {
-          "name": "Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร ซีโร่ ซับไทย THE MOVIE",
-          "image": "https://img.shirokami.me/images/2022/09/22/35e3ec79e93e97a534ff45d19fdefda4.jpg",
-          "url": "https://files.akuma-player.xyz/view/6b077b2f-1afa-53b4-97cc-159dcda66c0f.m3u8",
-          "referer": "https://www.animehdzeroo.com/"
-        },
-      ]
-    },
+    
     {
       "name": "Luo Xiao Hei Zhan Ji (The Legend of Hei) เฮย ภูตแมวมหัศจรรย์ พากย์ไทย",
       "image": "https://img.shirokami.me/images/2022/09/20/89b3ee10a88ab98bcd295761ad095717.jpg",
@@ -4256,18 +4210,6 @@
           "name": "THE SEA BEAST (2022) อสูรทะเล THE MOVIE",
           "image": "https://img.shirokami.me/images/2022/07/14/ecb935a7cd2d855b1f85a7592f350f2e.jpg",
           "url": "https://files.akuma-player.xyz/view/33f53097-6707-522e-a992-87f55625855c.m3u8",
-          "referer": "https://www.animehdzeroo.com/"
-        },
-      ]
-    },
-    {
-      "name": "Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร ซีโร่ พากย์ไทย [ZOOM]",
-      "image": "https://img.shirokami.me/images/2022/06/26/5f0e9aa97020eda0f9574e84b8840c10.jpg",
-      "stations": [
-        {
-          "name": "Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร ซีโร่ THE MOVIE พากย์ไทย [ZOOM]",
-          "image": "https://img.shirokami.me/images/2022/06/26/5f0e9aa97020eda0f9574e84b8840c10.jpg",
-          "url": "https://files.akuma-player.xyz/view/92b62d4c-b0ad-5f04-a3f5-6cab9f48ed96.m3u8",
           "referer": "https://www.animehdzeroo.com/"
         },
       ]
@@ -4550,18 +4492,6 @@
           "name": "THE SEA BEAST (2022) อสูรทะเล THE MOVIE",
           "image": "https://img.shirokami.me/images/2022/07/14/ecb935a7cd2d855b1f85a7592f350f2e.jpg",
           "url": "https://files.akuma-player.xyz/view/33f53097-6707-522e-a992-87f55625855c.m3u8",
-          "referer": "https://www.animehdzeroo.com/"
-        },
-      ]
-    },
-    {
-      "name": "Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร ซีโร่ พากย์ไทย [ZOOM]",
-      "image": "https://img.shirokami.me/images/2022/06/26/5f0e9aa97020eda0f9574e84b8840c10.jpg",
-      "stations": [
-        {
-          "name": "Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร ซีโร่ THE MOVIE พากย์ไทย [ZOOM]",
-          "image": "https://img.shirokami.me/images/2022/06/26/5f0e9aa97020eda0f9574e84b8840c10.jpg",
-          "url": "https://files.akuma-player.xyz/view/92b62d4c-b0ad-5f04-a3f5-6cab9f48ed96.m3u8",
           "referer": "https://www.animehdzeroo.com/"
         },
       ]
