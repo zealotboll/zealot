@@ -6,6 +6,70 @@
   "groups": 
 	[
 		{
+			"name":"Shin Kamen Rider ชิน มาสค์ไรเดอร์ พากย์ไทย",
+			"info":"",
+			"image":"https://img.shirokami.me/images/2023/07/28/193f84ce3cff0e1a09083d103ea0b58b.jpg",
+			"stations": 
+				[
+					{
+						"name":"Shin Kamen Rider ชิน มาสค์ไรเดอร์ พากย์ไทย",
+						"info":"ชิน มาสค์ไรเดอร์ พากย์ไทย",
+						"image":"https://img.shirokami.me/images/2023/07/28/193f84ce3cff0e1a09083d103ea0b58b.jpg",
+						"url":"https://files.akuma-player.xyz/view/0990303e-e660-53f8-bf27-9a9f447bfb18.m3u8",
+						"referer":"https://www.animehdzeroo.com/"	
+					},
+					
+				]
+		},
+		{
+			"name":"The Venture Bros.: Radiant Is the Blood of the Baboon Heart (2023) ซับไทย",
+			"info":"",
+			"image":"https://img.shirokami.me/images/2023/07/26/b74112bf04134ea9703013310eecc960.jpg",
+			"stations": 
+				[
+					{
+						"name":"The Venture Bros.: Radiant Is the Blood of the Baboon Heart (2023) ซับไทย",
+						"info":"เดอะมูฟวี่ ซับไทย",
+						"image":"https://img.shirokami.me/images/2023/07/26/b74112bf04134ea9703013310eecc960.jpg",
+						"url":"https://files.akuma-player.xyz/view/c1dfc4b4-add0-5755-817a-a1909207c764.m3u8",
+						"referer":"https://www.animehdzeroo.com/"	
+					},
+					
+				]
+		},
+		{
+			"name":"Resident Evil Death Island (2023) ผีชีวะ วิกฤตเกาะมรณะ พากย์ไทย",
+			"info":"",
+			"image":"https://img.shirokami.me/images/2023/07/24/8f34aba782af9c5d50c8b0979c12cd65.jpg",
+			"stations": 
+				[
+					{
+						"name":"Resident Evil Death Island (2023) ผีชีวะ วิกฤตเกาะมรณะ พากย์ไทย",
+						"info":"ผีชีวะ วิกฤตเกาะมรณะ พากย์ไทย",
+						"image":"https://img.shirokami.me/images/2023/07/24/8f34aba782af9c5d50c8b0979c12cd65.jpg",
+						"url":"https://files.akuma-player.xyz/view/df3c5799-5335-59d9-a827-c08e66c135d4.m3u8",
+						"referer":"https://www.animehdzeroo.com/"	
+					},
+					
+				]
+		},
+		{
+			"name":"Ruby Gillman Teenage Kraken รูบี้ สาวน้อยอสูรทะเล พากย์ไทย",
+			"info":"",
+			"image":"https://img.shirokami.me/images/2023/07/24/e997b9cea4589d1ac2f86937fb35ea8b.jpg",
+			"stations": 
+				[
+					{
+						"name":"Ruby Gillman Teenage Kraken รูบี้ สาวน้อยอสูรทะเล พากย์ไทย",
+						"info":"รูบี้ สาวน้อยอสูรทะเล พากย์ไทย",
+						"image":"https://img.shirokami.me/images/2023/07/24/e997b9cea4589d1ac2f86937fb35ea8b.jpg",
+						"url":"https://files.akuma-player.xyz/view/dcc3df84-aa1c-5d27-b858-5abba9b48a1d.m3u8",
+						"referer":"https://www.animehdzeroo.com/"	
+					},
+					
+				]
+		},
+		{
 			"name":"The Spine of Night วิญญาณหฤหรรษ์ ศึกมหัศจรรย์ อาถรรพ์พลังใบ ซับไทย",
 			"info":"",
 			"image":"https://img.shirokami.me/images/2023/07/17/ec62c26a977c1d0d1008fde28938c219.jpg",
