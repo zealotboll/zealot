@@ -3,8 +3,26 @@
   "author": "อุ๋ง อุ๋ง อัพวันที่ 27/06/2023",
   "info":"ทำแจกฟรี 100 %",
   "image": "https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
-  "groups": [
-    {
+  "groups": 
+	[
+		{
+			"name":"Nimona (2023) นิโมนา พากย์ไทย",
+			"info":"",
+			"image":"https://img.shirokami.me/images/2023/07/01/19695c6a3144f9d7fa85563acba1df96.jpg",
+			"stations": 
+				[
+					{
+						"name":"Nimona (2023) นิโมนา พากย์ไทย",
+						"info":"พากย์ไทย ",
+						"image":"https://img.shirokami.me/images/2023/07/01/19695c6a3144f9d7fa85563acba1df96.jpg",
+						"url":"https://files.akuma-player.xyz/view/4d134e91-829b-54ae-be5c-39dda0084e90.m3u8",
+						"referer":"https://www.animehdzeroo.com/"	
+					},
+					
+				]
+		},
+	
+	{
       "name": "Kimetsu no Yaiba Yuukaku-hen ดาบพิฆาตอสูร บทแทรกซึมย่านเริงรมย์ พากย์ไทย",
       "image": "https://img.shirokami.me/images/2023/06/23/d8682514b7b8728c41a4c188561dd6f6.jpg",
       "stations": [
