@@ -5,27 +5,36 @@
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "url:":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/จัดให้.w3u"
  "groups": [
+	
 	{
-     "name": "The First Slam Dunk (2022) เดอะ เฟิสต์ สแลมดังก์",
-     "info": "พายกย์ไทย เสียงโรง",
-     "image": "https://www.ชอบหนัง.com/wp-content/uploads/2023/09/The-First-Slam-Dunk-2022-265x375.jpg",
-     "url": "https://streamhls.com/view/b66c4645-0104-5759-a93f-f881488c5c03.m3u8",
-     "referer": "https://www.xn--72cf9bd9fk5a.com/"
-    },
-  
-{
-   "name": "เซียนหรั่ง เดอะมูฟวี่ (2023) ZIEN-LANG Best Friends Forever",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/ZIEN-LANG-Best-Friends-Forever-2023.webp",
-   "info": "HD",
-   "stations": [
-    {
-     "name": "เซียนหรั่ง เดอะมูฟวี่ (2023) ZIEN-LANG Best Friends Forever",
-     "info": "พายกย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/ZIEN-LANG-Best-Friends-Forever-2023.webp",
-     "url": "https://streamhls.com/view/3ed4e9d7-5960-5166-8867-4c38dabf84a3.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-   ]
-  }
+	"name": "The First Slam Dunk (2022) เดอะ เฟิสต์ สแลมดังก์",
+	"image": "https://www.ชอบหนัง.com/wp-content/uploads/2023/09/The-First-Slam-Dunk-2022-265x375.jpg",
+	"info": "พายกย์ไทย เสียงโรง",
+	"stations": 
+		[
+			{
+				"name": "The First Slam Dunk (2022) เดอะ เฟิสต์ สแลมดังก์",
+				"info": "พายกย์ไทย เสียงโรง",
+				"image": "https://www.ชอบหนัง.com/wp-content/uploads/2023/09/The-First-Slam-Dunk-2022-265x375.jpg",
+				"url": "https://streamhls.com/view/b66c4645-0104-5759-a93f-f881488c5c03.m3u8",
+				"referer": "https://www.xn--72cf9bd9fk5a.com/"
+			},
+		]
+	},
+	{
+	"name": "เซียนหรั่ง เดอะมูฟวี่ (2023) ZIEN-LANG Best Friends Forever",
+	"image": "https://www.9nunghd.com/wp-content/uploads/2023/09/ZIEN-LANG-Best-Friends-Forever-2023.webp",
+	"info": "HD",
+	"stations": 
+		[
+			{
+				"name": "เซียนหรั่ง เดอะมูฟวี่ (2023) ZIEN-LANG Best Friends Forever",
+				"info": "พายกย์ไทย",
+				"image": "https://www.9nunghd.com/wp-content/uploads/2023/09/ZIEN-LANG-Best-Friends-Forever-2023.webp",
+				"url": "https://streamhls.com/view/3ed4e9d7-5960-5166-8867-4c38dabf84a3.m3u8",
+				"referer": "https://www.9nunghd.com/"
+			},
+		]
+	},
  ]
 }
