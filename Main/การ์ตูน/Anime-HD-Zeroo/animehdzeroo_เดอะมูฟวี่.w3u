@@ -1,10 +1,90 @@
 {
   "name": "Anime-HD-Zeroo เดอะมูฟวี่",
-  "author": "By iball อัพวันที่ 9/11/2023",
+  "author": "By iball อัพวันที่ 11/11/2023",
   "info":"ทำแจกฟรี 100 %",
   "image": "https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
   "groups": 
 	[
+		{
+				"name":"The Monkey King (2023) พญาวานร พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/08/19/45a4c148b5128f2859e6d81926220b90.jpg",
+				"stations": 
+					[
+						{
+							"name":"The Monkey King (2023) พญาวานร พากย์ไทย",
+							"info":"พญาวานร พากย์ไทย",
+							"image":"https://img.shirokami.me/images/2023/08/19/45a4c148b5128f2859e6d81926220b90.jpg",
+							"url":"https://files.akuma-player.xyz/view/10b78aeb-ffdc-5086-a44a-078eae7f7794.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"Scooby-Doo! Stage Fright สคูบี้ดู เวทีนี้ผีมาเอง พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/08/14/cab9b152ac20f3b4c8f3519183e93f3e.jpg",
+				"stations": 
+					[
+						{
+							"name":"Scooby-Doo! Stage Fright สคูบี้ดู เวทีนี้ผีมาเอง พากย์ไทย",
+							"info":"พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/08/14/cab9b152ac20f3b4c8f3519183e93f3e.jpg",
+							"url":"https://files.akuma-player.xyz/view/6900e598-8ffe-5fe6-a0e2-ccdd27a675d2.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"Scooby-Doo! in Arabian Nights สคูบี้ดูกับตะเกียงวิเศษ พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/08/14/4cea3a13f173f6655c09a6e627368f49.jpg",
+				"stations": 
+					[
+						{
+							"name":"Scooby-Doo! in Arabian Nights สคูบี้ดูกับตะเกียงวิเศษ พากย์ไทย",
+							"info":"พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/08/14/4cea3a13f173f6655c09a6e627368f49.jpg",
+							"url":"https://files.akuma-player.xyz/view/a851a365-0671-5f1b-8636-d41f6f449897.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"Scooby-Doo! and the Samurai Sword สคูบี้ดู ตะลุยแดนซามูไร พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/08/14/3aee68d4023fe5a3bccca1e34ef4e9a0.jpg",
+				"stations": 
+					[
+						{
+							"name":"Scooby-Doo! and the Samurai Sword สคูบี้ดู ตะลุยแดนซามูไร พากย์ไทย",
+							"info":"พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/08/14/3aee68d4023fe5a3bccca1e34ef4e9a0.jpg",
+							"url":"https://files.akuma-player.xyz/view/5572e879-6181-574c-b40c-0e23063611d4.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+		},
+		{
+				"name":"Spider Man Across the Spider Verse (2023) สไปเดอร์ แมน ผงาดข้าม ภาค2 พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/08/12/69cc2eb88bee2e68c204827b3bdec042.jpg",
+				"stations": 
+					[
+						{
+							"name":"Spider Man Across the Spider Verse (2023) สไปเดอร์ แมน ผงาดข้าม ภาค2 พากย์ไทย",
+							"info":"พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/08/12/69cc2eb88bee2e68c204827b3bdec042.jpg",
+							"url":"https://files.akuma-player.xyz/view/d955ec26-0b5a-5f66-83e7-710ef0504b01.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+		},
 		{
 				"name":"The Croods A New Age (2020) เดอะ ครู้ดส์ ตะลุยโลกใบใหม่ พากย์ไทย",
 				"info":"",
@@ -20,7 +100,7 @@
 						},
 						
 					]
-			},
+		},
 		{
 			"name":"The Croods (2013) เดอะ ครู้ดส์ มนุษย์ถ้ำผจญภัย พากย์ไทย",
 			"info":"",
