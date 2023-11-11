@@ -6,6 +6,38 @@
   "groups": 
 	[
 		{
+				"name":"The Croods A New Age (2020) เดอะ ครู้ดส์ ตะลุยโลกใบใหม่ พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/08/09/48478f08affe2a47abb62171492dfb49.jpg",
+				"stations": 
+					[
+						{
+							"name":"The Croods A New Age (2020) เดอะ ครู้ดส์ ตะลุยโลกใบใหม่ พากย์ไทย",
+							"info":"พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/08/09/48478f08affe2a47abb62171492dfb49.jpg",
+							"url":"https://files.akuma-player.xyz/view/0df85715-c599-5ac1-b66e-3962c5a56342.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+			"name":"The Croods (2013) เดอะ ครู้ดส์ มนุษย์ถ้ำผจญภัย พากย์ไทย",
+			"info":"",
+			"image":"https://img.shirokami.me/images/2023/08/09/ee1ac984af0478f01fb8a7a796523f7f.jpg",
+			"stations": 
+				[
+					{
+						"name":"The Croods (2013) เดอะ ครู้ดส์ มนุษย์ถ้ำผจญภัย พากย์ไทย",
+						"info":"พากย์ไทย เดอะมูฟวี่",
+						"image":"https://img.shirokami.me/images/2023/08/09/ee1ac984af0478f01fb8a7a796523f7f.jpg",
+						"url":"https://files.akuma-player.xyz/view/d149704a-fc70-585a-ad9b-94dfe3cf964d.m3u8",
+						"referer":"https://www.animehdzeroo.com/"	
+					},
+						
+				]
+		},
+		{
 			"name":"Delicious Party Precure Movie Yume Miru Oko-sama Lunch! ซับไทย",
 			"info":"",
 			"image":"https://img.shirokami.me/images/2023/08/08/4a80c21f2b16de94a1ffd92ce819ca9e.jpg",
