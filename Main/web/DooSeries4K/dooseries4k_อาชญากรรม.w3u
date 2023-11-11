@@ -1,9 +1,785 @@
 {
   "name": "อาชญากรรม ",
-  "author": "อุ๋ง อุ๋ง อัพวันที่ 26 กันยายน 2566",
+  "author": "เจียว เจียว อัพวันที่ 11 พฤศจิกายน 2566",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "The Killing Vote (2023) โหวตโทษประหาร",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9674ca15-61d5-54c0-8a3e-d4ac914f47e0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c01bb2f0-56ba-5470-9a89-1b1a1775d32a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/84358c36-b75a-5e10-9c13-5bb26effbe44.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ccb133b7-2815-5d2f-8b1c-e6ed8e7e265c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3b20649f-ef9a-58c0-9b5b-b3fa1af894ae.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c74f1a83-318a-5b93-97e0-4824601467f1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5b9f4ce0-628b-5dc1-bc3b-45d6c1629bc4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8fab7848-050c-50b9-a168-d59f050f20fe.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f97a8c2f-f357-59e5-9858-f9a2b0f3fec4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7d327027-709e-5c62-b99f-b2cbefdc2ffa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d766835f-e6a4-56c6-bfd6-6cee59fb9f7e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Vigilante (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Vigilante-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Vigilante-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/24c4e084-1c9c-515e-ba34-7ad71ff78e52.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Vigilante-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/db95c2cc-d6eb-5515-855f-defd137e854c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "BLUE EYE SAMURAI (2023) ซามูไรตาฟ้า",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5460dea9-d4e0-5b58-b022-f5ba560f1141.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0289bc28-4707-5595-a2e9-8f5fc786829e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ef6987dc-5d00-5832-89f5-5e93b0e4345f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b66cc978-14a7-53ec-96d7-47903ab1ca81.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/84db8863-e901-56bf-b2ef-d772d40c5da1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cc4bacbb-e1cc-5581-b20f-575c02a95ae4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e8acfa44-4fc7-5981-9cb0-f2a601fcf5aa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/BLUE-EYE-SAMURAI-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e70c7efe-7043-58d6-a79a-3f76f757b41c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Dead Ringer (2023) มือยิงมรณะ",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Dead-Ringer-2023-220x300-c-default.jpg",
+      "stations": []
+    },
+    {
+      "name": "The Bionic Life (2023) ไขคดีปริศนามนุษย์ไบโอนิค",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Bionic-Life-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Bionic-Life-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2bde942b-77b0-559d-9547-4e0df74ade8d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Bionic-Life-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8f95b892-4d32-586d-9a3d-1edca3a5caf1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Bionic-Life-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/aaab7926-6faf-5123-8ae8-4b9482e284da.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Bionic-Life-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4d0d2041-422c-5bf7-ad5c-d1029232f0ce.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Bionic-Life-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fce6d858-7b26-5fa8-b780-46a39e2d9f0a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Bionic-Life-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/80038801-05d7-5178-a0fa-eeec98b6f0a7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Bionic-Life-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/56e232c8-0472-5272-b178-0902149bf5cb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Bionic-Life-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/92f4cf81-0612-578f-b59a-8d71f4569d84.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Bionic-Life-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/dc2a78f5-ee3a-5a8a-8653-4f9ebca6bc06.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Bionic-Life-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bb0b719c-bd7a-5a6b-8e05-ec93396d25d9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Bionic-Life-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9bc952f8-9367-55f6-b94b-ac78cad8d38e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Bionic-Life-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9a3e4d78-3cc7-5c44-908b-d199b8533ca9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "The Worst of Evil (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bc6717a0-123d-5269-b4de-35748a24072b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/402eae8a-0d65-5e67-ab9b-80ba16076430.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fd7dc096-0719-5336-8373-419b452de3fd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0128fa07-cfdb-5692-b15b-ecdbeff68a62.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a9c4b007-bb6f-50f9-aa57-4a5df83ad6ec.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0ab78926-833a-5bd2-819e-f31501df87f9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/93f58d3d-8885-5be8-a0be-0de5915df2b3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6de6ad16-149d-5386-b67a-17c711375125.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e9249198-0650-5bf0-b814-8f88ae788087.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cbfa043a-86a5-59fd-93df-65eca424aba9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e710cb72-1a67-5c67-b172-1a203ab7515d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/696dbbf6-20cd-5d8f-a3ae-b7d9ee0e5820.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "The Kidnapping Day (2023) วันลักพาตัว",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4e184df1-d3d7-5d55-9b94-90988007859a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8fb16771-cc44-5f29-878f-7742b794f6e3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f03535ec-a3b8-5894-83ce-a7a66914550e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/dd59eeb1-4e17-5e42-9d1d-88b7f7177c37.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/79d20cda-272a-52a8-8951-2b8c2f226f87.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c10acac5-3512-5d15-a668-5c5019d9c5e1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bc5ea412-9631-56cf-960b-fd7a2414d5a1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2e887160-b3ff-549d-aafc-00c1a4e9b137.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7f7f9a0e-1b89-55e9-951f-a49cdfe308e7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/71f1c347-c7da-5db7-bd16-a8441cbb4613.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fdcf1fa3-ff6a-5996-baf3-f20b0050e9bb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e49ad0eb-b81d-5507-bfd9-862973a62b99.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Bodies ศพ (2023) Netflix พากย์ไทย",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Bodies-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Bodies-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4edc0b7f-e0e5-5cb3-b6ec-d97eb3cf2dd1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Bodies-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/45b2412d-ccdf-51b6-beed-424c1fe42c5f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Bodies-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4790f533-b676-56d9-88d1-3a44c52e05a9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Bodies-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7e0c74e0-df43-5d7c-bee8-d8d094e4e6c6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Bodies-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f518fd2b-47b3-5cc8-bca8-548be447bd7e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Bodies-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/de558714-5ea7-515a-ab22-2458305474b6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Bodies-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/920482ac-62b7-505f-9540-d840726a67cf.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Bodies-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/26e962ed-4fd4-5ecd-baf5-f498a48e36c7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "The Fall of the House of Usher (2023) บ้านปีศาจ",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b7cdab43-0a49-594d-b29b-72e4117fa0c8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e8f06e1b-abf5-59e3-bcff-f9418a87543d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/aecbf9a5-5651-5875-a51b-4b7e60cf7472.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5d631fec-43b7-5c0f-99cd-e1a4e39b76e1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/730f2f33-aed1-5766-a5c6-ea2126fff8ad.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/54a819ef-4c7e-511d-a8c0-608dacc58ba0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7e29c243-4df4-5ff4-895b-2e614b9f7e37.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8036effd-32bc-54ef-95b5-013f1a07899f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a77fc7e1-7470-558e-b4df-a851eb460e84.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/00da6157-0708-5a46-b5b5-4d0d43cb5372.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/832ee8e4-162c-5d70-9233-66d02ab42cb6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ca536856-c50f-5b33-b732-6a0a9ee594f0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/515322e7-ee07-55d8-a137-61884087af78.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/964823eb-b8b6-5d07-a7db-b20787cedf6a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d918446e-f152-5d77-84c2-503b7923fb31.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3dddfa1e-8bc8-56f2-a340-83de4532bf2d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Stand by Me (2023) คู่เดือดอันตราย",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fde0cb78-ae24-55f3-bd42-19de67a763b5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/11a51d2b-a8f1-587f-9548-8064302ea0d6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/38082f9d-d9e9-596f-8001-d208101a5fed.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/42e25379-cd69-5f22-8ee7-416ed7a8f62b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5f580e38-b111-5a0e-ae13-c99f3048bf59.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/708be49c-e023-5fab-8fa3-289fcf59f113.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8d342515-a832-522f-89a1-145899392a97.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a45fad82-a476-5fcc-bf1d-a75e8f5ee6b8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3acce557-05f6-5cd3-91da-bc776c58badd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cae67bd3-9c34-5fd3-8d6f-621e2de76e4a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6b12c2f8-5d73-5c95-b829-c03b124add71.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/91a0f024-8040-5ff6-940b-102778690367.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e0eac0c9-b062-5c5b-ab84-38eea99cbe0b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/82337fbe-99b2-5d99-b2de-5b0ae5b53734.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bf3ae7cd-1d42-52ec-9f3f-230a6eaa7455.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f7d72c70-8d7b-55b0-be34-32e958c27f5f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e113afbc-3a39-5988-a191-adafc4b165cd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/72e2c7c6-486d-57f1-a9c5-36821772c2f7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2c255c0a-80c2-5db1-8481-79f214d45b9c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Stand-by-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/53f70813-c19d-5c2f-9780-fae40517d7ba.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
     {
       "name": "Spy Game (2023) เกมร้ายสายลับ",
       "info": "SUB",
@@ -98,6 +874,741 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/3c341bc1-ff45-50aa-997d-8a5029fc8856.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/969f499d-7e5c-558a-99fd-b6b53d1d0eff.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7256bdea-f881-505f-8472-b64038c97c3d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cebed103-647a-545d-a707-4187cd3c502e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/04c078bc-658a-5760-b927-9b9dea1be3e9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ea05704c-175e-5ed0-bff7-2426af9eaa2f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/95d27a71-ebf9-586b-9a84-4ff5ffddc962.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ecd77481-fedd-596e-adfb-8adca2dd6c9d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7a5c204c-319f-598d-a393-9ade2ba563cd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2efbfdf4-940c-5aac-8c51-2a25f7a519f8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b24c24bd-6fed-538b-8bfe-42bad3c8d9a6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b0aeb00c-8c38-55e9-be04-36974db6d042.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1ffcd003-93b5-5787-b561-a6ec664264e9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/daeae4b0-0802-5b01-8079-3ac31c9ddb8f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/db0ac2f8-67a0-5183-bf2c-98363c982a49.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/30b7ef16-8fc6-58ca-9cb7-4eb68ab92ecf.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d87af63c-567e-5042-9add-4842f36b049d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/14c19937-4037-5a4d-8c1d-7ad85ebf22f2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/69d74d5a-24bb-54df-8160-c499e9c3dda4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/de9d6e7c-b466-58a5-b701-45aa0877e384.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 33",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cb5bb0cf-1f01-5c98-96f5-3883cbfb5e9f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 34",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/27be7749-4feb-506a-a225-31634e9937e6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 35",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ce737b1d-4b3d-5146-ab0e-f7a5dfeb136d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 36",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/475e06a9-b228-541c-8fae-141090e83662.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 37",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/36477ddc-ddce-5e36-ab1f-febd1eee713d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 38",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Spy-Game-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a5561301-3bb8-5e6e-8825-c4fe300add78.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Parallel World (2023) ปริศนาด่านปีศาจอวี้เหมิน",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a1592333-a559-5008-84e6-b6e415c84ddc.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/304cfa23-bb50-5ea5-ae3f-81b2f2cd9fb5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2057a4ab-36c0-58e4-8b8b-66a5f2c73eaa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/649a3875-0ec2-50ca-b515-a4c9b852ed48.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bde83a22-72cf-5df2-8172-303649093b09.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7844f3e1-4913-517b-9c0f-751ff2d01378.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0ed49e71-e504-5a25-bcb4-b9753c9a2816.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ada9a4e6-f945-5bda-830c-cdcc778f875b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3fd6b681-6d57-53c2-bb40-2c3c5a8194e2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/de0e3565-0cb3-5400-85ce-d0fc8c07bc9b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/da3225ea-eb6a-57da-9ba3-2a06a9543367.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/785b9417-05b6-5464-a1b5-4ad739805b8e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e986955c-0f89-5f03-948c-82654ea51742.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d7fe4b06-c5d0-5d0a-8aee-941fbda6dddc.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3c61aa61-3b50-5a89-b20f-0d1096627a8a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b9d23143-ad23-5ed6-86cd-35fdf3de2372.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5caa3a31-9c57-5457-91ff-14182412e840.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/21f4dccf-98ec-5a8d-998a-99255f4c4c86.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/06859479-8b57-518c-9670-5ccc9e8be0eb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d7098f0f-b86c-5e97-9629-d8d729503468.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4173c2b0-297d-5d87-bd70-fdb23763e51a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/964cd588-454b-5532-b8dd-7706d19bfaaa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b6d0d248-df7f-58fd-ba1a-f8fcd22ee80a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c662f099-204c-5c3d-900f-68f53f17d0ad.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/560bc001-1bd4-54c7-ba53-03689ab4763b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9a2e6dbc-cfc3-526f-992b-62dd86e81271.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d9320612-7198-5f78-8963-36e9a026ba81.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d1b4d029-02a2-5179-8bd5-4d5ddbe70cfd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6aea6045-8e37-5d28-bc41-965e97e2fbb6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2f76e3c9-a9b7-54fa-a30a-3749e56254bd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a73ae7f2-1e77-504d-8015-60138a8fcefe.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1afa429a-b866-5e37-89e8-7bd064c31b37.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 33",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b0dd939c-ea2e-5edf-becc-faa2452a6229.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 34",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c08fbaa5-998d-5e2a-b4a8-ba53fbc6c611.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 35",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ab60ed9e-a146-5693-bc1a-7eccf76159a6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 36",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/347c0f59-dc5e-582b-94ef-f6bfbc4482e3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 37",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/76c1a37d-8598-57ad-8124-23eba99843e6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 38",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cb976fe2-8f2d-5832-9447-a87850a694ca.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "The Continental (2023) เดอะ คอนทิเนนทัล จากโลกของจอห์น วิค",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Continental-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Continental-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/192f2456-b7d1-5281-a29e-95336375b4ff.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Continental-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3bf1d233-9b05-5d21-a777-4ee03edf92bc.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Continental-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ca68b394-dcc2-5924-9e56-61ed8c122e01.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Lupin (2021) จอมโจรลูแปง Season 2",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS02-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS02-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/64ab450d-056d-5016-8614-4c4f77b6b147.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS02-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/79522ab4-15ac-51f6-8884-6f1c132e2690.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS02-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2ebc661e-5da7-5d6d-bfd7-ea335c53ea8f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS02-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/aca06d87-54e6-50c4-b97a-19be57b2318e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS02-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/613e17db-00db-5f1f-8d9c-4444b4b6812e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS02-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/61dc8de0-fb93-5027-9e82-a3a6166bce4b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS02-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2a1245da-73eb-5fc3-b40d-8d4429d668a5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS02-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/838611b7-5ad4-52a3-ad73-9cb4707ccdf3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS02-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0dac9f3b-b37c-5024-b835-d17bd5076e8e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS02-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a801a0c2-8d26-5104-840b-57e055ef7038.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Lupin (2021) จอมโจรลูแปง Season 1",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS01-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS01-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/50f90f51-9726-5acc-bf5f-2ba816bbc63b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS01-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6c1c05e6-dd80-5bf3-8c7f-6b7128508d0b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS01-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1e6cea08-19dd-5cb4-808e-78dd044f4679.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS01-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8e61a739-0040-551f-ae3e-bd67f1280855.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS01-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1b272854-4f4d-5e0a-91e7-93b8df195e45.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS01-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b22d8547-593d-5237-89d0-bb9915ee7252.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS01-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/87a25e28-4b78-5438-af4b-4425725e1db5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS01-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fa74bad7-87b4-5381-94ce-66302884a4b4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS01-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bd30f88c-47d7-5322-a397-8d13b98b8aee.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS01-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bdce599b-1625-5407-965d-3ebf8e5e1bce.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Lupin (2023) จอมโจรลูแปง Season 3",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS03-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 3 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS03-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/159ab9a5-cda2-59aa-bfe3-a452b3d1f333.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS03-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3b6a64f7-8df2-5497-9ec9-3d24247beef9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS03-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/39b3016d-f25d-5627-a876-1f1f62b92eac.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS03-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/abc51997-b392-5ae1-9afc-d42e97e3a1f4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS03-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bd95378c-1ea3-574d-bbd6-32242c217507.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS03-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2a04fbbd-59c9-503c-a3f9-6dae1839ba2f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS03-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/edce1f2a-f6c8-5b73-8396-30d8742c4311.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS03-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/171c6d95-94a2-5c68-8e6e-aefae36ee8b4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS03-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b9ada469-c90d-5f7c-9bd2-156c6201a050.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS03-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/503730ce-a049-5d8f-9ece-82e8b638d0a8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS03-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/083169fc-cbb0-5802-9928-c458c5e0edef.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS03-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4fb94be3-f580-53e5-9e07-3918630a799d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS03-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6b3cb41a-e38a-5f88-9681-359df603c64f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lupin-SS03-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/686e9017-4678-543d-a84c-69733cba9a3a.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -390,244 +1901,6 @@
       ]
     },
     {
-      "name": "Parallel World (2023) ปริศนาด่านปีศาจอวี้เหมิน",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a1592333-a559-5008-84e6-b6e415c84ddc.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/304cfa23-bb50-5ea5-ae3f-81b2f2cd9fb5.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/2057a4ab-36c0-58e4-8b8b-66a5f2c73eaa.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/649a3875-0ec2-50ca-b515-a4c9b852ed48.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/bde83a22-72cf-5df2-8172-303649093b09.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/7844f3e1-4913-517b-9c0f-751ff2d01378.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0ed49e71-e504-5a25-bcb4-b9753c9a2816.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ada9a4e6-f945-5bda-830c-cdcc778f875b.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3fd6b681-6d57-53c2-bb40-2c3c5a8194e2.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/de0e3565-0cb3-5400-85ce-d0fc8c07bc9b.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 11",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/da3225ea-eb6a-57da-9ba3-2a06a9543367.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 12",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/785b9417-05b6-5464-a1b5-4ad739805b8e.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 13",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e986955c-0f89-5f03-948c-82654ea51742.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 14",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/d7fe4b06-c5d0-5d0a-8aee-941fbda6dddc.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 15",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3c61aa61-3b50-5a89-b20f-0d1096627a8a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 16",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b9d23143-ad23-5ed6-86cd-35fdf3de2372.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 17",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5caa3a31-9c57-5457-91ff-14182412e840.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 18",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/21f4dccf-98ec-5a8d-998a-99255f4c4c86.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 19",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/06859479-8b57-518c-9670-5ccc9e8be0eb.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 20",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/d7098f0f-b86c-5e97-9629-d8d729503468.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 21",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4173c2b0-297d-5d87-bd70-fdb23763e51a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 22",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/964cd588-454b-5532-b8dd-7706d19bfaaa.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 23",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b6d0d248-df7f-58fd-ba1a-f8fcd22ee80a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 24",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c662f099-204c-5c3d-900f-68f53f17d0ad.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 25",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/560bc001-1bd4-54c7-ba53-03689ab4763b.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 26",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Parallel-World-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9a2e6dbc-cfc3-526f-992b-62dd86e81271.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "The Continental (2023) เดอะ คอนทิเนนทัล จากโลกของจอห์น วิค",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Continental-2023-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Continental-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/192f2456-b7d1-5281-a29e-95336375b4ff.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "The Kidnapping Day (2023) วันลักพาตัว",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4e184df1-d3d7-5d55-9b94-90988007859a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/8fb16771-cc44-5f29-878f-7742b794f6e3.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f03535ec-a3b8-5894-83ce-a7a66914550e.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/dd59eeb1-4e17-5e42-9d1d-88b7f7177c37.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
       "name": "Harlan Coben’s Shelter (2023) ฮาร์ลาน โคเบน ผีเสื้อแห่งความลับ",
       "info": "SUB",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/Harlan-Cobens-Shelter-2023-220x300-c-default.jpg",
@@ -686,62 +1959,6 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/Harlan-Cobens-Shelter-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/fd6a2675-7f0c-5b6a-9539-2ddb940ba5d3.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "The Killing Vote (2023) โหวตโทษประหาร",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9674ca15-61d5-54c0-8a3e-d4ac914f47e0.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c01bb2f0-56ba-5470-9a89-1b1a1775d32a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/84358c36-b75a-5e10-9c13-5bb26effbe44.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ccb133b7-2815-5d2f-8b1c-e6ed8e7e265c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3b20649f-ef9a-58c0-9b5b-b3fa1af894ae.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c74f1a83-318a-5b93-97e0-4824601467f1.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/94f2d85d-b940-51cd-b321-c1c8ae05a230.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -6052,6 +7269,104 @@
       ]
     },
     {
+      "name": "Good Girls Season 2 (2019)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bf8b837f-d2f1-539e-8f3d-9d60b5a0a54c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/24a69f8b-c483-54dd-bafa-1f46f4da5a67.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bcf76d61-c593-5b69-b916-694f207b38c3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/22438325-df94-5a4a-8590-c693601d651a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3ede7ee4-a818-572f-9513-7e6fa9104639.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0d1adf9c-ccd9-5174-976e-72f68c9d8038.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/25581198-eec6-5ace-892a-d571a297f6d9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/94d831ba-62c8-56a1-911f-40e9fc4bd53e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6c0406a6-973a-5cd5-a8f9-9d847c5c0df8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/71188c68-15f5-5663-aad1-b61265f1977f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b088cbe9-f8d2-57b5-afd7-7414013e36f0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/929c60dc-5c8d-5712-be95-09a42afab229.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cbe70658-3bd8-506d-8ab7-888c14e5f2b7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
       "name": "Good Girls Season 3 (2020)",
       "info": "SUB",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-3-220x300-c-default.jpg",
@@ -6250,104 +7565,6 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-4-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/dc7d8ac2-4763-55f9-9baf-5e5f4b871dc3.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "Good Girls Season 2 (2019)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ซีซั่น 2 ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/bf8b837f-d2f1-539e-8f3d-9d60b5a0a54c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/24a69f8b-c483-54dd-bafa-1f46f4da5a67.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/bcf76d61-c593-5b69-b916-694f207b38c3.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/22438325-df94-5a4a-8590-c693601d651a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3ede7ee4-a818-572f-9513-7e6fa9104639.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0d1adf9c-ccd9-5174-976e-72f68c9d8038.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/25581198-eec6-5ace-892a-d571a297f6d9.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/94d831ba-62c8-56a1-911f-40e9fc4bd53e.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/6c0406a6-973a-5cd5-a8f9-9d847c5c0df8.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/71188c68-15f5-5663-aad1-b61265f1977f.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 11",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b088cbe9-f8d2-57b5-afd7-7414013e36f0.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 12",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/929c60dc-5c8d-5712-be95-09a42afab229.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 2 ตอนที่ 13",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Good-Girls-Season-2-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cbe70658-3bd8-506d-8ab7-888c14e5f2b7.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -17751,6 +18968,41 @@
       ]
     },
     {
+      "name": "Madoff: The Monster of Wall Street ปีศาจแห่งวอลล์สตรีท Season 1 (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Madoff-The-Monster-Of-Wall-Street-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Madoff-The-Monster-Of-Wall-Street-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/69f0038d-ac37-51a7-9019-81f508aefc8e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Madoff-The-Monster-Of-Wall-Street-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/08ce8b4b-fd0c-539c-a48e-1e96d77000d9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Madoff-The-Monster-Of-Wall-Street-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/077f726d-a31b-555a-a2c6-cc0145769f60.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Madoff-The-Monster-Of-Wall-Street-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/05918658-ff1d-53f5-982f-959f75a21c41.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
       "name": "Copenhagen Cowboy คาวบอยโคเปนฮาเกน Season 1 (2023)",
       "info": "SUB",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Copenhagen-Cowboy-2023-220x300-c-default.jpg",
@@ -17795,41 +19047,6 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Copenhagen-Cowboy-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/9ed0cbe0-3dba-5710-8b62-045f3b0dff50.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "Madoff: The Monster of Wall Street ปีศาจแห่งวอลล์สตรีท Season 1 (2023)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Madoff-The-Monster-Of-Wall-Street-2023-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Madoff-The-Monster-Of-Wall-Street-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/69f0038d-ac37-51a7-9019-81f508aefc8e.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Madoff-The-Monster-Of-Wall-Street-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/08ce8b4b-fd0c-539c-a48e-1e96d77000d9.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Madoff-The-Monster-Of-Wall-Street-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/077f726d-a31b-555a-a2c6-cc0145769f60.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Madoff-The-Monster-Of-Wall-Street-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/05918658-ff1d-53f5-982f-959f75a21c41.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -31750,9 +32967,23 @@
       "stations": [
         {
           "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/y6uTEHNTTIopj55fIWAGQApKE7y-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0759cf09-6094-56f7-8171-e506cd3963ce.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/y6uTEHNTTIopj55fIWAGQApKE7y-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/b549169d-052e-54e2-b9cd-f23212b2b982.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/y6uTEHNTTIopj55fIWAGQApKE7y-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4401e9dd-5bf7-5e18-8c6b-71243f0f65d4.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -31764,9 +32995,23 @@
         },
         {
           "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/y6uTEHNTTIopj55fIWAGQApKE7y-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a3526359-46a5-5e0d-8f31-5a0402985b33.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/y6uTEHNTTIopj55fIWAGQApKE7y-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/afaab3f8-7146-52cd-9727-cc8fda17e922.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/y6uTEHNTTIopj55fIWAGQApKE7y-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/70606b0c-0eb9-5743-baf4-883b8fe79ab9.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -31778,9 +33023,23 @@
         },
         {
           "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/y6uTEHNTTIopj55fIWAGQApKE7y-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7f8686a4-17c9-50e2-988e-c31751024b25.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/y6uTEHNTTIopj55fIWAGQApKE7y-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/c62c0627-7529-5156-89d6-5a727c0c84b6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/y6uTEHNTTIopj55fIWAGQApKE7y-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/466d963d-7d58-5249-9485-08d91e1f5303.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -31792,9 +33051,23 @@
         },
         {
           "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/y6uTEHNTTIopj55fIWAGQApKE7y-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ea133222-c98c-5d66-a9ae-f70140ecc989.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/y6uTEHNTTIopj55fIWAGQApKE7y-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/1e38b2a9-0a0a-5ae9-b83b-28b961c8a008.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/y6uTEHNTTIopj55fIWAGQApKE7y-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2c0800ed-8953-5bef-b5f3-f159dc2f6dc0.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -32703,20 +33976,6 @@
       ]
     },
     {
-      "name": "The Penthouse Hidden Room – Hidden Story (2020)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20210115140340563000011595202-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20210115140340563000011595202-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cdad27cb-4222-59b6-bb4e-c90bbf99a099.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
       "name": "Forensic Heroes หน่วยเฉพาะกิจพลิกคดีเด็ด ภาค4",
       "info": "HD",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20200426040921หน่วยเฉพาะกิจพลิกคดีเด็ด-ภาค4CV-220x300-c-default.jpg",
@@ -32929,6 +34188,20 @@
           "info": "พากย์ไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20200426040921หน่วยเฉพาะกิจพลิกคดีเด็ด-ภาค4CV-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/2e684f42-0e0b-59ea-9356-38526dd09e03.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "The Penthouse Hidden Room – Hidden Story (2020)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20210115140340563000011595202-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20210115140340563000011595202-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cdad27cb-4222-59b6-bb4e-c90bbf99a099.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
