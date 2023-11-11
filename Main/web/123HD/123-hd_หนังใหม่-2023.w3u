@@ -1,9 +1,101 @@
 {
   "name": "หนังใหม่ 2023",
-  "author": "เจียว เจียว อัพวันที่ 10 พฤศจิกายน 2566",
+  "author": "เจียว เจียว อัพวันที่ 11 พฤศจิกายน 2566",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "The Marvels (2023) เดอะ มาร์เวลส์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Marvels-2023-เดอะ-มาร์เวลส์-1-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Marvels (2023) เดอะ มาร์เวลส์",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Marvels-2023-เดอะ-มาร์เวลส์-1-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/34d7d5876a87a56d60b67fd2/34d7d5876a87a56d60b67fd2.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Down Low (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Down-Low-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "Down Low (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Down-Low-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/e6e7b89d7a1b0a983ef86c76/e6e7b89d7a1b0a983ef86c76.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Sanctuary (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Sanctuary-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "Sanctuary (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Sanctuary-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/0c9c5f75dd8d1a349d6f634d/0c9c5f75dd8d1a349d6f634d.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Oppenheimer (2023) ออพเพนไฮเมอร์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Oppenheimer-2023-ออพเพนไฮเมอร์-300x450.jpg",
+      "stations": [
+        {
+          "name": "Oppenheimer (2023) ออพเพนไฮเมอร์",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Oppenheimer-2023-ออพเพนไฮเมอร์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/37094187a5ac4e23e2d5750b/37094187a5ac4e23e2d5750b438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Oppenheimer (2023) ออพเพนไฮเมอร์",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Oppenheimer-2023-ออพเพนไฮเมอร์-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/a30369b5435f68a116687e92/a30369b5435f68a116687e92.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Hypnotic (2023) จิตบงการปล้น",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Hypnotic-2023-จิตบงการปล้น-300x450.jpg",
+      "stations": [
+        {
+          "name": "Hypnotic (2023) จิตบงการปล้น",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Hypnotic-2023-จิตบงการปล้น-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/a8229b1aff872b0c7234c124/a8229b1aff872b0c7234c124438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Hypnotic (2023) จิตบงการปล้น",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Hypnotic-2023-จิตบงการปล้น-300x450.jpg",
+          "url": "https://main.77player.xyz/newplaylist/48019150ecaeef729ec37b61/48019150ecaeef729ec37b61.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Wrath of Becky (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/The-Wrath-of-Becky-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Wrath of Becky (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/The-Wrath-of-Becky-2023-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/92489fb56afe79ae9a2cbda1/92489fb56afe79ae9a2cbda1438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "The Killer (2023) นักฆ่า",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Killer-2023-นักฆ่า-300x450.jpg",
@@ -53,26 +145,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-ฆาตกรรมหลอนแห่งนครเวนิส-1-300x450.jpg",
           "url": "https://main.77player.xyz/m3u8/e181e3582101a5490656a070/e181e3582101a5490656a070438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Oppenheimer (2023) ออพเพนไฮเมอร์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Oppenheimer-2023-ออพเพนไฮเมอร์-300x450.jpg",
-      "stations": [
-        {
-          "name": "Oppenheimer (2023) ออพเพนไฮเมอร์",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Oppenheimer-2023-ออพเพนไฮเมอร์-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/37094187a5ac4e23e2d5750b/37094187a5ac4e23e2d5750b438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Oppenheimer (2023) ออพเพนไฮเมอร์",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Oppenheimer-2023-ออพเพนไฮเมอร์-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/a30369b5435f68a116687e92/a30369b5435f68a116687e92.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -4550,26 +4622,6 @@
       ]
     },
     {
-      "name": "Hypnotic (2023) จิตบงการปล้น",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Hypnotic-2023-จิตบงการปล้น-300x450.jpg",
-      "stations": [
-        {
-          "name": "Hypnotic (2023) จิตบงการปล้น",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Hypnotic-2023-จิตบงการปล้น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/a8229b1aff872b0c7234c124/a8229b1aff872b0c7234c124438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Hypnotic (2023) จิตบงการปล้น",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Hypnotic-2023-จิตบงการปล้น-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/d113ae6fdae4e7a1ae49cc03/d113ae6fdae4e7a1ae49cc03438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "Travel to The East (2023) ผจญภัย ในแดนตะวันออก",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Travel-to-The-East-2023-ผจญภัย-ในแดนตะวันออก-300x450.jpg",
       "stations": [
@@ -4919,19 +4971,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/The-Sea-Monster-2023-อสูรแห่งท้องทะเล-300x450.jpg",
           "url": "https://main.77player.xyz/m3u8/f9bc8755a76b1cfcdd33b5c0/f9bc8755a76b1cfcdd33b5c0438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "The Wrath of Becky (2023)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/The-Wrath-of-Becky-2023-300x450.jpg",
-      "stations": [
-        {
-          "name": "The Wrath of Becky (2023)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/The-Wrath-of-Becky-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/92489fb56afe79ae9a2cbda1/92489fb56afe79ae9a2cbda1438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
