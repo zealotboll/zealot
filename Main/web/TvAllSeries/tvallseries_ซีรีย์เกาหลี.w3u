@@ -1,9 +1,656 @@
 {
   "name": "ซีรีย์เกาหลี",
-  "author": "เจียว เจียว อัพวันที่ 22 ตุลาคม 2566",
+  "author": "เจียว เจียว อัพวันที่ 11 พฤศจิกายน 2566",
   "info": "อยู่ในมุมที่ตัวเองมีความสุข ไม่จำเป็นต้องโดดเด่น ไม่จำเป็นต้องเหมือนใคร",
   "image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
   "groups": [
+    {
+      "name": "The Real Has Come (2023) อลหม่านวิวาห์กำมะลอ EP.1-50 (กำลังรอฉาย)",
+      "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/The-Real-Has-Come-2023-อลหม่านวิวาห์กำมะลอ-185x278.webp",
+      "info": "ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/The-Real-Has-Come-2023-อลหม่านวิวาห์กำมะลอ-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/f8559c89-6b41-4eac-87e9-7503b3fb1950/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/The-Real-Has-Come-2023-อลหม่านวิวาห์กำมะลอ-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/4f92e295-660c-4db8-9f77-74058c9d67ad/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/The-Real-Has-Come-2023-อลหม่านวิวาห์กำมะลอ-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/06a10ac9-c89d-4063-a2cb-0baa981255dc/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/The-Real-Has-Come-2023-อลหม่านวิวาห์กำมะลอ-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/f74ea5b4-2e2a-4f21-a052-6a42b0b2700a/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/The-Real-Has-Come-2023-อลหม่านวิวาห์กำมะลอ-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c52f4f80-f1ca-4e37-8ac2-c9720978ee34/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/The-Real-Has-Come-2023-อลหม่านวิวาห์กำมะลอ-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/63fcba92-ec2e-4467-8b6d-fe6cdc469c31/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/The-Real-Has-Come-2023-อลหม่านวิวาห์กำมะลอ-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/3e5e0b2c-2671-4c10-aa24-3327682bf0dc/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/The-Real-Has-Come-2023-อลหม่านวิวาห์กำมะลอ-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/1d8f2878-e1aa-4b34-a302-245a360de709/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/The-Real-Has-Come-2023-อลหม่านวิวาห์กำมะลอ-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/d2f8b0ad-7989-4b5a-b2b5-1e83f906f29f/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/The-Real-Has-Come-2023-อลหม่านวิวาห์กำมะลอ-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/02570ded-2328-4dc9-ba1c-3d2edfe7855f/_"
+        }
+      ]
+    },
+    {
+      "name": "Vigilante (2023) EP.1-8 (กำลังรอฉาย)",
+      "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Vigilante-2023-185x278.webp",
+      "info": "ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Vigilante-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/8866800f-5c4e-47f0-a7c3-6d85459eb470/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Vigilante-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b3aeb452-614e-4d47-83d0-88b03b696428/_"
+        }
+      ]
+    },
+    {
+      "name": "Daily Dose of Sunshine (2023) รับแดดอุ่น กรุ่นไอรัก EP.1-12 (จบ)",
+      "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023-185x278.webp",
+      "info": "ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/84862f36-17c9-42ce-b238-0442832c8f4f/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b3de0388-9065-4d2f-b952-b76d2c573239/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b4687055-c320-4f68-9236-f5b9af9193aa/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/17dd8142-434b-41de-9c45-c85e353f43b3/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/384edbf3-2de8-4b07-9a36-bbb847abfb41/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c80b6912-0ce9-4959-80bf-76de35bba7ba/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/377e1251-9114-4d76-997d-a02489c58a3b/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/752614e2-1d42-4cc8-b13c-e69d28bc0d8f/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/21680f6a-3a98-4010-b1bc-3f69b79c8a2c/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/1b669780-8dc5-4583-828b-ab0d9a4df8b7/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/018119df-f38e-45b1-a41d-c9235cf26cc7/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 12 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/26ee5997-03ce-4ae4-b772-9dccede9548d/_"
+        }
+      ]
+    },
+    {
+      "name": "Sweet Home สวีทโฮม Season 1-2 (กำลังรอฉาย)",
+      "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Sweet-Home-Season-2-185x278.webp",
+      "info": "ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Sweet-Home-Season-2-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c3cc6f43-fe14-4ca8-a423-b41b608c29a8/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Sweet-Home-Season-2-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/1b58452e-5a32-49a6-b1e6-52c73004e2bb/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Sweet-Home-Season-2-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/585ebee5-6fc4-44d7-9f5b-7945d111647b/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Sweet-Home-Season-2-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/d204b22b-c8e6-40a0-a97d-2bee69f0c23b/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Sweet-Home-Season-2-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/f96dde80-4fd4-4683-8160-da43d9c9efa2/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Sweet-Home-Season-2-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/07763034-ab23-4663-80e0-4c6643651424/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Sweet-Home-Season-2-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7e8a6d5f-b07a-4f8c-99fc-2b2f28407122/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Sweet-Home-Season-2-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/213b1127-ab11-499e-a5a7-9b4c5d3dcdf1/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Sweet-Home-Season-2-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/72a4b394-95d6-48b6-be3b-3d971e8707b5/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Sweet-Home-Season-2-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/5576389f-3260-436a-bc52-4daf5de5640f/_"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Sweet-Home-Season-2-185x278.webp",
+          "url": "https://www.youtube.com/embed/-JI394OtkyU"
+        }
+      ]
+    },
+    {
+      "name": "Moon in the Day (2023) EP.1-14 (กำลังรอฉาย)",
+      "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Moon-in-the-Day-2023-185x278.webp",
+      "info": "ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Moon-in-the-Day-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/39e06a1c-7fc5-40aa-8e41-ff6c8536c82a/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Moon-in-the-Day-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e312a449-9c10-47b8-afd3-83a841f3d1b4/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Moon-in-the-Day-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b2e8334e-3344-4ce3-85b6-32081dae3325/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Moon-in-the-Day-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/fc3f478a-3102-4ca4-9a52-f7d85affd4c9/_"
+        }
+      ]
+    },
+    {
+      "name": "The Matchmakers (2023) EP.1-16 (กำลังรอฉาย)",
+      "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/The-Matchmakers-2023-185x269.webp",
+      "info": "ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/The-Matchmakers-2023-185x269.webp",
+          "url": "https://playcdn.tvallseries.com/678dc4cd-4e24-4dd6-9b3b-84e2877e7b9b/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/The-Matchmakers-2023-185x269.webp",
+          "url": "https://playcdn.tvallseries.com/20448030-a19d-4d47-a9d2-686f186f6138/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/The-Matchmakers-2023-185x269.webp",
+          "url": "https://playcdn.tvallseries.com/b63b8c16-4554-4817-8663-c5003c9a555e/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/The-Matchmakers-2023-185x269.webp",
+          "url": "https://playcdn.tvallseries.com/1d9eb817-0a5e-40aa-beb9-8186d5bf574f/_"
+        }
+      ]
+    },
+    {
+      "name": "Castaway Diva (2023) แคสต์อะเวย์ ดีว่า EP.1-12 (กำลังรอฉาย)",
+      "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Castaway-Diva-2023-185x278.webp",
+      "info": "ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Castaway-Diva-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/d7ef0e8e-9784-488f-9cdf-9de5c3ef8de6/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Castaway-Diva-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/4777d1b1-439d-484b-9aae-71bf97db8bc5/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Castaway-Diva-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/cc651527-8b0b-4291-b3eb-b4dd740590d6/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Castaway-Diva-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/cd66efe3-476e-4f3a-9ba0-49f33bc4b4bc/_"
+        }
+      ]
+    },
+    {
+      "name": "Something In The Rain (2018) สื่อในสายฝน EP.1-16 (จบ)",
+      "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+      "info": "ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/72f1664b-9727-4086-938f-b964d297de19/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/2f2c7791-ef07-4ed8-8c69-f9595eb930ba/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/3e87781f-a2fa-49ce-88e2-59c3dc4d83e6/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/383b1710-93ad-4e8c-a67f-77666798e427/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/fded05c7-3213-48b9-8ccb-cfbc19720e3d/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/6e9e719b-310c-4b93-b5f6-0b2afa56d765/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/36386066-ac43-4029-b8dd-8cbe69893c7d/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/49adbc37-1060-4967-a64e-d0747eda7905/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/a6bf8bf7-8f8b-4ddf-829c-8b7e35dfe495/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ccd34ccb-2db7-4347-882c-bcbe84660e5b/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/502d2b97-420f-48ec-bff0-6e5ec8dbbe01/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c5f70d82-fe59-47f1-9322-3ed7d1a27b67/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/f2626165-e1c7-4b9e-aeb9-8beec53ddf97/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/869abd94-616d-4af5-b0c9-65749358dafa/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/db8d969d-79d0-44d8-b387-5425c867f17a/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 16 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Something-In-The-Rain-2018-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ee5c0b43-6a78-4b9d-bb9a-449ef35f77be/_"
+        }
+      ]
+    },
+    {
+      "name": "Numbers (2023) ล้างบัญชีแค้น EP.1-12 (จบ)",
+      "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Numbers-2023-ล้างบัญชีแค้น-185x278.webp",
+      "info": "ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Numbers-2023-ล้างบัญชีแค้น-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ee9ffa59-e418-4bb5-91cf-4185e3efcac2/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Numbers-2023-ล้างบัญชีแค้น-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/0885965b-9476-4c66-9c08-2ddc1c0310a4/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Numbers-2023-ล้างบัญชีแค้น-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/f58df034-7d40-4505-ac09-3970984ca949/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Numbers-2023-ล้างบัญชีแค้น-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e4a6ef0c-efa0-4d70-8b29-771157a61e45/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Numbers-2023-ล้างบัญชีแค้น-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c46393ed-9a2f-428c-9f41-5e49259a6ab1/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Numbers-2023-ล้างบัญชีแค้น-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/23d513ed-cf91-412d-9c27-9bcd774b7fba/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Numbers-2023-ล้างบัญชีแค้น-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/8bf5ac7e-6b28-4326-9e91-11e6d6a44a21/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Numbers-2023-ล้างบัญชีแค้น-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/3494919f-8551-4874-840e-33976982ca3f/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Numbers-2023-ล้างบัญชีแค้น-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e2331576-0ea4-41f4-be39-9210ea1d1d79/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Numbers-2023-ล้างบัญชีแค้น-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/5479485c-075a-4c37-8b19-d5bf71513195/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Numbers-2023-ล้างบัญชีแค้น-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/46495480-1c02-4d3b-a660-6601556e4c80/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 12 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Numbers-2023-ล้างบัญชีแค้น-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e7d106dd-3d51-40f6-96fa-4a8a2e8b364e/_"
+        }
+      ]
+    },
+    {
+      "name": "Because This Is My First Life (2017) เพราะนี่คือชีวิตแรกของฉัน EP.1-16 (จบ)",
+      "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+      "info": "ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/28940d2c-0827-40ab-8921-e2d6437d7b3e/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/874ba66b-f982-4fd0-97fa-e2b600b58281/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ec64e939-a73e-4779-a9c8-cb5788e8e331/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/0a06f236-989d-4100-a809-77b325fda9ad/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/73dd0e2f-eedb-4528-9625-f729b8630b45/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/4e5d6b05-663d-4cd0-82d6-66ea5d12598a/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/861472b1-27ad-4b75-a23e-d409cf028302/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c858b0dd-e374-4c8c-b4a1-ecc5b1bdb942/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/20125e43-63ce-4939-a464-db240f452a24/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/946ff161-f699-4a58-bb18-584d9c7f478d/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b275312b-6ad4-4ca9-8c22-57a21d780a26/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e80d3a6c-b004-499b-96b4-d4ee2fb0c23f/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/cfc16076-9dfe-4f69-a53f-8666dadb9cbc/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/af95dbef-a852-4a1e-ae5a-21057799054b/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7ec5c153-6fd0-4a29-a4fc-0b737631b15f/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 16 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Because-This-Is-My-First-Life-2017-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/278f7213-9baa-4c28-8384-fb5f4560f81f/_"
+        }
+      ]
+    },
+    {
+      "name": "Bump Up Business (2023) แผนคู่จิ้นพิชิตฝันไอดอล EP.1-8 (กำลังรอฉาย)",
+      "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Bump-Up-Business-2023-185x278.webp",
+      "info": "ซีรีย์เกาหลี",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Bump-Up-Business-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/087337af-39c1-4853-8cd4-2fef10661682/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Bump-Up-Business-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/46dc21d1-b86e-4790-9c3d-9122324c62f0/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Bump-Up-Business-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/83faca95-085f-436c-8b60-3238fe1cddb0/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Bump-Up-Business-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/8cafa3b8-e4e8-4ce3-b64b-9e438758f647/_"
+        }
+      ]
+    },
     {
       "name": "Doona (2023) ดูนา ไอดอลสาวข้างบ้าน พากย์ไทย Ep.1-9 (จบ)",
       "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Doona-2023-185x278.webp",
@@ -169,10 +816,107 @@
       ]
     },
     {
-      "name": "Durians Affair (2023) EP.1-16 (กำลังรอฉาย)",
+      "name": "Durians Affair (2023) EP.1-16 (จบ)",
       "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
       "info": "ซีรีย์เกาหลี",
-      "stations": []
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/1decaae7-17e1-4ef9-86ce-0af089c72b18/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/4e6ed9f8-edda-4a3f-ac7f-0c581ca64d59/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/632fb71b-cafe-406e-99ab-1b8ac7fa6e97/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/eb456326-c5f1-428a-a3dc-85327c82d386/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ee413aa4-5382-46dd-9240-538ef3717830/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/608c07ea-cb3e-4379-9f97-875e030782c1/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/5b5d364c-964e-4853-832a-6a2ca4550756/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b0b47084-9afc-4b51-aa3c-77a7e57b0bf9/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ce8bf86d-967a-4f93-8946-22fb80e40c6f/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/115a7a03-b0fb-41da-976a-e17e6907e28d/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e13fad2f-2b47-4dca-8f6f-3a1a50fa2627/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/67245955-3468-402f-834b-36bc967a1ba0/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/cac434f4-f482-4c06-9f82-9255b77f8f4b/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/022cf732-5ab3-4919-9114-2f28061ff742/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/46d470b3-aaed-4881-af50-3d85fe107f21/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 16 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Durians-Affair-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/cd5da0c1-13ce-4111-815a-20e6cacc7dde/_"
+        }
+      ]
     },
     {
       "name": "Strong Girl Namsoon (2023) สาวน้อยจอมพลังคังนัมซุน EP.1-16 (กำลังรอฉาย)",
@@ -202,11 +946,47 @@
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Strong-Girl-Namsoon-2023-185x278.webp",
           "url": "https://playcdn.tvallseries.com/7d35ed8e-5fee-42b2-8c70-8eb0efabb95b/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Strong-Girl-Namsoon-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/11d80707-6198-4619-a54c-d1b886412609/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Strong-Girl-Namsoon-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e20495fc-e60f-4d11-be40-8d42ba5c24c5/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Strong-Girl-Namsoon-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/1dc6ea6f-624f-423b-ae48-5d88f34d5016/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Strong-Girl-Namsoon-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/2f3cabb7-554a-440a-a6e5-b1f49970f20d/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Strong-Girl-Namsoon-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/2251ab77-85f7-413a-a0ba-db51843c1fd2/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/10/Strong-Girl-Namsoon-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/bb78b33e-02a1-4c05-b14a-7349dcd156ae/_"
         }
       ]
     },
     {
-      "name": "The Worst of Evil (2023) EP.1-12 (กำลังรอฉาย)",
+      "name": "The Worst of Evil (2023) EP.1-12 (จบ)",
       "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-185x278.webp",
       "info": "ซีรีย์เกาหลี",
       "stations": [
@@ -263,6 +1043,24 @@
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-185x278.webp",
           "url": "https://playcdn.tvallseries.com/21e35436-3376-4a5c-85e9-01698c8e4a22/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/eb6691b4-55c8-4db4-ab6c-5ad8dfb13321/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/860995da-a404-45d7-8c80-7a2a8f214502/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 12 (ตอนจบ)",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/The-Worst-of-Evil-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/13808213-6a78-475d-9ee1-d09ac404df8d/_"
         }
       ]
     },
@@ -500,6 +1298,36 @@
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-185x278.webp",
           "url": "https://playcdn.tvallseries.com/834a93a8-0270-4003-90e6-019a243fa472/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/f8eb4ede-a6a8-4fab-8f4d-d3cd4b9a7f4f/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/63b9305e-a535-4bad-91f0-f8b31b5f21e3/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7b9082ab-de06-4076-8262-177e652ba1ef/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b20d85d9-5d8f-412a-b367-35921c2508d8/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/9c2b7d87-c873-4ca8-9d56-4262214954d9/_"
         }
       ]
     },
@@ -644,7 +1472,7 @@
       ]
     },
     {
-      "name": "Arthdal Chronicles อาธดัล สงครามสยบบัลลังก์ Season 2 EP.1-12 (กำลังรอฉาย)",
+      "name": "Arthdal Chronicles อาธดัล สงครามสยบบัลลังก์ Season 2 EP.1-12 (จบ)",
       "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/Arthdal-Chronicles-Season2-185x278.webp",
       "info": "ซีรีย์เกาหลี",
       "stations": [
@@ -707,6 +1535,18 @@
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/Arthdal-Chronicles-Season2-185x278.webp",
           "url": "https://playcdn.tvallseries.com/5326990f-736d-42d6-bbeb-8f92148bcd5f/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/Arthdal-Chronicles-Season2-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e4c802e0-0855-49fd-87d7-9feb0bee91bf/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 12 (ตอนจบ)",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/Arthdal-Chronicles-Season2-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/07620032-9771-46c7-b344-f31a96b11cc4/_"
         }
       ]
     },
@@ -992,11 +1832,41 @@
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/The-Escape-of-the-Seven-2023-185x278.webp",
           "url": "https://playcdn.tvallseries.com/ebc98439-fc39-4475-8448-faa2687abc05/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/The-Escape-of-the-Seven-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/805729fd-6047-46ee-bae1-7c207c457dab/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/The-Escape-of-the-Seven-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/d787845f-b348-4d0b-8998-bd7c9d068b59/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/The-Escape-of-the-Seven-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e49c8d25-1fcf-4388-820a-61fa6377c549/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/The-Escape-of-the-Seven-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/aa0ddd9f-2a36-4a4e-8c1e-7dee37b82f8a/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/The-Escape-of-the-Seven-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/326b6da4-5a74-4ef3-8b44-28325989a417/_"
         }
       ]
     },
     {
-      "name": "The Kidnapping Day (2023) วันลักพาตัว EP.1-12 (กำลังรอฉาย)",
+      "name": "The Kidnapping Day (2023) วันลักพาตัว EP.1-12 (จบ)",
       "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-185x278.webp",
       "info": "ซีรีย์เกาหลี",
       "stations": [
@@ -1058,13 +1928,19 @@
           "name": "ซีซั่น 1 ตอนที่ 10",
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/49cf5a9a-6c87-445f-abe2-850ee49f0ab5/_"
+          "url": "https://playcdn.tvallseries.com/0fe8c0f0-bb5f-4252-a151-036c0a4b772d/_"
         },
         {
           "name": "ซีซั่น 1 ตอนที่ 11",
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-185x278.webp",
-          "url": "https://playcdn.tvallseries.com/8da27d5d-86b4-4c42-8329-08e9e39725be/_"
+          "url": "https://playcdn.tvallseries.com/e12b6e66-7997-49cd-a119-6bf9c158281f/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 12 (ตอนจบ)",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/09/The-Kidnapping-Day-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/8713cf6a-af16-4f31-8ecd-d9fe55143b09/_"
         }
       ]
     },
@@ -1972,10 +2848,22 @@
           "url": "https://playcdn.tvallseries.com/97e90a8f-d948-422c-8772-bf48174fdf57/_"
         },
         {
-          "name": "ซีซั่น 1 ตอนที่ 9 (รอฉายทุกวันพฤหัสบดี)",
+          "name": "ซีซั่น 1 ตอนที่ 9",
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-185x278.webp",
           "url": "https://playcdn.tvallseries.com/d500f278-1c4f-4d05-b6ee-427e52cea6c1/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ae68005e-4e4b-4f88-ae16-b1bc6712e014/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/08/The-Killing-Vote-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/bbddc171-a720-47b8-996e-37b2428d5ab0/_"
         }
       ]
     },
@@ -2091,43 +2979,43 @@
           "name": "ซีซั่น 1 ตอนที่ 1",
           "info": "พากย์ไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/08/Mask-Girl-2023.webp",
-          "url": "https://playcdn.tvallseries.com/bc26d473-361e-4f46-b3fb-32fe45f247ce/_"
+          "url": "https://playcdn.tvallseries.com/e09fae46-fcef-436f-9d90-e117f49f6653/_"
         },
         {
           "name": "ซีซั่น 1 ตอนที่ 2",
           "info": "พากย์ไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/08/Mask-Girl-2023.webp",
-          "url": "https://playcdn.tvallseries.com/3cc1835b-63fe-4ddd-9a56-4cb82ca65b70/_"
+          "url": "https://playcdn.tvallseries.com/3addf5bc-df71-462d-a3a2-9c12e2c5439e/_"
         },
         {
           "name": "ซีซั่น 1 ตอนที่ 3",
           "info": "พากย์ไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/08/Mask-Girl-2023.webp",
-          "url": "https://playcdn.tvallseries.com/af4a55fd-c847-4572-8fda-08cba1ce6c8a/_"
+          "url": "https://playcdn.tvallseries.com/0e6c762c-1583-465b-8f13-3449256d33e0/_"
         },
         {
           "name": "ซีซั่น 1 ตอนที่ 4",
           "info": "พากย์ไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/08/Mask-Girl-2023.webp",
-          "url": "https://playcdn.tvallseries.com/01ca94dc-3d21-4ede-9a63-070f693e9a44/_"
+          "url": "https://playcdn.tvallseries.com/22958801-e3ad-420a-9093-75a632893b1e/_"
         },
         {
           "name": "ซีซั่น 1 ตอนที่ 5",
           "info": "พากย์ไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/08/Mask-Girl-2023.webp",
-          "url": "https://playcdn.tvallseries.com/7f57863b-7c19-4eac-bf1c-734e4ca2bc65/_"
+          "url": "https://playcdn.tvallseries.com/8a858e7e-b118-4b88-ac96-4eebae0463de/_"
         },
         {
           "name": "ซีซั่น 1 ตอนที่ 6",
           "info": "พากย์ไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/08/Mask-Girl-2023.webp",
-          "url": "https://playcdn.tvallseries.com/577fbde5-dc4d-47ae-8ff5-21cf079cced8/_"
+          "url": "https://playcdn.tvallseries.com/9818c04c-5014-4aa3-ad03-05ba7c3df5e6/_"
         },
         {
           "name": "ซีซั่น 1 ตอนที่ 7 (ตอนจบ)",
           "info": "พากย์ไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/08/Mask-Girl-2023.webp",
-          "url": "https://playcdn.tvallseries.com/bd769dfc-ef2c-4247-9982-941642ddf75e/_"
+          "url": "https://playcdn.tvallseries.com/930c6a02-5704-42a9-a165-6683da8c1bae/_"
         }
       ]
     },
@@ -3436,6 +4324,42 @@
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/07/The-Real-Has-Come-2023-e1690432501373-185x278.webp",
           "url": "https://playcdn.tvallseries.com/025c8607-b05f-43a2-8826-999200cd2297/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 41",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/07/The-Real-Has-Come-2023-e1690432501373-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/33ffcfbe-d8d7-429b-b32c-1cb530f890a7/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 42",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/07/The-Real-Has-Come-2023-e1690432501373-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/26ad4bd7-fd84-42b8-b6f8-830200f4281d/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 43",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/07/The-Real-Has-Come-2023-e1690432501373-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e05640ab-27c2-4b8b-a7a2-4ec271bdbd7d/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 44",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/07/The-Real-Has-Come-2023-e1690432501373-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/4a56ef91-4c65-424d-9a23-206641614dc8/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 45",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/07/The-Real-Has-Come-2023-e1690432501373-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/ded6c3f1-e564-403a-9c27-69bee9cac3f0/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 46",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/07/The-Real-Has-Come-2023-e1690432501373-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b7b41f25-1a60-4302-9704-decefafd5bc5/_"
         }
       ]
     },
