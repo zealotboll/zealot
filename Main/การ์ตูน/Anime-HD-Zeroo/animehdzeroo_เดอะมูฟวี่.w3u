@@ -1,10 +1,138 @@
 {
   "name": "Anime-HD-Zeroo เดอะมูฟวี่",
-  "author": "By iball อัพวันที่ 11/11/2023",
+  "author": "By iball อัพวันที่ 13/11/2023",
   "info":"ทำแจกฟรี 100 %",
   "image": "https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
   "groups": 
 	[
+		{
+				"name":"Green Lantern Beware My Powe ซับไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/08/24/73ca43081684a547e87ed91186505f71.jpg",
+				"stations": 
+					[
+						{
+							"name":"Green Lantern Beware My Powe ซับไทย",
+							"info":"Green Lantern Beware My Powe ซับไทย เดอะมุฟวี่",
+							"image":"https://img.shirokami.me/images/2023/08/24/73ca43081684a547e87ed91186505f71.jpg",
+							"url":"https://files.akuma-player.xyz/view/e0c224cd-fb79-5f17-a441-b1ff3915796f.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"Lego Star Wars Summer Vacation วันหยุดฤดูร้อน พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/08/24/9acaf5ba1ceee8527095247640f51b22.jpg",
+				"stations": 
+					[
+						{
+							"name":"Lego Star Wars Summer Vacation วันหยุดฤดูร้อน พากย์ไทย",
+							"info":"วันหยุดฤดูร้อน พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/08/24/9acaf5ba1ceee8527095247640f51b22.jpg",
+							"url":"https://files.akuma-player.xyz/view/b341c53a-dd1d-5345-b4cd-7c0a064d3cbb.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"Snoopy Presents Lucy's School (2022)โรงเรียนของลูซี่ พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/08/24/d8514fdf71ee8625990de6b496c7138a.jpg",
+				"stations": 
+					[
+						{
+							"name":"Snoopy Presents Lucy's School (2022)โรงเรียนของลูซี่ พากย์ไทย",
+							"info":"โรงเรียนของลูซี่ พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/08/24/d8514fdf71ee8625990de6b496c7138a.jpg",
+							"url":"https://files.akuma-player.xyz/view/dc039613-9bf4-5bad-9c97-3e676fac5813.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"Moero!! Robocon vs. Ganbare!! Robocon โมเอโร!! โรโบคอน vs กันบาเระ!! โรโบคอน พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/08/24/3b6c4086344f74608ccfb5f75dad4b70.jpg",
+				"stations": 
+					[
+						{
+							"name":"Moero!! Robocon vs. Ganbare!! Robocon โมเอโร!! โรโบคอน vs กันบาเระ!! โรโบคอน พากย์ไทย",
+							"info":"โรโบคอน พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/08/24/3b6c4086344f74608ccfb5f75dad4b70.jpg",
+							"url":"https://files.akuma-player.xyz/view/eed712d4-34d5-5ed3-a01f-fcbf0f24a338.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"My Little Pony Equestria Girls – Forgotten Friendship มิตรภาพที่ถูกลืม พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/08/24/4edd56d5159c3fa10f2cd931e4010627.png",
+				"stations": 
+					[
+						{
+							"name":"My Little Pony Equestria Girls – Forgotten Friendship มิตรภาพที่ถูกลืม พากย์ไทย",
+							"info":"มิตรภาพที่ถูกลืม พากย์ไทยเดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/08/24/4edd56d5159c3fa10f2cd931e4010627.png",
+							"url":"https://files.akuma-player.xyz/view/dacf9848-ce9a-5b5f-8a45-83d154320934.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"My Little Pony Equestria Girls - Legend of Everfree ตำนานแห่งป่าเอเวอร์ฟรี พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/08/24/21db994c223f699791c3c1b22a3f4e34.png",
+				"stations": 
+					[
+						{
+							"name":"My Little Pony Equestria Girls - Legend of Everfree ตำนานแห่งป่าเอเวอร์ฟรี พากย์ไทย",
+							"info":"ตำนานแห่งป่าเอเวอร์ฟรี พากย์ไทย",
+							"image":"https://img.shirokami.me/images/2023/08/24/21db994c223f699791c3c1b22a3f4e34.png",
+							"url":"https://files.akuma-player.xyz/view/306b21e5-84f4-5f03-870c-0559855026a6.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"LEGO Disney Princess The Castle Quest เลโก้ดิสนีย์ปรินเซสเดอะคาสเซิลเควสท์ ซับไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/08/24/8bfc50ebae19e9505731ee0c659e840f.jpg",
+				"stations": 
+					[
+						{
+							"name":"LEGO Disney Princess The Castle Quest เลโก้ดิสนีย์ปรินเซสเดอะคาสเซิลเควสท์ ซับไทย",
+							"info":"ซับไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/08/24/8bfc50ebae19e9505731ee0c659e840f.jpg",
+							"url":"https://files.akuma-player.xyz/view/fc22144a-edd2-5629-a18e-2c321d2132df.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"Snoopy Presents: One-of-a-Kind Marcie (2023) ซับไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/08/21/c1e01e9122e2cbeb3e14f7f782ee2ac6.webp",
+				"stations": 
+					[
+						{
+							"name":"Snoopy Presents: One-of-a-Kind Marcie (2023) ซับไทย",
+							"info":"เดอะมูฟวี่ ซับไทย",
+							"image":"https://img.shirokami.me/images/2023/08/21/c1e01e9122e2cbeb3e14f7f782ee2ac6.webp",
+							"url":"https://files.akuma-player.xyz/view/c49e65ec-cad8-5483-95d7-2a2c6400601e.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
 		{
 				"name":"The Monkey King (2023) พญาวานร พากย์ไทย",
 				"info":"",
