@@ -1,10 +1,181 @@
 {
   "name": "Anime-HD-Zeroo เดอะมูฟวี่",
-  "author": "By iball อัพวันที่ 13/11/2023",
+  "author": "By iball อัพวันที่ 17/11/2023",
   "info":"ทำแจกฟรี 100 %",
   "image": "https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
   "groups": 
 	[
+		{
+				"name":"The First Slam Dunk เดอะ เฟิสต์ สแลมดังก์ The Movie พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/09/07/6ea6c85ba512d989aa28c937eeaf2c3e.jpg",
+				"stations": 
+					[
+						{
+							"name":"The First Slam Dunk เดอะ เฟิสต์ สแลมดังก์ The Movie พากย์ไทย",
+							"info":"The Movie พากย์ไทย",
+							"image":"https://img.shirokami.me/images/2023/09/07/6ea6c85ba512d989aa28c937eeaf2c3e.jpg",
+							"url":"https://files.akuma-player.xyz/view/7bede75f-ca95-515e-a7e9-d8ff1017a79c.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"My Little Pony Equestria Girls มาย ลิตเติ้ล โพนี่: เอเควสเทรีย เกิร์ลส์ พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/09/06/27f1a4aa7a023069bd08351cc99d7c58.jpg",
+				"stations": 
+					[
+						{
+							"name":"My Little Pony Equestria Girls มาย ลิตเติ้ล โพนี่: เอเควสเทรีย เกิร์ลส์ มายากลกระจก พากย์ไทย",
+							"info":"มายากลกระจก พากย์ไทย",
+							"image":"https://img.shirokami.me/images/2023/09/06/27f1a4aa7a023069bd08351cc99d7c58.jpg",
+							"url":"https://files.akuma-player.xyz/view/d1a40c74-834b-5181-af2a-f83aa2f92e63.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						{
+							"name":"My Littie Pony Equestria Dance Magic มาย ลิตเติ้ล โพนี่ อีเควสเทรีย เกิร์ลส์: แดนซ์ เมจิก พากย์ไทย",
+							"info":"แดนซ์ เมจิก พากย์ไทย",
+							"image":"https://img.shirokami.me/images/2023/09/06/27f1a4aa7a023069bd08351cc99d7c58.jpg",
+							"url":"https://files.akuma-player.xyz/view/70285fea-09fa-5a46-8f0e-82508280c232.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						{
+							"name":"My Little Pony Equestria Girls มาย ลิตเติ้ล โพนี่ เอเควสเทรีย เกิร์ล พาวเวอร์ โพนี่ พากย์ไทย",
+							"info":"พาวเวอร์ โพนี่ พากย์ไทย",
+							"image":"https://img.shirokami.me/images/2023/09/06/27f1a4aa7a023069bd08351cc99d7c58.jpg",
+							"url":"https://files.akuma-player.xyz/view/472039cf-3343-5718-8b84-f8307abf9e8f.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+					]
+			},
+		{
+				"name":"My Little Pony Equestria Girls – Rollercoaster of Friendship รถไฟเหาะเเห่งมิตรภาพ พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/09/06/8fd3e8a165a878e4fc7a26a882ccd420.png",
+				"stations": 
+					[
+						{
+							"name":"My Little Pony Equestria Girls – Rollercoaster of Friendship รถไฟเหาะเเห่งมิตรภาพ พากย์ไทย",
+							"info":"รถไฟเหาะเเห่งมิตรภาพ พากย์ไทย",
+							"image":"https://img.shirokami.me/images/2023/09/06/8fd3e8a165a878e4fc7a26a882ccd420.png",
+							"url":"https://files.akuma-player.xyz/view/653482e2-704d-524a-9b06-215dd54006c3.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"Crayon shin-chan the storm called! operation golden spy ชินจังจอมแก่น ตอนพยัคฆ์ร้ายสายลับ พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/09/05/7177348601bf6d4b72f7ca61c8d069bb.jpg",
+				"stations": 
+					[
+						{
+							"name":"Crayon shin-chan the storm called! operation golden spy ชินจังจอมแก่น ตอนพยัคฆ์ร้ายสายลับ พากย์ไทย",
+							"info":"พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/09/05/7177348601bf6d4b72f7ca61c8d069bb.jpg",
+							"url":"https://files.akuma-player.xyz/view/6c015ab2-4ab5-5db2-bc52-70eb26938fe8.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"Ranma ½ The Movie The Battle of Nekonron The Fight to Break the Rules! (1991) รันม่า1/2 เดอะมูฟวี่ : บุกตะลุยเมืองจีน พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/09/04/8f92871cbbfa54ad41b5657c643743b0.jpg",
+				"stations": 
+					[
+						{
+							"name":"Ranma ½ The Movie 2 The Battle of Togenkyo Rescue the Brides! (1992)รันม่า1/2 เดอะมูฟวี่ : บุกตะลุยเมืองจีน พากย์ไทย",
+							"info":"เดอะมูฟวี่ : บุกตะลุยเมืองจีน พากย์ไทย",
+							"image":"https://img.shirokami.me/images/2023/09/04/8f92871cbbfa54ad41b5657c643743b0.jpg",
+							"url":"https://files.akuma-player.xyz/view/6ea8e6b0-b238-542e-8ff0-ab230c4ae70e.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+					
+					]
+			},
+		{
+				"name":"Ranma ½ The Movie 2 The Battle of Togenkyo Rescue the Brides! (1992)รันม่า1/2 เดอะมูฟวี่ : บุกตะลุยเมืองจีน พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/09/04/98256acc4bb6233170078e9ed2f9372b.jpg",
+				"stations": 
+					[
+						{
+							"name":"Ranma ½ The Movie 2 The Battle of Togenkyo Rescue the Brides! (1992)รันม่า1/2 เดอะมูฟวี่ : บุกตะลุยเมืองจีน พากย์ไทย",
+							"info":"เดอะมูฟวี่ 2: บุกตะลุยเมืองจีน พากย์ไทย",
+							"image":"https://img.shirokami.me/images/2023/09/04/98256acc4bb6233170078e9ed2f9372b.jpg",
+							"url":"https://files.akuma-player.xyz/view/d839cb46-aaf9-5365-90a0-38d9f12e92ea.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+					
+					]
+			},
+		{
+				"name":"Bakuryuu Sentai Abaranger with Donbrothers ซับไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/09/04/81f8462af329a1d5fe24fc22cad871b2.webp",
+				"stations": 
+					[
+						{
+							"name":"Bakuryuu Sentai Abaranger with Donbrothers ซับไทย",
+							"info":"ตอนพิเศษ ซับไทย",
+							"image":"https://img.shirokami.me/images/2023/09/04/81f8462af329a1d5fe24fc22cad871b2.webp",
+							"url":"https://files.akuma-player.xyz/view/47a8129d-9e57-5019-a2a5-e10965bb7d1b.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+					]
+			},
+		{
+				"name":"Crayon Shin-chan- Mononoke Ninja Chinpuden (2022) ชินจัง เดอะมูฟวี่ ตอน นินจาคาถาวายุอลเวง พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/09/04/98bf7e600cb86ec8997797ded9e4d4e6.jpg",
+				"stations": 
+					[
+						{
+							"name":"Crayon Shin-chan- Mononoke Ninja Chinpuden (2022) ชินจัง เดอะมูฟวี่ ตอน นินจาคาถาวายุอลเวง พากย์ไทย",
+							"info":"พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/09/04/98bf7e600cb86ec8997797ded9e4d4e6.jpg",
+							"url":"https://files.akuma-player.xyz/view/35d70c2c-40d5-52b1-92d5-ab13276e9cf0.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+					]
+			},
+		{
+				"name":"Kimi wo Aishita Hitori no Boku e ถึงผมคนหนึ่งที่รักเธอ ซับไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/09/03/3a1f2844a35f8837c1d8c6bff10fe48f.jpg",
+				"stations": 
+					[
+						{
+							"name":"Kimi wo Aishita Hitori no Boku e ถึงผมคนหนึ่งที่รักเธอ ซับไทย",
+							"info":"ซับไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/09/03/3a1f2844a35f8837c1d8c6bff10fe48f.jpg",
+							"url":"https://files.akuma-player.xyz/view/5235890f-5a9c-5948-b54e-42ceb3d0b75f.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+					
+					]
+			},
+		{
+				"name":"Miraculous- Ladybug & Cat Noir, The Movie (2023) มหัศจรรย์สาวเลดี้บั๊ก เดอะมูฟวี่ ซับไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/08/31/3b430f36bc053bff6fc7e81b32a989bd.jpg",
+				"stations": 
+					[
+						{
+							"name":"Miraculous- Ladybug & Cat Noir, The Movie (2023) มหัศจรรย์สาวเลดี้บั๊ก เดอะมูฟวี่ ซับไทย",
+							"info":"มหัศจรรย์สาวเลดี้บั๊ก เดอะมูฟวี่ ซับไทย",
+							"image":"https://img.shirokami.me/images/2023/08/31/3b430f36bc053bff6fc7e81b32a989bd.jpg",
+							"url":"https://files.akuma-player.xyz/view/b6fe6299-0bb8-5e26-9d6e-33062fed6bba.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
 		{
 				"name":"Green Lantern Beware My Powe ซับไทย",
 				"info":"",
