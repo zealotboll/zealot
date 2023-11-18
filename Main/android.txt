@@ -12,6 +12,12 @@
 	"url":"https://pastebin.com/raw/85xPY9SY",
 	"import":"true"
   },
+  {	
+	"name":"AIS FREE TV",
+	"image":"https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png",
+	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/TV/freetv.txt",
+	"import":"true"
+  },
   {
 	"name":"รวมช่อง TV", 
 	"image":"https://wpprotools.io/assets/posts/47007-icon.png",
@@ -24,31 +30,31 @@
 	 "import":"true"
   },
   {
-	"name":"🦭Movie & Series", 
+	"name":"Movie & Series", 
 	"image":"https://sv1.picz.in.th/images/2023/03/01/ef5LdJ.gif",
 	"url":"https://pastebin.com/raw/h6MtXfMf",
 	"import":"true"
   },
   {
-	"name":"🦭การ์ตูน", 
+	"name":"การ์ตูน", 
 	"image":"https://th.bing.com/th/id/OIP.tZyIDIzGlkyuUrwgP2Xp2gAAAA?pid=ImgDet&rs=1",
 	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/การ์ตูน.txt",
 	"import":"true"
   },
   {
-	"name":"🦭9NUNGHD", 
+	"name":"9NUNGHD", 
 	"image":"https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
 	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/9nunghd/รวม9.txt",
 	"import":"true"
   },
   {
-	"name":"🦭SERIES DAY", 
+	"name":"SERIES DAY", 
 	"image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/seriesday/รวม.w3u",
 	"import":"true"
   },
   {
-	"name":"🦭123-HD", 
+	"name":"123-HD", 
 	"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
 	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/123HD/123hd.txt",
 	"import":"true"
@@ -60,25 +66,25 @@
 	"import":"true"
   },
   {
-	"name":"🦭Dooseries4k", 
+	"name":"Dooseries4k", 
 	"image":"https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
 	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/DooSeries4K/รวม.txt",
 	"import":"true"
   },
   {
-	"name":"🦭7yup🐒", 
+	"name":"7yup", 
 	"image":"https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
 	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/7yup.net/รวม.txt",
 	"import":"true"
   },
   {
-	"name":"🦭FW4FREE", 
+	"name":"FW4FREE", 
 	"image":"https://fw4free.com/images/logo7.png",
 	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/FW4FREE/FW4FREE.w3u",
 	"import":"true"
   },
   {
-	"name":"🦭TVAllseries", 
+	"name":"TVAllseries", 
 	"image":"https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
 	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/TvAllSeries/tv_all_group.txt",
 	"import":"true"
@@ -96,7 +102,7 @@
 	"import":"true"
   },
   {
-	"name":"🦭Watchlakorn.in", 
+	"name":"Watchlakorn.in", 
 	"image":"https://cdn.watchlakorn.in/images/video_logo.png",
 	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/watchlakorn_group.txt",
 	"import":"true"
@@ -108,13 +114,13 @@
 	"import":"true"
   },
   {
-	"name":"🦭nung2hdd🐒", 
+	"name":"nung2hdd", 
 	"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
 	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Nung2hdd/รวม.txt",
 	"import":"true"
   },
   {
-	"name":"🦭Series-Indy🐒", 
+	"name":"Series-Indy", 
 	"image":"https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
 	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Series-Indy/0รวมseries-indy.w3u",
 	"import":"true"

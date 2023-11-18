@@ -13,15 +13,9 @@
 	"import":"true"
   },
   {	
-	"name":"AIS TV FREE",
+	"name":"AIS FREE TV",
 	"image":"https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png",
 	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/TV/freetv.txt",
-	"import":"true"
-  },
-   {	
-	"name":"AIS TV FREE 2",
-	"image":"https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png",
-	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/TV/AISPLAYLIVE.m3u",
 	"import":"true"
   },
   {
