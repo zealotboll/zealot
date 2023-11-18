@@ -17,21 +17,21 @@
 				"name":"TBS",
 				"info":"",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-				"url":"https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0014/DASH/B0014.mpd",
+				"url":"https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0014/HLS/B0014-avc1_3000000=5-mp4a_96000_tha=2.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"ALTV4",
 				"info":"",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",
-				"url":"https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0085/DASH/V0085.mpd",
+				"url":"https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0085/HLS/V0085-avc1_3000000=5-mp4a_96000_tha=2.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"5HD",
 				"info":"",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",
-				"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0007/DASH/B0007.mpd",
+				"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0007/HLS/B0007-avc1_3000000=5-mp4a_96000_tha=2.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 						{
