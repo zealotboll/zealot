@@ -12,6 +12,12 @@
 	"url":"https://pastebin.com/raw/85xPY9SY",
 	"import":"true"
   },
+  {	
+	"name":"AIS TV FREE",
+	"image":"https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png",
+	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/TV/freetv.txt",
+	"import":"true"
+  },
   {
 	"name":"รวมช่อง TV", 
 	"image":"https://wpprotools.io/assets/posts/47007-icon.png",
