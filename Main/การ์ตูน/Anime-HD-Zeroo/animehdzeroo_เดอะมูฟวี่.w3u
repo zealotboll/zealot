@@ -4,8 +4,88 @@
   "info":"ทำแจกฟรี 100 %",
   "image": "https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
   "groups": 
-	[
-		{
+		[
+			{
+				"name":"Scarygirl สาวน่ากลัว ซับไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/10/18/a10698e0af31bab5ef81b6f9fe16c27f.jpg",
+				"stations": 
+					[
+						{
+							"name":"Scarygirl สาวน่ากลัว ซับไทย",
+							"info":"ซับไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/10/18/a10698e0af31bab5ef81b6f9fe16c27f.jpg",
+							"url":"https://files.akuma-player.xyz/view/49da5760-cd5b-5521-a7f9-29278ae76890.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+			{
+				"name":"Mortal Kombat Legends Cage Match มอร์ทัลคอมแบตตำนานเคจแมทซ์ ซับไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/10/15/62051804c754f019b13e37804450b8f7.jpg",
+				"stations": 
+					[
+						{
+							"name":"Mortal Kombat Legends Cage Match มอร์ทัลคอมแบตตำนานเคจแมทซ์ ซับไทย",
+							"info":"ซับไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/10/15/62051804c754f019b13e37804450b8f7.jpg",
+							"url":"https://files.akuma-player.xyz/view/3749598e-9b1b-518d-aa53-920a23dc21e3.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+			{
+				"name":"Strawberry Shortcake and the Beast of Berry Bog (2023) สตรอเบอรี่ชอร์ทเค้กกับเจ้าเบอร์รี่บ้อก พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/10/14/6706c3d94a066c1938f6acab2d75ed30.jpg",
+				"stations": 
+					[
+						{
+							"name":"Strawberry Shortcake and the Beast of Berry Bog (2023) สตรอเบอรี่ชอร์ทเค้กกับเจ้าเบอร์รี่บ้อก พากย์ไทย",
+							"info":"พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/10/14/6706c3d94a066c1938f6acab2d75ed30.jpg",
+							"url":"https://files.akuma-player.xyz/view/31322eba-b78d-5e4b-9bde-1296711d7a5a.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+			{
+				"name":"Sasaki and Miyano Graduation ซาซากิกับมิยาโนะ เดอะ มูฟวี่ ภาคจบการศึกษา ซับไทย",
+				"info":"เดอะ มูฟวี่ ภาคจบการศึกษา ซับไทย",
+				"image":"https://img.shirokami.me/images/2023/10/09/4a02f26b5f037f370cee47bfd9999088.webp",
+				"stations": 
+					[
+						{
+							"name":"Sasaki and Miyano Graduation ซาซากิกับมิยาโนะ เดอะ มูฟวี่ ภาคจบการศึกษา ซับไทย",
+							"info":"เดอะ มูฟวี่ ภาคจบการศึกษา ซับไทย",
+							"image":"https://img.shirokami.me/images/2023/10/09/4a02f26b5f037f370cee47bfd9999088.webp",
+							"url":"https://files.akuma-player.xyz/view/cf1abfe6-1608-572f-bed8-45ab32036feb.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+			{
+				"name":"Crayon Shin-chan Movie ชินจังเดอะมูฟวี่ ตอน ปริศนา! บุปผาแห่งโรงเรียนเทนคะสุ พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/10/09/3754a553b6cbcf9007dee705be0ad111.jpg",
+				"stations": 
+					[
+						{
+							"name":"Crayon Shin-chan Movie ชินจังเดอะมูฟวี่ ตอน ปริศนา! บุปผาแห่งโรงเรียนเทนคะสุ พากย์ไทย",
+							"info":"พากย์ไทย",
+							"image":"https://img.shirokami.me/images/2023/10/09/3754a553b6cbcf9007dee705be0ad111.jpg",
+							"url":"https://files.akuma-player.xyz/view/921ba32c-266a-51fb-8050-e4709e3e1842.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+			{
 				"name":"Doraemon Movie Nobita to Sora no Utopia โดราเอมอนเดอะมูฟวี่: ฟากฟ้าแห่งยูโทเปียของโนบิตะ [เสียงไทยโรง]",
 				"info":"",
 				"image":"https://img.shirokami.me/images/2023/10/07/e166839605ec6f6787ea11280f658658.jpg",
@@ -21,7 +101,7 @@
 						
 					]
 			},
-		{
+			{
 			"name":"Jujutsu Kaisen 0 The Movie มหาเวทย์ผนึกมาร ซีโร่ เดอะมูฟวี่ 2022",
 			"info":"",
 			"image":"https://img.shirokami.me/images/2023/10/04/719a8413c96dc9b8fb57cc88bb8e1013.jpg",
@@ -42,8 +122,8 @@
 						"referer":"https://www.animehdzeroo.com/"	
 					},
 				]
-		},
-		{
+			},
+			{
 				"name":"Crayon Shin-chan Movie ชินจังเดอะมูฟวี่ ตอน ผจญภัยต่างแดนกับสงครามกระบองเพชรยักษ์ พากย์ไทย",
 				"info":"",
 				"image":"https://img.shirokami.me/images/2023/10/03/6600133c37e990e5ddc1f3510b0335c0.jpg",
@@ -59,7 +139,7 @@
 						
 					]
 			},
-		{
+			{
 				"name":"Monster Family ครอบครัวตัวป่วนก๊วนปีศาจ พากย์ไทย",
 				"info":"",
 				"image":"https://img.shirokami.me/images/2023/09/29/297b6dc34a4aaf36e98e614afcb1342a.jpg",
@@ -75,7 +155,7 @@
 						
 					]
 			},
-		{
+			{
 				"name":"Loving Vincent ภาพสุดท้ายของแวนโก๊ะ ซับไทย",
 				"info":"",
 				"image":"https://img.shirokami.me/images/2023/09/29/fc735d6ff318705465da12ec53cfb9a6.jpg",
@@ -91,7 +171,7 @@
 						
 					]
 			},
-		{
+			{
 				"name":"Ballerina บัลเลริน่า สาวน้อยเขย่งฝัน พากย์ไทย",
 				"info":"",
 				"image":"https://img.shirokami.me/images/2023/09/29/d51f252557ef784fc4c4908ee6c2f4c3.jpg",
@@ -107,7 +187,7 @@
 						
 					]
 			},
-		{
+			{
 				"name":"Scooby-Doo! And Krypto, Too! (2023) สคูบี้ดู!และคริปโต! ซับไทย",
 				"info":"",
 				"image":"https://img.shirokami.me/images/2023/09/29/f14c2e39438b438bd10f0037ab925b03.jpg",
@@ -123,7 +203,7 @@
 						
 					]
 			},
-		{
+			{
 				"name":"Sword Art Online Progressive Scherzo of Deep Night ซอร์ด อาร์ต ออนไลน์ โปรเกรสซีฟ: สแกรโซแห่งสนธยาโศก พากย์ไทย",
 				"info":"",
 				"image":"https://img.shirokami.me/images/2023/09/27/7f6e93ded930b3b837ec6bb9591572d4.jpg",
@@ -139,7 +219,7 @@
 						
 					]
 			},
-		{
+			{
 				"name":"Ultraman Trigger episode z",
 				"info":"",
 				"image":"https://img.shirokami.me/images/2022/03/23/05d5405c1513624171fbc978206264bb.webp",
@@ -161,7 +241,7 @@
 						},
 					]
 			},
-		{
+			{
 				"name":"Crayon Shin-chan Movie ชินจังจอมแก่น ตอนศึกยอดคุณพ่อโรบอท พากย์ไทย",
 				"info":"",
 				"image":"https://img.shirokami.me/images/2023/09/26/c5f1f164fb7beb31824059a8e1245e31.webp",
