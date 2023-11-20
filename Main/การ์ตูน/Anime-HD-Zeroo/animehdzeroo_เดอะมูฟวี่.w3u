@@ -6,6 +6,108 @@
   "groups": 
 	[
 		{
+			"name":"Jujutsu Kaisen 0 The Movie มหาเวทย์ผนึกมาร ซีโร่ เดอะมูฟวี่ 2022",
+			"info":"",
+			"image":"https://img.shirokami.me/images/2023/10/04/719a8413c96dc9b8fb57cc88bb8e1013.jpg",
+			"stations": 
+				[
+					{
+						"name":"Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร ซีโร่ พากย์ไทย",
+						"info":"เดอะมูฟวี่ พากย์ไทย",
+						"image":"https://img.shirokami.me/images/2022/09/30/5bfcc22ab44d14589516e6eb1a4d53a8.jpg",
+						"url":"https://files.akuma-player.xyz/view/1984df41-148b-54e2-9e12-72e120b3a5a7.m3u8",
+						"referer":"https://www.animehdzeroo.com/"	
+					},
+					{
+						"name":"Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร ซีโร่ ซับไทย",
+						"info":"เดอะมูฟวี่ ซับไทย",
+						"image":"https://img.shirokami.me/images/2022/09/22/35e3ec79e93e97a534ff45d19fdefda4.jpg",
+						"url":"https://files.akuma-player.xyz/view/6b077b2f-1afa-53b4-97cc-159dcda66c0f.m3u8",
+						"referer":"https://www.animehdzeroo.com/"	
+					},
+				]
+		},
+		{
+				"name":"Crayon Shin-chan Movie ชินจังเดอะมูฟวี่ ตอน ผจญภัยต่างแดนกับสงครามกระบองเพชรยักษ์ พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/10/03/6600133c37e990e5ddc1f3510b0335c0.jpg",
+				"stations": 
+					[
+						{
+							"name":"Crayon Shin-chan Movie ชินจังเดอะมูฟวี่ ตอน ผจญภัยต่างแดนกับสงครามกระบองเพชรยักษ์ พากย์ไทย",
+							"info":"พากย์ไทย",
+							"image":"https://img.shirokami.me/images/2023/10/03/6600133c37e990e5ddc1f3510b0335c0.jpg",
+							"url":"https://files.akuma-player.xyz/view/9cc365a3-ba9e-5085-af0d-cd58bea8457e.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"Monster Family ครอบครัวตัวป่วนก๊วนปีศาจ พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/09/29/297b6dc34a4aaf36e98e614afcb1342a.jpg",
+				"stations": 
+					[
+						{
+							"name":"Monster Family ครอบครัวตัวป่วนก๊วนปีศาจ พากย์ไทย",
+							"info":"พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/09/29/297b6dc34a4aaf36e98e614afcb1342a.jpg",
+							"url":"https://files.akuma-player.xyz/view/ff8e2b14-adf8-5070-a5f7-ab7aa1cce3c4.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"Loving Vincent ภาพสุดท้ายของแวนโก๊ะ ซับไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/09/29/fc735d6ff318705465da12ec53cfb9a6.jpg",
+				"stations": 
+					[
+						{
+							"name":"Loving Vincent ภาพสุดท้ายของแวนโก๊ะ ซับไทย",
+							"info":"ซับไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/09/29/fc735d6ff318705465da12ec53cfb9a6.jpg",
+							"url":"https://files.akuma-player.xyz/view/8056d3bc-c321-5db6-b0c9-add76b97dfe4.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"Ballerina บัลเลริน่า สาวน้อยเขย่งฝัน พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/09/29/d51f252557ef784fc4c4908ee6c2f4c3.jpg",
+				"stations": 
+					[
+						{
+							"name":"Ballerina บัลเลริน่า สาวน้อยเขย่งฝัน พากย์ไทย",
+							"info":"พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/09/29/d51f252557ef784fc4c4908ee6c2f4c3.jpg",
+							"url":"https://files.akuma-player.xyz/view/74e0e308-4a33-5a05-b668-0f73b6af360d.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
+				"name":"Scooby-Doo! And Krypto, Too! (2023) สคูบี้ดู!และคริปโต! ซับไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/09/29/f14c2e39438b438bd10f0037ab925b03.jpg",
+				"stations": 
+					[
+						{
+							"name":"Scooby-Doo! And Krypto, Too! (2023) สคูบี้ดู!และคริปโต! ซับไทย",
+							"info":"ซับไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/09/29/f14c2e39438b438bd10f0037ab925b03.jpg",
+							"url":"https://files.akuma-player.xyz/view/1141f4e7-4a21-5f26-ac5f-4dd8db9fd647.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+		{
 				"name":"Sword Art Online Progressive Scherzo of Deep Night ซอร์ด อาร์ต ออนไลน์ โปรเกรสซีฟ: สแกรโซแห่งสนธยาโศก พากย์ไทย",
 				"info":"",
 				"image":"https://img.shirokami.me/images/2023/09/27/7f6e93ded930b3b837ec6bb9591572d4.jpg",
@@ -1014,28 +1116,6 @@
 						"referer":"https://www.animehdzeroo.com/"	
 					},
 					
-				]
-		},
-		{
-			"name":"Jujutsu Kaisen 0 The Movie มหาเวทย์ผนึกมาร ซีโร่ เดอะมูฟวี่ 2022",
-			"info":"",
-			"image":"https://img.shirokami.me/images/2023/10/04/719a8413c96dc9b8fb57cc88bb8e1013.jpg",
-			"stations": 
-				[
-					{
-						"name":"Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร ซีโร่ พากย์ไทย",
-						"info":"เดอะมูฟวี่ พากย์ไทย",
-						"image":"https://img.shirokami.me/images/2022/09/30/5bfcc22ab44d14589516e6eb1a4d53a8.jpg",
-						"url":"https://files.akuma-player.xyz/view/1984df41-148b-54e2-9e12-72e120b3a5a7.m3u8",
-						"referer":"https://www.animehdzeroo.com/"	
-					},
-					{
-						"name":"Jujutsu Kaisen 0 มหาเวทย์ผนึกมาร ซีโร่ ซับไทย",
-						"info":"เดอะมูฟวี่ ซับไทย",
-						"image":"https://img.shirokami.me/images/2022/09/22/35e3ec79e93e97a534ff45d19fdefda4.jpg",
-						"url":"https://files.akuma-player.xyz/view/6b077b2f-1afa-53b4-97cc-159dcda66c0f.m3u8",
-						"referer":"https://www.animehdzeroo.com/"	
-					},
 				]
 		},
 		{
