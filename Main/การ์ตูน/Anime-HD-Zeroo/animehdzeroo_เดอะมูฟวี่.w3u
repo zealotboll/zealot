@@ -1,10 +1,74 @@
 {
   "name": "Anime-HD-Zeroo เดอะมูฟวี่",
-  "author": "By iball อัพวันที่ 19/11/2023",
+  "author": "By iball อัพวันที่ 20/11/2023",
   "info":"ทำแจกฟรี 100 %",
   "image": "https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
   "groups": 
 		[
+			{
+				"name":"Kagami no Kojou หมาป่าโดดเดี่ยว ปราสาทเดียวดายในกระจก [เสียงโรง]",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/10/23/c97eb37576fd818cc71dcf2acf58b51b.jpg",
+				"stations": 
+					[
+						{
+							"name":"Kagami no Kojou หมาป่าโดดเดี่ยว ปราสาทเดียวดายในกระจก [เสียงโรง]",
+							"info":"เสียงโรง]",
+							"image":"https://img.shirokami.me/images/2023/10/23/c97eb37576fd818cc71dcf2acf58b51b.jpg",
+							"url":"https://files.akuma-player.xyz/view/190d32b2-e6aa-590b-8b17-5ff07663500e.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+			{
+				"name":"Once Upon a Studio (2023) ซับไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/10/19/3ef4f5c21ebb3b82caad0b438bbdf0a0.jpg",
+				"stations": 
+					[
+						{
+							"name":"Once Upon a Studio (2023) ซับไทย",
+							"info":"ซับไทย ตอนพิเศษ",
+							"image":"https://img.shirokami.me/images/2023/10/19/3ef4f5c21ebb3b82caad0b438bbdf0a0.jpg",
+							"url":"https://files.akuma-player.xyz/view/35c04beb-fe54-53e0-b926-e1163a12fba4.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+			{
+				"name":"The SpongeBob Movie Sponge Out of Water สพันจ์บ็อบ ฮีโร่จากใต้สมุทร พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/10/19/9b8c110f7ab8a011d500e6c2e0d38c1c.jpg",
+				"stations": 
+					[
+						{
+							"name":"The SpongeBob Movie Sponge Out of Water สพันจ์บ็อบ ฮีโร่จากใต้สมุทร พากย์ไทย",
+							"info":"พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/10/19/9b8c110f7ab8a011d500e6c2e0d38c1c.jpg",
+							"url":"https://files.akuma-player.xyz/view/dd757501-6d92-556c-98d4-413d081fac3c.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+			{
+				"name":"PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี่ พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/10/18/1e8d9d6b925c4a840ca57fa24b340d8a.jpg",
+				"stations": 
+					[
+						{
+							"name":"PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี่ พากย์ไทย",
+							"info":"พากย์ไทย เดอะมูฟวี่ ZOOM",
+							"image":"https://img.shirokami.me/images/2023/10/18/1e8d9d6b925c4a840ca57fa24b340d8a.jpg",
+							"url":"https://files.akuma-player.xyz/view/2b35f105-5bce-580d-aa79-f35dd9b31247.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
 			{
 				"name":"Scarygirl สาวน่ากลัว ซับไทย",
 				"info":"",
