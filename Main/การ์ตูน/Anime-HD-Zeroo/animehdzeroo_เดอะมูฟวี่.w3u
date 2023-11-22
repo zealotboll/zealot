@@ -1,10 +1,26 @@
 {
   "name": "Anime-HD-Zeroo เดอะมูฟวี่",
-  "author": "By iball อัพวันที่ 21/11/2023",
+  "author": "By iball อัพวันที่ 22/11/2023",
   "info":"ทำแจกฟรี 100 %",
   "image": "https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
   "groups": 
 		[
+			{
+				"name":"New Gods Yang Jian หยางเจี่ยน เทพสามตามหาศึกผนึกเขาบงกช พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/11/17/ad2259c7d6a5114e070db354c7ad6244.webp",
+				"stations": 
+					[
+						{
+							"name":"New Gods Yang Jian หยางเจี่ยน เทพสามตามหาศึกผนึกเขาบงกช พากย์ไทย",
+							"info":"พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/11/17/ad2259c7d6a5114e070db354c7ad6244.webp",
+							"url":"https://files.akuma-player.xyz/view/5068d9ae-d650-5790-b511-1cc7cf2e3c5c.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
 			{
 				"name":"Gridman Universe กริดแมนยูนิเวิร์ส พากย์ไทย [เสียงโรง]",
 				"info":"",
