@@ -1,10 +1,42 @@
 {
   "name": "Anime-HD-Zeroo เดอะมูฟวี่",
-  "author": "By iball อัพวันที่ 22/11/2023",
+  "author": "By iball อัพวันที่ 23/11/2023",
   "info":"ทำแจกฟรี 100 %",
   "image": "https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
   "groups": 
 		[
+			{
+				"name":"Mushiking The Road to the Greatest Champion มูชิคิง เส้นทางสู่แชมป์ที่ยิ่งใหญ่ที่สุด พากย์ไทย",
+				"info":"พากย์ไทย",
+				"image":"https://img.shirokami.me/images/2023/11/20/6ae6d5ab863be78fb62d68bc91061c2e.jpg",
+				"stations": 
+					[
+						{
+							"name":"Mushiking The Road to the Greatest Champion มูชิคิง เส้นทางสู่แชมป์ที่ยิ่งใหญ่ที่สุด พากย์ไทย",
+							"info":"พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/11/20/6ae6d5ab863be78fb62d68bc91061c2e.jpg",
+							"url":"https://files.akuma-player.xyz/view/bc39ad5f-dbf1-5d34-9d82-479ca60831fa.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+			{
+				"name":"SSSS.GRIDMAN Movie พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/11/19/62b0e60d92c15626461fac53622dc571.jpg",
+				"stations": 
+					[
+						{
+							"name":"SSSS.GRIDMAN Movie พากย์ไทย",
+							"info":"พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/11/19/62b0e60d92c15626461fac53622dc571.jpg",
+							"url":"https://files.akuma-player.xyz/view/ee3249fe-9317-5f93-8bd7-40c917b74989.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
 			{
 				"name":"Justice League x RWBY Super Heroes & Huntsmen Part Two (2023) ซับไทย",
 				"info":"",
