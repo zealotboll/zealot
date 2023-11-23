@@ -6,6 +6,54 @@
   "groups": 
 		[
 			{
+				"name":"Leo (2023) ลีโอ พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/11/22/96c6134f0aa1b112c4af15b95eb48d3f.webp",
+				"stations": 
+					[
+						{
+							"name":"Leo (2023) ลีโอ พากย์ไทย",
+							"info":"พากย์ไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/11/22/96c6134f0aa1b112c4af15b95eb48d3f.webp",
+							"url":"https://files.akuma-player.xyz/view/5528b05c-5980-5952-b35b-f93676c2b8fc.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+			{
+				"name":"Under the Boardwalk (2023) อันเดอร์ เดอะ บอร์ดวอล์ก ซับไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/11/22/9534414459f62194a70812fe62f532ad.webp",
+				"stations": 
+					[
+						{
+							"name":"Under the Boardwalk (2023) อันเดอร์ เดอะ บอร์ดวอล์ก ซับไทย",
+							"info":"ซับไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/11/22/9534414459f62194a70812fe62f532ad.webp",
+							"url":"https://files.akuma-player.xyz/view/47e965fb-e2ca-5ce0-8e81-88811af86444.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+			{
+				"name":"The Cat Returns เจ้าแมวยอดนักสืบ พากย์ไทย (เสียงใหม่)",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/11/22/5abfa42daa2e6580efe5186f93599ed3.jpg",
+				"stations": 
+					[
+						{
+							"name":"The Cat Returns เจ้าแมวยอดนักสืบ พากย์ไทย (เสียงใหม่)",
+							"info":"พากย์ไทย (เสียงใหม่) เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/11/22/5abfa42daa2e6580efe5186f93599ed3.jpg",
+							"url":"https://files.akuma-player.xyz/view/59637c78-32c6-583e-ad4e-ff83e783462a.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+			{
 				"name":"Mushiking The Road to the Greatest Champion มูชิคิง เส้นทางสู่แชมป์ที่ยิ่งใหญ่ที่สุด พากย์ไทย",
 				"info":"พากย์ไทย",
 				"image":"https://img.shirokami.me/images/2023/11/20/6ae6d5ab863be78fb62d68bc91061c2e.jpg",
