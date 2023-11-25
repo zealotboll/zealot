@@ -1,0 +1,20 @@
+{
+	"name":"Cartoon",
+	"author":"zlball",
+	"image":"",
+		"group":[
+			
+			{
+				"name":"Anime Japan",
+				"image":"",
+				"url":"",
+				"import":"true",
+			},
+			{
+				"name":"Anime America"'
+				"image":"",
+				"url":"",
+				"import":"",
+			},
+		]
+	}
