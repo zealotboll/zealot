@@ -24,15 +24,21 @@
 	"url":"https://pastebin.com/raw/iMR2DqYX",
 	"import":"fale"
   },
- 	{"name":"Sport Channel",
-	 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g5NUSyMS2OB-fZCEMSCdLFnAxKutGuycn9clJfdVMT7e2VKH&usqp=CAU",
-  	 "url":"https://pastebin.com/EhARAHhP",
-	 "import":"true"
+  {	"name":"Sport Channel",
+	"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g5NUSyMS2OB-fZCEMSCdLFnAxKutGuycn9clJfdVMT7e2VKH&usqp=CAU",
+  	"url":"https://pastebin.com/EhARAHhP",
+	"import":"true"
   },
   {
 	"name":"🦭Movie & Series", 
 	"image":"https://sv1.picz.in.th/images/2023/03/01/ef5LdJ.gif",
 	"url":"https://pastebin.com/raw/h6MtXfMf",
+	"import":"true"
+  },
+  {
+	"name":"Test New", 
+	"image":"https://www.hindustantimes.com/ht-img/img/2023/07/17/550x309/anime_collage_1686917525783_1689613937349.webp",
+	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Menu.lst",
 	"import":"true"
   },
   {
