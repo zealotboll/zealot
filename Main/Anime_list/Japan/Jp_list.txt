@@ -9,13 +9,25 @@
 				"name":"Ojamajo Doremi แม่มดน้อยจอมยุ่งโดเรมี",
 				"image":"https://img.shirokami.me/images/2021/10/05/image4694e0b8f5e7fd4d.md.jpg",
 				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Ojamajo%20Doremi%20แม่มดน้อยจอมยุ่งโดเรมี.txt",
-				"import":"true",
+				"import":"true"
 			},
 			{
 				"name":"Sirius the Jaeger",
 				"image":"https://img.shirokami.me/images/2021/10/05/imageb457cc33d3a439eb.md.jpg",
 				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sirius_the_Jaeger.bin",
-				"import":"true",
+				"import":"true"
+			},
+			{
+				"name":"Suteki Tantei Labyrinth มายูกิ คุณหนูยอดนักสืบ",
+				"image":"https://img.shirokami.me/images/2021/10/05/imageb457cc33d3a439eb.md.jpg",
+				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Suteki_Tantei_Labyrinth_มายูกิ_คุณหนูยอดนักสืบ.bin",
+				"import":"true"
+			},
+			{
+				"name":"Suteki Tantei Labyrinth มายูกิ คุณหนูยอดนักสืบ",
+				"image":"https://img.shirokami.me/images/2021/10/05/imageb457cc33d3a439eb.md.jpg",
+				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Yakusoku_no_Nanaya_สัญญาวันทานาบาตะ.bin",
+				"import":"true"
 			},
 		]
 	}
