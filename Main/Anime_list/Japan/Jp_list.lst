@@ -1,17 +1,17 @@
 {
-	"name":"Cartoon",
+	"name":"Anime Japan",
 	"author":"zlball",
-	"image":"https://www.hindustantimes.com/ht-img/img/2023/07/17/550x309/anime_collage_1686917525783_1689613937349.webp",
+	"image":"https://www.anime-japan.jp/2023/img/index/img_sld-1_2023_e.jpg",
 		"group":[
 			
 			{
-				"name":"Anime Japan",
+				"name":"Ojamajo Doremi แม่มดน้อยจอมยุ่งโดเรมี",
 				"image":"https://www.anime-japan.jp/2023/img/index/img_sld-1_2023_e.jpg",
 				"url":"",
 				"import":"true",
 			},
 			{
-				"name":"Anime America"'
+				"name":"Sirius the Jaeger",
 				"image":"https://qph.cf2.quoracdn.net/main-qimg-848f22000c6e4e04cb4c988778d94d5d.webp",
 				"url":"",
 				"import":"",
