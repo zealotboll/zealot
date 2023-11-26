@@ -6,9 +6,27 @@
 		"groups":[
 			
 			{
+				"name":"Kimi to Boku คิมิโตะโบะกุ",
+				"image":"https://img.shirokami.me/images/2023/10/08/abfa5ffb6d84139a7b4a54666fe1d55b.jpg",
+				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Main/Kimi_to_Boku_คิมิโตะโบะกุ.bin",
+				"import":"true"
+			},
+			{
+				"name":"My Daemon ดีมอนของผม",
+				"image":"https://img.shirokami.me/images/2023/11/25/9f1554d16771e36bbd3f32db2a40a268.jpg",
+				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Main/My_Daemon_ดีมอนของผม.bin",
+				"import":"true"
+			},
+			{
 				"name":"Ojamajo Doremi แม่มดน้อยจอมยุ่งโดเรมี",
 				"image":"https://img.shirokami.me/images/2021/10/05/image4694e0b8f5e7fd4d.md.jpg",
 				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Main/Ojamajo_Doremi_แม่มดน้อยจอมยุ่งโดเรมี.bin",
+				"import":"true"
+			},
+			{
+				"name":"One Piece วันพีช ล่าขุมทรัพโจรสลัด",
+				"image":"https://img.shirokami.me/images/2022/03/22/0699b935900875b35302e66874748c58.jpg",
+				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Main/One_piece.Bin",
 				"import":"true"
 			},
 			{
@@ -35,24 +53,9 @@
 				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/sub/Yakusoku_no_Nanaya_สัญญาวันทานาบาตะ.bin",
 				"import":"true"
 			},
-			{
-				"name":"",
-				"image":"",
-				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Main/",
-				"import":"true"
-			},
-			{
-				"name":"",
-				"image":"",
-				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Main/",
-				"import":"true"
-			},
-			{
-				"name":"",
-				"image":"",
-				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Main/",
-				"import":"true"
-			},
+			
+			
+			
 			{
 				"name":"",
 				"image":"",

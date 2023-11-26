@@ -1,0 +1,52 @@
+{
+	"name":"One Piece วันพีช ล่าขุมทรัพโจรสลัด",
+	"info":"ss1-20",
+	"image":"https://img.shirokami.me/images/2022/03/22/0699b935900875b35302e66874748c58.jpg",
+		"groups":
+			[
+				{
+					"name":"One Piece พากย์ไทย",
+					"info":"พากย์ไทย",
+					"image":"https://img.shirokami.me/images/2022/03/22/0699b935900875b35302e66874748c58.jpg",
+						"groups":
+							[
+								{
+									"name":"One Piece SS1",
+									"info":"ภาค 1 เสียงไทย",
+									"image":"https://images.justwatch.com/poster/301574476/s592/season-1",
+									"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/",
+									"import":"true"
+								},
+								{
+									"name":"One Piece SS21",
+									"info":"ภาค 21 เสียงไทย",
+									"image":"https://images.justwatch.com/poster/304340302/s592/season-21",
+									"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/One_Piece_วันพีซ_ซีซั่น_20_ภาควาโนะคุนิ.bin",
+									"import":"true"
+								},
+							]
+				},
+				{
+					"name":"One Piece ซับไทย",
+					"info":"ซับไทย",
+					"image":"https://img.shirokami.me/images/2022/03/22/0699b935900875b35302e66874748c58.jpg",
+						"groups"
+							[
+								{
+									"name":"One Piece SS1",
+									"info":"ภาค 1 ซับไทย",
+									"image":"https://images.justwatch.com/poster/301574476/s592/season-1",
+									"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/",
+									"import":"true"
+								},
+								{
+									"name":"One Piece SS20",
+									"info":"ภาค 21 ซับไทย",
+									"image":"https://images.justwatch.com/poster/304340302/s592/season-21",
+									"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/sub/One_Piece_วันพีซ_ซีซั่น_20_ภาควาโนะคุนิ.bin",
+									"import":"true"
+								},
+							]
+				}
+			]
+}
