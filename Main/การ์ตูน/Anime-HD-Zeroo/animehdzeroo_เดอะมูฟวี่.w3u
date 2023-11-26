@@ -1,10 +1,26 @@
 {
   "name": "Anime-HD-Zeroo เดอะมูฟวี่",
-  "author": "By iball อัพวันที่ 23/11/2023",
+  "author": "By iball อัพวันที่ 26/11/2023",
   "info":"ทำแจกฟรี 100 %",
   "image": "https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
   "groups": 
 		[
+			{
+				"name":"Gemini Mission (2023) ฆาตกรรมแห่งลั่วหยาง ซับไทย เดอะมูฟวี่",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/11/26/fa5a8ead591be8a5c777805716cf188a.jpg",
+				"stations": 
+					[
+						{
+							"name":"Gemini Mission (2023) ฆาตกรรมแห่งลั่วหยาง ซับไทย เดอะมูฟวี่",
+							"info":"ซับไทย เดอะมูฟวี่",
+							"image":"https://img.shirokami.me/images/2023/11/26/fa5a8ead591be8a5c777805716cf188a.jpg",
+							"url":"https://files.akuma-player.xyz/view/e25775bd-13fb-51d7-af78-0fc00d0ce9dc.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
 			{
 				"name":"Leo (2023) ลีโอ พากย์ไทย",
 				"info":"",
