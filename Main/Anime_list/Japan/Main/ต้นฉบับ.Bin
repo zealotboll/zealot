@@ -5,20 +5,20 @@
 		"groups":
 			[
 				{
-					"name":"",
+					"name":"พากย์ไทย",
 					"info":"",
 					"image":"",
 						"groups":
 							[
 								{
-									"name":" ",
+									"name":"Season-1",
 									"info":"",
 									"image":"",
 									"url":"",
 									"import":"true"
 								},
 								{
-									"name":"",
+									"name":"Season-2",
 									"info":"",
 									"image":"",
 									"url":"",
@@ -28,20 +28,20 @@
 							]
 				},
 				{
-					"name":"",
+					"name":"ซับไทย",
 					"info":"",
 					"image":"",
 						"groups":
 							[
 								{
-									"name":"",
+									"name":"Season-1",
 									"info":"",
 									"image":"",
 									"url":"",
 									"import":"true"
 								},
 								{
-									"name":"",
+									"name":"Season-2",
 									"info":"",
 									"image":"",
 									"url":"",
