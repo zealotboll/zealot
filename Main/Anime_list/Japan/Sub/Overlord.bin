@@ -388,6 +388,33 @@
 				  	
 					]
 			},
-			
+			{
+			  "name": "Season-พิเศษ",
+			  "info":"Overlord Movie The Undead King",
+			  "image": "https://img.shirokami.me/images/2021/10/05/image3035d4963802ae0a.md.jpg",
+			  "stations":
+					[
+						{
+						  "name": "Overlord Movie The Undead King ซับไทย",
+						  "image": "https://img.shirokami.me/images/2021/10/05/image3035d4963802ae0a.md.jpg",
+						  "url": "https://files.akuma-player.xyz/view/9fec5aae-f4ed-5fde-a58c-a72b3f34e232.m3u8",
+						  "referer": "https://www.animehdzeroo.com/"
+						},
+					]
+			},
+			{
+			  "name": "Season-พิเศษ",
+			  "info":"Overlord Movie 1 Fushisha no Ou ซับไทย",
+			  "image": "https://img.shirokami.me/images/2021/10/05/image0ea5436838f681a4.jpg",
+			  "stations":
+					[
+						{
+						  "name": "Overlord Movie 1 Fushisha no Ou ซับไทย",
+						  "image": "https://img.shirokami.me/images/2021/10/05/image0ea5436838f681a4.jpg",
+						  "url": "https://files.akuma-player.xyz/view/851091a2-f686-5f01-bf26-a9bb091592dc.m3u8",
+						  "referer": "https://www.animehdzeroo.com/"
+						},
+					]
+			},
 		]
 	}
