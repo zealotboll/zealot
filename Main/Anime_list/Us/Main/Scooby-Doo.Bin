@@ -1,0 +1,40 @@
+{
+	"name":"Scooby-Doo! Mystery Incorporated สกูบี้-ดู! กับบริษัทป่วนผีไม่จำกัด",
+	"info":"",
+	"image":"https://cdn.britannica.com/38/233138-050-43F8C7F7/Scooby-Doo-Witchs-Ghost-promotional-art.jpg",
+		"groups":
+			[
+				{
+					"name":"The-Series",
+					"info":"พากย์ไทย",
+					"image":"https://cdn.britannica.com/38/233138-050-43F8C7F7/Scooby-Doo-Witchs-Ghost-promotional-art.jpg",
+						"groups":
+							[
+								{
+									"name":"Scooby-Doo! Mystery Incorporated",
+									"info":"",
+									"image":"https://img.shirokami.me/images/2023/11/23/a3f3d1d23d41a09002737473617661fc.jpg",
+									"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Us/The-Series/Scooby-Doo!_Mystery_Incorporated.bin",
+									"import":"true"
+								},
+								
+							]
+				},
+				{
+					"name":"The-Movie",
+					"info":"พากย์ไทย",
+					"image":"https://cdn.britannica.com/38/233138-050-43F8C7F7/Scooby-Doo-Witchs-Ghost-promotional-art.jpg",
+						"groups":
+							[
+								{
+									"name":"Scooby-Doo! The-Movie",
+									"info":"season-1 East Blue",
+									"image":"https://cdn.britannica.com/38/233138-050-43F8C7F7/Scooby-Doo-Witchs-Ghost-promotional-art.jpg",
+									"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Us/The-Series/The-Movie/Scooby-Doo!_Movie.bin",
+									"import":"true"
+								},
+								
+							]
+				},
+			]
+}
