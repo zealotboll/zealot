@@ -24,27 +24,7 @@
 									"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Dr.Stone_Stone_Wars_Season2.bin",
 									"import":"true"
 								},
-								{
-									"name":"Season-พิเศษ",
-									"info":"",
-									"image":"https://img.shirokami.me/images/2022/08/24/ff7259d26a389f55d7d5aa96795342e6.webp",
-									"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Dr.Stone_Ryusui.bin",
-									"import":"true"
-								},
-								{
-									"name":"Season-3",
-									"info":"",
-									"image":"https://img.shirokami.me/images/2023/04/28/0c6cbe59403d979253b8e9d95e7909c5.jpg",
-									"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Dr.Stone_New_World.bin",
-									"import":"true"
-								},
-								{
-									"name":"Season-3/2",
-									"info":"",
-									"image":"https://img.shirokami.me/images/2023/11/15/391464c1c4c0627d336c69f1eeb9cba6.jpg",
-									"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Dr.Stone_New_World_(Season3)Part2.bin",
-									"import":"true"
-								},
+								
 								
 							]
 				},
@@ -68,6 +48,41 @@
 									"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Dr.STONE-Stone Wars-Season2.bin",
 									"import":"true"
 								},
+								
+							]
+				},
+			]
+}
+
+
+
+
+
+
+
+								{
+									"name":"Season-พิเศษ",
+									"info":"",
+									"image":"https://img.shirokami.me/images/2022/08/24/ff7259d26a389f55d7d5aa96795342e6.webp",
+									"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Dr.Stone_Ryusui.bin",
+									"import":"true"
+								},
+								{
+									"name":"Season-3",
+									"info":"",
+									"image":"https://img.shirokami.me/images/2023/04/28/0c6cbe59403d979253b8e9d95e7909c5.jpg",
+									"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Dr.Stone_New_World.bin",
+									"import":"true"
+								},
+								{
+									"name":"Season-3/2",
+									"info":"",
+									"image":"https://img.shirokami.me/images/2023/11/15/391464c1c4c0627d336c69f1eeb9cba6.jpg",
+									"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Dr.Stone_New_World_(Season3)Part2.bin",
+									"import":"true"
+								},
+
+
 								{
 									"name":"Season-ภาคพิเศษ",
 									"info":"",
@@ -89,7 +104,3 @@
 									"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Dr.Stone_New_World_(Season3)_Part2-2.bin",
 									"import":"true"
 								},
-							]
-				},
-			]
-}
