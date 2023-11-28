@@ -2,14 +2,14 @@
 		"name":"Overlord โอเวอร์ ลอร์ด จอมมารพิชิตโลก",
 		"info":"",
 		"image":"https://img.shirokami.me/images/2022/08/06/eea4d1609044e5ea0bfa7e57ee6fb1cc.jpg",
-		"groups":[
-
-			{
-				"name": "Overlord I",
-				"info":"กล่าวถึง ในปีค.ศ. 2126 เกม RPG ออนไลน์โลกเสมือน หรือ DRMMORPG (Dive Massively Multiplayer Online Role Playing Game) ชื่อดัง Yggdrasil ที่ต้องมาปิดตัวในวันหนึ่ง แต่ตัวเอกของเรื่อง โมมอนกะ ตัดสินใจที่ไม่ล็อกเอาท์ออกจากเกม เขาได้เปลี่ยนรูปร่างตัวเองเป็นร่างโครงกระดูก อาชีพเนโครแมนเซอร์ ในฐานจอมเวทที่แข็งแกร่งที่สุด แล้วอาศัยอยู่ในโลกนั้น โลกนั้นค่อยๆ มีการเปลี่ยนแปลงไปทีละน้อย โดยตัวละครที่ไม่สามารถบังคับได้ หรือที่เรียกว่า NPCs นั้นเริ่มมีความรู้สึกนึกคิด โมมอนกะจึงเลือกที่จะต่อสู้เพื่อปกครองโลกนี้และเปลี่ยนแปลงไปตามที่เขาต้องการ",
-				"image": "https://img.shirokami.me/images/2022/08/06/eea4d1609044e5ea0bfa7e57ee6fb1cc.jpg",
-				"stations": 
-					[
+		"groups":
+			[
+				{
+					"name": "Overlord I",
+					"info":"กล่าวถึง ในปีค.ศ. 2126 เกม RPG ออนไลน์โลกเสมือน หรือ DRMMORPG (Dive Massively Multiplayer Online Role Playing Game) ชื่อดัง Yggdrasil ที่ต้องมาปิดตัวในวันหนึ่ง แต่ตัวเอกของเรื่อง โมมอนกะ ตัดสินใจที่ไม่ล็อกเอาท์ออกจากเกม เขาได้เปลี่ยนรูปร่างตัวเองเป็นร่างโครงกระดูก อาชีพเนโครแมนเซอร์ ในฐานจอมเวทที่แข็งแกร่งที่สุด แล้วอาศัยอยู่ในโลกนั้น โลกนั้นค่อยๆ มีการเปลี่ยนแปลงไปทีละน้อย โดยตัวละครที่ไม่สามารถบังคับได้ หรือที่เรียกว่า NPCs นั้นเริ่มมีความรู้สึกนึกคิด โมมอนกะจึงเลือกที่จะต่อสู้เพื่อปกครองโลกนี้และเปลี่ยนแปลงไปตามที่เขาต้องการ",
+					"image": "https://img.shirokami.me/images/2022/08/06/eea4d1609044e5ea0bfa7e57ee6fb1cc.jpg",
+					"stations": 
+						[
 							{
 							  "name": "Overlord โอเวอร์ ลอร์ด จอมมารพิชิตโลก ตอนที่ 1 พากย์ไทย",
 							  "info":"ภาค 1 ตอนที่ 1 พากย์ไทย",
@@ -99,16 +99,16 @@
 							  "info":"ภาค 1 ตอนที่ 1 พากย์ไทย",
 							  "image": "https://img.shirokami.me/images/2022/08/06/eea4d1609044e5ea0bfa7e57ee6fb1cc.jpg",
 							  "url": "https://files.akuma-player.xyz/view/070f731f-6516-55cf-a00f-0c8e6ba60792.m3u8",
-							  "		referer": "https://www.animehdzeroo.com/"
+							  "	referer": "https://www.animehdzeroo.com/"
 							},
-					]
-			},	
-			{
-			  "name": "Overlord II",
-			  "info":"",
-			  "image": "https://img.shirokami.me/images/2022/10/16/bdae5d063e3473dae9c7c31e6ce52c48.jpg",
-			  "stations": 
-					[
+						]
+				},	
+				{
+				  "name": "Overlord II",
+				  "info":"",
+				  "image": "https://img.shirokami.me/images/2022/10/16/bdae5d063e3473dae9c7c31e6ce52c48.jpg",
+				  "stations": 
+						[
 							{
 							  "name": "Overlord II โอเวอร์ ลอร์ด จอมมารพิชิตโลก (ภาค2) ตอนที่ 1 พากย์ไทย",
 							  "info":"ภาค 2 ตอนที่ 1 พากย์ไทย",
@@ -201,5 +201,6 @@
 							  "referer": "https://www.animehdzeroo.com/"
 							},
 					]		
-			},
+				},
+			]
 }
