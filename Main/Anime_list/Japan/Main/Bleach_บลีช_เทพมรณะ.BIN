@@ -1,0 +1,29 @@
+{
+	"name":"Bleach บลีช เทพมรณะ",
+	"info":"",
+	"image":"https://upload.wikimedia.org/wikipedia/lt/7/72/Bleachanime.png",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://upload.wikimedia.org/wikipedia/lt/7/72/Bleachanime.png",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Bleach_บลีช_เทพมรณะ.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://upload.wikimedia.org/wikipedia/lt/7/72/Bleachanime.png",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/",
+					"import":"true"	
+				},
+				{
+					"name":"TheMovie",
+					"info":"",
+					"image":"https://upload.wikimedia.org/wikipedia/lt/7/72/Bleachanime.png",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/",
+					"import":"true"	
+				},
+			]
+}

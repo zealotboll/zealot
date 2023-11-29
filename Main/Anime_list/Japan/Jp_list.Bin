@@ -12,6 +12,12 @@
 				"import":"true"
 			},
 			{
+				"name":"Bleach บลีช เทพมรณะ",
+				"image":"https://upload.wikimedia.org/wikipedia/lt/7/72/Bleachanime.png",
+				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Main/Bleach_บลีช_เทพมรณะ.BIN",
+				"import":"true"
+			},
+			{
 				"name":"Bokura no Ameiro Protocol โปรโตคอลสีฝนของเรา",
 				"image":"https://img.shirokami.me/images/2023/10/07/efef792fa58648c3c00674a740b11f82.jpg",
 				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Main/Bokura_no_Ameiro_Protocol_โปรโตคอลสีฝนของเรา.BIN",
@@ -82,16 +88,11 @@
 			{
 				"name":"Tate no Yuusha no Nariagari (The Rising of the Shield Hero) ผู้กล้าโล่ผงาด",
 				"image":"https://www.baka-tsuki.org/project/images/3/3e/Tate_no_Yuusha_no_Nariagari_Volume_1_Cover.png",
-				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Main/",
+				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Main/Tate_no_Yuusha_no_Nariagari_(The_Rising_of_the_Shield_Hero)ผู้กล้าโล่ผงาด.BIN",
 				"import":"true"
 			},
 			
-			{
-				"name":"",
-				"image":"",
-				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Main/",
-				"import":"true"
-			},
+			
 			{
 				"name":"",
 				"image":"",
