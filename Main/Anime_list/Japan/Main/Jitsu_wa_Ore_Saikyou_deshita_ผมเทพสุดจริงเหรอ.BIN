@@ -1,0 +1,22 @@
+{
+	"name":"Jitsu wa Ore Saikyou deshita? ผมเทพสุดจริงเหรอ?",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/07/02/a47845c548d1104334b733a3b911bce7.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/07/02/a47845c548d1104334b733a3b911bce7.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Jitsu_wa_Ore_Saikyou_deshita_ผมเทพสุดจริงเหรอ.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/07/02/a47845c548d1104334b733a3b911bce7.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Jitsu_wa_Ore_Saikyou_deshita_ผมเทพสุดจริงเหรอ.bin",
+					"import":"true"	
+				},
+			]
+}
