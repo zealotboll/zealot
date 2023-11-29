@@ -6,6 +6,38 @@
   "groups": 
 		[
 			{
+				"name":"Aloha Scooby-Doo! อะโลฮ่า สคูบี้-ดู! พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/11/29/b086118ce8374a35fffc0d4766a9dd38.jpg",
+				"stations": 
+					[
+						{
+							"name":"Scooby-Doo! and the Monster of Mexico สคูบี้ดู! และสัตว์ประหลาดแห่งเม็กซิโก พากย์ไทย",
+							"info":"",
+							"image":"https://img.shirokami.me/images/2023/11/29/b086118ce8374a35fffc0d4766a9dd38.jpg",
+							"url":"https://files.akuma-player.xyz/view/b1c558c1-af9c-57c4-a3bb-a9e6577ebf99.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+			{
+				"name":"Scooby-Doo! and the Monster of Mexico สคูบี้ดู! และสัตว์ประหลาดแห่งเม็กซิโก พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/11/29/71af4c605037a3e5d0dda701ff9658c0.jpg",
+				"stations": 
+					[
+						{
+							"name":"Scooby-Doo! and the Monster of Mexico สคูบี้ดู! และสัตว์ประหลาดแห่งเม็กซิโก พากย์ไทย",
+							"info":"",
+							"image":"https://img.shirokami.me/images/2023/11/29/71af4c605037a3e5d0dda701ff9658c0.jpg",
+							"url":"https://files.akuma-player.xyz/view/0c4630a7-08cb-55a3-b20c-cf92db91ab8e.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+			{
 				"name":"SSSS.Dynazenon Movie พากย์ไทย",
 				"info":"พากย์ไทย",
 				"image":"https://img.shirokami.me/images/2023/11/28/cb116b548d8e87f81ef18531ee956176.jpg",
