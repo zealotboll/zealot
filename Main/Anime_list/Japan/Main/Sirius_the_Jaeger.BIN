@@ -1,0 +1,22 @@
+{
+	"name":"Sirius the Jaeger",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2021/10/05/imageb457cc33d3a439eb.md.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2021/10/05/imageb457cc33d3a439eb.md.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Sirius_the_Jaeger.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2021/10/05/imageb457cc33d3a439eb.md.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Sirius_the_Jaeger.bin",
+					"import":"true"	
+				},
+			]
+}

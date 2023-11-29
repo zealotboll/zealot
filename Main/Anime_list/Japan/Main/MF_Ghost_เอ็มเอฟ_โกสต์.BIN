@@ -1,0 +1,22 @@
+{
+	"name":"MF GHOST เอ็มเอฟ โกสต์",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/10/01/5c9f9c7ba5e52579e7b84272c8acabac.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/01/5c9f9c7ba5e52579e7b84272c8acabac.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/MF_Ghost_เอ็มเอฟ_โกสต์.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/01/5c9f9c7ba5e52579e7b84272c8acabac.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/MF_Ghost_เอ็มเอฟ_โกสต์.bin",
+					"import":"true"	
+				},
+			]
+}

@@ -1,0 +1,22 @@
+{
+	"name":"Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/10/01/cf4fd8b7564d5ab326515d21683c5a70.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/01/cf4fd8b7564d5ab326515d21683c5a70.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Shangri-La_Frontier_เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/01/cf4fd8b7564d5ab326515d21683c5a70.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Shangri-La_Frontier_เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ.bin",
+					"import":"true"	
+				},
+			]
+}

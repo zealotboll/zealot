@@ -1,0 +1,22 @@
+{
+	"name":"Toaru Ossan no VRMMO Katsudouki กิจกรรม VRMMO ของมนุษย์ลุง",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/10/02/76e0a9921873202afdba6da2cb31bd1d.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/02/76e0a9921873202afdba6da2cb31bd1d.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Toaru_Ossan_no_VRMMO_Katsudouki_กิจกรรม_VRMMO_ของมนุษย์ลุง.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/02/76e0a9921873202afdba6da2cb31bd1d.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Toaru_Ossan_no_VRMMO_Katsudouki_กิจกรรม_VRMMO_ของมนุษย์ลุง.bin",
+					"import":"true"	
+				},
+			]
+}

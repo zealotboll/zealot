@@ -1,0 +1,22 @@
+{
+	"name":"Kamonohashi Ron no Kindan Suiri สืบลับฉบับคาโมโนะฮาชิรอน",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/10/02/81ae1cdead0a76c2e35e7b1cd2ad495f.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/02/81ae1cdead0a76c2e35e7b1cd2ad495f.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Kamonohashi_Ron_no_Kindan_Suiri_สืบลับฉบับคาโมโนะฮาชิรอน.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/02/81ae1cdead0a76c2e35e7b1cd2ad495f.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Kamonohashi_Ron_no_Kindan_Suiri_สืบลับฉบับคาโมโนะฮาชิรอน.bin",
+					"import":"true"	
+				},
+			]
+}

@@ -1,0 +1,22 @@
+{
+	"name":"Potion-danomi de Ikinobimasu! แค่ขายโพชั่นไปวันวันไม่ได้เหรอคะ!",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/10/07/850ab2ac8b84de72f17da186d3e30c48.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/07/850ab2ac8b84de72f17da186d3e30c48.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Potion-danomi_de_Ikinobimasu!_แค่ขายโพชั่นไปวันวันไม่ได้เหรอคะ!.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/07/850ab2ac8b84de72f17da186d3e30c48.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Potion-danomi_de_Ikinobimasu!_แค่ขายโพชั่นไปวันวันไม่ได้เหรอคะ!.bin",
+					"import":"true"	
+				},
+			]
+}

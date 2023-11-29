@@ -1,0 +1,22 @@
+{
+	"name":"Saihate no Paladin Tetsusabi no Yama no Ou (Season 2) พาลาดิน ยอดอัศวินจากแดนไกล",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/10/07/af6c626c6eba7882656f269fc5876440.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/07/af6c626c6eba7882656f269fc5876440.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Saihate_no_Paladin_Tetsusabi_no_Yama_no_Ou_พาลาดิน_ยอดอัศวินจากแดนไกล.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/07/af6c626c6eba7882656f269fc5876440.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Saihate_no_Paladin_Tetsusabi_no_Yama_no_Ou_พาลาดิน_ยอดอัศวินจากแดนไกล.bin",
+					"import":"true"	
+				},
+			]
+}

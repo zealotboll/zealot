@@ -1,0 +1,22 @@
+{
+	"name":"Hirogaru Sky! Precure มหัศจรรย์สาวน้อยพริตตี้เคียว",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/02/06/df0f442749596d94b181b162978cb11a.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/02/06/df0f442749596d94b181b162978cb11a.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Hirogaru_Sky!_Precure_มหัศจรรย์สาวน้อยพริตตี้เคียว.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/02/06/df0f442749596d94b181b162978cb11a.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Hirogaru_Sky!_Precure_มหัศจรรย์สาวน้อยพริตตี้เคียว.bin",
+					"import":"true"	
+				},
+			]
+}

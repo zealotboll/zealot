@@ -1,0 +1,22 @@
+{
+	"name":"Hikikomari Kyuuketsuki no Monmon สารพันปัญหาวุ่นวาย ของยัยแวมไพร์ขี้จุ๊",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/10/07/2918d30ccd6da6fdf3df9270d1769147.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/07/2918d30ccd6da6fdf3df9270d1769147.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Hikikomari_Kyuuketsuki_no_Monmon_สารพันปัญหาวุ่นวาย_ของยัยแวมไพร์ขี้จุ๊.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/07/2918d30ccd6da6fdf3df9270d1769147.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Hikikomari_Kyuuketsuki_no_Monmon_สารพันปัญหาวุ่นวาย_ของยัยแวมไพร์ขี้จุ๊.bin",
+					"import":"true"	
+				},
+			]
+}

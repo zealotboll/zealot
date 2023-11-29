@@ -1,0 +1,22 @@
+{
+	"name":"Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo รักรักรักรักรักรัก เธอหมดหัวใจแฟนสาว 100 คน",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/10/08/5cd58b458d1a6e941326f8784274d2ea.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/08/5cd58b458d1a6e941326f8784274d2ea.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo_รักรักรักรักรักรัก_เธอหมดหัวใจแฟนสาว_100_คน.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/08/5cd58b458d1a6e941326f8784274d2ea.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo_รักรักรักรักรักรัก_เธอหมดหัวใจแฟนสาว_100_คน.bin",
+					"import":"true"	
+				},
+			]
+}

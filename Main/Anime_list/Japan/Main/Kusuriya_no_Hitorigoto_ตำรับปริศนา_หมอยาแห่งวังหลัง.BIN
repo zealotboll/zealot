@@ -1,0 +1,22 @@
+{
+	"name":"Kusuriya no Hitorigoto ตำรับปริศนา หมอยาแห่งวังหลัง",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/10/21/5d789b358455d16bda8f3b14caf7b5d5.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/21/5d789b358455d16bda8f3b14caf7b5d5.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Kusuriya_no_Hitorigoto_ตำรับปริศนา_หมอยาแห่งวังหลัง.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/21/5d789b358455d16bda8f3b14caf7b5d5.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Kusuriya_no_Hitorigoto_ตำรับปริศนา_หมอยาแห่งวังหลัง.bin",
+					"import":"true"	
+				},
+			]
+}

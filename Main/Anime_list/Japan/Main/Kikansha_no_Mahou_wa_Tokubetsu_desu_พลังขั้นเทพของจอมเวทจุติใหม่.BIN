@@ -1,0 +1,22 @@
+{
+	"name":"Kikansha no Mahou wa Tokubetsu desu พลังขั้นเทพของจอมเวทจุติใหม่",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/10/07/0add19b259588d8f5f8779e5bbccc19a.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/07/0add19b259588d8f5f8779e5bbccc19a.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Kikansha_no_Mahou_wa_Tokubetsu_desu_พลังขั้นเทพของจอมเวทจุติใหม่.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/07/0add19b259588d8f5f8779e5bbccc19a.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Kikansha_no_Mahou_wa_Tokubetsu_desu_พลังขั้นเทพของจอมเวทจุติใหม่.bin",
+					"import":"true"	
+				},
+			]
+}
