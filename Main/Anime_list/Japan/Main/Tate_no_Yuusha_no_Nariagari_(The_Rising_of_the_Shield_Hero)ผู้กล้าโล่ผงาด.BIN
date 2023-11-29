@@ -1,0 +1,22 @@
+{
+	"name":"Tate no Yuusha no Nariagari (The Rising of the Shield Hero) ผู้กล้าโล่ผงาด",
+	"info":"",
+	"image":"https://www.baka-tsuki.org/project/images/3/3e/Tate_no_Yuusha_no_Nariagari_Volume_1_Cover.png",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://www.baka-tsuki.org/project/images/3/3e/Tate_no_Yuusha_no_Nariagari_Volume_1_Cover.png",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Tate_no_Yuusha_no_Nariagari_(The_Rising_of_the_Shield_Hero)ผู้กล้าโล่ผงาด.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://www.baka-tsuki.org/project/images/3/3e/Tate_no_Yuusha_no_Nariagari_Volume_1_Cover.png",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Tate_no_Yuusha_no_Nariagari_(The_Rising_of_the_Shield_Hero)ผู้กล้าโล่ผงาด.bin",
+					"import":"true"	
+				},
+			]
+}
