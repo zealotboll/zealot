@@ -1,0 +1,22 @@
+{
+	"name":"Spy x Family สปาย แฟมิลี่",
+	"info":"",
+	"image":"https://www.online-station.net/wp-content/uploads/2022/11/spyxfamily.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://www.online-station.net/wp-content/uploads/2022/11/spyxfamily.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Overlord.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://www.online-station.net/wp-content/uploads/2022/11/spyxfamily.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Spy_x_Family.bin",
+					"import":"true"	
+				},
+			]
+}
