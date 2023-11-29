@@ -1,0 +1,22 @@
+{
+	"name":"Buta no Liver wa Kanetsu Shiro ถ้ามีเธออยู่เป็นหมูก็ไม่เลวนะครับ",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/10/07/d168d0610356bf1705eda777fddf5748.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Buta_no_Liver_wa_Kanetsu_Shiro_ถ้ามีเธออยู่เป็นหมูก็ไม่เลวนะครับ.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/07/d168d0610356bf1705eda777fddf5748.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Buta_no_Liver_wa_Kanetsu_Shiro_ถ้ามีเธออยู่เป็นหมูก็ไม่เลวนะครับ.bin",
+					"import":"true"	
+				},
+			]
+}

@@ -1,0 +1,22 @@
+{
+	"name":"Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/07/10/09ccf2ef4bc5b80d7856fe0f44c23852.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/07/10/09ccf2ef4bc5b80d7856fe0f44c23852.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Dark_Gathering_คู่หูต่างขั้วกับภารกิจกำจัดผี.bin",
+					"import":"true"	
+				},
+			]
+}

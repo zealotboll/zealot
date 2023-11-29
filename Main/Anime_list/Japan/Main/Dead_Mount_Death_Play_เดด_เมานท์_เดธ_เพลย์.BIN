@@ -1,0 +1,22 @@
+{
+	"name":"Dead Mount Death Play เดด เมานท์ เดธ เพลย์",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/04/10/a1abcab3584c2b87172618b32a9c23b6.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Dead_Mount_Death_Play_เดด_เมานท์_เดธ_เพลย์.BIN",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/04/10/a1abcab3584c2b87172618b32a9c23b6.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Dead_Mount_Death_Play_เดด_เมานท์_เดธ_เพลย์.BIN",
+					"import":"true"	
+				},
+			]
+}

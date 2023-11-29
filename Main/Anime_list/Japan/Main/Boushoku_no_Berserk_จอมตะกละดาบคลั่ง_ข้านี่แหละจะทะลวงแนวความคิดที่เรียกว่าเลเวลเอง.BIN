@@ -1,0 +1,22 @@
+{
+	"name":"Boushoku no Berserk จอมตะกละดาบคลั่ง ข้านี่แหละจะทะลวงแนวความคิดที่เรียกว่าเลเวลเอง",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/10/02/c0657168130df470f0bcefa49dcff0b3.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/02/c0657168130df470f0bcefa49dcff0b3.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Boushoku_no_Berserk_จอมตะกละดาบคลั่ง_ข้านี่แหละจะทะลวงแนวความคิดที่เรียกว่าเลเวลเอง.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/01/bc84723c96daaa1124f91ce288a24a86.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Boushoku_no_Berserk_จอมตะกละดาบคลั่ง_ข้านี่แหละจะทะลวงแนวความคิดที่เรียกว่าเลเวลเอง.bin",
+					"import":"true"	
+				},
+			]
+}
