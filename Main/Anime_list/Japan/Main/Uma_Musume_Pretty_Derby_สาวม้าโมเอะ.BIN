@@ -1,0 +1,22 @@
+{
+	"name":"Uma Musume Pretty Derby สาวม้าโมเอะ",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/10/04/08d7d7650f109feebee0d166bceb722c.png",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/04/08d7d7650f109feebee0d166bceb722c.png",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Uma_Musume_Pretty_Derby_สาวม้าโมเอะ.bin",
+					"import":"true"	
+				},
+			]
+}

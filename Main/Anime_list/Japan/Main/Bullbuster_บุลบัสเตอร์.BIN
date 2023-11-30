@@ -1,0 +1,22 @@
+{
+	"name":"Bullbuster บุลบัสเตอร์",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/10/04/1cc2e6df9294eac8f9437081dc5aacdf.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/04/1cc2e6df9294eac8f9437081dc5aacdf.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Bullbuster_บุลบัสเตอร์.bin",
+					"import":"true"	
+				},
+			]
+}

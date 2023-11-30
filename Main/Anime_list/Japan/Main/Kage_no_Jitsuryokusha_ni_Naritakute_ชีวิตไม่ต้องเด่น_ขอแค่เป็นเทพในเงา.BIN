@@ -1,0 +1,22 @@
+{
+	"name":"Kage no Jitsuryokusha ni Naritakute ชีวิตไม่ต้องเด่น ขอแค่เป็นเทพในเงา",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Kage_no_Jitsuryokusha_ni_Naritakute_ชีวิตไม่ต้องเด่น_ขอแค่เป็นเทพในเงา.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Kage_no_Jitsuryokusha_ni_Naritakute_ชีวิตไม่ต้องเด่น_ขอแค่เป็นเทพในเงา.bin",
+					"import":"true"	
+				},
+			]
+}

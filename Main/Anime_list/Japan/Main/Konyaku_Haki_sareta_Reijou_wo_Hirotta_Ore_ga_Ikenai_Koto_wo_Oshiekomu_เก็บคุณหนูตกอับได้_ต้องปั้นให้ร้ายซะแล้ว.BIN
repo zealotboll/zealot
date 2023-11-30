@@ -1,0 +1,22 @@
+{
+	"name":"Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu เก็บคุณหนูตกอับได้ ต้องปั้นให้ร้ายซะแล้ว",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/10/04/abf172abedfa706a56bc4a5247cd8b6b.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/04/abf172abedfa706a56bc4a5247cd8b6b.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Konyaku_Haki_sareta_Reijou_wo_Hirotta_Ore_ga_Ikenai_Koto_wo_Oshiekomu_เก็บคุณหนูตกอับได้_ต้องปั้นให้ร้ายซะแล้ว.bin",
+					"import":"true"	
+				},
+			]
+}
