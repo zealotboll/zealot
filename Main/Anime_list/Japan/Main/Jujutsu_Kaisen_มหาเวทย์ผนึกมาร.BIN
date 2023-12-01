@@ -1,0 +1,22 @@
+{
+	"name":"Jujutsu Kaisen มหาเวทย์ผนึกมาร",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2023/07/07/7400d00bb77dbed8b62bbe286631988e.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/07/07/7400d00bb77dbed8b62bbe286631988e.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Jujutsu_Kaisen_มหาเวทย์ผนึกมาร.bin",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Jujutsu_Kaisen_มหาเวทย์ผนึกมาร.bin",
+					"import":"true"	
+				},
+			]
+}
