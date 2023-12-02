@@ -1,0 +1,54 @@
+{
+      "name": "Aikatsu ไอดอลสาวสุดป่วน",
+      "image": "https://img.shirokami.me/images/2021/10/05/image7fb604ae35e690ba.jpg",
+      "stations": [
+        
+	{
+          "name": "Aikatsu The Movie ไอดอลสาวสุดป่วนเดอะมูฟวี่ ตอนที่ 1",
+          "image": "https://img.shirokami.me/images/2021/10/05/image7fb604ae35e690ba.jpg",
+          "url": "https://files.akuma-player.xyz/view/712c4eac-0e39-56e6-8f47-647f359b93b6.m3u8",
+          "referer": "https://www.animehdzeroo.com/"
+        },
+        {
+          "name": "Aikatsu The Movie ไอดอลสาวสุดป่วนเดอะมูฟวี่ ตอนที่ 2",
+          "image": "https://img.shirokami.me/images/2021/10/05/image7fb604ae35e690ba.jpg",
+          "url": "https://files.akuma-player.xyz/view/2c3cc350-e0c9-54d0-8038-64ef028a899f.m3u8",
+          "referer": "https://www.animehdzeroo.com/"
+        },
+        {
+          "name": "Aikatsu The Movie ไอดอลสาวสุดป่วนเดอะมูฟวี่ ตอนที่ 3",
+          "image": "https://img.shirokami.me/images/2021/10/05/image7fb604ae35e690ba.jpg",
+          "url": "https://files.akuma-player.xyz/view/d42a0e2b-4243-5473-8b24-592cf7688fb0.m3u8",
+          "referer": "https://www.animehdzeroo.com/"
+        },	
+	{
+          "name": "Aikatsu 5th Anniversary Special ซับไทย",
+	  "info":"ซับไทย",
+          "image": "https://img.shirokami.me/images/2021/10/05/image7468af0c83b2124a.md.png",
+          "url": "https://files.akuma-player.xyz/view/3ffa2edd-aa6c-5f77-8200-c0a27f8fcf71.m3u8",
+          "referer": "https://www.animehdzeroo.com/"
+        },
+	{
+          "name": "Aikatsu Music Award ซับไทย",
+	  "info":"ซับไทย",	
+          "image": "https://img.shirokami.me/images/2021/10/05/image782a365fcda3b426.jpg",
+          "url": "https://files.akuma-player.xyz/view/b336b4d1-5d78-502e-ad15-b3807643c63c.m3u8",
+          "referer": "https://www.animehdzeroo.com/"
+        },
+	{
+          "name": "Aikatsu Nerawareta Mahou no Aikatsu Card ซับไทย",
+	  "info":"ซับไทย",
+          "image": "https://img.shirokami.me/images/2021/10/05/imageb334dad6a43eece5.jpg",
+          "url": "https://files.akuma-player.xyz/view/2add411b-91d1-54fe-a35c-98e3003283dc.m3u8",
+          "referer": "https://www.animehdzeroo.com/"
+        },
+	 {
+          "name": "Aikatsu Stars! The movie ซับไทย",
+          "image": "https://img.shirokami.me/images/2021/10/05/imagedee80f0828786595.jpg",
+          "url": "https://files.akuma-player.xyz/view/0c6331ef-1c05-5f11-a2d1-f3b66a3014c5.m3u8",
+          "referer": "https://www.animehdzeroo.com/"
+        },
+	
+
+      ]
+    },
