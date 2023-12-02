@@ -1,0 +1,35 @@
+{
+      "name": "Bleach บลีช เทพมรณะ เดอะมูฟวี่",
+      "image": "https://upload.wikimedia.org/wikipedia/th/6/67/Bleach_Fade_to_Black_Cover.jpg",
+      "stations": [
+        {
+          "name": "เดอะมูฟวี่ 1 พากย์ไทย",
+	  "info":"ความทรงจำแห่งผู้ไร้ตัวตน",
+          "image": "https://img.shirokami.me/images/2021/10/05/image30c86df2862202bb.md.png",
+          "url": "https://files.akuma-player.xyz/view/8b7baeec-2963-5909-91d3-b117d8a317d0.m3u8",
+          "referer": "https://www.animehdzeroo.com/"
+        },
+	{
+          "name": "เดอะมูฟวี่ 2 พากย์ไทย",
+	  "info":"อีกหนึ่งตัวตนของเฮียวรินมารุ",
+          "image": "https://img.shirokami.me/images/2021/10/05/imagecd8ef85747ca97fd.md.png",
+          "url": "https://files.akuma-player.xyz/view/f14b0d6b-84db-588d-9f6c-87e7e7af67bf.m3u8",
+          "referer": "https://www.animehdzeroo.com/"
+        },
+	{
+          "name": "เดอะมูฟวี่ 3 พากย์ไทย",
+	  "info":"แด่เธอผู้สิ้นสูญ",
+          "image": "https://img.shirokami.me/images/2021/10/05/image754cdd49af7103da.png",
+          "url": "https://files.akuma-player.xyz/view/068dcfad-d847-5792-b95b-2b4dcad39f20.m3u8",
+          "referer": "https://www.animehdzeroo.com/"
+        },
+	{
+          "name": "เดอะมูฟวี่ 4 พากย์ไทย",
+	  "info":"ศึกผ่าโลกันตร์",
+          "image": "https://img.shirokami.me/images/2021/10/05/image7901592a83348d3a.md.png",
+          "url": "https://files.akuma-player.xyz/view/d52e7a91-1bf7-50d5-9585-2504be8d30f3.m3u8",
+          "referer": "https://www.animehdzeroo.com/"
+        },
+
+      ]
+    },
