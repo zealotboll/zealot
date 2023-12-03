@@ -1,71 +1,205 @@
-{
-				"name":"Kage no Jitsuryokusha ni Naritakute! Season 2 ชีวิตไม่ต้องเด่น ขอแค่เป็นเทพในเงา ซับไทย",
-				"info":"ซับไทย",
-				"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
-				"stations": 
-					[
-						{
-							"name":"ตอนที่  1 ",
-							"info":"ซับไทย",
-							"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
-							"url":"https://files.akuma-player.xyz/view/1c7627cd-acf1-5f2a-a616-b06760616a59.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  2 ",
-							"info":"ซับไทย",
-							"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
-							"url":"https://files.akuma-player.xyz/view/381902df-1681-5887-ba4d-26f35adaf345.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  3 ",
-							"info":"ซับไทย",
-							"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
-							"url":"https://files.akuma-player.xyz/view/ef80e90f-ff83-5880-a0f3-1250f805b0a8.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  4 ",
-							"info":"ซับไทย",
-							"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
-							"url":"https://files.akuma-player.xyz/view/30dab9ac-e073-5aba-a3de-4872f44295e8.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  5 ",
-							"info":"ซับไทย",
-							"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
-							"url":"https://files.akuma-player.xyz/view/6cd54f8c-955d-5a89-b8c5-3c42897e83df.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  6 ",
-							"info":"ซับไทย",
-							"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
-							"url":"https://files.akuma-player.xyz/view/d00b83cd-2f20-5690-a111-1af42e753059.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  7 ",
-							"info":"ซับไทย",
-							"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
-							"url":"https://files.akuma-player.xyz/view/33a9fc38-9930-50ff-8497-c4acf24ba9d7.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  8 ",
-							"info":"ซับไทย",
-							"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
-							"url":"https://files.akuma-player.xyz/view/ac9a1c0b-b7c6-59e9-8bb1-10bf1f764542.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  9 ",
-							"info":"ซับไทย",
-							"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
-							"url":"https://files.akuma-player.xyz/view/034fc6bd-5106-56c0-b745-10fceb24f460.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-					]
-			},
+	{
+		"name":"Kage no Jitsuryokusha ni Naritakute ชีวิตไม่ต้องเด่น ขอแค่เป็นเทพในเงา",
+		"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
+		"groups":
+			[
+				{
+					"name": "Season-1",
+					"image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+					"stations": 
+						[
+							{
+							  "name": "ตอนที่ 1 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/8b9fcff9-6b69-560d-a9fc-3bab5661f1af.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 2 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/fb72be4d-c5ae-5dd9-82a7-f8ce04127dce.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 3 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/8c5f755f-d4cd-5622-9f3e-07f810250c86.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 4 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/6167d77d-54c8-5188-89f4-28d4d72f28cd.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 5 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/1d02cd24-ee84-564d-875f-26f7d19673b7.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 6 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/bf5dd4a4-f9aa-551f-a8df-c8c5d4420506.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 7 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/e3758538-f266-53ec-9529-6ae697341787.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 8 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/657cc0f9-eb40-5bac-a245-b3b95316ecd6.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 9 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/085d9ff0-c808-581f-bc8b-d83d74ab97e3.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 10 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/838cc597-e218-5d1b-8e5d-32fd536214ce.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 11 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/ff9e8152-008a-5885-b0b8-7666d8bbfa6b.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 12 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/c0a9b958-da6f-5648-909d-48b1b2d8d4f1.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 13 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/8016959f-4ea2-5920-b785-ae9ac1509c03.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 14 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/dc321df6-237b-5e1f-86c3-fcad53f2ead2.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 15 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/3f07df46-359c-5055-a960-fa280b351f76.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 16 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/c614a8ce-9104-5297-bfa2-05ac4d1b4925.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 17 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/07254d4d-ca92-50b0-873e-1ee516f29c68.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 18 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/6250a9e9-8f4c-5aec-acd7-a081ca70019b.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 19 ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/c9c980dc-8575-565c-b3a7-9144c56e72a2.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+							{
+							  "name": "ตอนที่ 20 จบ ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/05/228671e16bf0463551ec32aca593b345.jpg",
+							  "url": "https://files.akuma-player.xyz/view/935e81e1-2203-5d7d-810e-658ca94cd046.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+						]
+				},
+				{
+					"name":"Season-2",
+					"info":"ซับไทย",
+					"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
+					"stations": 
+						[
+							{
+								"name":"ตอนที่  1 ",
+								"info":"ซับไทย",
+								"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
+								"url":"https://files.akuma-player.xyz/view/1c7627cd-acf1-5f2a-a616-b06760616a59.m3u8",
+								"referer":"https://www.animehdzeroo.com/"	
+							},
+							{
+								"name":"ตอนที่  2 ",
+								"info":"ซับไทย",
+								"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
+								"url":"https://files.akuma-player.xyz/view/381902df-1681-5887-ba4d-26f35adaf345.m3u8",
+								"referer":"https://www.animehdzeroo.com/"	
+							},
+							{
+								"name":"ตอนที่  3 ",
+								"info":"ซับไทย",
+								"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
+								"url":"https://files.akuma-player.xyz/view/ef80e90f-ff83-5880-a0f3-1250f805b0a8.m3u8",
+								"referer":"https://www.animehdzeroo.com/"	
+							},
+							{
+								"name":"ตอนที่  4 ",
+								"info":"ซับไทย",
+								"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
+								"url":"https://files.akuma-player.xyz/view/30dab9ac-e073-5aba-a3de-4872f44295e8.m3u8",
+								"referer":"https://www.animehdzeroo.com/"	
+							},
+							{
+								"name":"ตอนที่  5 ",
+								"info":"ซับไทย",
+								"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
+								"url":"https://files.akuma-player.xyz/view/6cd54f8c-955d-5a89-b8c5-3c42897e83df.m3u8",
+								"referer":"https://www.animehdzeroo.com/"	
+							},
+							{
+								"name":"ตอนที่  6 ",
+								"info":"ซับไทย",
+								"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
+								"url":"https://files.akuma-player.xyz/view/d00b83cd-2f20-5690-a111-1af42e753059.m3u8",
+								"referer":"https://www.animehdzeroo.com/"	
+							},
+							{
+								"name":"ตอนที่  7 ",
+								"info":"ซับไทย",
+								"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
+								"url":"https://files.akuma-player.xyz/view/33a9fc38-9930-50ff-8497-c4acf24ba9d7.m3u8",
+								"referer":"https://www.animehdzeroo.com/"	
+							},
+							{
+								"name":"ตอนที่  8 ",
+								"info":"ซับไทย",
+								"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
+								"url":"https://files.akuma-player.xyz/view/ac9a1c0b-b7c6-59e9-8bb1-10bf1f764542.m3u8",
+								"referer":"https://www.animehdzeroo.com/"	
+							},
+							{
+								"name":"ตอนที่  9 ",
+								"info":"ซับไทย",
+								"image":"https://img.shirokami.me/images/2023/10/04/7cbe1308b07b6441733ec65d70d866ae.jpg",
+								"url":"https://files.akuma-player.xyz/view/034fc6bd-5106-56c0-b745-10fceb24f460.m3u8",
+								"referer":"https://www.animehdzeroo.com/"	
+							},
+						]
+				},
+			]
+	}

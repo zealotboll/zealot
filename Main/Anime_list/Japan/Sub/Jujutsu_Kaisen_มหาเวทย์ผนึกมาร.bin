@@ -1,13 +1,13 @@
 {
 		"name":"Jujutsu Kaisen มหาเวทย์ผนึกมาร",
 		"info":"",
-		"image":"https://img.shirokami.me/images/2021/10/05/image9127098de643dab0.md.png",
+		"image":"https://img.shirokami.me/images/2021/10/05/imageceb1411f074be6d1.md.png",
 		"groups":
 			[
 				{
 					  "name": "Season-1",
 					  "info":"อิตาโดริ ยูจิ นักเรียนมัธยมปลายที่มีสมรรถภาพร่างกายสูงแต่เลี่ยงกีฬามาอยู่กลุ่มเหนือธรรมชาติ หลังปู่ที่นอนป่วยในโรงพยาบาล ก่อนตายได้ฝากให้เขาคิดถึงการช่วยผู้อื่นและตายอย่างเหมาะสม เขาได้มาพัวพันกับ “วัตถุต้องสาป” ที่ทำให้สัตว์ประหลาดปรากฏตัว ยูจิ และกลืนนิ้วต้องสาปเข้าไปเพื่อช่วยเพื่อน แต่พลังคำสาปของนิ้วเทพอสูร เรียวเมนสุคุนะกลับไม่สามารถควบคุมร่างเขาได้ ทำให้กลุ่มสมาคมตั้งใจให้เขารวบรวมนิ้วต้องคำสาปของเทพอสูร โดยให้เขามาเรียนที่โรงเรียนในโตเกียว หวังให้เขารวบรวมนิ้วของสุคุนะทั้งหมดได้ครบ แล้วค่อยกำจัด ยูจิ ในภายหลัง",
-					  "image": "https://img.shirokami.me/images/2021/10/05/imageceb1411f074be6d1.md.png",
+					  "image": "https://anime-indy.com/wp-content/uploads/2020/11/109222.jpg",
 					  "stations": [
 						{
 						 "name": "ตอนที่ 1",
@@ -294,6 +294,13 @@
 							"info":"ตอนที่  18 ซับไทย",
 							"image":"https://img.shirokami.me/images/2023/07/05/c218ba824cbe197958791a3185a02e80.jpg",
 							"url":"https://files.akuma-player.xyz/view/58e79704-8dbc-5deb-b30d-fa6fe04c0c9d.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						{
+							"name":"Jujutsu Kaisen Season 2 มหาเวทย์ผนึกมาร (ภาค2) ซับไทย",
+							"info":"ตอนที่  19 ซับไทย",
+							"image":"https://img.shirokami.me/images/2023/07/05/c218ba824cbe197958791a3185a02e80.jpg",
+							"url":"https://files.akuma-player.xyz/view/ccab4c79-d040-5c3b-a002-694e5a7b014f.m3u8",
 							"referer":"https://www.animehdzeroo.com/"	
 						},
 					]
