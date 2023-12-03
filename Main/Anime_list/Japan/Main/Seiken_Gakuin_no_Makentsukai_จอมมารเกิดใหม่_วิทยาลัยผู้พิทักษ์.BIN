@@ -4,13 +4,7 @@
 	"image":"https://img.shirokami.me/images/2023/10/02/6587c9d53b77135d9bc1ebff13d61ddf.jpg",
 		"groups":
 			[
-				{
-					"name":"พากย์ไทย",
-					"info":"",
-					"image":"https://img.shirokami.me/images/2023/10/02/6587c9d53b77135d9bc1ebff13d61ddf.jpg",
-					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Seiken_Gakuin_no_Makentsukai_จอมมารเกิดใหม่_วิทยาลัยผู้พิทักษ์.bin",
-					"import":"true"
-				},
+				
 				{
 					"name":"ซับไทย",
 					"info":"",
@@ -20,3 +14,12 @@
 				},
 			]
 }
+
+
+{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/02/6587c9d53b77135d9bc1ebff13d61ddf.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Seiken_Gakuin_no_Makentsukai_จอมมารเกิดใหม่_วิทยาลัยผู้พิทักษ์.bin",
+					"import":"true"
+				},

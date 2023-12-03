@@ -4,13 +4,7 @@
 	"image":"https://img.shirokami.me/images/2023/09/30/170670aa57dd07104160dcc5b498f6e4.jpg",
 		"groups":
 			[
-				{
-					"name":"พากย์ไทย",
-					"info":"",
-					"image":"https://img.shirokami.me/images/2023/09/30/170670aa57dd07104160dcc5b498f6e4.jpg",
-					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Megumi_no_Daigo_Kyuukoku_no_Orange_สิงห์ผจญเพลิง_ผู้พิทักษ์ชุดส้ม.bin",
-					"import":"true"
-				},
+				
 				{
 					"name":"ซับไทย",
 					"info":"",
@@ -20,3 +14,14 @@
 				},
 			]
 }
+
+
+
+
+{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/09/30/170670aa57dd07104160dcc5b498f6e4.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Megumi_no_Daigo_Kyuukoku_no_Orange_สิงห์ผจญเพลิง_ผู้พิทักษ์ชุดส้ม.bin",
+					"import":"true"
+				},

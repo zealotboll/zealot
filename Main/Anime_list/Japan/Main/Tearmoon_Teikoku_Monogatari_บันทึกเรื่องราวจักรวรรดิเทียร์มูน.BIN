@@ -4,13 +4,7 @@
 	"image":"https://img.shirokami.me/images/2023/10/07/8796aa82f892e1cd7deb6e523d0465b8.jpg",
 		"groups":
 			[
-				{
-					"name":"พากย์ไทย",
-					"info":"",
-					"image":"https://img.shirokami.me/images/2023/10/07/8796aa82f892e1cd7deb6e523d0465b8.jpg",
-					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Tearmoon_Teikoku_Monogatari_บันทึกเรื่องราวจักรวรรดิเทียร์มูน.bin",
-					"import":"true"
-				},
+				
 				{
 					"name":"ซับไทย",
 					"info":"",
@@ -20,3 +14,13 @@
 				},
 			]
 }
+
+
+
+{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/07/8796aa82f892e1cd7deb6e523d0465b8.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Tearmoon_Teikoku_Monogatari_บันทึกเรื่องราวจักรวรรดิเทียร์มูน.bin",
+					"import":"true"
+				},

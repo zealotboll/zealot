@@ -4,13 +4,7 @@
 	"image":"https://img.shirokami.me/images/2023/10/08/7cf6087e9a924b9023805ab053ac502d.jpg",
 		"groups":
 			[
-				{
-					"name":"พากย์ไทย",
-					"info":"",
-					"image":"https://img.shirokami.me/images/2023/10/08/7cf6087e9a924b9023805ab053ac502d.jpg",
-					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/The_iDOLM@STER_Million_Live!_ดิ_ไอดอลมาสเตอร์ มิลเลียนไลฟ์.bin",
-					"import":"true"
-				},
+				
 				{
 					"name":"ซับไทย",
 					"info":"",
@@ -20,3 +14,14 @@
 				},
 			]
 }
+
+
+
+
+{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/10/08/7cf6087e9a924b9023805ab053ac502d.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/The_iDOLM@STER_Million_Live!_ดิ_ไอดอลมาสเตอร์ มิลเลียนไลฟ์.bin",
+					"import":"true"
+				},

@@ -4,13 +4,7 @@
 	"image":"https://img.shirokami.me/images/2023/09/30/7a652ef00de3f72e98651763d96bce3b.jpg",
 		"groups":
 			[
-				{
-					"name":"พากย์ไทย",
-					"info":"",
-					"image":"https://img.shirokami.me/images/2023/09/30/7a652ef00de3f72e98651763d96bce3b.jpg",
-					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Ragna_Crimson_ตำนานนักล่ามังกร.bin",
-					"import":"true"
-				},
+				
 				{
 					"name":"ซับไทย",
 					"info":"",
@@ -20,3 +14,15 @@
 				},
 			]
 }
+
+
+
+
+
+{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/09/30/7a652ef00de3f72e98651763d96bce3b.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Ragna_Crimson_ตำนานนักล่ามังกร.bin",
+					"import":"true"
+				},
