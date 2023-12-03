@@ -1,0 +1,43 @@
+	{
+		"name":"5-Toubun No Hanayome เจ้าสาวผมเป็นแฝดห้า",
+		"image":"https://img.shirokami.me/images/2022/10/28/a7c01f8e3ab8c0730d5730ec584a6d56.jpg",
+		"groups": 
+			[
+				{
+					"name": "5-Toubun No Hanayome Movie (The Quintessential Quintuplets Movie) เจ้าสาวผมเป็นแฝดห้า เดอะมูฟวี่ ซับไทย",
+					"image": "https://img.shirokami.me/images/2022/10/28/a7c01f8e3ab8c0730d5730ec584a6d56.jpg",
+					"stations": 
+						[
+							{
+							  "name": "5-Toubun No Hanayome Movie เจ้าสาวผมเป็นแฝดห้า เดอะมูฟวี่ ซับไทย",
+							  "info":"เจ้าสาวผมเป็นแฝดห้า เดอะมูฟวี่ ซับไทย",
+							  "image": "https://img.shirokami.me/images/2022/10/28/a7c01f8e3ab8c0730d5730ec584a6d56.jpg",
+							  "url": "https://files.akuma-player.xyz/view/35bea66c-9ce5-53fc-8d05-8b440fd87e52.m3u8",
+							  "referer": "https://www.animehdzeroo.com/"
+							},
+						]
+				},
+				{
+					"name":"Go-toubun no Hanayome เจ้าสาวผมเป็นแฝดห้า ภาคพิเศษ ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2023/09/02/99053e6fe7787367f962e47967d6cd13.jpg",
+					"stations": 
+						[
+							{
+										"name":"Go-toubun no Hanayome เจ้าสาวผมเป็นแฝดห้า ภาคพิเศษ ซับไทย",
+										"info":"พิเศษ ตอนที่ 1 ซับไทย",
+										"image":"https://img.shirokami.me/images/2023/09/02/99053e6fe7787367f962e47967d6cd13.jpg",
+										"url":"https://files.akuma-player.xyz/view/07320739-8bfc-5bdf-b0c3-d1c7054473ba.m3u8",
+										"referer":"https://www.animehdzeroo.com/"	
+							},
+							{
+										"name":"Go-toubun no Hanayome เจ้าสาวผมเป็นแฝดห้า ภาคพิเศษ ซับไทย",
+										"info":"พิเศษ ตอนที่ 2 ซับไทย",
+										"image":"https://img.shirokami.me/images/2023/09/02/99053e6fe7787367f962e47967d6cd13.jpg",
+										"url":"https://files.akuma-player.xyz/view/34811810-2ea6-5c95-8aaa-2a61f5fa1ecc.m3u8",
+										"referer":"https://www.animehdzeroo.com/"	
+							},
+						]
+				},
+			]
+	}

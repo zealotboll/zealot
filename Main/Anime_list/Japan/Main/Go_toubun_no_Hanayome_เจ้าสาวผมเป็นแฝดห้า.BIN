@@ -1,0 +1,29 @@
+{
+	"name":"Go toubun no Hanayome เจ้าสาวผมเป็นแฝดห้า",
+	"info":"",
+	"image":"https://img.shirokami.me/images/2021/10/05/imagec86a432e40881d6d.jpg",
+		"groups":
+			[
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/",
+					"import":"true"
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2021/10/05/imagec86a432e40881d6d.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Go_toubun_no_Hanayome_เจ้าสาวผมเป็นแฝดห้า.bin",
+					"import":"true"	
+				},
+				{
+					"name":"The Movie",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2022/10/28/a7c01f8e3ab8c0730d5730ec584a6d56.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/The_Movie/5-Toubun_No_Hanayome.bin",
+					"import":"true"	
+				},
+			]
+}
