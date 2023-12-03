@@ -4,6 +4,19 @@
 	"image":"https://img.shirokami.me/images/2021/10/05/image7fb604ae35e690ba.jpg",
 		"groups":
 			[
+				
+				{
+					"name":"The Movies",
+					"info":"",
+					"image":"https://img.shirokami.me/images/2021/10/05/image7fb604ae35e690ba.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/The_Movie/Aikatsu_ไอดอลสาวสุดป่วน.bin",
+					"import":"true"	
+				},
+			]
+}
+
+
+
 				{
 					"name":"พากย์ไทย",
 					"info":"",
@@ -18,12 +31,3 @@
 					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/",
 					"import":"true"	
 				},
-				{
-					"name":"The Movies",
-					"info":"",
-					"image":"https://img.shirokami.me/images/2021/10/05/image7fb604ae35e690ba.jpg",
-					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/The_Movie/Aikatsu_ไอดอลสาวสุดป่วน.bin",
-					"import":"true"	
-				},
-			]
-}
