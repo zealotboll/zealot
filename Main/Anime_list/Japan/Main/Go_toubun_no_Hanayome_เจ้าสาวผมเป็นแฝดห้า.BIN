@@ -4,13 +4,7 @@
 	"image":"https://img.shirokami.me/images/2021/10/05/imagec86a432e40881d6d.jpg",
 		"groups":
 			[
-				{
-					"name":"พากย์ไทย",
-					"info":"",
-					"image":"",
-					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/",
-					"import":"true"
-				},
+				
 				{
 					"name":"ซับไทย",
 					"info":"",
@@ -27,3 +21,18 @@
 				},
 			]
 }
+
+
+
+
+
+
+
+
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/",
+					"import":"true"
+				}
