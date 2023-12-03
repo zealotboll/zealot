@@ -1,10 +1,42 @@
 {
   "name": "Anime-HD-Zeroo เดอะมูฟวี่",
-  "author": "By iball อัพวันที่ 02/12/2023",
+  "author": "By iball อัพวันที่ 03/12/2023",
   "info":"ทำแจกฟรี 100 %",
   "image": "https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
   "groups": 
 		[
+			{
+				"name":"Liz to Aoi Tori (Liz and the Blue Bird) ลิซแอนด์เดอะบลูเบิร์ด เดอะมูฟวี่ ซับไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/12/03/20fd3d548c9f0e888d7234e12715690a.jpg",
+				"stations": 
+					[
+						{
+							"name":"Liz to Aoi Tori (Liz and the Blue Bird) ลิซแอนด์เดอะบลูเบิร์ด เดอะมูฟวี่ ซับไทย",
+							"info":"ลิซแอนด์เดอะบลูเบิร์ด เดอะมูฟวี่ ซับไทย",
+							"image":"https://img.shirokami.me/images/2023/12/03/20fd3d548c9f0e888d7234e12715690a.jpg",
+							"url":"https://files.akuma-player.xyz/view/7cfd302d-6274-525f-8b2c-ecbb9778d7bc.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
+			{
+				"name":"Detective Conan The Movie 26: Black Iron Submarine (2023) ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 26: มฤตยูใต้น้ำทมิฬ พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/12/03/deb68d47c56173e345027be65ea4559c.jpg",
+				"stations": 
+					[
+						{
+							"name":"Detective Conan The Movie 26: Black Iron Submarine (2023) ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 26: มฤตยูใต้น้ำทมิฬ พากย์ไทย",
+							"info":"เดอะมูฟวี่ 26 พากย์ไทย",
+							"image":"https://img.shirokami.me/images/2023/12/03/deb68d47c56173e345027be65ea4559c.jpg",
+							"url":"https://files.akuma-player.xyz/view/fdf7c72d-7b03-52be-8bca-889cf67d1a2f.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
 			{
 				"name":"Gridman Universe กริดแมนยูนิเวิร์ส พากย์ไทย",
 				"info":"",
