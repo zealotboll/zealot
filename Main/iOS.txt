@@ -37,7 +37,7 @@
   },
   {
 	"name":"Test New", 
-	"image":"https://github.com/zealotboll/zealot/blob/main/Main/icon/main_anime.png",
+	"image":"https://raw.githubusercontent.com/zealotboll/zealot/1d12b1eccf2ce5c93897482e374f3786b290cf5e/Main/icon/main_anime.png",
 	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Menu.txt",
 	"import":"true"
   },
