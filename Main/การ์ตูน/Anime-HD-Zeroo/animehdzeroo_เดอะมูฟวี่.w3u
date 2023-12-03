@@ -1217,7 +1217,31 @@
 						
 					]
 			},
-		{
+			{
+			  "name": "LEGO Scooby-Doo! Blowout Beach Bash (2017) เลโก้ สคูบี้ดู ตะลุยหาดปีศาจโจรสลัด พากย์ไทย",
+			  "image": "https://img.shirokami.me/images/2022/10/20/c9a03bbd79a425db4c51ddd1bfa8299e.jpg",
+			  "stations": [
+				{
+				  "name": "LEGO Scooby-Doo! Blowout Beach Bash (2017) เลโก้ สคูบี้ดู ตะลุยหาดปีศาจโจรสลัด พากย์ไทย เดอะมูฟวี่",
+				  "image": "https://img.shirokami.me/images/2022/10/20/c9a03bbd79a425db4c51ddd1bfa8299e.jpg",
+				  "url": "https://files.akuma-player.xyz/view/6e0bac5f-49fc-50f4-96d0-c21c8a8429c5.m3u8",
+				  "referer": "https://www.animehdzeroo.com/"
+				},
+			  ]
+			},
+			{
+			  "name": "LEGO Scooby Doo Haunted Hollywood (2016) เลโก้ สคูบี้ดู อาถรรพ์เมืองมายา พากย์ไทย",
+			  "image": "https://img.shirokami.me/images/2022/10/22/77a193499ff08366b8c8708da6fb7d07.jpg",
+			  "stations": [
+				{
+				  "name": "LEGO Scooby Doo Haunted Hollywood (2016) เลโก้ สคูบี้ดู อาถรรพ์เมืองมายา พากย์ไทย เดอะมูฟวี่",
+				  "image": "https://img.shirokami.me/images/2022/10/22/77a193499ff08366b8c8708da6fb7d07.jpg",
+				  "url": "https://files.akuma-player.xyz/view/4c68b634-46da-5acd-bf1c-e9968f020959.m3u8",
+				  "referer": "https://www.animehdzeroo.com/"
+				},
+			  ]
+			},
+			{
 				"name":"Snoopy Presents Lucy's School (2022)โรงเรียนของลูซี่ พากย์ไทย",
 				"info":"",
 				"image":"https://img.shirokami.me/images/2023/08/24/d8514fdf71ee8625990de6b496c7138a.jpg",
