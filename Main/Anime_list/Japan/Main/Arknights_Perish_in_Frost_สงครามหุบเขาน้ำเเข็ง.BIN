@@ -1,29 +1,29 @@
-{
-	"name":"Arknights Perish in Frost สงครามหุบเขาน้ำเเข็ง",
-	"info":"",
-	"image":"https://img.shirokami.me/images/2023/10/08/05b74b3700547140cb48e7935352baf7.jpg",
-		"groups":
-			[
-				{
-					"name":"ซับไทย",
-					"info":"",
-					"image":"https://img.shirokami.me/images/2023/10/08/05b74b3700547140cb48e7935352baf7.jpg",
-						"groups":
-							[
-								{
-									"name":"Season 2",
-									"info":"ซับไทย",
-									"image":"https://img.shirokami.me/images/2023/10/08/05b74b3700547140cb48e7935352baf7.jpg",
-									"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Arknights_Perish_in_Frost_(Season2)_สงครามหุบเขาน้ำเเข็ง.bin",
-									"import":"true"
-								}
-								
-								
-							]
-				}
-				
-			]
-}
+	{
+		"name":"Arknights Perish in Frost สงครามหุบเขาน้ำเเข็ง",
+		"info":"",
+		"image":"https://img.shirokami.me/images/2023/10/08/05b74b3700547140cb48e7935352baf7.jpg",
+			"groups":
+				[
+					{
+						"name":"ซับไทย",
+						"info":"",
+						"image":"https://img.shirokami.me/images/2023/10/08/05b74b3700547140cb48e7935352baf7.jpg",
+							"groups":
+								[
+									{
+										"name":"Season 2",
+										"info":"ซับไทย",
+										"image":"https://img.shirokami.me/images/2023/10/08/05b74b3700547140cb48e7935352baf7.jpg",
+										"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/Arknights_Perish_in_Frost_(Season2)_สงครามหุบเขาน้ำเเข็ง.bin",
+										"import":"true"
+									},
+									
+									
+								]
+					},
+					
+				]
+	}
 
 				
 
