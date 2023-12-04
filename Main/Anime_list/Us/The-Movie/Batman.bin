@@ -1,0 +1,20 @@
+{
+      "name": "Batman แบทแมน The Movies",
+      "image": "https://img.shirokami.me/images/2022/11/14/026876f7be3b4653847d6966a7970366.jpg",
+      "stations": [
+        {
+          "name": "Batman and Superman Battle of the Super Sons (2022) แบทแมนและซูเปอร์แมน: การต่อสู้ของ ซุปเปอร์ซัน ซับไทย เดอะมูฟวี่",
+	  "info":"แบทแมนและซูเปอร์แมน ซับไทย",
+          "image": "https://img.shirokami.me/images/2022/11/14/026876f7be3b4653847d6966a7970366.jpg",
+          "url": "https://files.akuma-player.xyz/view/700456fc-53a0-5c5f-9433-6cb1dc7b35a9.m3u8",
+          "referer": "https://www.animehdzeroo.com/"
+        },
+	{
+          "name": "Batman- The Doom That Came to Gotham (2023) แบทแมน: หายนะที่มาถึงก็อธแธม ซับไทย เดอะมูฟวี่",
+	  "info":"หายนะที่มาถึงก็อธแธม ซับไทย",
+          "image": "https://img.shirokami.me/images/2023/05/01/b82788b6ba8fed5d4b6f60313561381c.webp",
+          "url": "https://files.akuma-player.xyz/view/65f18664-7553-5c84-8ee3-bbf573a37a52.m3u8",
+          "referer": "https://www.animehdzeroo.com/"
+        },
+      ]
+    },

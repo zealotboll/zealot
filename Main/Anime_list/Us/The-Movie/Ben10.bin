@@ -1,0 +1,20 @@
+{
+      "name": "Ben 10 The Movie เบ็นเท็น",
+      "image": "https://img.shirokami.me/images/2023/06/06/88fb5883aa69df22386a57bd46c9d381.png",
+      "stations": [
+        {
+          "name": "Ben 10 Destroy All Aliens เบ็นเท็น ศึกปราบเอเลี่ยนทะลุมิติ พากย์ไทย เดอะมูฟวี่",
+	  "info":"ศึกปราบเอเลี่ยนทะลุมิติ",
+          "image": "https://img.shirokami.me/images/2023/06/06/88fb5883aa69df22386a57bd46c9d381.png",
+          "url": "https://files.akuma-player.xyz/view/ecf4dfe6-7583-52d4-b5ec-b0a8608607c9.m3u8",
+          "referer": "https://www.animehdzeroo.com/"
+        },
+	{
+          "name": "Ben 10 Secret Of The Omnitrix เบ็นเท็น ความลับของออมนิทริกซ์ พากย์ไทย เดอะมูฟวี่",
+	  "info":"ความลับของออมนิทริกซ์",
+          "image": "https://img.shirokami.me/images/2023/06/13/ba90a201c63e3c16a8cc38cba9fcc873.jpg",
+          "url": "https://files.akuma-player.xyz/view/51d5e6ef-4915-5338-b3b8-197aa1990e4d.m3u8",
+          "referer": "https://www.animehdzeroo.com/"
+        },
+      ]
+    },
