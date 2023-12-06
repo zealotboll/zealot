@@ -15,12 +15,6 @@
 			"image": "https://www.v8movie-hd.com/wp-content/themes/v8moviehd/img/logo-v8hd.png",
 			"groups": [
 			{
-				"name": "ดูซีรีย์",
-				"image": "https://www.v8movie-hd.com/wp-content/themes/v8moviehd/img/logo-v8hd.png",
-				"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/V8Movie/v8movie-hd_ดูซีรีย์.w3u",
-				"import": "false"
-			},
-			{
 				"name": "หนังในปี 2023",
 				"image": "https://www.v8movie-hd.com/wp-content/themes/v8moviehd/img/logo-v8hd.png",
 				"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/V8Movie/v8movie-hd_2023.w3u",
@@ -57,6 +51,12 @@
 				"import": "false"
 			}
 		  ]
-		}
+		},
+		{
+				"name": "ดูซีรีย์",
+				"image": "https://www.v8movie-hd.com/wp-content/themes/v8moviehd/img/logo-v8hd.png",
+				"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/V8Movie/v8movie-hd_ดูซีรีย์.w3u",
+				"import": "false"
+			},
 	  ]
 	},
