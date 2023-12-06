@@ -1,0 +1,57 @@
+{
+	"name":"Dragon Ball ดราก้อนบอล",
+	"info":"",
+	"image":"https://www.animetaro.com/upload/a2efca5440a546b339a45a070a913f75.jpg?v=1",
+		"groups":
+			[
+				{
+					"name":"Dragon Ball",
+					"info":"ภาค 1",
+					"image":"https://www.animetaro.com/upload/a2efca5440a546b339a45a070a913f75.jpg?v=1",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Dragon_Ball.bin",
+					"import":"true"
+				},
+				{
+					"name":"Dragon Ball Z",
+					"info":"",
+					"image":"https://www.animetaro.com/upload/4b788bf0fdb0a9e8c1085089c830cc6f.jpg?v=1",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Dragon_Ball_Z.bin",
+					"import":"true"	
+				},
+				{
+					"name":"Dragon Ball GT",
+					"info":"",
+					"image":"https://www.animetaro.com/upload/66e5fc915ac10122278ebec58c363b34.jpg?v=1",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Dragon_Ball_GT.bin",
+					"import":"true"	
+				},
+				{
+					"name":"Dragon Ball Kai",
+					"info":"",
+					"image":"https://sv1.picz.in.th/images/2022/08/18/XLfRo8.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Dragon_Ball_Kai.bin",
+					"import":"true"	
+				},
+				{
+					"name":"Dragon Ball Super",
+					"info":"",
+					"image":"https://sv1.picz.in.th/images/2022/08/18/XLfRo8.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Dragon_Ball_Super.bin",
+					"import":"true"	
+				},
+				{
+					"name":"Dragon Ball Kai",
+					"info":"",
+					"image":"https://sv1.picz.in.th/images/2022/08/18/XLfRo8.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Dragon_Ball_Kai.bin",
+					"import":"true"	
+				},
+				{
+					"name":"The Movies",
+					"info":"",
+					"image":"https://sv1.picz.in.th/images/2022/08/18/XLfRo8.jpg",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Dragon_Ball_Kai.bin",
+					"import":"true"	
+				},
+			]
+}
