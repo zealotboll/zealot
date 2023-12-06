@@ -1,0 +1,117 @@
+	{
+		"name":"Anime-Master ดูอนิเมะออนไลน์ ดูการ์ตูนฟรี",
+		"author":"by-Boll",
+		"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+		"groups": 
+			[
+				{
+					"name":"หน้าแรก",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะทั้งหมด.bin",
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะซับไทย",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะซับไทย.bin",
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะพากย์ไทย",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะพากย์ไทย.bin",
+					"import":"true"
+				},
+				{
+					"name":"จบแล้ว",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/จบแล้ว.bin",
+					"import":"true"
+				},
+				{
+					"name":"ยังไม่จบ",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/ยังไม่จบ.bin",
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะมาใหม่",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะมาใหม่.bin",
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะ 18+.",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะ 18+.bin",
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะ Hentai.",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะ Hentai.bin",
+					"import":"true"
+				},
+				{
+					"name":"The Movie",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/The Movie.bin",
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะต่างโลก",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะต่างโลก.bin",
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะผจญภัย",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะผจญภัย.bin",
+					"import":"true"
+				},
+				{
+					"name":"H-Anime",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/H-Anime.bin",
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะมาใหม่ 2020.",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะมาใหม่ 2020.bin",
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะฮาเร็ม Harem.",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะฮาเร็ม Harem.bin",
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะจีนซับไทย",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะจีนซับไทย.bin",
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะมาใหม่ 2021",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะมาใหม่ 2021.bin",
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะมาใหม่ 2022",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะมาใหม่ 2022.bin,
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะมาใหม่ 2023",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะมาใหม่ 2023.bin",
+					"import":"true"
+				},
+			]
+	}
+		
