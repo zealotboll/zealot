@@ -11,7 +11,12 @@
 					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะทั้งหมด.bin",
 					"import":"true"
 				},
-				
+				{
+					"name":"อนิเมะซับไทย",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะซับไทย.bin",
+					"import":"true"
+				},
 			]
 	}
 		
