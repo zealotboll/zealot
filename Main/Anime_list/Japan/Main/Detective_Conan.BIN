@@ -6945,20 +6945,7 @@
 				},
 			]
 		},
-		{
-			"name": "รวมโคนัน เดอะมูฟวี่ พากย์ไทย ซับไทย ",
-			"info": "",
-			"image": "https://www.animetaro.com/upload/603519ec891525fb58bc00832415503c.jpg?v=1",
-			"stations": [
-				{
-					"name": "Movie 1 The Time-Bombed Skyscraper คดีปริศนาระเบิดระฟ้า",
-					"info": "HD",
-					"image": "https://www.animetaro.com/upload/603519ec891525fb58bc00832415503c.jpg?v=1",
-					"url": "https://dlb00.dark-player.net/kwdata/e412c96daa4a5d7d90ee55b4915846ae/playlist.m3u8"
-				},
-				
-			]
-		},
+		
 		
 	]
 }
