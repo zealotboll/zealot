@@ -7158,6 +7158,49 @@
 				},
 			]
 		},
+		{
+			"name": "วันสบาย ๆ ของซีโร่ Conan: Zero no Tea Time",
+			"info": "ตอนที่ 1-6 พากย์ไทย | จบแล้ว",
+			"image": "https://www.animetaro.com/upload/36d51761e58f1414bcfc3cc947941e2c.jpg?v=1",
+			"stations": [
+				{
+					"name": "ตอนที่ 1 พากย์ไทย",
+					"info": "HD",
+					"image": "https://www.animetaro.com/upload/36d51761e58f1414bcfc3cc947941e2c.jpg?v=1",
+					"url": "https://dlb00.dark-player.net/kwdata/c6f4a95fd14e9db6aca3051cd9c5eea2/playlist.m3u8"
+				},
+				{
+					"name": "ตอนที่ 2 พากย์ไทย",
+					"info": "HD",
+					"image": "https://www.animetaro.com/upload/36d51761e58f1414bcfc3cc947941e2c.jpg?v=1",
+					"url": "https://dlb03.dark-player.net/kwdata/67bf06b06ec23194e6fa8566bfc0482b/playlist.m3u8"
+				},
+				{
+					"name": "ตอนที่ 3 พากย์ไทย",
+					"info": "HD",
+					"image": "https://www.animetaro.com/upload/36d51761e58f1414bcfc3cc947941e2c.jpg?v=1",
+					"url": "https://dlb03.dark-player.net/kwdata/ceeb6d0049ab848a20335e0e09f9a498/playlist.m3u8"
+				},
+				{
+					"name": "ตอนที่ 4 พากย์ไทย",
+					"info": "HD",
+					"image": "https://www.animetaro.com/upload/36d51761e58f1414bcfc3cc947941e2c.jpg?v=1",
+					"url": "https://dlb02.dark-player.net/kwdata/abfa84336ff480a557a318b490469b5b/playlist.m3u8"
+				},
+				{
+					"name": "ตอนที่ 5 พากย์ไทย",
+					"info": "HD",
+					"image": "https://www.animetaro.com/upload/36d51761e58f1414bcfc3cc947941e2c.jpg?v=1",
+					"url": "https://dlb03.dark-player.net/kwdata/a7a1d4d8de0e0f53f06eb2e3530a550f/playlist.m3u8"
+				},
+				{
+					"name": "ตอนที่ 6 พากย์ไทย ตอนจบ",
+					"info": "HD",
+					"image": "https://www.animetaro.com/upload/36d51761e58f1414bcfc3cc947941e2c.jpg?v=1",
+					"url": "https://dlb00.dark-player.net/kwdata/6b43567f0269406b05e875f2c1a18d70/playlist.m3u8"
+				}
+			]
+		},
 		
 		
 	]
