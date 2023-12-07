@@ -1,0 +1,45 @@
+	{
+		"name":"H-Anime",
+		"author":"Up by-Boll 07-12-66",
+		"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+		"groups": 
+			[
+				{
+					"name":"Korashime 2: Kyouikuteki Depaga Shidou",
+					"info":"ซับไทย",
+					"image":"https://www.anime-masters.com/upload/Korashime-2-Kyouikuteki-Depaga-Shidou.jpg?v=44",
+					"stations": 
+						[
+							{
+								"name":"ตอนที่  1 ",
+								"info":"ซับไทย",
+								"image":"https://www.anime-masters.com/upload/Korashime-2-Kyouikuteki-Depaga-Shidou.jpg?v=44",
+								"url":"https://hls.animexd-master.xyz/playlist/a72a24aa2f20c927cc8d0f8a21107b00.m3u8?s=3",
+								"referer":""	
+							},
+							{
+								"name":"ตอนที่  2 ",
+								"info":"ซับไทย",
+								"image":"https://www.anime-masters.com/upload/Korashime-2-Kyouikuteki-Depaga-Shidou.jpg?v=44",
+								"url":"https://hls.animexd-master.xyz/playlist/ae05473cc875080bde364ed45c9f6285.m3u8?s=1",
+								"referer":""	
+							},
+							{
+								"name":"ตอนที่  3 ",
+								"info":"ซับไทย",
+								"image":"https://www.anime-masters.com/upload/Korashime-2-Kyouikuteki-Depaga-Shidou.jpg?v=44",
+								"url":"https://hls.animexd-master.xyz/playlist/d35e1fc5b6d56a435d7d4b635f368360.m3u8?s=3",
+								"referer":""	
+							},
+							{
+								"name":"ตอนที่  4 ",
+								"info":"ซับไทย",
+								"image":"https://www.anime-masters.com/upload/Korashime-2-Kyouikuteki-Depaga-Shidou.jpg?v=44",
+								"url":"https://hls.animexd-master.xyz/playlist/96f8a37a6fc05d2f750a85b92d6bc429.m3u8?s=4",
+								"referer":""	
+							},
+							
+						]
+				},
+			]
+	}
