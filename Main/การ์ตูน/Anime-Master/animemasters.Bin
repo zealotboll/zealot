@@ -8,6 +8,12 @@
 				{
 					"name":"หน้าแรก",
 					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/หน้าแรก.bin",
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะทั้งหมด",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
 					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะทั้งหมด.bin",
 					"import":"true"
 				},
@@ -36,15 +42,21 @@
 					"import":"true"
 				},
 				{
+					"name":"อนิเมะมาใหม่",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะมาใหม่.bin",
+					"import":"true"
+				},
+				{
 					"name":"อนิเมะผจญภัย",
 					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
 					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะผจญภัย.bin",
 					"import":"true"
 				},
 				{
-					"name":"อนิเมะมาใหม่",
+					"name":"อนิเมะโรงเรียน",
 					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
-					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะมาใหม่.bin",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะโรงเรียน.bin",
 					"import":"true"
 				},
 				{
@@ -99,6 +111,18 @@
 					"name":"อนิเมะมาใหม่2021",
 					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
 					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะมาใหม่2021.bin",
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะมาใหม่2022",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะมาใหม่2022.bin",
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะมาใหม่2023",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะมาใหม่2023.bin",
 					"import":"true"
 				},
 			]
