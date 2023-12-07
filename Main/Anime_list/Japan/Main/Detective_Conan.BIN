@@ -7201,7 +7201,36 @@
 				}
 			]
 		},
-		
-		
+		{
+			"name": "ห้าพยัคฆ์นักเรียนตำรวจ Conan: Wild Police Story ตอนที่ 1-4 พากย์ไทย | ยังไม่จบ",
+			"info": "",
+			"image": "https://www.animetaro.com/upload/aeedd47f3d8b470793fe8d2278bdd895.jpg?v=1",
+			"stations": [
+				{
+					"name": "ยอดนักสืบจิ๋วโคนัน: ห้าพยัคฆ์นักเรียนตำรวจ Conan: Wild Police Story ตอนที่ 1 พากย์ไทย",
+					"info": "HD",
+					"image": "https://www.animetaro.com/upload/aeedd47f3d8b470793fe8d2278bdd895.jpg?v=1",
+					"url": "https://dlb03.dark-player.net/kwdata/a8ba1e56c569b04db63d07095a872d1a/playlist.m3u8"
+				},
+				{
+					"name": "ยอดนักสืบจิ๋วโคนัน: ห้าพยัคฆ์นักเรียนตำรวจ Conan: Wild Police Story ตอนที่ 2 พากย์ไทย",
+					"info": "HD",
+					"image": "https://www.animetaro.com/upload/aeedd47f3d8b470793fe8d2278bdd895.jpg?v=1",
+					"url": "https://dlb00.dark-player.net/kwdata/645d3a4803ee29dcf5f99019d1feb020/playlist.m3u8"
+				},
+				{
+					"name": "ยอดนักสืบจิ๋วโคนัน: ห้าพยัคฆ์นักเรียนตำรวจ Conan: Wild Police Story ตอนที่ 3 พากย์ไทย",
+					"info": "HD",
+					"image": "https://www.animetaro.com/upload/aeedd47f3d8b470793fe8d2278bdd895.jpg?v=1",
+					"url": "https://dlb00.dark-player.net/kwdata/15cc2e577d0741af626a05fde6e6de8c/playlist.m3u8"
+				},
+				{
+					"name": "ยอดนักสืบจิ๋วโคนัน: ห้าพยัคฆ์นักเรียนตำรวจ Conan: Wild Police Story ตอนที่ 4 พากย์ไทย",
+					"info": "HD",
+					"image": "https://www.animetaro.com/upload/aeedd47f3d8b470793fe8d2278bdd895.jpg?v=1",
+					"url": "https://dlb00.dark-player.net/kwdata/4b41b6a5f49ef06b1858aecb13d064d8/playlist.m3u8"
+				}
+			]
+		}
 	]
 }
