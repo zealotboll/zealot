@@ -1,6 +1,6 @@
 {
 	"name":"Anime Japan",
-	"author":"zlball",
+	"author":"By-iBall",
 	"image":"https://www.anime-japan.jp/2023/img/index/img_sld-1_2023_e.jpg",
 	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Jp_list.Bin",
 		"groups":[
@@ -74,7 +74,7 @@
 			{
 				"name":"Detective Conan ยอดนักสืบจิ๋วโคนัน",
 				"image":"https://www.animetaro.com/upload/745a87d7d046d7e4b574e43243100817.jpg?v=1",
-				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/Detective_Conan.bin",
+				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Main/Detective_Conan.BIN",
 				"import":"true"
 			},
 			{
