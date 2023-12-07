@@ -5061,7 +5061,7 @@
 					"name": "โคนัน ตอนที่ 825 คดีพิพิธภัณฑ์สัตว์น้ำของคุโด้ ชินอิจิ (ตอนแรก)",
 					"info": "ปี17 พากย์ไทย",
 					"image":"https://fairyanime.net/uploads/31803a37b5a73d1a615d783710036df36nugz93.jpg",
-					"url": "https://hls.animexd-master.xyz/playlist/c2eb84af2c7b1e206d1aea00a4471382.m3u8",
+					"url": "https://hls.animexd-master.xyz/playlist/c2eb84af2c7b1e206d1aea00a4471382.m3u8?s=3",
 					"referer":"https://www.anime-masters.com/"
 				},
 				{
@@ -6943,6 +6943,21 @@
 					"image": "https://fairyanime.net/uploads/19b5b3e2441b958aada47c273d678bdbN9Ig1PW.jpg",
 					"url": "https://dlb01.dark-player.net/kwdata/c9d4e18e5459333e962efc03805aaba5/playlist.m3u8"
 				},
+				
+			]
+		},
+		{
+			"name": "รวมโคนัน เดอะมูฟวี่ พากย์ไทย ซับไทย ",
+			"info": "",
+			"image": "https://www.animetaro.com/upload/603519ec891525fb58bc00832415503c.jpg?v=1",
+			"stations": [
+				{
+					"name": "Movie 1 The Time-Bombed Skyscraper คดีปริศนาระเบิดระฟ้า",
+					"info": "HD",
+					"image": "https://www.animetaro.com/upload/603519ec891525fb58bc00832415503c.jpg?v=1",
+					"url": "https://dlb00.dark-player.net/kwdata/e412c96daa4a5d7d90ee55b4915846ae/playlist.m3u8"
+				},
+				
 			]
 		},
 		
