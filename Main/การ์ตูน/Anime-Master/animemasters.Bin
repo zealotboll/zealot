@@ -28,7 +28,19 @@
 					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
 					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/จบแล้ว.bin",
 					"import":"true"
-				},	
+				},
+				{
+					"name":"ยังไม่จบ",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/ยังไม่จบ.bin",
+					"import":"true"
+				},
+				{
+					"name":"อนิเมะมาใหม่",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะมาใหม่.bin",
+					"import":"true"
+				},
 			]
 	}
 		
