@@ -53,7 +53,18 @@
 					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะต่างโลก.bin",
 					"import":"true"
 				},
-				
+				{
+					"name":"อนิเมะฮาเร็ม Harem",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะฮาเร็มHarem.bin",
+					"import":"true"
+				},
+				{
+					"name":"The Movie",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/TheMovie.bin",
+					"import":"true"
+				},
 			]
 	}
 		
