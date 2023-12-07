@@ -60,9 +60,21 @@
 					"import":"true"
 				},
 				{
+					"name":"อนิเมะจีนซับไทย",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/อนิเมะจีนซับไทย.bin",
+					"import":"true"
+				},
+				{
 					"name":"The Movie",
 					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
 					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/TheMovie.bin",
+					"import":"true"
+				},
+				{
+					"name":"H-Anime",
+					"image":"https://www.anime-masters.com/anime-master-logonew.webp?v=44",
+					"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/การ์ตูน/Anime-Master/H-Anime.bin",
 					"import":"true"
 				},
 			]
