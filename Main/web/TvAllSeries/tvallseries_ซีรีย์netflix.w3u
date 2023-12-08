@@ -1,9 +1,64 @@
 {
   "name": "ซีรีย์Netflix",
-  "author": "เจียว เจียว อัพวันที่ 02 ธันวาคม 2566",
+  "author": "เจียว เจียว อัพวันที่ 07 ธันวาคม 2566",
   "info": "อยู่ในมุมที่ตัวเองมีความสุข ไม่จำเป็นต้องโดดเด่น ไม่จำเป็นต้องเหมือนใคร",
   "image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
   "groups": [
+    {
+      "name": "Obliterated (2023) ปฏิบัติการเมาระเบิด EP.1-8 (จบ)",
+      "image": "https://www.tvallseries.com/wp-content/uploads/2023/12/Obliterated-2023-185x278.webp",
+      "info": "ซีรีย์ฝรั่ง",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/12/Obliterated-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/71551daf-2479-47e9-a355-85092c730fc6/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/12/Obliterated-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/5a360a68-a6bf-46d5-aa36-8c4eaf2eb024/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/12/Obliterated-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7bb53c09-db19-43bb-a041-5a8a15144258/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/12/Obliterated-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/3a4e448b-3e59-4f40-bb77-eb25d128552f/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/12/Obliterated-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/50e22b12-f7a1-43f9-a09a-f91091d35cd3/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/12/Obliterated-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/9110daaf-d22a-42dd-bc42-12337b364c00/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/12/Obliterated-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/692cadb8-2bc3-4ff8-ac33-9752d0e24d39/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/12/Obliterated-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/682049d8-ce80-4c90-b27c-55965e0a6078/_"
+        }
+      ]
+    },
     {
       "name": "My Daemon (2023) ดีมอนของผม EP.1-13 (จบ)",
       "image": "https://www.tvallseries.com/wp-content/uploads/2023/12/My-Daemon-2023-185x278.webp",
@@ -470,6 +525,18 @@
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/My-Demon-2023-185x278.webp",
           "url": "https://playcdn.tvallseries.com/07914b0a-cfcf-4a62-b363-f6c8226bfc6b/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/My-Demon-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/787cd79e-7ad5-41f8-81d4-6d29debe6c7e/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/My-Demon-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/0a6e2964-ad09-49c8-a433-6912153d6330/_"
         }
       ]
     },
@@ -566,7 +633,7 @@
       ]
     },
     {
-      "name": "Squid Game The Challenge (2023) สควิดเกม เดอะ ชาเลนจ์ EP.1-10 (รอการอัพเดท)",
+      "name": "Squid Game The Challenge (2023) สควิดเกม เดอะ ชาเลนจ์ EP.1-10 (จบ)",
       "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Squid-Game-The-Challenge-2023-185x278.webp",
       "info": "ซีรีย์ฝรั่ง",
       "stations": [
@@ -623,6 +690,12 @@
           "info": "พากย์ไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Squid-Game-The-Challenge-2023-185x278.webp",
           "url": "https://playcdn.tvallseries.com/23785d9f-a1c2-4cbe-be68-49f462d85bb5/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2023/11/Squid-Game-The-Challenge-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/dcc8404f-d1f6-436d-bfd3-3848ec5b5ba7/_"
         }
       ]
     },
@@ -31985,7 +32058,7 @@
       ]
     },
     {
-      "name": "The Crown เดอะ คราวน์ Season 1-4 (จบ)",
+      "name": "The Crown เดอะ คราวน์ Season 1-6 (กำลังรอฉาย)",
       "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
       "info": "ซีรีย์ฝรั่ง",
       "stations": [
@@ -32173,61 +32246,121 @@
           "name": "ซีซั่น 4 ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/b3b946cb-de80-4e62-8d30-c5a0e26cbdc4/_"
+          "url": "https://playcdn.tvallseries.com/483fba96-da0a-42f6-8f61-587903bb516c/_"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/edf36791-4e8e-4d9e-a00d-aa08408b58d9/_"
+          "url": "https://playcdn.tvallseries.com/7b41af14-702b-4c91-a122-8dc6a665bd83/_"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/4975f855-702c-4a3b-b94e-61ed4cab7a65/_"
+          "url": "https://playcdn.tvallseries.com/7454b887-2762-4fd9-a940-d4305b5c6cc9/_"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/886a5e2f-57cf-4b86-bc8d-42de4bd888c6/_"
+          "url": "https://playcdn.tvallseries.com/8b195d21-e7d3-43a1-9c75-40a3f1f94d2a/_"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/b1f3c74b-abb3-4511-9479-d7ff879b696a/_"
+          "url": "https://playcdn.tvallseries.com/fe16e788-8733-4036-89b3-c620bd1ec951/_"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/afb89b72-4728-4363-979f-856800cbec55/_"
+          "url": "https://playcdn.tvallseries.com/418265ae-643a-408f-9c33-ce8920a76d23/_"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/84dab245-4f58-4643-b966-11e1fe588bb0/_"
+          "url": "https://playcdn.tvallseries.com/7e26c7fd-7ca3-41a6-b8db-c3568d4e339f/_"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 8",
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/3883aba1-305d-40d2-a249-e7032ff1fbf6/_"
+          "url": "https://playcdn.tvallseries.com/8f99155b-a758-4b98-a6ef-e84ceef1c7e4/_"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 9",
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/6f172e57-60d9-44ba-8bc3-ac958ea274aa/_"
+          "url": "https://playcdn.tvallseries.com/7940ff7b-86ab-4fc7-bade-bfcc3711fcd9/_"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 10 ตอนจบ",
           "info": "ซับไทย",
           "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
-          "url": "https://playcdn.tvallseries.com/1041e503-5306-4770-b049-3846c5066ab6/_"
+          "url": "https://playcdn.tvallseries.com/e63b1bbe-dd9c-4e9a-84ae-a8d786c8dcda/_"
+        },
+        {
+          "name": "ซีซั่น 5 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/6cf449ca-02d4-4c9f-a1ec-b62b6e8b2363/_"
+        },
+        {
+          "name": "ซีซั่น 5 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/2861fc9e-04ef-4ebf-a8e1-e64a2e1ce297/_"
+        },
+        {
+          "name": "ซีซั่น 5 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/4375e561-f2e3-4951-b0cc-33b4d8ca7cee/_"
+        },
+        {
+          "name": "ซีซั่น 5 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/d816d5e9-7437-4d96-b670-acf073a5f99e/_"
+        },
+        {
+          "name": "ซีซั่น 5 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/68bdf489-1036-4a6b-870b-2af2a4c12019/_"
+        },
+        {
+          "name": "ซีซั่น 5 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/2961aa5a-1026-479a-84c8-7db6200935b2/_"
+        },
+        {
+          "name": "ซีซั่น 5 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/673952d8-56bf-4705-9e6b-0ce7836d19ad/_"
+        },
+        {
+          "name": "ซีซั่น 5 ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/5a2b3a98-6475-474e-8241-22bd08fb37cf/_"
+        },
+        {
+          "name": "ซีซั่น 5 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/c97c2739-4ca7-4499-9377-8a585861641d/_"
+        },
+        {
+          "name": "ซีซั่น 5 ตอนที่ 10 (ตอนจบ)",
+          "info": "ซับไทย",
+          "image": "https://www.tvallseries.com/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/470c7de4-7f5f-4f0f-b99a-09d1343e4e0f/_"
         }
       ]
     },
