@@ -132,6 +132,12 @@
 				"import":"true"
 			},
 			{
+				"name":"Isekai wa Smartphone to Tomo ni ไปต่างโลกก็ต้องไปกับสมาร์ทโฟนสิ",
+				"image":"https://img.shirokami.me/images/2023/06/30/44b70894cd44daa28b025ee9367777ee.jpg",
+				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Main/Isekai_wa_Smartphone.BIN",
+				"import":"true"
+			},
+			{
 				"name":"Isekai Yakkyoku เภสัชกรเทพสองโลก",
 				"image":"https://img.shirokami.me/images/2022/07/10/73503efc68dbb696b8a922050240f79e.jpg",
 				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Main/Isekai_Yakkyoku.BIN",
@@ -347,12 +353,7 @@
 				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Main/Yosuga_no_Sora.BIN",
 				"import":"true"
 			},
-			{
-				"name":"Dragonball GT",
-				"image":"https://sv1.picz.in.th/images/2021/06/20/scLJ9k.jpg",
-				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Dragon Ball GT.w3u",
-				"import":"true"
-			},
+			
 		]
 	}
 	
