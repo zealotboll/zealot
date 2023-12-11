@@ -161,6 +161,17 @@
 	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/037hdmovie/รวม.w3u",
 	"import":"true"
   },
-  
+  {
+	"name":"EZMOVIE",
+	"image":"https://ezmovie.co/build/web/ez-movie/img/ez-movie-logo.png?v=3",
+	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/EZMOVIE/ez_main.BIN",
+	"import":"true"
+  },
+  {
+	"name":"LuNa4K",
+	"image":"https://luna4k.com/wp-content/uploads/2023/10/cropped-LOGO-1.png",
+	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Luna4k/luna4k_main.BIN",
+	"import":"true"
+  },
  ]
 }

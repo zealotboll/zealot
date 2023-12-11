@@ -1,0 +1,13 @@
+{
+        "name": "luna4k",
+        "author": "เจียว เจียว",
+        "image": "https://luna4k.com/wp-content/uploads/2023/10/cropped-LOGO-1.png",
+        "groups": [
+		{
+			"name":"หนังฝรั่ง",
+			"image":"https://luna4k.com/wp-content/uploads/2023/10/cropped-LOGO-1.png",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Luna4k/luna4k_หนังฝรั่ง.w3u",
+			"import":"false"
+		},
+	  ]
+	},

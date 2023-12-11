@@ -1,0 +1,49 @@
+{
+        "name": "ezmovie",
+        "author": "เจียว เจียว",
+        "image": "https://ezmovie.co/build/web/ez-movie/img/ez-movie-logo.png?v=3",
+        "groups": [
+		{
+			"name":"หนังฝรั่ง",
+			"image":"https://ezmovie.co/build/web/ez-movie/img/ez-movie-logo.png?v=3",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/EZMOVIE/ezmovie_หนังฝรั่ง.w3u",
+			"import":"false"
+		},
+		{
+			"name":"หนังไทย",
+			"image":"https://ezmovie.co/build/web/ez-movie/img/ez-movie-logo.png?v=3",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/EZMOVIE/ezmovie_หนังไทย.w3u",
+			"import":"false"
+		},
+		{
+			"name":"หนังเอเชีย",
+			"image":"https://ezmovie.co/build/web/ez-movie/img/ez-movie-logo.png?v=3",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/EZMOVIE/ezmovie_หนังเอเชีย.w3u",
+			"import":"false"
+		},
+		{
+			"name":"อนิเมะ",
+			"image":"https://ezmovie.co/build/web/ez-movie/img/ez-movie-logo.png?v=3",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/EZMOVIE/ezmovie_อนิเมะ-anime.w3u",
+			"import":"false"
+		},
+		{
+			"name":"หนังตลก",
+			"image":"https://ezmovie.co/build/web/ez-movie/img/ez-movie-logo.png?v=3",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/EZMOVIE/ezmovie_หนังตลก-comedy.w3u",
+			"import":"false"
+		},
+		{
+			"name":"หนังแอคชั่นบู๊",
+			"image":"https://ezmovie.co/build/web/ez-movie/img/ez-movie-logo.png?v=3",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/EZMOVIE/ezmovie_หนังแอคชั่นบู๊-action.w3u",
+			"import":"false"
+		},
+		{
+			"name":"หนังผจญภัย",
+			"image":"https://ezmovie.co/build/web/ez-movie/img/ez-movie-logo.png?v=3",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/EZMOVIE/ezmovie_หนังผจญภัย-adventure.w3u",
+			"import":"false"
+		},
+	  ]
+	},
