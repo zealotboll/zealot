@@ -1,9 +1,548 @@
 {
-  "name": "วิทยาศาสตร์ ",
-  "author": "เจียว เจียว อัพวันที่ 11 พฤศจิกายน 2566",
+  "name": "วิทยาศาสตร์",
+  "author": "เจียว เจียว อัพวันที่ 11 ธันวาคม 2566",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "Monarch: Legacy of Monsters (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/048c45dc-8fa2-57e9-a44f-534bcbc5fb2e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/285a7178-0cd7-5dce-a72c-be9be63bea7d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ac40d1df-a55b-5514-82d5-5ed6964b559f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0be84802-3b5c-54a1-a2e2-ac9c1810b6aa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1bb2e712-2bb9-561f-8d47-36c1ee3f0da2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Miraculous Brothers (2023)",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/776e9024-1eef-5eac-bd0e-a21e23ce4b1b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0966fe33-f2e9-5f84-84a7-95c706821f56.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3616a70f-d2af-523e-a87d-659eb8843e93.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e8f726ff-4ec8-518b-b6b1-02af90fae146.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1ef6d648-a140-59aa-9ee3-86f0b652232f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7b2b33d8-a2ef-5a7f-8324-f0409d173cdd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bc11e7a7-131a-5d75-933d-bc8c405b1224.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/44b8f3dc-62ff-57d9-8ae4-245db897ee01.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d20750e6-aaf8-56b5-9ed0-8e31510f0d69.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/aef22f7d-6f22-5a12-95b4-da43bffc9063.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/846487c0-7f1b-5895-8f69-8e0c91d2ddc1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6f52085a-7cf1-5816-bf54-6194c06503d9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/56c837ea-88eb-5c4a-ba4d-a46b3b72a103.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e4d309ec-1eb5-598c-bc72-157ab7acb4bf.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/001c56f6-b474-5680-a608-3dc206699bbb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5cdd12b4-1338-5096-86b2-3c7ad1db6402.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c8a1e0cd-0526-5b1b-b40c-d3127cbc1fcd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/528810b2-4eac-57c1-a40e-86a7eb7e8c45.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4f964bc6-1cd7-58fb-ba48-811f7fdeea2d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5c313448-301e-5385-b251-2e60f75b7824.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b3070856-0789-5dc9-814f-c695ae12c847.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5757118b-5ec5-50cc-9bf6-b0af49a5083c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2267fe7b-e79f-5d1d-85c0-3ab3c385e897.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f0f60462-451a-5521-bbb9-d90cc64e909b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3ee57f02-bfbe-53de-a459-19bc4c719979.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b8dd95eb-ae77-55a3-84f6-d333243af24c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4988fd16-6614-5ad8-8e74-6e4d6ceb4aa5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/76629111-8658-5c3e-9fe5-ecb863ef7d02.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c039a7b3-f705-5d07-84ae-30ad7ad5c1a5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/62f8ac7b-ba8b-569b-bc37-3d0ec9679c20.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/571e76ea-9314-5a13-a42b-b63eefc19a5e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c47392ff-6074-564f-b0ec-b4ff33c86ed3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Twinkling Watermelon (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4d59df6c-7e07-5e09-91c2-28be2ee4980f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e3285526-4439-5ac0-aba4-017714a2c77b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/53d8e179-e445-5618-b7f8-54643d8185fc.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ab68503c-2a5d-5c3e-9daf-62671a561fe1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c54e8ec8-0c70-5f5c-a74e-5aba4de28de8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0f17f70b-d230-5fbe-8325-da4354e06e11.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a5642a0d-486d-53c0-bef7-7c73a63767d6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ad34c080-4934-53ed-acc1-e6545d56b3d9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b353c884-31a3-5a4c-b83f-9f33c5a1f3ea.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/14a0f10d-6db2-53bf-8a60-2cd73965acb4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/65122607-4377-5638-9cd2-cbc3d62c402f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4f9922dd-7662-5e03-ab6a-cab380b77139.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/599c1db1-01b9-5e71-9b36-51ce68d1f1c7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4c620d87-17eb-5e13-98bb-4059f28d532d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0757bd4a-f257-51af-8457-f30b6034a8a4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3664ecf2-81e8-5177-bfcd-9f95368089af.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Doom Patrol Season 4 (2022)",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 4 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a07222b9-abd6-58ff-b660-10f93633fe03.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2f2b3938-964f-5760-b7bc-4677fb2b3fec.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e410b4ac-950e-5d4f-b1af-6297af2df78f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/618566d7-dd2f-54ca-be68-d596ec7c3834.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4f44233e-7d07-504e-96a6-fa49031df12b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f75c39fd-d650-5ad1-a88b-c10374ecb4d2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/96131d9e-e1d6-5dbf-a118-cd27ecbf46c3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/862cec09-0558-5c84-a051-6c26887f9ff4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4abdff5d-33cb-5216-b831-2935d64fa475.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1b89f527-19b2-5cce-ab11-ec1ec32dd30c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4a4277e6-df6b-5adf-8054-30b6cda48a76.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ab74b112-3fde-5cc2-84d2-956bed59bbce.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bcdeaa8a-6e5d-53c2-814d-f1f5236088a4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/402a113f-4745-56a3-8c14-7520e452c452.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d6b672b1-8773-540a-a08a-1472a1467a91.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3b3fc4f3-cc50-5d2d-a6ca-09b6c8393044.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8bf3eeaf-c827-560a-8752-b8893232a4df.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c963615a-0057-517e-b371-53cad96e310c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3e8cb080-168b-54e0-bf3a-f05b4891c4ea.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 4 ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/71ccf1b5-371c-53c4-b885-56d4aadd5d98.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
     {
       "name": "Loki (2023) โลกิ Season 2",
       "info": "HD",
@@ -546,251 +1085,6 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/I-Am-Nobody-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/352f04f3-f59c-5169-ba4e-87cdb5504d95.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "Twinkling Watermelon (2023)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4d59df6c-7e07-5e09-91c2-28be2ee4980f.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e3285526-4439-5ac0-aba4-017714a2c77b.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/53d8e179-e445-5618-b7f8-54643d8185fc.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ab68503c-2a5d-5c3e-9daf-62671a561fe1.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c54e8ec8-0c70-5f5c-a74e-5aba4de28de8.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0f17f70b-d230-5fbe-8325-da4354e06e11.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a5642a0d-486d-53c0-bef7-7c73a63767d6.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ad34c080-4934-53ed-acc1-e6545d56b3d9.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b353c884-31a3-5a4c-b83f-9f33c5a1f3ea.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/14a0f10d-6db2-53bf-8a60-2cd73965acb4.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 11",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/65122607-4377-5638-9cd2-cbc3d62c402f.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 12",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4f9922dd-7662-5e03-ab6a-cab380b77139.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 13",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/599c1db1-01b9-5e71-9b36-51ce68d1f1c7.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 14",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Twinkling-Watermelon-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4c620d87-17eb-5e13-98bb-4059f28d532d.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "Doom Patrol Season 4 (2022)",
-      "info": "HD",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ซีซั่น 4 ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a07222b9-abd6-58ff-b660-10f93633fe03.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/2f2b3938-964f-5760-b7bc-4677fb2b3fec.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e410b4ac-950e-5d4f-b1af-6297af2df78f.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/618566d7-dd2f-54ca-be68-d596ec7c3834.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4f44233e-7d07-504e-96a6-fa49031df12b.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f75c39fd-d650-5ad1-a88b-c10374ecb4d2.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/96131d9e-e1d6-5dbf-a118-cd27ecbf46c3.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/862cec09-0558-5c84-a051-6c26887f9ff4.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4abdff5d-33cb-5216-b831-2935d64fa475.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1b89f527-19b2-5cce-ab11-ec1ec32dd30c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4a4277e6-df6b-5adf-8054-30b6cda48a76.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ab74b112-3fde-5cc2-84d2-956bed59bbce.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/bcdeaa8a-6e5d-53c2-814d-f1f5236088a4.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/402a113f-4745-56a3-8c14-7520e452c452.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/d6b672b1-8773-540a-a08a-1472a1467a91.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3b3fc4f3-cc50-5d2d-a6ca-09b6c8393044.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/8bf3eeaf-c827-560a-8752-b8893232a4df.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c963615a-0057-517e-b371-53cad96e310c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ซีซั่น 4 ตอนที่ 11",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3e8cb080-168b-54e0-bf3a-f05b4891c4ea.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -2924,118 +3218,6 @@
       ]
     },
     {
-      "name": "Miraculous Brothers (2023)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0966fe33-f2e9-5f84-84a7-95c706821f56.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e8f726ff-4ec8-518b-b6b1-02af90fae146.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/7b2b33d8-a2ef-5a7f-8324-f0409d173cdd.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/44b8f3dc-62ff-57d9-8ae4-245db897ee01.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/aef22f7d-6f22-5a12-95b4-da43bffc9063.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/6f52085a-7cf1-5816-bf54-6194c06503d9.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e4d309ec-1eb5-598c-bc72-157ab7acb4bf.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5cdd12b4-1338-5096-86b2-3c7ad1db6402.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/528810b2-4eac-57c1-a40e-86a7eb7e8c45.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5c313448-301e-5385-b251-2e60f75b7824.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 11",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5757118b-5ec5-50cc-9bf6-b0af49a5083c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 12",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f0f60462-451a-5521-bbb9-d90cc64e909b.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 13",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b8dd95eb-ae77-55a3-84f6-d333243af24c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 14",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/76629111-8658-5c3e-9fe5-ecb863ef7d02.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 15",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Miraculous-Brothers-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/62f8ac7b-ba8b-569b-bc37-3d0ec9679c20.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
       "name": "The Witcher Season 3 (2023) เดอะ วิทเชอร์ นักล่าจอมอสูร ซีซัน 3",
       "info": "HD",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/The-Witcher-2023-SS3-220x300-c-default.jpg",
@@ -4662,6 +4844,13 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Quantum-Leap-ควอนตัมลีป-กระโดดข้ามเวลา-Season-1-2022-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/cfcb784d-e576-5810-8ed5-886ded0aaa1c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Quantum-Leap-ควอนตัมลีป-กระโดดข้ามเวลา-Season-1-2022-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7b923fde-b04c-59a3-93de-bdf8fad6fee9.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -12881,62 +13070,6 @@
       ]
     },
     {
-      "name": "Til Death Do Us Part (2019) จนกว่าความตายจะพราก",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201030175554Til-Death-Do-Us-Part-2019-จนกว่าความตายจะพราก-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201030175554Til-Death-Do-Us-Part-2019-จนกว่าความตายจะพราก-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/065555c5-873d-52b3-9cfe-fc370c12c8fe.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201030175554Til-Death-Do-Us-Part-2019-จนกว่าความตายจะพราก-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9eec7bd8-5938-57de-8173-3204487d7931.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201030175554Til-Death-Do-Us-Part-2019-จนกว่าความตายจะพราก-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/28333ab4-d839-5216-8a50-aa9dc30eb940.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201030175554Til-Death-Do-Us-Part-2019-จนกว่าความตายจะพราก-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f7827a08-67d1-5851-803a-ebb4ab849ef4.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201030175554Til-Death-Do-Us-Part-2019-จนกว่าความตายจะพราก-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c0ab011d-4c41-539e-984f-1c6ffaf68814.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201030175554Til-Death-Do-Us-Part-2019-จนกว่าความตายจะพราก-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/22d5bdc2-72a9-5495-85d9-dc29de9ce9e6.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201030175554Til-Death-Do-Us-Part-2019-จนกว่าความตายจะพราก-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/8cc7939f-313c-554d-a1be-17aae6cf5fb4.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
       "name": "Futmalls Com (2020)",
       "info": "SUB",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201229114243Futmalls.com-2020-220x300-c-default.jpg",
@@ -12995,6 +13128,62 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201229114243Futmalls.com-2020-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/925159eb-7825-5c30-b567-7ef859d47de8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Til Death Do Us Part (2019) จนกว่าความตายจะพราก",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201030175554Til-Death-Do-Us-Part-2019-จนกว่าความตายจะพราก-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201030175554Til-Death-Do-Us-Part-2019-จนกว่าความตายจะพราก-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/065555c5-873d-52b3-9cfe-fc370c12c8fe.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201030175554Til-Death-Do-Us-Part-2019-จนกว่าความตายจะพราก-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9eec7bd8-5938-57de-8173-3204487d7931.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201030175554Til-Death-Do-Us-Part-2019-จนกว่าความตายจะพราก-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/28333ab4-d839-5216-8a50-aa9dc30eb940.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201030175554Til-Death-Do-Us-Part-2019-จนกว่าความตายจะพราก-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f7827a08-67d1-5851-803a-ebb4ab849ef4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201030175554Til-Death-Do-Us-Part-2019-จนกว่าความตายจะพราก-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c0ab011d-4c41-539e-984f-1c6ffaf68814.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201030175554Til-Death-Do-Us-Part-2019-จนกว่าความตายจะพราก-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/22d5bdc2-72a9-5495-85d9-dc29de9ce9e6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201030175554Til-Death-Do-Us-Part-2019-จนกว่าความตายจะพราก-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8cc7939f-313c-554d-a1be-17aae6cf5fb4.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]

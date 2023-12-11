@@ -1,9 +1,51 @@
 {
-  "name": "AppleTV+ ",
-  "author": "เจียว เจียว อัพวันที่ 11 พฤศจิกายน 2566",
+  "name": "AppleTV+",
+  "author": "เจียว เจียว อัพวันที่ 11 ธันวาคม 2566",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "Monarch: Legacy of Monsters (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/048c45dc-8fa2-57e9-a44f-534bcbc5fb2e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/285a7178-0cd7-5dce-a72c-be9be63bea7d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ac40d1df-a55b-5514-82d5-5ed6964b559f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0be84802-3b5c-54a1-a2e2-ac9c1810b6aa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1bb2e712-2bb9-561f-8d47-36c1ee3f0da2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
     {
       "name": "The Buccaneers (2023)",
       "info": "SUB",
@@ -28,6 +70,97 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Buccaneers-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/78f396ab-b292-5ccf-89e0-266f5fca2cb9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Buccaneers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/79fbc881-3ffc-593a-99b5-846b8b9f9b26.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Buccaneers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c3aef69b-058b-5623-a57a-96948d0784a4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Buccaneers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f83e2aac-69e8-5b97-a791-aeff850ed264.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Buccaneers-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/64b5d801-136e-541b-8830-4a75a0fa6ed0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Lessons in Chemistry (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lessons-In-Chemistry-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lessons-In-Chemistry-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d24009ac-c984-57e3-aa98-589ced1add65.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lessons-In-Chemistry-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/70fea5bd-089d-57bb-a439-60d63724e2a4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lessons-In-Chemistry-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/62503195-07d4-55f3-a291-b779b9a1a6e2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lessons-In-Chemistry-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8d087de4-e374-59a2-bae7-05d31bef05ed.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lessons-In-Chemistry-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/49b72fc4-9f9c-5061-9def-03350a4646f0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lessons-In-Chemistry-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7bf60c0c-9b39-540e-b85c-53ea338baad0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lessons-In-Chemistry-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/03865c05-1afb-5c5e-bc65-8700692990b5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lessons-In-Chemistry-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/344c394e-e5ca-5d8f-b45a-bd5f494e304f.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -91,48 +224,6 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Still-Up-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/d340b7a8-2062-5cd6-9c54-a75c2cb01201.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "Lessons in Chemistry (2023)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lessons-In-Chemistry-2023-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lessons-In-Chemistry-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/d24009ac-c984-57e3-aa98-589ced1add65.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lessons-In-Chemistry-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/70fea5bd-089d-57bb-a439-60d63724e2a4.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lessons-In-Chemistry-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/62503195-07d4-55f3-a291-b779b9a1a6e2.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lessons-In-Chemistry-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/8d087de4-e374-59a2-bae7-05d31bef05ed.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Lessons-In-Chemistry-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5736fc9e-255a-57c2-a9b7-777d675cff33.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -1729,45 +1820,108 @@
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Slow-Horses-2022-220x300-c-default.jpg",
       "stations": [
         {
-          "name": "ตอนที่ 1",
+          "name": "ซีซั่น 1 ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Slow-Horses-2022-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/ca2b978d-b4d1-54f6-b117-645886f97083.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
-          "name": "ตอนที่ 2",
+          "name": "ซีซั่น 1 ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Slow-Horses-2022-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/a9ece1c6-2d79-539d-97ba-893c706ccde3.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
-          "name": "ตอนที่ 3",
+          "name": "ซีซั่น 1 ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Slow-Horses-2022-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/e4c50c1d-0234-51b7-8124-0aea922fbb28.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
-          "name": "ตอนที่ 4",
+          "name": "ซีซั่น 1 ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Slow-Horses-2022-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/5ac01555-9d50-55b6-abcc-0125192e17b2.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
-          "name": "ตอนที่ 5",
+          "name": "ซีซั่น 1 ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Slow-Horses-2022-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/fbb1f279-de57-5288-9386-73665d3c68d0.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
-          "name": "ตอนที่ 6",
+          "name": "ซีซั่น 1 ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Slow-Horses-2022-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/6c2ffbed-6492-5974-a342-6c1157e370f2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Slow-Horses-2022-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d472644e-e95a-52c7-a7b8-354334763b4f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Slow-Horses-2022-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b439cf2e-2d32-5c37-b8a4-5eff9f38079a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Slow-Horses-2022-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ff3a17d0-dd73-5f78-9e09-ca996b8c9253.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Slow-Horses-2022-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bc8f0a30-49a6-5508-8a4c-eaa01bf83723.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Slow-Horses-2022-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/908a3da3-dccc-50a3-8191-f7526cdbed9d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Slow-Horses-2022-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3f3093b8-1bf1-52d7-b758-b439d4b601e3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Slow-Horses-2022-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b152a03e-4614-56b7-b5ba-2fe2e5d4f61c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Slow-Horses-2022-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/eb8f165b-c14e-580e-9dff-fdd3d0c91843.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Slow-Horses-2022-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c2ca6ddc-5ffa-5de0-b0eb-abaaa1d46ad0.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]

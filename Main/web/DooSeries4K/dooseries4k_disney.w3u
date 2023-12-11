@@ -1,9 +1,310 @@
 {
-  "name": "Disney+ ",
-  "author": "เจียว เจียว อัพวันที่ 11 พฤศจิกายน 2566",
+  "name": "Disney+",
+  "author": "เจียว เจียว อัพวันที่ 11 ธันวาคม 2566",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "A Murder at the End of the World (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/adc05a58-d3e7-5c78-ace9-5bd9ac3425a5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4a3214ca-cbc0-5c2e-b62c-2cae405395d7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5313bb41-91c5-53b5-8cb0-13670cb2bbff.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7a6f200e-db17-54d8-98b9-62dc2a8596e9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/11707f26-bc2a-5c7c-9da6-0d7a652d030f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Soundtrack 2 (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Soundtrack-2-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Soundtrack-2-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/959e85c5-0605-5cb6-a4ef-a27b8ec99eb3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Soundtrack-2-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1897d1fb-5465-51b5-aee4-1ef9df00b9bf.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Tell Me That You Love Me (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/033beb2b-3a1d-598a-97e4-815946975b4d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/75f7d1f3-784d-53c1-ac30-052ec4b061b9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/045a6e0b-cc38-5ddf-8653-d4a6d673fdd1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bef40136-3eec-5316-a738-289f2c1d43b6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "The Artful Dodger (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Artful-Dodger-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Artful-Dodger-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b33d2073-a165-5759-94aa-f89f22ef8932.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Artful-Dodger-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/198e0e61-7c27-5c57-9357-dcdbcf585c5f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Artful-Dodger-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/36873acc-53a3-5013-80d2-07622e7be407.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Artful-Dodger-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0e01ce7e-3931-5319-a308-c30532fd355f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Artful-Dodger-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6685a807-3849-540c-a596-9ed1ee625cfa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Artful-Dodger-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7b39a294-ff8a-5707-a1e5-43d35e82e4f8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Artful-Dodger-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/25dcdd16-93cc-5c21-bdf7-377b57375146.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/The-Artful-Dodger-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e8dd1b8e-e3d4-5157-a110-89d8d43adc13.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Vigilante (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Vigilante-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Vigilante-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/24c4e084-1c9c-515e-ba34-7ad71ff78e52.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Vigilante-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/db95c2cc-d6eb-5515-855f-defd137e854c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Vigilante-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3a1c51a2-efa2-50bf-a592-4cc501c8a5a5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Vigilante-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1ae46ce2-a16a-50a6-a694-7ebed1138c93.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Vigilante-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/38e266d7-65e6-5703-bf0f-2b7d2a94d89a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Vigilante-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1510bf13-f11f-5d3f-ab8b-be6cf27ff4fc.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Vigilante-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c30c94c4-482a-57e4-bfa4-266fc26f93e8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Vigilante-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0f393812-59e8-5640-b9ec-83cbbe938e87.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Goosebumps (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Goosebumps-SS1-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Goosebumps-SS1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e90b9c94-024e-5914-88a1-6e7f6fafc548.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Goosebumps-SS1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f2942da7-4769-554f-8e91-7081e8b0d5bf.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Goosebumps-SS1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/07ceb3c0-d74c-5d3d-999a-c69f9753c8ad.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Goosebumps-SS1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3dad3d71-3040-5547-b744-3016177fb525.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Goosebumps-SS1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/af473cf5-0bf2-5133-87a0-7c0ec917acbd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Goosebumps-SS1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fa3a64df-d545-5217-ad72-6230e1abd304.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Goosebumps-SS1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cd57632a-b20f-51ea-ae28-d6acf05a4188.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Goosebumps-SS1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c9674af6-1b95-5d09-b7cb-f4749ab5b0a9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Goosebumps-SS1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ff69953e-9f1a-5f91-97d1-58e98476cd9e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Goosebumps-SS1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/25515c48-e309-5415-b1cb-ab00cf6bf3e5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
     {
       "name": "Loki (2023) โลกิ Season 2",
       "info": "HD",
@@ -91,27 +392,6 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Loki-SS2-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/e3f9f684-f3bd-5866-8fe4-ac9fdd34b9cb.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "Vigilante (2023)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Vigilante-2023-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Vigilante-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/24c4e084-1c9c-515e-ba34-7ad71ff78e52.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Vigilante-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/db95c2cc-d6eb-5515-855f-defd137e854c.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
