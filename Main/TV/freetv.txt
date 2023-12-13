@@ -587,6 +587,13 @@
 						"online":"true"
 						},
 			{
+				"name":"ปลูกปัญญา",
+				"image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F1d7dc8be-49df-46c7-ac16-4847229c6ab9.png&w=320&h=240",
+				"url":"http://www.trueplookpanya.com/new/tv_live?var_link=720p",
+						"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+						"desktop": "true"
+						},
+			{
 				"name": "AXN-HD",
 				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-axn-hd.webp",
 				"imageScale": "fitStart",
@@ -818,31 +825,10 @@
 						"desktop": "true"
 						},
 			{
-				"name":"FOOD NETWORK ENG",
-				"image":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
-				"url": "https://streaming.livescorethai.net/iptv/hd-foodeng.stream/chunks.m3u8",
-				"referer":"https://freetvdd.com/"
-						},
-			{
-				"name":"ASIAN FOOD CHANNEL",
-				"image":"https://cdn.pic.in.th/file/picinth/adbcb600-1254-11ea-9794-5b629f5f6313_original.png",
-				"url": "https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8", 
-						"referer": "https://freetvdd.com/", 
-						"userAgent": "ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"
-						},
- 
-			{
 				"name":"TLC",
 				"image":"https://cms.dmpcdn.com/livetv/2023/05/26/e3c376d0-fb8a-11ed-82d8-75b5e95c0f8a_webp_320.webp",
 				"url": "https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8",
 						"referer":"https://freetvdd.com/"
-						},
-			{
-				"name":"ปลูกปัญญา",
-				"image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F1d7dc8be-49df-46c7-ac16-4847229c6ab9.png&w=320&h=240",
-				"url":"http://www.trueplookpanya.com/new/tv_live?var_link=720p",
-						"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-						"desktop": "true"
 						},
 			{
 				"name":"CABLE CHANNEL 37",
