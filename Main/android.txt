@@ -36,7 +36,7 @@
 	"import":"true"
   },
   {
-	"name":"Anime(ทดสอบ)", 
+	"name":"Anime", 
 	"image":"https://raw.githubusercontent.com/zealotboll/zealot/0eea62938d49bcd03a5f6f2ab8f377d92fdb00e6/Main/icon/anime-folder-icon-43715.png",
 	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Menu.txt",
 	"import":"true"
@@ -111,12 +111,6 @@
 	"name":"Watchlakorn.in", 
 	"image":"https://cdn.watchlakorn.in/images/video_logo.png",
 	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Watchlakorn.in/watchlakorn_group.txt",
-	"import":"true"
-  },
-  {
-	"name":"X10MOVIES4K",
-	"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
-	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/x10movies4k/x10.txt",
 	"import":"true"
   },
   {
