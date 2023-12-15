@@ -26,10 +26,12 @@
 		 "info": "กดทุกครั้งก่อนชม",
 		 "import": false},
 
-		{"name": "📺TV+JAV📺",
-		 "url": "https://bit.ly/3JY0Byc",
-		 "image": "https://i.pinimg.com/originals/0a/f9/1c/0af91c7c8c1b537a395d0a9d8b356d00.gif",
-		 "import": "true"},
+		{
+			"name": "📺TV+JAV📺",
+		 	"url": "https://bit.ly/3JY0Byc",
+		 	"image": "https://i.pinimg.com/originals/0a/f9/1c/0af91c7c8c1b537a395d0a9d8b356d00.gif",
+		 	"import": "true"
+			},
 		{
 			"name": "18+",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqhB8m-06Ggv7W6lvQujXgkwvQYiRJNPvb-Q&usqp=CAU",
@@ -48,13 +50,13 @@
 			"url": "https://drive.google.com/uc?id=11Bo2hmX0B3sIke2GryZJ96Gglc2qGMnv",
 			"import": false
 			},
-
-
-		{"name": "[XTEMUS TV]",
-		 "author": "ใช้สำหรับเพื่อความบันเทิงเท่านั้น",
-		 "url": "https://playlist.xtemus.com/?playlist=t256y454t41554",
-		 "image": "https://tv.xtemus.com/images/x-logo.gif",
-		 "import": "true"},
+		{
+			"name": "[XTEMUS TV]",
+		 	"author": "ใช้สำหรับเพื่อความบันเทิงเท่านั้น",
+		 	"url": "https://playlist.xtemus.com/?playlist=t256y454t41554",
+		 	"image": "https://tv.xtemus.com/images/x-logo.gif",
+		 	"import": "true"
+			},
 
 		{"name": "🅶🆄🅵🅻🅸🆇",
 		 "author": "🅶🆄🅵🅻🅸🆇 🅗🅘",
