@@ -190,63 +190,63 @@
 				"name":"MVTV",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0090.png",
-				"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0090/HLS/V0090-avc1_2000000=10-mp4a_64000_tha=5.m3u8",
+				"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0090/HLS/V0090.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"MediaTV",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/MediaTV.png",
-				"url":"https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0062/HLS/V0062-avc1_2000000=5-mp4a_64000_tha=2.m3u8",
+				"url":"https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0062/HLS/V0062.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"@TV",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0039.png",
-				"url":"https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0039/HLS/V0039-avc1_3000000=10-mp4a_64000_tha=6.m3u8",
+				"url":"https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0039/HLS/V0039.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"TVBThai",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png",
-				"url":"https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0095/HLS/V0095-avc1_400000=1-mp4a_64000=2.m3u8",
+				"url":"https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0095/HLS/V0095.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"RAMA",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RamaChannel.png",
-				"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0096/HLS/V0096-avc1_2000000=5-mp4a_64000=2.m3u8",
+				"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0096/HLS/V0096.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"สั่นทุ่งทีวี",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LunthungTV.PNG",
-				"url":"https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0092/HLS/V0092-avc1_2000000=4-mp4a_64000_tha=2.m3u8",
+				"url":"https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0092/HLS/V0092.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"4050",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0030.png",
-				"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0030/HLS/V0030-avc1_2000000=12-mp4a_64000_apq=11.m3u8",
+				"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0030/HLS/V0030.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"ท๊อปไลน์",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0089.png",
-				"url":"https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0089/HLS/V0089-avc1_2000000=2-mp4a_64000_tha=5.m3u8",
+				"url":"https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0089/HLS/V0089.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"MVลาว",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0094.png",
-				"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0094/HLS/V0094-avc1_3000000=10-mp4a_64000_eng=7.m3u8",
+				"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0094/HLS/V0094.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
@@ -259,14 +259,14 @@
 				"name":"Major",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0091.png",
-				"url":"https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0091/HLS/V0091-avc1_2000000=8-mp4a_64000_tha=5.m3u8",
+				"url":"https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0091/HLS/V0091.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"Bomerong",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",
-				"url":"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/HLS/V0104-avc1_2000000=2-mp4a_64000_apq=17.m3u8",
+				"url":"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/HLS/V0104.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 				      
 			},
@@ -274,7 +274,7 @@
 				"name":"Cartoonclub",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",
-				"url":"https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0100/HLS/V0100-avc1_1200000=4-mp4a_64000_tha=2.m3u8",
+				"url":"https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0100/HLS/V0100.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
@@ -295,98 +295,98 @@
 				"name":"AnimalShow",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png",
-				"url":"https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153-avc1_5000000=5-mp4a_96000_tha=6.m3u8",
+				"url":"https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"NHK",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_NHK_new.png",
-				"url":"https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0102/HLS/V0102-avc1_5000000=6-mp4a_64000_eng=2.m3u8",
+				"url":"https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0102/HLS/V0102.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"RTDocumentary",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png",
-				"url":"https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0106/HLS/V0106-avc1_5000000=6-mp4a_108000_eng=2.m3u8",
+				"url":"https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0106/HLS/V0106.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"CCTV4",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CCTV4.png",
-				"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0173/HLS/V0173-avc1_3000000=10-mp4a_96000_eng=2.m3u8",
+				"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0173/HLS/V0173.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"CGTN",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CGTN.png",
-				"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0174/HLS/V0174-avc1_3000000=10-mp4a_96000_eng=2.m3u8",
+				"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0174/HLS/V0174.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"CNA",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/R_0122.png",
-				"url":"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0122/HLS/V0122-avc1_3000000=4-mp4a_96000_eng=2.m3u8",
+				"url":"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0122/HLS/V0122.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"EURO-NEWS.",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/EuroNnews-1.png",
-				"url":"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0119/HLS/V0119-avc1_2000000=2-mp4a_96000_eng=6.m3u8",
+				"url":"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0119/HLS/V0119.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"DW",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0121",
-				"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0121/HLS/V0121-avc1_3000000=5-mp4a_96000_eng=2.m3u8",
+				"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0121/HLS/V0121.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"FRANCE24",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0123_1.png",
-				"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0123/HLS/V0123-avc1_2000000=3-mp4a_64000_tha=2.m3u8",
+				"url":"https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0123/HLS/V0123.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"arirang",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0177.png",
-				"url":"https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0177/HLS/V0177-avc1_2000000=5-mp4a_64000_eng=10.m3u8",
+				"url":"https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0177/HLS/V0177.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"NEW1",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",
-				"url":"https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0036/HLS/V0036-avc1_2000000=5-mp4a_64000_tha=2.m3u8",
+				"url":"https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0036/HLS/V0036.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"ALJAZEERA",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Aljazeera_logo.png",
-				"url":"https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0140/HLS/V0140-avc1_3000000=5-mp4a_64000_eng=6.m3u8",
+				"url":"https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0140/HLS/V0140.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"RT",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTChannel.png",
-				"url":"https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0105/HLS/V0105-avc1_3000000=5-mp4a_173200_eng=2.m3u8",
+				"url":"https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0105/HLS/V0105.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"TVBS News",
 				"info":"AISPLAY",
 				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TVBS.png",
-				"url":"https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0108/HLS/V0108-avc1_3000000=5-mp4a_64000_zho=2.m3u8",
+				"url":"https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0108/HLS/V0108.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
