@@ -1,10 +1,55 @@
 {
   "name": "Anime-HD-Zeroo เดอะมูฟวี่",
-  "author": "By iball อัพวันที่ 14/12/2023",
+  "author": "By iball อัพวันที่ 16/12/2023",
   "info":"ทำแจกฟรี 100 %",
   "image": "https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
   "groups": 
 		[
+			{
+				"name":"Touken Ranbu The Movie โทเคนรันบุ มูฟวี่ ศึกรุ่งอรุณซับไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/12/16/1d82c85c14165e5a8332c17fa894056a.jpg",
+				"stations": 
+					[
+						{
+							"name":"Touken Ranbu The Movie โทเคนรันบุ มูฟวี่ ศึกรุ่งอรุณ",
+							"info":"ซับไทย",
+							"image":"https://img.shirokami.me/images/2023/12/16/1d82c85c14165e5a8332c17fa894056a.jpg",
+							"url":"https://files.akuma-player.xyz/view/43bb61ca-44bf-599f-bf03-d950e6c75f8c.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+					]
+			},
+			{
+				"name":"Urkel Saves Santa- The Movie! (2023) เออร์เคลช่วยซานต้า ซับไทย",
+				"info":"",
+				"image":"",
+				"stations": 
+					[
+						{
+							"name":"Urkel Saves Santa- The Movie! (2023) เออร์เคลช่วยซานต้า ซับไทย",
+							"info":"ซับไทย",
+							"image":"https://img.shirokami.me/images/2023/12/16/dde8764b1aa6df008172112c846487ab.jpg",
+							"url":"https://files.akuma-player.xyz/view/aefbe4bb-99e0-584a-b15e-55597e654e0c.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+					]
+			},
+			{
+				"name":"Merry Little Batman คริสต์มาสแสนวุ่นกับเจ้าหนูแบทแมน พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/12/16/3c0be743bebc7de2a06671c8c5d47b57.jpg",
+				"stations": 
+					[
+						{
+							"name":"Merry Little Batman",
+							"info":"พากย์ไทย",
+							"image":"https://img.shirokami.me/images/2023/12/16/3c0be743bebc7de2a06671c8c5d47b57.jpg",
+							"url":"https://files.akuma-player.xyz/view/624703bc-c714-5f80-bdf1-06c4c1d572a7.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+					]
+			},
 			{
 				"name":"Liz to Aoi Tori (Liz and the Blue Bird) ลิซแอนด์เดอะบลูเบิร์ด เดอะมูฟวี่ ซับไทย",
 				"info":"",
