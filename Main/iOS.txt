@@ -138,12 +138,6 @@
 	"import":"true"
   },
   {
-	"name":"SERiESMY",
-	"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
-	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/SERiESMY/seriesmy.txt",
-	"import":"true"
-  },
-  {
 	"name":"Love-Series",
 	"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ5AXLt0V56k3vE4VilvP4rhiV5fDQuuOj_tJKL75ldg_8J6oFtMhtQWNvAwwCQqZ1q3nMm_h68zIcxcZe8sCkQdnyq8y2biv2qFSle_ODaT8fgYAfP5b-35e334IQTyBskLTMjvst3uk_SLV8_Qf4_LjNHDkBlr3d5EBjN1Ndd49wHI3QQxWabK5AxoQ2/w640-h169/1.png",
 	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Love-Series/ALL-love-series.w3u",
@@ -173,6 +167,12 @@
 
 
 
+{
+	"name":"SERiESMY",
+	"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
+	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/SERiESMY/seriesmy.txt",
+	"import":"true"
+  },
 {
 	"name":"LuNa4K",
 	"image":"https://luna4k.com/wp-content/uploads/2023/10/cropped-LOGO-1.png",
