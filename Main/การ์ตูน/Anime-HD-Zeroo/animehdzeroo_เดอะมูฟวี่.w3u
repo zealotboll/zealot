@@ -1,10 +1,26 @@
 {
   "name": "Anime-HD-Zeroo เดอะมูฟวี่",
-  "author": "By iball อัพวันที่ 24/12/2023",
+  "author": "By iball อัพวันที่ 30/12/2023",
   "info":"ทำแจกฟรี 100 %",
   "image": "https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
   "groups": 
 		[
+				{
+				"name":"Kuroko no Basket Movie 3: Winter Cup Soushuuhen – Tobira no Mukou พากย์ไทย",
+				"info":"",
+				"image":"https://img.shirokami.me/images/2023/12/25/2d8c483399e2b078cd7b721d08e81744.webp",
+				"stations": 
+					[
+						{
+							"name":"Kuroko no Basket Movie 3: Winter Cup Soushuuhen – Tobira no Mukou",
+							"info":"Movie 3 พากย์ไทย",
+							"image":"https://img.shirokami.me/images/2023/12/25/2d8c483399e2b078cd7b721d08e81744.webp",
+							"url":"https://files.akuma-player.xyz/view/02d1deef-125e-500c-ab31-11203e2b1c1e.m3u8",
+							"referer":"https://www.animehdzeroo.com/"	
+						},
+						
+					]
+			},
 			{
 				"name":"Suzume no Tojimari การผนึกประตูของซุซุเมะ พากย์ไทย",
 				"info":"",

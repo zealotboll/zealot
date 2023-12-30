@@ -1,9 +1,43 @@
 {
  "name": "กีฬา",
- "author": "เจียว เจียว อัพวันที่ 23 ตุลาคม  2566",
+ "author": "เจียว เจียว อัพวันที่ 30 ธันวาคม 2566",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
+  {
+   "name": "ศึกท่อน้ำไทยรวมพลคนสมุยเกียรติเพชร  [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1701618501.jpg",
+   "stations": [
+    {
+     "name": "ศึกท่อน้ำไทย รวมพลคนสมุย เกียรติเพชร เปโย แอ็ดสันป่าตอง vs ศิริโชค ส.พงษ์อมร",
+     "info": "วันที่ 3 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701618501.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2c46a04444c78e83313a89570da32a63/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกท่อน้ำไทย รวมพลคนสมุย เกียรติเพชร ศิลาชัย ดาบชาญกองปราบ vs มนต์พระราม ศิษย์เพษรฉลูกัณฑ์",
+     "info": "วันที่ 10 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701618501.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/bbcb96674f661e48f5a4289df509b29c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกท่อน้ำไทย รวมพลคนสมุย เกียรติเพชร เพชรดำ พี.ยู.ผ้าใบ vs ชายใหญ่ ว.สุขสันต์",
+     "info": "วันที่ 17 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701618501.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7f4fab54a1e070c52550d33db59e23a0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกท่อน้ำไทย รวมพลคนสมุย เกียรติเพชร พรนำโชค ส.ภูมิภัทร vs ดำเดือด ตี๋เจริญเมือง",
+     "info": "วันที่ 24 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701618501.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/35f4681552f3d77d81ac7557cfaf027c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
   {
    "name": "ONEFightNight  [ยังไม่จบ]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1673689490.jpg",
@@ -180,6 +214,41 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1334673235.jpg",
      "url": "https://www.watchlakorn.in/egdeny/c1e93b4b6512c8facf9baf5a8db1c349/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Thai Fight League Ye Yint Nung vs Peng Jing",
+     "info": "วันที่ 5 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1334673235.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/753830a0bcc52cd47198515cb3b76f22/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Thai Fight League Afshin Khodayari vs Ibrahim Twahri",
+     "info": "วันที่ 12 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1334673235.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0f8f801423384d3a31069148d30cc1ba/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Thai Fight League Ehsan Khorshidvand vs Vahid Nikkhah",
+     "info": "วันที่ 19 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1334673235.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/054c4c9906ad862fb6ea9c82dbc2ea66/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Thai Fight League Niloufar Nematpour vs Rachele Malatesta",
+     "info": "วันที่ 10 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1334673235.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/d1ff13f465565b7aa0f288fbec9e514f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Thai Fight League Kaddour Atouailaa vs Mohammad Barghi",
+     "info": "วันที่ 17 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1334673235.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ebec36d587c49e9c4547669d2b165254/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -192,6 +261,13 @@
      "info": "วันที่ 31 มีนาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1680274115.jpg",
      "url": "https://www.watchlakorn.in/egdeny/50770d4e62d3bdf22b0eb302553b827b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ช่อง 8 ศึกมวยไทยเยือนถิ่น  ตอนที่ 2",
+     "info": "วันที่ 2 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1680274115.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b7f7ebe32d6620b1b48c059a3ea59723/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -484,6 +560,69 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1674255647.jpg",
      "url": "https://www.watchlakorn.in/egdeny/fa0352c11c56c91c3b6f4b0ff1a6745c/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "One Lumpinee Katsuki Kitano vs Hallil Kutukcu",
+     "info": "วันที่ 27 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1674255647.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f2d8f47baa3172f2bf48b855f3f47798/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "One Lumpinee Mardsing vs Patrik Szana",
+     "info": "วันที่ 3 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1674255647.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2a0fe9ef219f50ada2c0b9954d2ab382/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "One Lumpinee Samingdam vs Rhuam Felipe",
+     "info": "วันที่ 10 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1674255647.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e66e71049626bd1ca6f4be97fd4fa7d7/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "One Lumpinee Sulaiman vs Aytch",
+     "info": "วันที่ 17 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1674255647.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f00349a4cb99520dddf9c22f0155e773/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "One Lumpinee Zehra Dogan vs Yu Yau Pui",
+     "info": "วันที่ 24 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1674255647.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2847fb7a5b0949c10cfc743061e8888f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "One Lumpinee Carlos Alvarez vs Nachtn SAT",
+     "info": "วันที่ 1 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1674255647.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6a6ad15f8f4b1853e9dc37f71f18b501/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "One Lumpinee Biagtan vs Ali",
+     "info": "วันที่ 8 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1674255647.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/4c5ae1a8302f9d4127437070ea9781f2/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "One Lumpinee Sherzoo Kabutov vs Jaruadsuk",
+     "info": "วันที่ 15 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1674255647.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/de2bcf75fe937a99f1bd66a6ccf16626/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "One Lumpinee Jaosuayai vs Petsukumvit",
+     "info": "วันที่ 22 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1674255647.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f07e6bfe03acef941f540f71f711074d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -692,6 +831,62 @@
      "info": "วันที่ 21 ตุลาคม2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1673718206.jpg",
      "url": "https://www.watchlakorn.in/egdeny/da1efd3f0da658e3375597852dd7de70/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Lumpinee World Championship Super Champ ฟ้าใส อ.ยุกธชัย vs ไอโอนี่ ลอว์เรนช์ แฟร์เท็กซ์",
+     "info": "วันที่ 28 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1673718206.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f56376408b13ad730309ca1a4bb4abcf/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Lumpinee World Championship Super Champ น้องปรายเล็ก ไพน์แปซิฟิค vs นิลูฟาร์ เนมักปัวร์",
+     "info": "วันที่ 11 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1673718206.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/adc4155c9e452731d078c2e0dcc49987/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Lumpinee World Championship Super Champ ฟ้าสดใส ต.หมอศรี vs มิลาด ทาวาโคลี่",
+     "info": "วันที่ 18 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1673718206.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/bb6fdc19b032b47af5d5f16f8367671d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Lumpinee World Championship Super Champ เอ็มมานูอิล คัลลิสติส vs เบิกบาน ลูกเมืองเพชร",
+     "info": "วันที่ 25 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1673718206.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/1e91110eef08eeadddca1d501d14b85a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Lumpinee World Championship Super Champ",
+     "info": "วันที่ 2 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1673718206.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e3c2956c345575b7bc7fe488126eedca/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Lumpinee World Championship Super Champ เชอร์ซอด เกย์บุลเลฟ vs เจิ้ง ปิง",
+     "info": "วันที่ 9 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1673718206.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b8bd2b7f089bb95a8c3f693f99420f1d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Lumpinee World Championship Super Champ เพชรสีนิล ส.พวงทอง vs ซามิร่า อับบาซี",
+     "info": "วันที่ 16 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1673718206.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ccf967897388879d231cabbcef6323d4/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Lumpinee World Championship Super Champ ซินดี้ ซิลเวสเตร vs ไท หงาน เล",
+     "info": "วันที่ 23 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1673718206.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/506385f736cb0673781c0cf733f7e126/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1242,6 +1437,69 @@
      "info": "วันที่ 21 ตุลาคม2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1665836095.jpg",
      "url": "https://www.watchlakorn.in/egdeny/200e4a9828ecce5c728888bb14b73f55/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "๙ มวยดีวิถีไทย อินทรีทอง ลูกพ่อพญาเสือ vs ตะกรุดโทน สข.ฮารูนมูหมัดอาลี",
+     "info": "วันที่ 28 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1665836095.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/15db10b2cb3604276f4608416cd7cd85/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "๙ มวยดีวิถีไทย บิ๊กบูม เสี่ยต้อมเกาะล้าน vs ไชม่อน ส.ราชนิกุล",
+     "info": "วันที่ 4 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1665836095.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/472bf74081a0850961c899e15f211a5c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "๙ มวยดีวิถีไทย เมสซี่ ศิษย์อำนาจ vs เพชรพยัคฆ์ เสือเก้ามวยไทย",
+     "info": "วันที่ 11 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1665836095.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/29079b40a04c74289f5877e12e811097/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "๙ มวยดีวิถีไทย นิลเพชร ป.ไผ่แดง VS เสีอเพชร เกียรตินาวี",
+     "info": "วันที่ 18 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1665836095.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e5057fb7865d153cead8e1ab9c7b36e8/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "๙ มวยดีวิถีไทย เพชรแกง วันของโอม MBK vs เสือดำ ศิษย์หนุ่มน้อย",
+     "info": "วันที่ 25 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1665836095.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/bb0326535c846ada4e79d22f26bdb6b6/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "๙ มวยดีวิถีไทย ฉลามชล ป.ปรีชาชัย vs เพชรเหนือ เพชรสุภานันท์ต๋องขาวเชียงใหม่",
+     "info": "วันที่ 2 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1665836095.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/cab9a6f70671df9853686f3e26e3a1b7/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "๙ มวยดีวิถีไทย หยูห่าวหลิน ลูกสวนออโต้มวยไทย vs มูฮัมหมัด โทคาย่าไฟท์คลับ",
+     "info": "วันที่ 9 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1665836095.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ff7fae39fd31da1314068652ba543c83/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "๙ มวยดีวิถีไทย ภูดาว ลูกสวนออโต้อาร์วัน vs ปราไพร๊ แดงเขาทราย",
+     "info": "วันที่ 16 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1665836095.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/70fc8fb7319a02399a1ab8ef09f5a356/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "๙ มวยดีวิถีไทย เพชรมงคล หยกขาวแสนชัยยิม vs เอกสยาม ศิษย์หนุ่มน้อย",
+     "info": "วันที่ 23 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1665836095.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/66d63bee0f0f0b96513e84c38e691d55/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1826,6 +2084,62 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1658509874.jpg",
      "url": "https://www.watchlakorn.in/egdeny/13dcd4fd6bfd5acbd672b9c6171bae0b/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ราชดำเนิน เวิลด์ ซีรีส์",
+     "info": "วันที่ 28 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1658509874.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2d168d2056049b6fb0e70ca97ba36647/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ราชดำเนิน เวิลด์ ซีรีส์",
+     "info": "วันที่ 4 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1658509874.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/4647a7186478062a4d49e528c2af21ce/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ราชดำเนิน เวิลด์ ซีรีส์ Yonis Anane vs Numjaroen",
+     "info": "วันที่ 11 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1658509874.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e74d7c5fda3e9c98052bb15d42be9412/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ราชดำเนิน เวิลด์ ซีรีส์",
+     "info": "วันที่ 18 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1658509874.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0ade4b6c06a2f1692524eb8af7b25ff7/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ราชดำเนิน เวิลด์ ซีรีส์ Super-K vs Angelos",
+     "info": "วันที่ 25 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1658509874.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a80acd1c188cd44f95a57167ba0c0cb3/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ราชดำเนิน เวิลด์ ซีรีส์ Petchmuangchon vs Kobpetch",
+     "info": "วันที่ 9 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1658509874.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0f4aae2f852fb18b9d4604727508daaa/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ราชดำเนิน เวิลด์ ซีรีส์ Jakdao vs Polakit",
+     "info": "วันที่ 16 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1658509874.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/710e9d0ae454be21561b7cfa05b4f048/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ราชดำเนิน เวิลด์ ซีรีส์ Shadow vs Satanfah",
+     "info": "วันที่ 23 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1658509874.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/aa537af34e945ca8c9542e679a42fa2b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -2314,6 +2628,76 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1657040581.jpg",
      "url": "https://www.watchlakorn.in/egdeny/1828fe01140f8bf192dd098f714eed6a/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์สนั่นเมือง สะเดาทอง นุ้ยสี่มุมเมือง vs ปากีสถาน เอราวัณ",
+     "info": "วันที่ 24 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1657040581.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/201dc1aad9f3d1fe65d9c62ee6d41386/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์สนั่นเมือง น้ำพุ ไกรศีระภพบ็อกซิ่งยิม vs ปลายฟ้า ก้วยบางคอแหลม",
+     "info": "วันที่ 31 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1657040581.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/756ee1319282722fb72653faf0878f46/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์สนั่นเมือง เพชรสีดำ ศิษย์เจริญทรัพย์ vs แสนซนเล็ก สิงห์ศรราม",
+     "info": "วันที่ 7 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1657040581.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/3e51ab8f1d36c1096075a60f4adef5a6/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์สนั่นเมือง  เพชรมงคล สามารถพยัคฆ์อรุณยิม vs ชยพล น้ำจิ้มดาบรันสารคาม",
+     "info": "วันที่ 14 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1657040581.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2caecb365d06b97629c688c4d4a99457/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์สนั่นเมือง แหลมโพธิ์ ศิษย์คุณวสันต์ vs ธีรพงศ์ ไกรศิระภพบ๊อกซิ่งยิม",
+     "info": "วันที่ 21 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1657040581.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e06f1e64ef4d6b6958ade918e1a20bec/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์สนั่นเมือง สายโลหิต ไฟต์เตอร์มวยไทย vs แคนชัย พันธ์ศักษ์รัดนบุรี",
+     "info": "วันที่ 28 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1657040581.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/d6606ad1e388645d04b24660d5df2677/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์สนั่นเมือง เพชรพลายงาม ศิษย์ทนายเค vs ริมเขื่อน ส.ราชนิกูล",
+     "info": "วันที่ 5 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1657040581.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b3f1e40bfb4ba626765d4933fcacde45/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์สนั่นเมือง กฤษดา แดงรถดี vs สกาย นุ้ยสี่มุมเมือง",
+     "info": "วันที่ 12 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1657040581.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/c500f46f05349d7afda6f5e4d6fcda16/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์สนั่นเมือง จอมโหดเล็ก บุ้ยสี่มุมเมือง vs เพชรพอใจ บาสกุ่งเขาหลวง",
+     "info": "วันที่ 19 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1657040581.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f4a65400ef80eb6b48f439cb437b0f1a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์สนั่นเมือง บัลลังก์เพชร รถสวยจ๋าเจดสายพริ๊ว vs เพชรนัทธี ใต้เพชรบุรี",
+     "info": "วันที่ 26 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1657040581.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f427fdb7e10bec5abd796574d6f06518/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -2739,6 +3123,69 @@
      "info": "วันที่ 16 ตุลาคม2566",
      "image": "https://cdn.watchlakorn.in/storage/images/",
      "url": "https://www.watchlakorn.in/egdeny/6d3a9ff807c8b12dee1356981eff0237/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพันธมิตร ลูกนิมิต สิงห์คลองสี่ vs เด่นพยัคฆ์ เดชเพชรสีทอง",
+     "info": "วันที่ 30 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/",
+     "url": "https://www.watchlakorn.in/egdeny/0029af410fac2bd97ace8c45d2b2a09e/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพันธมิตร ธนภัทร พุ่มพันธ์ม่วง vs เพชรมรกต น.นาคสุวรรณ",
+     "info": "วันที่ 6 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/",
+     "url": "https://www.watchlakorn.in/egdeny/478eba763c5bfeeefdd05fc4c078a654/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพันธมิตร เบิร์ดเดย์ ที.บี.เอ็ม.ยิม vs ก้องบูรพา ชลบุรีอาร์ตมวยไทยยิม",
+     "info": "วันที่ 13 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/",
+     "url": "https://www.watchlakorn.in/egdeny/380e3fe598c47925da93f4a6c1479934/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพันธมิตร เก่งรบ ป.หนึ่งเดียว vs เพชรเอก ม.ธรรมศาสตร์คลองหลวง",
+     "info": "วันที่ 20 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/",
+     "url": "https://www.watchlakorn.in/egdeny/ef14a20e923959ffbbeb7e485eaab448/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพันธมิตร อาเคล่า เดชเพชรสีทอง vs ยอดเจริญทอง ใต้คู้บอน",
+     "info": "วันที่ 27 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/",
+     "url": "https://www.watchlakorn.in/egdeny/290901dd48ab817573ae9107083059d1/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพันธมิตร สุดสาคร ชมรมอนุรักษ์มวยไหย VS คม พี.เค. แสนชัยมวยไทยยิม",
+     "info": "วันที่ 4 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/",
+     "url": "https://www.watchlakorn.in/egdeny/a5557f818efce7b4102cec646346bc6e/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพันธมิตร สี่พลัง ลูกเจ้าพ่อกุมภกัณฑ์ 4พลัง vs เพชรทรงฤทธิ์ ป.สันติ",
+     "info": "วันที่ 11 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/",
+     "url": "https://www.watchlakorn.in/egdeny/98ebdbf45fedae602eec275709d28781/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพันธมิตร เพชรน้ำเอก บูมเด็กเซียน VS เพชรนพเดช นพเดชมวยไทย",
+     "info": "วันที่ 18 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/",
+     "url": "https://www.watchlakorn.in/egdeny/d103732c4c26e0907d309022477a59f9/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพันธมิตร  เก่งรบ ป.หนึ่งเดียว vs เพชรเอก ศิษย์บิ๊กแจีสคนรักปทุม",
+     "info": "วันที่ 25 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/",
+     "url": "https://www.watchlakorn.in/egdeny/e88c238d9fc996aca1a54dfe9eed71e6/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -3283,6 +3730,69 @@
      "info": "วันที่ 18 ตุลาคม2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1651676198.jpg",
      "url": "https://www.watchlakorn.in/egdeny/68d0bbf868f3a20902bf09ea9f72883f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพลังใหม่ ขุนศึกเอิร์ธ อ.ขวัญเมือง vs ปัณดา บังมัดคลองตันหนึ่งชัยวัฒน์",
+     "info": "วันที่ 25 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1651676198.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/17691e0c2647062639e66149f3a80a1a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพลังใหม่",
+     "info": "วันที่ 1 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1651676198.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/523e0b8e88b093aa39d7225532036ab9/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพลังใหม่ เปลวสีเงิน ย.อันดามัน vs รีฟฟารีน พี.เค.แสนชัยมวยไทยยิม",
+     "info": "วันที่ 8 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1651676198.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/825fa33fd6cdeccfe2ef6bc136962893/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพลังใหม่ เพชรคีรี พักยก 77 vs ฤทธิ์ไกรพ เฟี๊ยตปทุมธานี",
+     "info": "วันที่ 15 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1651676198.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a586bfa1f98e700e76961b57ce1f9445/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพลังใหม่ ขวัญชัย ส.สมหมาย vs ศรีเพชรเล็ก เกียรติเพชรเดชะ",
+     "info": "วันที่ 22 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1651676198.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0d9274f72281517e46ff522eefdf2fe9/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพลังใหม่",
+     "info": "วันที่ 29 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1651676198.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/8e08a29ec32640fd55fb06171b484987/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพลังใหม่ ศราวุธ บังมัดคลองต้นหนึ่งชัยวัฒน์ vs เพชรอนุวัฒน์ ต.แย้มสวน",
+     "info": "วันที่ 6 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1651676198.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0fac9ef7f9f0b756ee0fa91351b5dabd/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพลังใหม่ วันพิชิต พุฒิประชาชื่น vs พิชัย ลูกบ้านใหม่",
+     "info": "วันที่ 13 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1651676198.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7d534e50dcd663a57ffa4492fa214919/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยไทยพลังใหม่ ยอดขุนพล ส.พงศ์อมร VS พลังทรัพย์ลานนาโฮมสเตย์แอนด์เรสเตอร์รอง",
+     "info": "วันที่ 20 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1651676198.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e0d11345c120d957fdefa91874c5fd28/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -3836,6 +4346,69 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1646479293.jpg",
      "url": "https://www.watchlakorn.in/egdeny/4ec3809b3690ea1df6f550b7488cea21/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Fairtex Fight มวยมันพันธุ์ Extreme มีฤทธิ์ ลูกบุญมี vs โทน ส.ตระกูลเพชร",
+     "info": "วันที่ 28 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1646479293.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/33635096e4ac550506a36014c61d82df/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Fairtex Fight มวยมันพันธุ์ Extreme โจนาธาน vs ฟาบริซิโอ",
+     "info": "วันที่ 4 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1646479293.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/4e325bff4c591d07eeadab83dcc64d7e/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Fairtex Fight มวยมันพันธุ์ Extreme สมหวัง สามชัยวิเศษสุข vs เสี่ยว หลง",
+     "info": "วันที่ 11 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1646479293.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f35dad80ddf9980f1069684d5748d320/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Fairtex Fight มวยมันพันธุ์ Extreme สมองเพชร ปัญญาฉัตรโยธิน vs เก้าแสน ขวัญใจศรีโคตร",
+     "info": "วันที่ 18 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1646479293.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/1af5d7b5c2725de8f5dd8b42d1fdea5d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Fairtex Fight มวยมันพันธุ์ Extreme แอนดี้ สนู๊ปปี้ vs แก่นนรสิงห์ ดีเอ็นเอไทยแลนด์",
+     "info": "วันที่ 25 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1646479293.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/c589c05f280b71cde14578f17058de97/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Fairtex Fight มวยมันพันธุ์ Extreme แดนดาหลง ส.เดชะพันธ์ vs ฉุสเซน เรซาซาเดห์",
+     "info": "วันที่ 2 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1646479293.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a629bad1227711d84ac410f5e2171b31/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Fairtex Fight มวยมันพันธุ์ Extreme เสมาเพชร แฟร์เท็กซ์ vs มูฮาเมต ยูเนส",
+     "info": "วันที่ 9 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1646479293.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/885e9b34ff2e85e7f997c4a0582fc527/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Fairtex Fight มวยมันพันธุ์ Extreme พรสุเม เชียงใหม่ เจอาร์ มวยไทย vs ศิลปไทย เสรีภาพมวยไทย",
+     "info": "วันที่ 16 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1646479293.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e78785715291b58bba842cf48fe5c794/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Fairtex Fight มวยมันพันธุ์ Extreme รูปัด เนพาลี vs ยูเนส แฟมิลี่มวยไทย",
+     "info": "วันที่ 23 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1646479293.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0d58b3cb77125e92c783813ec7e0f31b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -4288,6 +4861,69 @@
      "info": "วันที่ 21 ตุลาคม2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1641641793.jpg",
      "url": "https://www.watchlakorn.in/egdeny/d3f17648e016ce7e9e4f305c6bf19307/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจิตรเมืองนนท์ ซูเปอร์ไฟว์ หยกดำ สท.เหี่ยวบางแสน vs วิหารเล็ก ศิษย์ช.แชมป์",
+     "info": "วันที่ 28 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1641641793.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/4c1787f32f864818df065d0c80068a0a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจิตรเมืองนนท์ ซูเปอร์ไฟว์ ฉลามขาว จิตรเมืองนนท์ vs โทเทง ช.รัตนชัย 55 ซุปเปอร์ไฟท์",
+     "info": "วันที่ 4 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1641641793.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/8007903f28949c60e96664bd6e1ab358/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจิตรเมืองนนท์ ซูเปอร์ไฟว์ หยกเพชร ศิษย์ผู้ใหญ่คำหล้า vs ซุปเปอร์บอล วี.เค.เขาใหญ่",
+     "info": "วันที่ 11 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1641641793.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f8c5207559a8c3601d6bc4aa35e0e350/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจิตรเมืองนนท์ ซูเปอร์ไฟว์ เสือจั่น ส.อิสสระโชติ vs เขี้ยวพยัคฆ์ จ่าหมายมวยไทย",
+     "info": "วันที่ 18 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1641641793.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/22fcbe4d6e2bd7f8c1f3060c9f30fe4c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจิตรเมืองนนท์ ซูเปอร์ไฟว์",
+     "info": "วันที่ 25 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1641641793.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ee45dfa5e053e2891bc1270615328a80/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจิตรเมืองนนท์ ซูเปอร์ไฟว์ เหล็กเพชร ศิษย์ผู้ใหม่คำเหล้า vs เพชรสองภาค ป.ประวิทย์",
+     "info": "วันที่ 2 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1641641793.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f3ebd2b02a293b4b950b380454c500cd/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจิตรเมืองนนท์ ซูเปอร์ไฟว์ ศิวทอง เกียรติทรงฤทธิ์ vs เพชรมรกต น.นาคสุวรรณ",
+     "info": "วันที่ 9 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1641641793.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/1069c5a117fdcff965d8fe31b59b6d94/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจิตรเมืองนนท์ ซูเปอร์ไฟว์ พลอยทวีศักดิ์ จอนระเหว vs แหวนทองเหลือง คิตตี้มวยไทย",
+     "info": "วันที่ 16 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1641641793.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e4e88a9bd0cf01a21b3687091a905c53/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจิตรเมืองนนท์ ซูเปอร์ไฟว์ กำไลหยกเล็ก สวนอาหารปีกไม้ VS นกแก้ว ลูกสวนออโต้อาร์วัน",
+     "info": "วันที่ 23 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1641641793.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/8e60d153669c0dcb0c36962243087d2d/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -4762,18 +5398,29 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1633447852.jpg",
      "url": "https://www.watchlakorn.in/egdeny/3efb27a3ad983cf0cb3ccea0716a0328/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึก Cpf ยอดมวยโลก อนุชัย ซีพีเอฟ vs เซีย เจิ้งเหว่ย",
+     "info": "วันที่ 25 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1633447852.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b83cb84f13b738958633ffed96a57c1a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึก Cpf ยอดมวยโลก เพชร ซีพีเอฟ vs กิตติพงษ์ เจริญรอย",
+     "info": "วันที่ 22 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1633447852.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/1c5493105560d6c003c27ecdee3434ff/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึก Cpf ยอดมวยโลก วู ซิ่วหมิง vs คริส ไคเนส",
+     "info": "วันที่ 20 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1633447852.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/978fe984f5f9581657372148abcf497e/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "ศึกมวยไทยเกียรติเพชรซูเปอร์ไฟต์  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1616841651.jpg",
-   "stations": []
-  },
-  {
-   "name": "ศึกเพชรนิลมวยไทยซูเปอร์ไฟต์  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1616345331.jpg",
-   "stations": []
   },
   {
    "name": "มวยไทยซุปเปอร์ไฟต์ศึกมวยไทยลุมพินีพิทักษ์ธรรม  [ยังไม่จบ]",
@@ -5505,6 +6152,76 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1616095067.jpg",
      "url": "https://www.watchlakorn.in/egdeny/81955c3ae1c164b819d6dd65bf351d36/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกเพชรยินดี  น้องฟาร์ม ไฟต์เตอร์มวยไทย vs ยอดหลักหิน ศิษย์จ่าอุ้ม",
+     "info": "วันที่ 26 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1616095067.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/5aed7d2da96afb70912b5c738e54d9e4/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกเพชรยินดี สิงห์ ก้องธรณีมวยไทย vs รุ่งภาณุ แสงบารมี",
+     "info": "วันที่ 2 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1616095067.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/42a6c21351874c09e8d9965e4604d544/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกเพชรยินดี มานะชัย ที่เด็ด 99 vs โล่เงิน ทรวยในเมืองยิมส์",
+     "info": "วันที่ 9 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1616095067.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/dd30b55553202584e53117b00a8931a4/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกเพชรยินดี",
+     "info": "วันที่ 16 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1616095067.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/89f81dca7333cb02de9faf30e175d2c0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกเพชรยินดี รุ่งสามบี ท.อดิศัทดิ์ vs เอกพิทักษ์ พัทยก24วันดีทวีชัย",
+     "info": "วันที่ 23 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1616095067.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f6426868667099ca67df1036ac54bee0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกเพชรยินดี สิงห์ ก้องธรณีมวยไทย vs รุ่งภาณุ แสงบารมี",
+     "info": "วันที่ 30 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1616095067.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b2be2e8e85a76e699d26421cf3fac1d7/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกเพชรยินดี เดวิด ออโต้อาร์วันมวยไทย vs เหนือศิลา ปกป้องเกรียงไกร",
+     "info": "วันที่ 7 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1616095067.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/21be161a8aba63669cb88640c48687f4/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกเพชรยินดี เพชรพิชัย อ.ยาลบุญ vs เพชรเรณู เกียรติธงยศ",
+     "info": "วันที่ 14 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1616095067.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/329852f2d3b057457148d70d20a0153d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกเพชรยินดี รุ่งสามบี ก.อดิศักดิ์ vs เอกพิทักษ์ พักยก24วันดีทวีชัย",
+     "info": "วันที่ 21 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1616095067.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/827de2beb5878049e1210933449f5875/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกเพชรยินดี มานะชัย ดีเด็ด99 vs หนึ่งอำนาจ อึ่งอุบล",
+     "info": "วันที่ 28 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1616095067.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/4844bffe02e79c034d922952f9b2857b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -5825,18 +6542,43 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1615643310.jpg",
      "url": "https://www.watchlakorn.in/egdeny/af30f6f277db0d48d4a280069988d7ea/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกท่อน้ำไทย ลุมพินี ทีเคโอ เกียรติเพชร ฮาดีส ส.จิตรสนองชาติ vs แจ็คสยาม ส.เอกพาพันธ์",
+     "info": "วันที่ 29 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1615643310.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/9a97afd2fb7f3adc0046947ceb5b4413/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกท่อน้ำไทย ลุมพินี ทีเคโอ เกียรติเพชร โรเล็กช์ ว.ปัญญาไวย์",
+     "info": "วันที่ 5 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1615643310.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/94804d4e5e710ea3baa9c03263b0b182/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกท่อน้ำไทย ลุมพินี ทีเคโอ เกียรติเพชร ยอดพนมทวน ศิษย์นายกอนงค์ vs สายนที ส.รุ่งโรจน์",
+     "info": "วันที่ 12 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1615643310.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/af4d18e4811a0d37f62af8db075d070a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกท่อน้ำไทย ลุมพินี ทีเคโอ เกียรติเพชร สเตฟาน สท.เหี่ยวบางแสน vs เพชรผ่องใส แข้งเมืองคอน",
+     "info": "วันที่ 19 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1615643310.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f7db70c220ab65c59721537ea905a7f0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกท่อน้ำไทย ลุมพินี ทีเคโอ เกียรติเพชร",
+     "info": "วันที่ 26 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1615643310.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/4e1a169326c31d821f7542b5599f0da6/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "ศึกยอดมวยไทยไฮลักซ์รีโว่  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1614901039.jpg",
-   "stations": []
-  },
-  {
-   "name": "ศึกลุมพินีแชมป์เปียนเกียรติเพชรแฟร์เท้กซ์  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1607453415.jpg",
-   "stations": []
   },
   {
    "name": "TheFighterWorldBoxing  [ยังไม่จบ]",
@@ -5911,28 +6653,22 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1604159935.jpg",
      "url": "https://www.watchlakorn.in/egdeny/0a92927f2ec1a0767aa0da645b6dd04a/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "The Fighter World Boxing สงพงศ์ โฉมยงค์ vs เวียเจิ้งเหว่ย",
+     "info": "วันที่ 4 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1604159935.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/8a5a184675698f97b863431f894517a1/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "The Fighter World Boxing ธนกร สุวรรณกูล vs พงศกรไพโรจน์วิธุฬห์",
+     "info": "วันที่ 2 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1604159935.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/94a10416725fe479f86deb688d56560b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "10Fight10Season2  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1602524477.jpg",
-   "stations": []
-  },
-  {
-   "name": "ZCCoffeeFightMuaythai  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1601425191.jpg",
-   "stations": []
-  },
-  {
-   "name": "OneChampionshipClassics  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1591533715.jpg",
-   "stations": []
-  },
-  {
-   "name": "มวยเด็ดเต็มmax  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1578138538.jpg",
-   "stations": []
   },
   {
    "name": "มวยพันธุ์ดุ  [ยังไม่จบ]",
@@ -6086,51 +6822,6 @@
      "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "มวยมันส์ช่อง8  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1570326084.jpg",
-   "stations": []
-  },
-  {
-   "name": "ล่าฝันบัลลังก์โลก  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1570279782.jpg",
-   "stations": []
-  },
-  {
-   "name": "Galaxyลุมพินีไฟต์  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1569377300.jpg",
-   "stations": []
-  },
-  {
-   "name": "มวยไทย8ทิศ  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1567909865.jpg",
-   "stations": []
-  },
-  {
-   "name": "ศึกมวยซูเปอร์ไฟต์  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1567861720.jpg",
-   "stations": []
-  },
-  {
-   "name": "ไทยวอร์ริเออส์  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1561125882.jpg",
-   "stations": []
-  },
-  {
-   "name": "10Fight10  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1560183196.jpg",
-   "stations": []
-  },
-  {
-   "name": "ยอดมวยวันทรงชัย  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1557583841.jpg",
-   "stations": []
-  },
-  {
-   "name": "DCPWorldMuaythaiSuperFight  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1549998936.jpg",
-   "stations": []
   },
   {
    "name": "ศึกช้างมวยไทยเกียรติเพชร  [ยังไม่จบ]",
@@ -6765,13 +7456,64 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1548006673.jpg",
      "url": "https://www.watchlakorn.in/egdeny/c18e33a4c2e47adcb38108602a1c99ab/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกช้างมวยไทย เกียรติเพชร ฟ้ามงคล สานฝันกีฬานาวี vs เด่นกงหรา ช.เกตุวีณา",
+     "info": "วันที่ 4 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1548006673.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/d3b19abb832236454c9f4dc7afb48c30/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกช้างมวยไทย เกียรติเพชร ยอดชนะศึก ก๋วยบางคอแหลม (ลูกกันพระ) vs เพชรออโต้ ป.ประจันสี (กีล่าสปอร์ต)",
+     "info": "วันที่ 11 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1548006673.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/c402c3035ec8ca6eff060f494b4e0b2d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกช้างมวยไทย เกียรติเพชร โปเกม่อน ศิษย์นายกอนงค์ vs ชนะเพชร ช.ชัชชัย",
+     "info": "วันที่ 18 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1548006673.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/3ffe780261c003123175d03ee0e109c2/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกช้างมวยไทย เกียรติเพชร เพชรประภาพร ส.เดษะพันธ์(ลูกบ้านใหญ่) vs ชายสี่ โษติบางแสน",
+     "info": "วันที่ 25 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1548006673.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b558c28fe41116d72a30ce66e33ff0ab/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกช้างมวยไทย เกียรติเพชร รวยชัย พ.พิมพ์อร vs หยกเพชร ใต้เพชรบุรี",
+     "info": "วันที่ 2 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1548006673.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/3d3d54cfe21f9961f97b08321820152d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกช้างมวยไทย เกียรติเพชร แสนเก่งเล็ก ศิษย์พนัญเชิง vs แบ็งค์ ลูกมะขามหวาน",
+     "info": "วันที่ 9 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1548006673.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/aeaf3a314eb73e7a55352a16f3f35856/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกช้างมวยไทย เกียรติเพชร ปานดำ สวนน้ำธารคีรี vs นิล พรัญชัย",
+     "info": "วันที่ 16 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1548006673.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2785685c3811006bf69e9a22b130f80b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกช้างมวยไทย เกียรติเพชร เพชรสีแดง ศิษย์เจริญทรัพย์ vs สิงห์มีชัย อ.สู้ดสุตร",
+     "info": "วันที่ 23 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1548006673.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/426a03330f8f1d2b55fabbce01729f94/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "ตะลุยแดนนักสู้  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1544012620.jpg",
-   "stations": []
   },
   {
    "name": "8มวยไทยSuperChamp  [ยังไม่จบ]",
@@ -7088,26 +7830,6 @@
    ]
   },
   {
-   "name": "นักสู้เจ้าสังเวียน  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1531560001.jpg",
-   "stations": []
-  },
-  {
-   "name": "ศึกยอดมวยไทยทานตะวันทีเด็ด99  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1531526466.jpg",
-   "stations": []
-  },
-  {
-   "name": "ศึกมินิยามมวยไทยไฟต์  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1531526289.jpg",
-   "stations": []
-  },
-  {
-   "name": "ศึกมวยไทยราชดําเนิน  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1531437091.jpg",
-   "stations": []
-  },
-  {
    "name": "MaxMuayThai  [ยังไม่จบ]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1531099219.jpg",
    "stations": [
@@ -7191,16 +7913,6 @@
    ]
   },
   {
-   "name": "อิกไนต์วอร์รีเออร์แชมเปียนชิป  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1525657307.jpg",
-   "stations": []
-  },
-  {
-   "name": "MaxMuayThai  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1525272944.jpg",
-   "stations": []
-  },
-  {
    "name": "WPBoxing  [ยังไม่จบ]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1524337285.jpg",
    "stations": [
@@ -7214,61 +7926,6 @@
    ]
   },
   {
-   "name": "AmazingMuaythaiChampion  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1521719951.jpg",
-   "stations": []
-  },
-  {
-   "name": "TheHeroChampionChallenge  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/",
-   "stations": []
-  },
-  {
-   "name": "ศึกช้างมวยไทย  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1520207446.jpg",
-   "stations": []
-  },
-  {
-   "name": "ศึกวันทรงชัยแชมป์มวยไทย  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1516454378.jpg",
-   "stations": []
-  },
-  {
-   "name": "ศึกคนสู้คนมวยไทยซุปเปอร์ไฟต์เอสวัน  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1516413050.jpg",
-   "stations": []
-  },
-  {
-   "name": "สุดสวยมวยไทยโลก  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1511055394.jpg",
-   "stations": []
-  },
-  {
-   "name": "ศึกไทยรัฐมวยไทยไฟต์  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1442686930.jpg",
-   "stations": []
-  },
-  {
-   "name": "ซูเปอร์คอมแบต  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1495885889.jpg",
-   "stations": []
-  },
-  {
-   "name": "เจ้าสังเวียนมวบปล้ำ  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1494210366.jpg",
-   "stations": []
-  },
-  {
-   "name": "มวยไทยเมกาไฟต์  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1493999491.jpg",
-   "stations": []
-  },
-  {
-   "name": "ศึกเงินล้านเวทีราชดำเนิน  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1486047470.jpg",
-   "stations": []
-  },
-  {
    "name": "มวยไทยไฟต์เตอร์  [ยังไม่จบ]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1484754743.jpg",
    "stations": [
@@ -7280,51 +7937,6 @@
      "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "ศึกมวยไทยททบ.5  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1484484653.jpg",
-   "stations": []
-  },
-  {
-   "name": "เกียรติเพชรซูเปอร์ไฟท์  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1484407153.jpg",
-   "stations": []
-  },
-  {
-   "name": "S1WorldChampionship  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1480296331.jpg",
-   "stations": []
-  },
-  {
-   "name": "ศึกนักสู้สายพันธุ์ใหม่  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1480107657.jpg",
-   "stations": []
-  },
-  {
-   "name": "ศึกยอดมวยไทยไฮลักซ์รีโว่สัญจร  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1479316962.jpg",
-   "stations": []
-  },
-  {
-   "name": "โตโยต้ามวยไทยลีก  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1475846515.jpg",
-   "stations": []
-  },
-  {
-   "name": "น็อคเอาท์  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1473009779.jpg",
-   "stations": []
-  },
-  {
-   "name": "มวยมันส์ซุปเปอร์MAX  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1472837662.jpg",
-   "stations": []
-  },
-  {
-   "name": "มวยไทยวิก22  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1472403192.jpg",
-   "stations": []
   },
   {
    "name": "มวยมันส์วันศุกร์  [ยังไม่จบ]",
@@ -7952,13 +8564,78 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1470418286.jpg",
      "url": "https://www.watchlakorn.in/egdeny/e89b0e88e0f553d9224d6c3bed006477/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์วันศุกร์ ภูสิงห์ ประธานดิ่งคลองสวนพลูรีสอร์ท vs ศิวราช ว.รินธิดา",
+     "info": "วันที่ 27 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1470418286.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/580b579857852f36d0ecf4b55024d115/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์วันศุกร์ โรโบค๊อป อ.อู๊ดอุดร vs ใจสิงห์ ลูกเจ้าแม่ไทรทอง",
+     "info": "วันที่ 3 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1470418286.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/10254259029386b648d9c03413f77335/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์วันศุกร์ พลายทองคำ ออโต้อาร์วันมวยไทย vs ลายมังกร เบิ้ลนคร",
+     "info": "วันที่ 10 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1470418286.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0f9ca5c2e38673680551c383981e67c5/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์วันศุกร์ น้องฟาร์ม ไฟต์เตอร์มวยไทย vs นำสุข บุญลานนามวยไทย",
+     "info": "วันที่ 17 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1470418286.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/c24e6cfc7e2ea8f1c951a850eddf1791/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์วันศุกร์ เพชรเตชิน ชลบุรีอาร์ตมวยไทยยิม vs เพชรอีสาน ป.สะท้านเมือง",
+     "info": "วันที่ 24 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1470418286.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/267cb337facc4a3f0365e958146a8c1a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์วันศุกร์ น้องบี บีบอยบิอกซิ่งยิมส์ vs ซุปเปอร์แบงค์ ช.ชนะศึก",
+     "info": "วันที่ 1 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1470418286.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/9ba5adb72ec4fc99ee87eb083a1109f9/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์วันศุกร์",
+     "info": "วันที่ 8 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1470418286.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/3d25b865a1f5630579a20531f80b49a8/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์วันศุกร์ ฉัตรเพชร เกียรติธงยศ vs เพชรดารา วันของโอมMBK",
+     "info": "วันที่ 15 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1470418286.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/935e6202eeb8ada48a97c4bdb1f12b82/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์วันศุกร์ ยอดเล็ก ว.สังข์ประไพ vs รุ่งเรืองเล็ก นุ่มนิ่มทีเอ็นมวยไทย",
+     "info": "วันที่ 22 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1470418286.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/d7d7c7fdc7648dd60e110a8c70cb6583/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยมันส์วันศุกร์ จากัวร์ จัทรยานมวยไทยยิมส์ vs ธีรพงศ์ ไกรศิระภพบ๊อกซิ่งยิม",
+     "info": "วันที่ 29 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1470418286.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a207d09e6e8be4437c84a30c938503d7/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "PPTVศึกนวมทองคำ  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1470404689.jpg",
-   "stations": []
   },
   {
    "name": "TheFighter  [ยังไม่จบ]",
@@ -7972,26 +8649,6 @@
      "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "WomenWorldBoxingChampionships  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1464152007.jpg",
-   "stations": []
-  },
-  {
-   "name": "MuayThaiNight  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1463847500.png",
-   "stations": []
-  },
-  {
-   "name": "มวยไทยTheBattle  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1463193420.jpg",
-   "stations": []
-  },
-  {
-   "name": "คมชัดลึกศึกมวยโลก  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1461504546.jpg",
-   "stations": []
   },
   {
    "name": "ศึกสังเวียนเดือด  [ยังไม่จบ]",
@@ -8117,46 +8774,6 @@
      "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "ศึกกำปั้นแดนมังกร  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1457227329.jpg",
-   "stations": []
-  },
-  {
-   "name": "SuperMuayThai  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1452452084.jpg",
-   "stations": []
-  },
-  {
-   "name": "คมชัดลึกศึกมวยไทยท่อน้ำไทยฮีโร่  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1446432657.jpg",
-   "stations": []
-  },
-  {
-   "name": "TheChampion  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1443889115.jpg",
-   "stations": []
-  },
-  {
-   "name": "ศึกยอดฝีพายไทยรัฐ  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1443408050.jpg",
-   "stations": []
-  },
-  {
-   "name": "ศึกยอดมวยไทยรัฐ  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1442686930.jpg",
-   "stations": []
-  },
-  {
-   "name": "8Maxมวยไทย  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1427693398.jpg",
-   "stations": []
-  },
-  {
-   "name": "ศึกราชดําเนินซูเปอร์ไฟท์  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1425821294.jpg",
-   "stations": []
   },
   {
    "name": "มวย  [ยังไม่จบ]",
@@ -8581,13 +9198,50 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1417775753.jpg",
      "url": "https://www.watchlakorn.in/egdeny/d67c763b3b950ecbfd65e6bd96b2d164/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวย ศึกช้างมวยไทย วันทรงชัยสัญจร เวทีชั่คราว เทศบาลกระทุ่มแบน จังหวัดสมุทรสาคร",
+     "info": "วันที่ 24 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1417775753.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/563e52347ff5d5c57c40ca5b0f2780eb/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวย ศึกมวยไทยวิถีถิ่นไทย ณ สนามช้าง อินเตอร์เนชั่นแนล เซอร์กิต จ.บุรีรัมย์",
+     "info": "วันที่ 28 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1417775753.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/8c6bae12f3dfc33f1e111cd3836a2c8e/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวย WBC Interim Super Middleweight World Championship : David Benavidez VS Demetrius Andrade",
+     "info": "วันที่ 26 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1417775753.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/9dd18723813c526002d280baf130fc35/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวย มวยไทยนานาชาติ ฉลองครบรอบ 80 ปี มหาวิทยาลัยเกษตรศาสตร์",
+     "info": "วันที่ 8 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1417775753.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/02f979de346baca8771602b5d67c4868/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวย",
+     "info": "วันที่ 13 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1417775753.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/165cdea86bf3ea38960f4634e0628d5e/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวย มวยชิงแชมป์โลก Naoya Inoue vs Marlon Tapales",
+     "info": "วันที่ 26 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1417775753.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/cdbb1435c96d341e754cedd56233da5a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "TOPKINGWORLDSERIES  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1410657812.jpg",
-   "stations": []
   },
   {
    "name": "ศึกมวยดีวิถีไทย  [ยังไม่จบ]",
@@ -9236,13 +9890,64 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1406466742.jpg",
      "url": "https://www.watchlakorn.in/egdeny/a580128efd0d7ad4fb8203f58123e7d7/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยดีวิถีไทย ฉัตรพลอย ส.พูลสวัสดิ์ vs ปานเทพ วี.เค.เขาใหญ่",
+     "info": "วันที่ 5 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1406466742.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/aa9fbaa4c36d20c5696ddf0719793456/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยดีวิถีไทย แป๊ปซี่ ซูจีบะหมี่เกี๊ยว vs ภูมิพยัคฆ์ ป.เปาอินทร์",
+     "info": "วันที่ 12 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1406466742.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a84ad9a31e2f207e51bf2dc4be2dda7a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยดีวิถีไทย เพชรมหาโชค จิตรเมืองนนท์ vs ไมเคิล อ.วัฒน์มวยไทยยิม",
+     "info": "วันที่ 19 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1406466742.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ded6a7bdc052ffe95d3aa4f182c0b639/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยดีวิถีไทย  ยิ้มสยาม สวนอาการปีกไม้ vs กล้าพิชิต ศิษย์ทนายเค",
+     "info": "วันที่ 26 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1406466742.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/96e124b124017d0f2836b9f088090387/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยดีวิถีไทย ปอร์เช่ อ.อู๊ดอุดร vs บิ๊กบูม เสี่ยต้อมเกาะล้าน",
+     "info": "วันที่ 3 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1406466742.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/9b17a0258f70a7bc6ed52a9c9853df0a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยดีวิถีไทย เพชรพญาไท แสงมรกต vs น้องบิว จิตรเมืองนนท์",
+     "info": "วันที่ 10 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1406466742.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/245c7297d0290e86810788332486cd2c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยดีวิถีไทย เมาคลีเล็ก อ.อู๊ดอุดร vs หยกเพชร ศิษย์ผู้ใหญ่คำหล้า",
+     "info": "วันที่ 17 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1406466742.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/cd1ff237928af1e010ee9625c8121622/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกมวยดีวิถีไทย โชคชัยชาญ วันของโอม MBK vs เพชรวานร เจ.เอส.พี.",
+     "info": "วันที่ 24 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1406466742.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a7dafa9332302147d968f7df2f716e62/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "ศึกมวยไทยลุมพินีเกริกไกร  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1406429845.jpg",
-   "stations": []
   },
   {
    "name": "ศึกจ้าวมวยไทย  [ยังไม่จบ]",
@@ -9897,6 +10602,69 @@
      "info": "วันที่ 21 ตุลาคม2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1396084230.jpg",
      "url": "https://www.watchlakorn.in/egdeny/28dfcf5c40e3c253f13ee046be50ff7b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจ้าวมวยไทย",
+     "info": "วันที่ 28 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1396084230.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/100747435127e85384ca586b02776dc8/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจ้าวมวยไทย",
+     "info": "วันที่ 4 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1396084230.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/96b8ed0ffec531e61c8144c45f06a7b6/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจ้าวมวยไทย",
+     "info": "วันที่ 11 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1396084230.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a6f7cfbddf6a6a60611ec9996a663812/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจ้าวมวยไทย",
+     "info": "วันที่ 18 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1396084230.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/4329d9e5a5ac3a982c651a6b3b5a9791/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจ้าวมวยไทย",
+     "info": "วันที่ 25 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1396084230.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/45fa98fe179c2bca472a6e990cac266a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจ้าวมวยไทย",
+     "info": "วันที่ 2 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1396084230.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/34ca1d42340e373a9585ab625c746b36/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจ้าวมวยไทย",
+     "info": "วันที่ 9 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1396084230.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/374fbf0f12deca983a9fa2dbb51cd09a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจ้าวมวยไทย",
+     "info": "วันที่ 16 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1396084230.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0fdadcefd6452dda9249cd0c6473ab2d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกจ้าวมวยไทย",
+     "info": "วันที่ 23 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1396084230.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/3b23b35d97e3349b96efd3eefd9d3a7f/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -10562,6 +11330,69 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1386487945.gif",
      "url": "https://www.watchlakorn.in/egdeny/77a8c1d104eab67d5a5c673a5d47425e/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยไทย 7 สี",
+     "info": "วันที่ 29 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1386487945.gif",
+     "url": "https://www.watchlakorn.in/egdeny/78d444f380780cc646ead80b0bcc08e2/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยไทย 7 สี",
+     "info": "วันที่ 5 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1386487945.gif",
+     "url": "https://www.watchlakorn.in/egdeny/4e6c74508a273154b91c98f0333b40f6/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยไทย 7 สี",
+     "info": "วันที่ 12 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1386487945.gif",
+     "url": "https://www.watchlakorn.in/egdeny/1c92bb88d8d4c706c65174642ffb53ae/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยไทย 7 สี",
+     "info": "วันที่ 19 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1386487945.gif",
+     "url": "https://www.watchlakorn.in/egdeny/d2bba5f6a98211825dd44c36c0dd4e31/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยไทย 7 สี",
+     "info": "วันที่ 26 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1386487945.gif",
+     "url": "https://www.watchlakorn.in/egdeny/362669fe73d7bb8eb9970d3560cd0017/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยไทย 7 สี",
+     "info": "วันที่ 3 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1386487945.gif",
+     "url": "https://www.watchlakorn.in/egdeny/9b95aa651988a4816bc8f0dcbad04f10/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยไทย 7 สี",
+     "info": "วันที่ 10 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1386487945.gif",
+     "url": "https://www.watchlakorn.in/egdeny/cd299b8472e1637d2a778a7528548fd4/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยไทย 7 สี",
+     "info": "วันที่ 17 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1386487945.gif",
+     "url": "https://www.watchlakorn.in/egdeny/908d2708d73ed9e2b52b7cbfcf0a768f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "มวยไทย 7 สี",
+     "info": "วันที่ 24 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1386487945.gif",
+     "url": "https://www.watchlakorn.in/egdeny/e092ee54d666cdaf08c32cacd63a32f5/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -10672,6 +11503,34 @@
      "info": "วันที่ 18 มิถุนายน2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1334673235.jpg",
      "url": "https://www.watchlakorn.in/egdeny/50595a8314c9092803ae7411d5ccbf46/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "THAI FIGHT Thai Fight เศรษฐีเรือทอง",
+     "info": "วันที่ 29 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1334673235.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/352a2324ee2221ec88966e6cb632f0a9/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "THAI FIGHT Thai Fight บางกะเจ้า",
+     "info": "วันที่ 26 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1334673235.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/da8250fb1a84c5a99627c647f2592b2c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "THAI FIGHT Thai Fight หลวงปู่ทวด",
+     "info": "วันที่ 24 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1334673235.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/8fde554538b7e6f9b043eed70f1a7c5b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "THAI FIGHT Thai Fight หลวงปู่ทวด",
+     "info": "วันที่ 24 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1334673235.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ee571fbe6ef134d0596101f6017f7f9a/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]

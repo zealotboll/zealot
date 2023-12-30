@@ -1,6 +1,6 @@
 {
  "name": "สาระความรู้",
- "author": "เจียว เจียว อัพวันที่ 23 ตุลาคม  2566",
+ "author": "เจียว เจียว อัพวันที่ 30 ธันวาคม 2566",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
@@ -190,76 +190,6 @@
      "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "ความลับแห่งจักรวาล  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1546962450.jpg",
-   "stations": []
-  },
-  {
-   "name": "มหันตภัยโลก  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1538498555.jpg",
-   "stations": []
-  },
-  {
-   "name": "ท่องโลกสุดสัปดาห์  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1534048982.jpg",
-   "stations": []
-  },
-  {
-   "name": "บันทึกโลกอดีต  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1532429733.jpg",
-   "stations": []
-  },
-  {
-   "name": "มหัศจรรย์เเดนมังกร  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1532238331.jpg",
-   "stations": []
-  },
-  {
-   "name": "ชีวิตลับใต้ทะเล  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1525536435.jpg",
-   "stations": []
-  },
-  {
-   "name": "ตะลุยแดนจระเข้  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1517488395.jpg",
-   "stations": []
-  },
-  {
-   "name": "สวยสังหาร  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1516202710.jpg",
-   "stations": []
-  },
-  {
-   "name": "โลกสีคราม  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1509852348.jpg",
-   "stations": []
-  },
-  {
-   "name": "สวนสัตว์มหัศจรรย์  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1505571814.jpg",
-   "stations": []
-  },
-  {
-   "name": "DangerousEarth  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1505532348.jpg",
-   "stations": []
-  },
-  {
-   "name": "มหัศจรรย์งานสร้าง  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1502703205.jpg",
-   "stations": []
-  },
-  {
-   "name": "เสน่ห์สัตว์โลก  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1500823967.jpg",
-   "stations": []
-  },
-  {
-   "name": "สมองอัจฉริยะ  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1499434877.jpg",
-   "stations": []
   },
   {
    "name": "ชีวิตสัตว์มหัศจรรย์  [ยังไม่จบ]",
@@ -929,93 +859,71 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1499092305.jpg",
      "url": "https://www.watchlakorn.in/egdeny/130daad6155a4e595fdf318008a8bcf5/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ชีวิตสัตว์ มหัศจรรย์   เกรท แบริเออร์ รีฟ สมบัติล้ำค่าที่มีชีวิต",
+     "info": "วันที่ 4 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1499092305.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/71b0abd8931ed356600e2a5c0264335c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ชีวิตสัตว์ มหัศจรรย์  เกรท แบริเออร์ รีฟ สมบัติล้ำค่าที่มีชีวิต",
+     "info": "วันที่ 11 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1499092305.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/5877348b3dde361e14de364a7f9b2b92/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ชีวิตสัตว์ มหัศจรรย์   สิ่งมีชีวิตแห่งแนวปะการัง",
+     "info": "วันที่ 18 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1499092305.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e1c6b4d32c754731b3d19cdfdfbc7f8e/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ชีวิตสัตว์ มหัศจรรย์  สิ่งมีชีวิตแห่งแนวปะการัง",
+     "info": "วันที่ 25 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1499092305.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b7ae4819f31e2dfca3aece931b40ec83/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ชีวิตสัตว์ มหัศจรรย์  หมู่เกาะกับสิ่งมีชีวิตอันน่าพิศวง",
+     "info": "วันที่ 2 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1499092305.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/13e3c108df15ea3c80dad229f442d319/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ชีวิตสัตว์ มหัศจรรย์  ธรรมชาติแห่งท้องละเทของไทย",
+     "info": "วันที่ 3 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1499092305.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/02ffa0ec4f106ab0d8890e7f76b51d45/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ชีวิตสัตว์ มหัศจรรย์  ธรรมชาติแห่งท้องละเทของไทย",
+     "info": "วันที่ 10 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1499092305.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/692cb6baf241dae956cf0e208e13f0f5/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ชีวิตสัตว์ มหัศจรรย์  อัศจรรย์แห่งธรรมชาติของทะเลคอรัล",
+     "info": "วันที่ 16 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1499092305.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/08eb5d2e52fcc3d750766792e96d62d7/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ชีวิตสัตว์ มหัศจรรย์  อัศจรรย์แห่งธรรมชาติของทะเลคอรัล",
+     "info": "วันที่ 23 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1499092305.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/5ac64c9f667e800d1d44fef4660967e4/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "มหัศจรรย์ความคิดทะลุโลก  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1497455592.jpg",
-   "stations": []
-  },
-  {
-   "name": "ท่องป่า  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1496749863.jpg",
-   "stations": []
-  },
-  {
-   "name": "พันธุ์อสูร  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1495934737.jpg",
-   "stations": []
-  },
-  {
-   "name": "แดนอสรพิษ  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1494175813.jpg",
-   "stations": []
-  },
-  {
-   "name": "BullitTheDocumentary  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1488730730.jpg",
-   "stations": []
-  },
-  {
-   "name": "ตะลุยแดนสัตว์ป่ากับ  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1487472697.jpg",
-   "stations": []
-  },
-  {
-   "name": "มหานครอัจฉริยะ  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1486189839.jpg",
-   "stations": []
-  },
-  {
-   "name": "โลกสารคดี  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1485795824.jpg",
-   "stations": []
-  },
-  {
-   "name": "สีสันสัตว์โลก  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1484470819.jpg",
-   "stations": []
-  },
-  {
-   "name": "เนทูโรโพลิส  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1483979816.jpg",
-   "stations": []
-  },
-  {
-   "name": "นักล่า  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1483870211.jpg",
-   "stations": []
-  },
-  {
-   "name": "ป่ามหาภัย  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1483723946.jpg",
-   "stations": []
-  },
-  {
-   "name": "พินัยกรรมธรรมชาติ  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1480722758.jpg",
-   "stations": []
-  },
-  {
-   "name": "ในหลวงของเรา  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1480546376.jpg",
-   "stations": []
-  },
-  {
-   "name": "FactoryMadeSeason2  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1479611794.jpg",
-   "stations": []
-  },
-  {
-   "name": "เล่าเรื่องในหลวง  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1479181599.jpg",
-   "stations": []
-  },
-  {
-   "name": "โลกเร้นลับสัตว์นักล่า  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1478763344.jpg",
-   "stations": []
   },
   {
    "name": "ความลับแห่งเอเชีย  [ยังไม่จบ]",
@@ -1631,106 +1539,6 @@
      "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "มหาพายุ  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1478305830.jpg",
-   "stations": []
-  },
-  {
-   "name": "เปิดอาณาจักรไบเซนไทม์  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1478064647.jpg",
-   "stations": []
-  },
-  {
-   "name": "MagicEarth  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1477935908.jpg",
-   "stations": []
-  },
-  {
-   "name": "เรื่องเล่า๙แผ่นดิน  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1477852036.jpg",
-   "stations": []
-  },
-  {
-   "name": "ปฐมบทแห่งจักรวาล  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1477748390.jpg",
-   "stations": []
-  },
-  {
-   "name": "ภารกิจซ่อมเปลี่ยนโลก  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1477746496.jpg",
-   "stations": []
-  },
-  {
-   "name": "ชีวิตมหัศจรรย์  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1477494722.jpg",
-   "stations": []
-  },
-  {
-   "name": "แสงจากพ่อ  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1476760006.jpg",
-   "stations": []
-  },
-  {
-   "name": "ฟ้าห่มดิน  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1476759899.jpg",
-   "stations": []
-  },
-  {
-   "name": "มหานครป่า  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1476678061.jpg",
-   "stations": []
-  },
-  {
-   "name": "บันทึกพงไพร  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1476669386.jpg",
-   "stations": []
-  },
-  {
-   "name": "ความลับแห่งพงไพร  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1476603569.jpg",
-   "stations": []
-  },
-  {
-   "name": "หยาดน้ำเพื่อชีวิต  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1476577481.jpg",
-   "stations": []
-  },
-  {
-   "name": "โลกสีน้ำเงิน  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1476531678.jpg",
-   "stations": []
-  },
-  {
-   "name": "WildOnes  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1475242985.jpg",
-   "stations": []
-  },
-  {
-   "name": "พิภพวานร  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1474795128.jpg",
-   "stations": []
-  },
-  {
-   "name": "PlanetEarth  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1471729663.jpg",
-   "stations": []
-  },
-  {
-   "name": "เปิดโลกสัตว์หรรษา  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1471705063.jpg",
-   "stations": []
-  },
-  {
-   "name": "สายลับป่าลึก  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1471705016.jpg",
-   "stations": []
-  },
-  {
-   "name": "มรดกสุดขอบโลก  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1471653146.jpg",
-   "stations": []
   },
   {
    "name": "สุดยอดสารคดีเปิดโลกกว้าง  [ยังไม่จบ]",
@@ -2407,38 +2215,15 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1471321780.jpg",
      "url": "https://www.watchlakorn.in/egdeny/4164db322891877714b679bfc36b7f0a/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สุดยอดสารคดีเปิดโลกกว้าง อัศจรรย์สีสันแห่งฤดูกาล Fatal Attraction",
+     "info": "วันที่ 13 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1471321780.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/cd8b12ad94d0d4b722613a1f83252a3c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "โลกธรรมชาติ  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1471270429.jpg",
-   "stations": []
-  },
-  {
-   "name": "ส่องไพร  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1465352870.jpg",
-   "stations": []
-  },
-  {
-   "name": "บันลือโลก  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1463538410.jpg",
-   "stations": []
-  },
-  {
-   "name": "แดนพิศวง  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1460510398.jpg",
-   "stations": []
-  },
-  {
-   "name": "สำรวจธรรมชาติ2012  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1344740558.jpg",
-   "stations": []
-  },
-  {
-   "name": "ส่องโลก  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1341730630.jpg",
-   "stations": []
   },
   {
    "name": "สารคดีโลกหลากมิติ  [ยังไม่จบ]",
@@ -3703,13 +3488,190 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
      "url": "https://www.watchlakorn.in/egdeny/e91793a8bd68650e88b201d91b1ce5ba/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ อัศจรรย์ปลายักษ์ฝูงสุดท้าย ภาค 2 ตอน นักล่าที่สาบสูญ ตอนที่ 1",
+     "info": "วันที่ 25 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7f61d18b58ea1440e0d0bcd936db30c3/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ อัศจรรย์ปลายักษ์ฝูงสุดท้าย ภาค 2 ตอน นักล่าที่สาบสูญ ตอนที่ 2",
+     "info": "วันที่ 26 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b3c8c88c6c52e62f0a8892a5381cb79b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ เกมแข่งขันแห่งธรรมชาติ ตอน ฟันฝ่า",
+     "info": "วันที่ 8 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/271bd1695286d0b84503f456a54105ca/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ใช้ชีวิตให้สุดอย่าหยุดฝัน ภาค 2 ตอนที่ 1",
+     "info": "วันที่ 13 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/80c41ffab2ce896f7cbe7ed8d9f0f5ff/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ใช้ชีวิตให้สุดอย่าหยุดฝัน ภาค 2 ตอนที่ 2",
+     "info": "วันที่ 14 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/8019f6a6261a56ad69a2fcfc35215817/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ปฏิบัติการ...จัดระเบียบบ้านในฝัน!! ภาค 2 ตอนที่ 1",
+     "info": "วันที่ 15 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/93467b05873bdf90a5e1932e9b4d10ef/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ปฏิบัติการ...จัดระเบียบบ้านในฝัน!! ภาค 2 ตอนที่ 2",
+     "info": "วันที่ 16 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/af92e6bea40dbfdf05b18fe4df6fe883/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ใช้ชีวิตให้สุดอย่าหยุดฝัน ภาค 2 ตอนที่ 3",
+     "info": "วันที่ 20 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2b03dcdf73d296d531e0984fef6fc06f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ใช้ชีวิตให้สุดอย่าหยุดฝัน ภาค 2 ตอนที่ 4",
+     "info": "วันที่ 21 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/36e945e6c5938312d74bdd45baedfbae/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ปฏิบัติการ...จัดระเบียบบ้านในฝัน!! ภาค 2 ตอนที่ 3",
+     "info": "วันที่ 22 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/480d59081ad85cdb6c97936dcba26fa8/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ปฏิบัติการ...จัดระเบียบบ้านในฝัน!! ภาค 2 ตอนที่ 4",
+     "info": "วันที่ 23 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/af949e8272b9c49beff82eeb6ab9ea4d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ปฏิบัติการ...จัดระเบียบบ้านในฝัน!! ภาค 2 ตอนที่ 5",
+     "info": "วันที่ 29 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/62150be6a7a0f236db976cabb711114a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ปฏิบัติการ...จัดระเบียบบ้านในฝัน!! ภาค 2 ตอนที่ 6",
+     "info": "วันที่ 30 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7badb9c470da1435d7d70e7f43a7012f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ เครือข่ายธรรมชาติ",
+     "info": "วันที่ 4 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/12de391ce5707743a60c04326307f6a3/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ  วิกฤติธารน้ำแข็งโลก",
+     "info": "วันที่ 5 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/00efb3a32106b4377acd041ce81a635b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ปฏิบัติการ...จัดระเบียบบ้านในฝัน!! ภาค 2 ตอนที่ 7",
+     "info": "วันที่ 6 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ec858397173b9ab53f048aff4acc3050/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ปฏิบัติการ...จัดระเบียบบ้านในฝัน!! ภาค 2 ตอนที่ 8",
+     "info": "วันที่ 7 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/68ba2383b98e9f261dc1779ee9736f15/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ",
+     "info": "วันที่ 11 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/4e20e77ae7913bf62c8a42564390470c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ หลุมพรางการชดเชยคาร์บอน",
+     "info": "วันที่ 12 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/db2d858a2a02ee0f98588dfeb84a7984/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ปฏิบัติการ...จัดระเบียบบ้านในฝัน!! ภาค 2 ตอนที่ 9",
+     "info": "วันที่ 13 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/61945c5e3282ba46018ad4b88384c9f1/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ปฏิบัติการ...จัดระเบียบบ้านในฝัน!! ภาค 2 ตอนที่ 10",
+     "info": "วันที่ 14 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/125a7cfd27ad0388acd6dbc0eae36084/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ปฏิบัติการ...จัดระเบียบบ้านในฝัน!! ภาค 2 ตอนที่ 11",
+     "info": "วันที่ 20 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/470323c13222127d61fb3a4d89607426/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ปฏิบัติการ...จัดระเบียบบ้านในฝัน!! ภาค 2 ตอนที่ 12",
+     "info": "วันที่ 21 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7d4f3ff637ad4252f4e4d192121d4a1f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ การกลับมาของออรอซ",
+     "info": "วันที่ 26 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/17df483e87ac5b4aec02686e630f385c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ปฏิบัติการ...จัดระเบียบบ้านในฝัน!! ภาค 2 ตอนที่ 13",
+     "info": "วันที่ 27 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7ef0f0b63ad151b0234df3589f107f48/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี โลกหลากมิติ ปฏิบัติการ...จัดระเบียบบ้านในฝัน!! ภาค 2 ตอนที่ 14",
+     "info": "วันที่ 28 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1295254059.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/8600069d2875f61163ad015cca90f615/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "มิติโลกหลังเที่ยงคืน  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1296539834.jpg",
-   "stations": []
   },
   {
    "name": "คนสู้โรค  [ยังไม่จบ]",
@@ -3845,7 +3807,7 @@
      "name": "คนสู้โรค เฝ้าระวังโอมิครอนในเด็ก, เช็กความเสี่ยงโรคหัวใจรูมาติก",
      "info": "วันที่ 27 มกราคม2565",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/54776bf0e1e66c93c44084ef184a7c39/aGQ=/master.m3u8",
+     "url": "No url m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
@@ -6507,6 +6469,328 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
      "url": "https://www.watchlakorn.in/egdeny/f915d4cf8b81b7a06abc27f40e64d14d/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค Water Fasting ลดน้ำหนักด้วยการดื่มแต่น้ำดีจริงหรือไม่",
+     "info": "วันที่ 24 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/94a58512808da5986a7e7d9948d44929/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค อาการเวียนหัว 3 รูปแบบ",
+     "info": "วันที่ 25 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/1f6d128196f20f09c66be8b6ce015fc3/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค รับมือกับไข้หวัดใหญ่สายพันธุ์ A",
+     "info": "วันที่ 26 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/01d161bc2c7f5aeaef9cb448c5f8fe4d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค",
+     "info": "วันที่ 27 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/4274976b8b435f731ec2476ef44887ac/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค การนวดกับการกายภาพบำบัดเหมือนหรือแตกต่างกันอย่างไร",
+     "info": "วันที่ 30 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7c37c205e590641f21e6e50d4fb57c7f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค อาการปวดบั้นเอวบ่งบอกโรคอะไรได้บ้าง",
+     "info": "วันที่ 31 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/09543c814847104a5bf06f896fea0af7/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค ถามตอบทุกข้อสงสัยเกี่ยวกับโรคซึมเศร้า",
+     "info": "วันที่ 1 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e387487940e813f1c3d2c419eaf08f31/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค ประสบการณ์ตรงจากผู้ป่วยโรคหลอดเลือดสมอง",
+     "info": "วันที่ 2 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/767299ce4a8641567077af6cc3dce79e/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค หน้ามืดตอนตื่นนอน เกิดจากอะไรกันแน่",
+     "info": "วันที่ 3 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/9e9f5d492872693d97b0327f9fb39502/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค ตากุ้งยิง จากการติดขนตาปลอม",
+     "info": "วันที่ 6 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/97dbb45e81b9ea1442c02565a94e1f2f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค อาการของโรคหลอดเลือดสมอง",
+     "info": "วันที่ 7 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6a70581b5dd59054ec3cda9a0a635453/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค จัดการอาการกำเริบ ในผู้ป่วยโรคปอดอุดกั้นเรื้อรัง",
+     "info": "วันที่ 8 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/16fcd288995496a70c5b4d47290e5294/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค ภาวะตกขาวแบบไหนไม่ธรรมดา",
+     "info": "วันที่ 9 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f39535ae579b54fe7e9a860d5a8ee889/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค นวัตกรรมในการรักษาโรคต่อมลูกหมากโต",
+     "info": "วันที่ 10 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/83e156142676d282be3468d2261c89f3/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค มะเร็งรังไข่อายุน้อยก็เป็นได้",
+     "info": "วันที่ 13 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/d852bedecb3d2eebc6b2924293fcf45e/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค ลดกินหวานเพื่อสุขภาพที่ดี ช่วยลดฟันผุ",
+     "info": "วันที่ 14 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/c4f2f3a819ef6caa822891b5af6d63b4/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค เจลอุดฟันอันตรายถึงชีวิต",
+     "info": "วันที่ 15 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/63033b73faf09675dc10ecffb2a7418d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค อาการไอไม่หาย ควรนึกถึงอะไรบ้าง",
+     "info": "วันที่ 16 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/271aa048ef896de63e47d938431f2b25/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค ความดันโลหิตสูงเสี่ยงโรคร้ายตามมา",
+     "info": "วันที่ 17 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e1d174b888fbbf74e47e78f4083f1c8a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค ขยี้ตาบ่อยเสี่ยงถึงขั้นตาบอด",
+     "info": "วันที่ 20 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/aa0fa13f2f89b5c128d0e8501c96eadb/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค การบำบัดฟื้นฟูผู้ป่วยโรคหลอดเลือดสมองแบบผสมผสาน",
+     "info": "วันที่ 21 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/c389c93f6fd9db4803eff61c840aded9/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค โลหิตจางกับผู้หญิงวัยทำงาน",
+     "info": "วันที่ 22 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/288bb866a961672a5463f378361b9a66/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค กฎหมายว่าด้วยวิชาชีพกายภาพบำบัดที่ควรรู้",
+     "info": "วันที่ 23 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f8ce7398ba1ab3f1c5d49fe1b723d37d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค กฎหมายว่าด้วยวิชาชีพกายภาพบำบัดที่ควรรู้",
+     "info": "วันที่ 24 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6f09bf12bb6ba00bc13464926c45ca2a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค พฤติกรรมที่เสี่ยงทำให้เป็นกระเพาะปัสสาวะอักเสบ",
+     "info": "วันที่ 27 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/29ddfb2fec7e28b7f62d97965f495731/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค กินแล้วนอนทันที พฤติกรรมนี้ไม่ใช่แค่อ้วน",
+     "info": "วันที่ 28 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/664f859b2d870f12d34a54861652227a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค ภัยใกล้ตัวจากบุหรี่กับโรคถุงลมโป่งพอง",
+     "info": "วันที่ 29 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f6d762f9a6d285e4c7c3fa6422c7f9ee/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค  อาหารที่มีพยาธิแอบแฝง",
+     "info": "วันที่ 30 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/99119cd709192f5eaf9d04dc3ff36a7d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค",
+     "info": "วันที่ 1 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e66952283a44c17c45877e8fde9763b0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค รอยดำที่คอ สัญญาณโรคเบาหวาน",
+     "info": "วันที่ 4 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/bf869f2eff220ecebef06ca2f42793ec/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค คอนแทกต์เลนส์ใส่นอน ทางเลือกของการแก้ไขค่าสายตา",
+     "info": "วันที่ 6 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/8927181f05f6034670f179e192d388c6/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค พยาธิปอดหนูขึ้นตา อันตรายของคนชอบกินอาหารสุก ๆ ดิบ ๆ",
+     "info": "วันที่ 7 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f145b1190f66cfad17f43bbda6ff18c9/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค ฟันคุดจำเป็นต้องผ่าตัดออกหรือไม่",
+     "info": "วันที่ 8 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/63279ea675c651a6a9878e83445bda08/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค",
+     "info": "วันที่ 12 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/8215e099c42d25432235355b487f8bf9/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค โรคเกาต์เทียม อาการปวดบวมอักเสบตามข้อเฉียบพลัน",
+     "info": "วันที่ 13 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/acba27adbd4cedab31436cfdab222687/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค โรคใหลตาย ที่เราควรรู้",
+     "info": "วันที่ 14 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f03f45685b77ab026ec468909972ff53/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค การดูแลสุขภาพหัวใจของคุณแม่ระหว่างตั้งครรภ์",
+     "info": "วันที่ 15 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/674641cc04ab5ab2129c71ff835a1f22/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค ฟอกสีฟันอย่างไรให้ปลอดภัย",
+     "info": "วันที่ 18 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/fb60c8f9a858f1a69c9b011ddc720f29/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค ภาวะไข่ไม่ตกเรื้อรังในผู้หญิง",
+     "info": "วันที่ 19 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6f5495f426178c685145f45c779fc40b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค อาการปวดท้อง บ่งบอกโรคอะไรบ้าง",
+     "info": "วันที่ 20 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/67eed75ee4f32a3f3a6304cf30332c5e/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค ท้องอืดกินเร็วเสี่ยงโรคร้าย",
+     "info": "วันที่ 21 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b58d8992e47e103a3c533ad02c8456e1/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค สัญญาณเตือนนิ่วในกระเพาะปัสสาวะ",
+     "info": "วันที่ 22 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/722cdcbdfbc68923802103540c4794b0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค ติดนิสัยชอบอั้นการขับถ่าย ส่งผลร้ายกว่าที่คิด",
+     "info": "วันที่ 25 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/d39f94e919a2be3eb5abbd1ad279b9d4/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค ลดความดันลดความเสี่ยงโรคหลอดเลือดสมอง",
+     "info": "วันที่ 26 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ce8ea1d37f1cd69bff97358c0d28f4f3/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค ลดความดันลดความเสี่ยงโรคหลอดเลือดสมอง",
+     "info": "วันที่ 27 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/fa3a3c4d97bfadf58aad1377801ff4da/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "คนสู้โรค วิตามินใด กินแล้วท้องผูกในผู้สูงวัย",
+     "info": "วันที่ 28 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296167167.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7b1f7c35dcce4fafebe6cc9e01b0adc1/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -7107,6 +7391,69 @@
      "info": "วันที่ 21 ตุลาคม2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1296425091.jpg",
      "url": "https://www.watchlakorn.in/egdeny/11ee8aa49f17a64218685695a9257cda/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ภัตตาคารบ้านทุ่ง ลอยอวนแทงคลอง",
+     "info": "วันที่ 28 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296425091.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/35002e57590f445b280daf77e547373e/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ภัตตาคารบ้านทุ่ง กลิ่นป่ากินได้",
+     "info": "วันที่ 4 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296425091.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/d0e55f5291bc92fdd30a4690ab49cc17/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ภัตตาคารบ้านทุ่ง อุตพิด",
+     "info": "วันที่ 11 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296425091.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ab9605a433128f7a998ac91f7e369015/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ภัตตาคารบ้านทุ่ง เรือผีหลอก",
+     "info": "วันที่ 18 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296425091.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6b4206c9c80121e204ed26ea73bfea97/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ภัตตาคารบ้านทุ่ง หีบน้ำอ้อยโบราณบ้านหนองบัว",
+     "info": "วันที่ 25 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296425091.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e709c28a065f9d159b6b1061dc5af730/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ภัตตาคารบ้านทุ่ง โกสน",
+     "info": "วันที่ 2 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296425091.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2a9159dbc74768195a497184d9bb7d68/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ภัตตาคารบ้านทุ่ง ผักขี้วัว",
+     "info": "วันที่ 9 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296425091.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/376c45f05b90148b5e489ba7c06c4d67/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ภัตตาคารบ้านทุ่ง ไม้ค้ำ",
+     "info": "วันที่ 16 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296425091.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/bc06317b795a22fcb6a1b6872b4cadef/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ภัตตาคารบ้านทุ่ง หมากขี้หนู",
+     "info": "วันที่ 23 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296425091.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/efc3e19693bf690fbbfe34bf6cc04ca4/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -7952,6 +8299,62 @@
      "info": "วันที่ 22 ตุลาคม2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1296430162.jpg",
      "url": "https://www.watchlakorn.in/egdeny/a83140ecce92c3c3f671e3624bfb803a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี Spirit of Asia ศิลป์ไร้พรมแดนแว่นแคว้นเติร์ก",
+     "info": "วันที่ 29 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296430162.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/c809c4ea7f66fd0815c94bc6815270c0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี Spirit of Asia แมวทั้งผองคือพี่น้องเติร์ก",
+     "info": "วันที่ 5 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296430162.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/c83854ddc686444ce0dc8a37f0b92a0e/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี Spirit of Asia  เสียงภาวนาจากภูเขามะกอกเทศ",
+     "info": "วันที่ 12 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296430162.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ebfd53b9866a9821e275b1ea0e62b258/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี Spirit of Asia รอยราชวงศ์ถังยังทรงพลังในเฉิงตู",
+     "info": "วันที่ 26 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296430162.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/08ed7c95e993db72716957566425bca4/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี Spirit of Asia ชนเผ่าอี๋ ลูกหลานที่บูชาไฟแห่งแดนมังกร",
+     "info": "วันที่ 3 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296430162.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/dbc7df0fd7c6c842fdba74292154f91b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี Spirit of Asia สตรีโมซัว และวัฒนธรรมการจับคู่แบบไม่ต้องอยู่กิน",
+     "info": "วันที่ 10 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296430162.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7ecebbca74b3c4ad825ade8b91b61c6f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี Spirit of Asia สการ์ดู ชีวิตในหุบเขาสูงเสียดฟ้า",
+     "info": "วันที่ 17 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296430162.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7e34d18d140e5fa1143058c62d8fcd9e/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สารคดี Spirit of Asia พุทธคันธาระ ประติมากรรมแห่งศรัทธา",
+     "info": "วันที่ 24 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296430162.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/69e8404ca78d7b30f0b6e201631ead0b/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -9330,6 +9733,181 @@
      "info": "วันที่ 20 ตุลาคม2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
      "url": "https://www.watchlakorn.in/egdeny/682ad8142a7b791e39d3a1f5b626b6e2/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง นักปั่นตะลุยญี่ปุ่น ตอน วิถีโบราณแห่งนารา",
+     "info": "วันที่ 26 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/824b0eacf68e1e2b4f2e560245ed31c1/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง นักปิ่นตะลุยญี่ปุ่น ตอน อิบารากิ...ครอบครั่วคือหัวใจ",
+     "info": "วันที่ 27 ตุลาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/acf32153de6f4fc4f86bc06673e86a45/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง ความลับของระบบสุริยะ ตอน ดาวพลูโต",
+     "info": "วันที่ 2 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/41a2c4dcb15209b720aa3934bf3c772f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง ท่องลำน้ำเทมส์ยามราตรี ตอน ลอนดอนกลางถึงตะวันตก",
+     "info": "วันที่ 3 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/9a217bee836224b5d7c755dd21195bb5/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง ปาตาโกเนีย...อัศจรรย์ธรรมชาติสุดขอบโลก ตอน เทือกเขา",
+     "info": "วันที่ 6 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ada77b7f085b814c0101dd87b994342e/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง ปาตาโกเนียอัศจรรย์ธรรมชาติสุดขอบโลก ตอนที่ 2 ป่าดงพงไพร",
+     "info": "วันที่ 7 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/cdc9ae91d1f85b3ea39d404265f11243/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง ปาตาโกเนียอัศจรรย์ธรรมชาติสุดขอบโลก ตอน ดินแดนแห่งฟยอร์ด",
+     "info": "วันที่ 8 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e533016968654b0bbcd21e6cb16ac956/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง ปาตาโกเนีย...อัศจรรย์ธรรมชาติสุดขอบโลก ตอน ชายฝั่งทะเลทราย",
+     "info": "วันที่ 13 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/db69ba0829704fee6ad0b39231b65118/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง ปาตาโกเนีย อัศจรรย์ธรรมชาติสุดขอบโลก ตอน สุดแดนใต้",
+     "info": "วันที่ 14 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ac40066ad773eea9aa6c527cb043a278/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง ปาตาโกเนีย อัศจรรย์ธรรมชาติสุดขอบโลก ตอน หนึ่งปีในโลกธรรมชาติ",
+     "info": "วันที่ 15 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/c5f4ff5be742ec3722ef29d1ed454108/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง อวสานไดโนเสาร์ ตอน วันสุดท้าย",
+     "info": "วันที่ 20 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6c1126f55d5410a472b7a82d623c463d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง",
+     "info": "วันที่ 21 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/92e6e4a2af358007eb1a563efc08593f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง ชีวิตในสวนสัตว์ ตอนที่ 2",
+     "info": "วันที่ 22 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/80d9cddd90e784a61f3cd18b47e121af/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง ท่องชายฝั่งเดวอนและคอร์นวอลล์ ตอน สตาร์ตพอยต์ถึงแบล็กสโตนพอยต์",
+     "info": "วันที่ 1 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b8b159e3d944e692f8f54469bdcc5cb0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง อัศจรรย์พรรณไม้แห่งชีวิต ตอน ยักษ์ใหญ่แห่งป่าแอมะซอน",
+     "info": "วันที่ 4 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/3c973e15cfec6f6ced1eb106d0e23019/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง",
+     "info": "วันที่ 5 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/b24f56254268464ea5eb7f2e6bc690a0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง อัศจรรย์พรรณไม้แห่งชีวิต ตอน นักรบดึกดำบรรพ์",
+     "info": "วันที่ 6 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f2ed2b9516c664929dd7ee529068b214/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง สัตว์อัจฉริยะระดับไอน์สไตน์ ตอน สัตว์นักเดินทาง",
+     "info": "วันที่ 11 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/836ccdcc2abdb687e44963403bc6d734/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง ความลับแห่งท้องทะเล",
+     "info": "วันที่ 12 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f72c82cce44513be1e71cb3e24776431/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง แคนาดา...ชีวิตธรรมชาติแดนเหนือ",
+     "info": "วันที่ 13 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f0834ccaa8d9f37e0638d8b6641c57e5/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง กาลครั้งหนึ่งในซาโว ตอน ช่วงเวลาแห่งความสมบูรณ์",
+     "info": "วันที่ 18 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/3bd68ec94880740cbd9dc3b5f4b2a495/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง กาลครั้งหนึ่งในซาโว ตอน ความอยู่รอด",
+     "info": "วันที่ 19 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/d3c15e1ac8ad7a3974d6e9d1e69bf3c9/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง โลกธรรมชาติบ้านป่าของซานตา",
+     "info": "วันที่ 26 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/6cb33e931b9dec826dda3d5b93808ed9/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง มหัศจรรย์สู่ธรรมชาติชิลี",
+     "info": "วันที่ 27 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e2f774361ec5be7832e07f43fad420cb/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ท่องโลกกว้าง ท่องชายฝั่งเดวอนและคอร์นวอลล์ ตอน โฮปส์โนสถึงแม่น้ำเอ็กซ์",
+     "info": "วันที่ 28 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1296487584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2fc6a8e1a5475b904971284fe9b27505/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]

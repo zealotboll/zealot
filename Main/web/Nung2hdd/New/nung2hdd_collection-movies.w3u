@@ -1,9 +1,92 @@
 {
   "name": "Collection",
-  "author": "เจียว เจียว อัพวันที่ 30 ตุลาคม 2566",
+  "author": "เจียว เจียว อัพวันที่ 15 ธันวาคม 2566",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
   "groups": [
+    {
+      "name": "The Marvels (2023) เดอะ มาร์เวลส์",
+      "info": "พากย์ไทย",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Marvels-2023.jpg",
+      "stations": [
+        {
+          "name": "The Marvels (2023) เดอะ มาร์เวลส์",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Marvels-2023.jpg",
+          "url": "https://streamhls.com/view/eeccbf90-e92f-58e7-853b-1ae2d7ccdde7.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Indiana Jones and the Dial of Destiny (2023) อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา",
+      "info": "พากย์ไทย",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Indiana-Jones-and-the-Dial-of-Destiny2023.jpg",
+      "stations": [
+        {
+          "name": "Indiana Jones and the Dial of Destiny (2023) อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Indiana-Jones-and-the-Dial-of-Destiny2023.jpg",
+          "url": "https://streamhls.com/view/b02cd836-731b-52bc-a9fb-0018993a3bbc.m3u8"
+        },
+        {
+          "name": "Indiana Jones and the Dial of Destiny (2023) อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา",
+          "info": "ซับไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Indiana-Jones-and-the-Dial-of-Destiny2023.jpg",
+          "url": "https://streamhls.com/view/7b177011-33c8-5b2e-902d-c4c27a4bb45c.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Batman Begins (2005) แบทแมน บีกินส์",
+      "info": "พากย์ไทย",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/03/Batman-Begins-2005.jpg",
+      "stations": [
+        {
+          "name": "Batman Begins (2005) แบทแมน บีกินส์",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/03/Batman-Begins-2005.jpg",
+          "url": "https://streamhls.com/view/85e1cb24-2350-57e3-8ab2-48c679a397ec.m3u8"
+        },
+        {
+          "name": "Batman Begins (2005) แบทแมน บีกินส์",
+          "info": "ซับไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/03/Batman-Begins-2005.jpg",
+          "url": "https://streamhls.com/view/86a2e335-06f8-55a3-bf08-137ab37a9ac5.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Rambo Last Blood (2019) แรมโบ้ 5 นักรบคนสุดท้าย",
+      "info": "พากย์ไทย",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/02/Rambo-Last-Blood-2019.jpg",
+      "stations": [
+        {
+          "name": "Rambo Last Blood (2019) แรมโบ้ 5 นักรบคนสุดท้าย",
+          "info": "พากย์ไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/02/Rambo-Last-Blood-2019.jpg",
+          "url": "https://streamhls.com/view/c26cc277-3221-507e-9819-5b42ae77f4e6.m3u8"
+        },
+        {
+          "name": "Rambo Last Blood (2019) แรมโบ้ 5 นักรบคนสุดท้าย",
+          "info": "ซับไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/02/Rambo-Last-Blood-2019.jpg",
+          "url": "https://streamhls.com/view/4ca4aec0-f6b4-5c22-97f6-997f4013d608.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Justice League x RWBY Super Heroes & Huntsmen Part Two (2023)",
+      "info": "HD SoundTrack(TH)",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Justice-League-x-RWBY-Super-Heroes-Huntsmen-Part-Two-2023.jpg",
+      "stations": [
+        {
+          "name": "Justice League x RWBY Super Heroes & Huntsmen Part Two (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/Justice-League-x-RWBY-Super-Heroes-Huntsmen-Part-Two-2023.jpg",
+          "url": "https://streamhls.com/view/07250417-f885-5b6d-a446-15eeba2cec69.m3u8"
+        }
+      ]
+    },
     {
       "name": "Doraemon: Nobita’s Sky Utopia (2023) โดราเอมอน ตอน ฟากฟ้าแห่งยูโทเปียของโนบิตะ",
       "info": "พากย์ไทย",
@@ -13,7 +96,7 @@
           "name": "Doraemon: Nobita’s Sky Utopia (2023) โดราเอมอน ตอน ฟากฟ้าแห่งยูโทเปียของโนบิตะ",
           "info": "พากย์ไทย",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2020/04/Doraemon-The-Movie-42-Nobita-Sky-Utopia-2023.jpg",
-          "url": "https://streamhls.com/view/a5442caf-3ec5-562c-b0a0-58542e609800.m3u8"
+          "url": "https://streamhls.com/view/c45657e9-f524-5e01-9e9a-af28a5d90b98.m3u8"
         }
       ]
     },
@@ -52,25 +135,6 @@
           "info": "ซับไทย",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2023/06/Spider-Man-Across-the-Spider-Verse-2023.jpg",
           "url": "https://streamhls.com/view/b7838339-8c0a-55ed-b2e3-36f018b1e49c.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Indiana Jones and the Dial of Destiny (2023) อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา",
-      "info": "พากย์ไทย",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Indiana-Jones-and-the-Dial-of-Destiny2023.jpg",
-      "stations": [
-        {
-          "name": "Indiana Jones and the Dial of Destiny (2023) อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา",
-          "info": "พากย์ไทย",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Indiana-Jones-and-the-Dial-of-Destiny2023.jpg",
-          "url": "https://streamhls.com/view/0773b77e-b2d2-58ca-9344-be73d6e84612.m3u8"
-        },
-        {
-          "name": "Indiana Jones and the Dial of Destiny (2023) อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา",
-          "info": "ซับไทย",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/09/Indiana-Jones-and-the-Dial-of-Destiny2023.jpg",
-          "url": "https://streamhls.com/view/7b177011-33c8-5b2e-902d-c4c27a4bb45c.m3u8"
         }
       ]
     },
@@ -845,12 +909,12 @@
     {
       "name": "Batman and Superman: Battle of the Super Sons (2022)",
       "info": "HD SoundTrack(TH)",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2020/12/920070-200x300.jpg",
+      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/11/Batman-and-Superman-Battle-of-the-Super-Sons-2022.jpg",
       "stations": [
         {
           "name": "Batman and Superman: Battle of the Super Sons (2022)",
           "info": "ซับไทย",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2020/12/920070-200x300.jpg",
+          "image": "https://www.nung2hdd.com/wp-content/uploads/2022/11/Batman-and-Superman-Battle-of-the-Super-Sons-2022.jpg",
           "url": "https://streamhls.com/view/87108430-1d88-5201-a5b2-0f307d1ff3a1.m3u8"
         }
       ]
@@ -1315,7 +1379,7 @@
           "name": "Tremors 2 Aftershocks (1996) ทูตนรกล้านปี ภาค 2",
           "info": "ซับไทย",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2015/10/5mt45Gb.jpg",
-          "url": "https://streamhls.com/view/a98caabf-3225-5220-b775-3c7e068cb818.m3u8"
+          "url": "https://streamhls.com/view/c475837b-88c6-5b86-b6f5-63e830cbc30e.m3u8"
         }
       ]
     },
@@ -1595,25 +1659,6 @@
           "info": "ซับไทย",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2019/11/191017073011064_250x375.jpg",
           "url": "https://streamhls.com/view/40735b04-7ef0-5aa2-9917-bf016b33470e.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Rambo Last Blood (2019) แรมโบ้ 5 นักรบคนสุดท้าย",
-      "info": "พากย์ไทย",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2019/09/maHr4ceIxkb22uJCFIvPgx0rZsq.jpg",
-      "stations": [
-        {
-          "name": "Rambo Last Blood (2019) แรมโบ้ 5 นักรบคนสุดท้าย",
-          "info": "พากย์ไทย",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2019/09/maHr4ceIxkb22uJCFIvPgx0rZsq.jpg",
-          "url": "https://streamhls.com/view/c26cc277-3221-507e-9819-5b42ae77f4e6.m3u8"
-        },
-        {
-          "name": "Rambo Last Blood (2019) แรมโบ้ 5 นักรบคนสุดท้าย",
-          "info": "ซับไทย",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2019/09/maHr4ceIxkb22uJCFIvPgx0rZsq.jpg",
-          "url": "https://streamhls.com/view/4ca4aec0-f6b4-5c22-97f6-997f4013d608.m3u8"
         }
       ]
     },
@@ -3925,19 +3970,6 @@
           "info": "พากย์ไทย",
           "image": "https://www.nung2hdd.com/wp-content/uploads/2015/03/pKKvCaL1TPTVtbI6EeliyND3api.jpg",
           "url": "https://streamhls.com/view/badce73b-d7b0-5cbe-8349-26104c7fee59.m3u8"
-        }
-      ]
-    },
-    {
-      "name": "Batman Begins (2005) แบทแมน บีกินส์",
-      "info": "พากย์ไทย",
-      "image": "https://www.nung2hdd.com/wp-content/uploads/2015/03/Batman-5-Begins-2005.jpg",
-      "stations": [
-        {
-          "name": "Batman Begins (2005) แบทแมน บีกินส์",
-          "info": "พากย์ไทย",
-          "image": "https://www.nung2hdd.com/wp-content/uploads/2015/03/Batman-5-Begins-2005.jpg",
-          "url": "https://streamhls.com/view/85e1cb24-2350-57e3-8ab2-48c679a397ec.m3u8"
         }
       ]
     },

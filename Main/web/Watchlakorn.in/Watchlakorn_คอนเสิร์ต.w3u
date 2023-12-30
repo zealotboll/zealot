@@ -1,19 +1,9 @@
 {
  "name": "คอนเสิร์ต",
- "author": "เจียว เจียว อัพวันที่ 23 ตุลาคม  2566",
+ "author": "เจียว เจียว อัพวันที่ 30 ธันวาคม 2566",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
-  {
-   "name": "ทีวี3สัญจร  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1295932571.jpg",
-   "stations": []
-  },
-  {
-   "name": "Power3PowerTeamConcert  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1293590353.jpg",
-   "stations": []
-  },
   {
    "name": "7สีคอนเสิร์ต  [ยังไม่จบ]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1295751375.jpg",
@@ -54,11 +44,6 @@
      "referer": "https://www.watchlakorn.in/"
     }
    ]
-  },
-  {
-   "name": "ConcertPowerTeam  [ยังไม่จบ]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1288853917.jpg",
-   "stations": []
   }
  ]
 }
