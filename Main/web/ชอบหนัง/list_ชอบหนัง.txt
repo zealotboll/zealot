@@ -29,31 +29,31 @@
 			{
 				"name": "หนังใหม่",
 				"image": "https://www.xn--72cf9bd9fk5a.com/wp-content/themes/like_nung/images/logo.png",
-				"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/EZMOVIE/ชอบหนัง_หนังใหม่.w3u",
+				"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/ชอบหนัง/ชอบหนัง_หนังใหม่.w3u",
 				"import": "false"
 			},
 			{
 				"name": "Netflix",
 				"image": "https://www.xn--72cf9bd9fk5a.com/wp-content/themes/like_nung/images/logo.png",
-				"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/EZMOVIE/ชอบหนัง_netflix.w3u",
+				"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/ชอบหนัง/ชอบหนัง_netflix.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังไทย",
 				"image": "https://www.xn--72cf9bd9fk5a.com/wp-content/themes/like_nung/images/logo.png",
-				"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/EZMOVIE/ชอบหนัง_หนังไทย.w3u",
+				"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/ชอบหนัง/ชอบหนัง_หนังไทย.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังจีน",
 				"image": "https://www.xn--72cf9bd9fk5a.com/wp-content/themes/like_nung/images/logo.png",
-				"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/EZMOVIE/ชอบหนัง_หนังจีน.w3u",
+				"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/ชอบหนัง/ชอบหนัง_หนังจีน.w3u",
 				"import": "false"
 			},
 			{
 				"name": "หนังฝรั่ง",
 				"image": "https://www.xn--72cf9bd9fk5a.com/wp-content/themes/like_nung/images/logo.png",
-				"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/EZMOVIE/ชอบหนัง_หนังฝรั่ง.w3u",
+				"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/ชอบหนัง/ชอบหนัง_หนังฝรั่ง.w3u",
 				"import": "false"
 			}
 		  ]
