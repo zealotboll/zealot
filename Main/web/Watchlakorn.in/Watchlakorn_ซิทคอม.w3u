@@ -1,6 +1,6 @@
 {
  "name": "ซิทคอม",
- "author": "เจียว เจียว อัพวันที่ 30 ธันวาคม 2566",
+ "author": "เจียว เจียว อัพวันที่ 03 มกราคม 2567",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
@@ -2579,6 +2579,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1641641927.jpg",
      "url": "https://www.watchlakorn.in/egdeny/f0d4a7b3e970877b4d4a5676335f0967/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "โอมเพี้ยงอาจารย์คง",
+     "info": "วันที่ 30 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1641641927.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7f6c29c1fb5625f87595e33c4acecb23/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -3738,6 +3745,13 @@
      "info": "วันที่ 24 ธันวาคม2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1570954956.jpg",
      "url": "https://www.watchlakorn.in/egdeny/971cb756e67caf3d17478ce45d77d5aa/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "หกฉากครับอาจารย์",
+     "info": "วันที่ 31 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1570954956.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2dd8ee7916dd684451df2de00cfe5ede/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]

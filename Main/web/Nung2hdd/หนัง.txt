@@ -12,7 +12,12 @@
 "import":"true"
 },
 
-
+{
+"name":"2024",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/Nung2hdd/New/nung2hdd_2024.w3u",
+"import": "false"
+},
 {
 "name":"2023",
 "image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
