@@ -1,9 +1,86 @@
 {
  "name": "2024",
- "author": "เจียว เจียว อัพวันที่ 05 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 07 มกราคม 2567",
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
  "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
  "groups": [
+  {
+   "name": "Tiger 3 (2024) เรียกข้าว่าเสือ 3",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tiger-3.jpg",
+   "info": "HD SoundTrack(TH)",
+   "stations": [
+    {
+     "name": "Tiger 3 (2024) เรียกข้าว่าเสือ 3",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tiger-3.jpg",
+     "url": "https://play.kakjeawplay.xyz/764149ab-faa9-42f3-9e5b-fb53b0b455e2/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Tiger 3 (2024) เรียกข้าว่าเสือ 3",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tiger-3.jpg",
+     "url": "https://streamhls.com/view/e592a1cd-22f7-5499-baf7-22bf5dd79f7f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Foe (2024) อมิตร",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Foe-2024.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Foe (2024) อมิตร",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Foe-2024.jpg",
+     "url": "https://play.kakjeawplay.xyz/da921f16-3969-40ac-84fd-9d9d0f9690bc/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Foe (2024) อมิตร",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Foe-2024.jpg",
+     "url": "https://streamhls.com/view/1bfdc7c7-5285-5748-b0fe-a4325eea690d.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Foe (2024) อมิตร",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Foe-2024.jpg",
+     "url": "https://play.kakjeawplay.xyz/9bfeb30b-b20a-4d57-9bff-eb0fad409a34/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Foe (2024) อมิตร",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Foe-2024.jpg",
+     "url": "https://streamhls.com/view/652d9ee9-f360-5930-adf4-498f83d36b1e.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Good Grief (2024) ให้ตายเถอะความโศก",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Good-Grief.jpg",
+   "info": "HD SoundTrack(TH)",
+   "stations": [
+    {
+     "name": "Good Grief (2024) ให้ตายเถอะความโศก",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Good-Grief.jpg",
+     "url": "https://play.kakjeawplay.xyz/1001b25b-8df2-4b2f-a53f-9ac2a4fef2f4/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Good Grief (2024) ให้ตายเถอะความโศก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Good-Grief.jpg",
+     "url": "https://streamhls.com/view/448bbb09-91ca-5930-90b1-01daddc8f63a.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
   {
    "name": "The Brothers Sun พี่น้องแสบตระกูลซัน (2024)",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Brother-Sun.jpg",
@@ -74,9 +151,23 @@
    "stations": [
     {
      "name": "Society of the Snow (2024) หิมะโหด คนทรหด",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Society-of-the-Snow-1.jpg",
+     "url": "https://play.kakjeawplay.xyz/0f5565de-7d76-496a-b964-32943e3f338e/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Society of the Snow (2024) หิมะโหด คนทรหด",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Society-of-the-Snow-1.jpg",
      "url": "https://streamhls.com/view/4a796f3d-5bf8-584a-9cdd-a09b3bf2940b.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Society of the Snow (2024) หิมะโหด คนทรหด",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Society-of-the-Snow-1.jpg",
+     "url": "https://play.kakjeawplay.xyz/b991974a-c5c3-4e69-a2d0-30d5b9ff5990/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {

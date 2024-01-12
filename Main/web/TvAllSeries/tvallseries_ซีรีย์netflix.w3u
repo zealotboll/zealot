@@ -1,13 +1,166 @@
 {
   "name": "ซีรีย์Netflix",
-  "author": "เจียว เจียว อัพวันที่ 02 มกราคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 06 มกราคม 2567",
   "info": "อยู่ในมุมที่ตัวเองมีความสุข ไม่จำเป็นต้องโดดเด่น ไม่จำเป็นต้องเหมือนใคร",
-  "image": "https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
+  "image": "https://tvallseries.co/wp-content/uploads/2021/01/logotvseries.png.webp",
   "groups": [
     {
+      "name": "The Brothers Sun (2024) พี่น้องแสบตระกูลซัน EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/01/The-Brothers-Sun-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/The-Brothers-Sun-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/1dcdb3ee-4441-4c85-b4db-2a91eaf9da9c/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/The-Brothers-Sun-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e9dc6970-4548-4182-8a9e-39d3eb82902c/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/The-Brothers-Sun-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/4deab153-58c1-4f80-a2b4-bfca84750584/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/The-Brothers-Sun-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/0c882a26-c1d4-4a77-8a08-32518200f62e/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/The-Brothers-Sun-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7b7bf12c-c164-42d7-84b3-a8edc9617d35/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/The-Brothers-Sun-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/b798443c-3a54-4dd4-99db-9f08018e8602/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/The-Brothers-Sun-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c6bab61c-7a41-43fa-b060-97171567f630/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/The-Brothers-Sun-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/556225d9-77d9-43ed-8aec-9ff77693bf2f/_"
+        }
+      ]
+    },
+    {
+      "name": "Fool Me Once (2024) อย่าหลอกกัน EP.1-8 (จบ)",
+      "info": "ซับไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/01/Fool-Me-Once-2024-185x278.webp",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Fool-Me-Once-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e8215416-b868-4727-bdd8-310ac96111be/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Fool-Me-Once-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7901887d-51ee-4492-9a54-abe7b46416f2/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Fool-Me-Once-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/50006d1f-d85e-4b2a-b322-a2e38c1c5b60/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Fool-Me-Once-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/2b94801e-8b93-463f-96ea-6cc1a38e8227/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Fool-Me-Once-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/2321a3aa-e0ad-42ea-bcf0-916fa6f5b16f/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Fool-Me-Once-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/53f450ec-bfe8-4695-aed5-8a0e18dc49d5/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Fool-Me-Once-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e0ab496d-39f8-4b06-856c-6815eee376cf/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8 (ตอนจบ)",
+          "info": "ซับไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Fool-Me-Once-2024-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/1b25c549-9550-4f75-8c3a-b3f165ab380d/_"
+        }
+      ]
+    },
+    {
+      "name": "Gamera Rebirth (2023) กาเมร่า รีเบิร์ธ EP.1-6 (จบ)",
+      "info": "พากย์ไทย",
+      "image": "https://tvallseries.co/wp-content/uploads/2024/01/Gamera-Rebirth-2023-185x278.webp",
+      "stations": [
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Gamera-Rebirth-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/eb88a5e4-d0da-4918-922a-706de2bb4993/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Gamera-Rebirth-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/1784130d-56d5-4f22-a19d-80dd1a37df9f/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Gamera-Rebirth-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/5d17c630-b610-4026-9da8-d7024ea05e8c/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Gamera-Rebirth-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/c38bcb7e-d262-4a1b-824f-5e6393ced08a/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Gamera-Rebirth-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/7b98754d-0579-4ae8-a551-f68c7b5fdd08/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2024/01/Gamera-Rebirth-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/6ea34648-2eb2-4a5c-b7e1-713618512add/_"
+        }
+      ]
+    },
+    {
       "name": "DI4RIES (2022) EP.1-15 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2024/01/DI4RIES-2022-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -103,8 +256,8 @@
     },
     {
       "name": "Money Heist Berlin (2023) ทรชนคนปล้นโลก EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/12/Money-Heist-Berlin-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -158,8 +311,8 @@
     },
     {
       "name": "Love Like a K-Drama (2023) เลิฟ ไลค์ อะ เคดราม่า EP.1-12 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/12/Love-Like-a-K-Drama-2023-185x278.webp",
-      "info": "ซีรีย์ญี่ปุ่น",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -237,8 +390,8 @@
     },
     {
       "name": "Analog Squad (2023) ทีมรักนักหลอก EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/12/Analog-Squad-2023-185x278.webp",
-      "info": "ซีรีย์ไทย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -291,9 +444,9 @@
       ]
     },
     {
-      "name": "Gyeongseong Creature Season 1 (2023) สัตว์สยองกยองซอง ภาค 1 EP.1-10 (กำลังรอฉาย)",
+      "name": "Gyeongseong Creature Season 1 (2023) สัตว์สยองกยองซอง ภาค 1 EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/12/Gyeongseong-Creature-Season-1-2023-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -336,13 +489,31 @@
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2023/12/Gyeongseong-Creature-Season-1-2023-185x278.webp",
           "url": "https://playcdn.tvallseries.com/4f43c3c1-770b-463e-b112-a4dda6218c94/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Gyeongseong-Creature-Season-1-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/884de453-76d3-424a-b5eb-210819195850/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Gyeongseong-Creature-Season-1-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/78d11c05-6f4c-4dca-8b53-b00818170de7/_"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10 (ตอนจบ)",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2023/12/Gyeongseong-Creature-Season-1-2023-185x278.webp",
+          "url": "https://playcdn.tvallseries.com/e18b6dd4-f82f-40a4-b428-551c69643df2/_"
         }
       ]
     },
     {
       "name": "SUBURRÆTERNA (2023) ซูเบอร์ร่า นิรันดร์กาล EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/12/SUBURRAETERNA-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -396,8 +567,8 @@
     },
     {
       "name": "Single s Inferno โอน้อยออก ใครโสดตกนรก Season 1-3 (กำลังรอฉาย)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/01/86zkkFCrNc4VeqvCANTmpGNgFEF-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -548,13 +719,25 @@
           "info": "พากย์ไทย",
           "image": "https://tvallseries.co/wp-content/uploads/2022/01/86zkkFCrNc4VeqvCANTmpGNgFEF-185x278.jpg",
           "url": "https://playcdn.tvallseries.com/d1b862f2-3999-4601-91d0-e23999e79f5d/_"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2022/01/86zkkFCrNc4VeqvCANTmpGNgFEF-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/8d55c329-69b4-4df5-8821-29403ca09a40/_"
+        },
+        {
+          "name": "ซีซั่น 3 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://tvallseries.co/wp-content/uploads/2022/01/86zkkFCrNc4VeqvCANTmpGNgFEF-185x278.jpg",
+          "url": "https://playcdn.tvallseries.com/a554c0d5-5af0-4514-9b94-12251bdd7f9f/_"
         }
       ]
     },
     {
       "name": "Scott Pilgrim Takes Off (2023) สก็อตต์ พิลกริมออกสตาร์ท EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/12/Scott-Pilgrim-Takes-Off-2023-185x278.webp",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -608,8 +791,8 @@
     },
     {
       "name": "Obliterated (2023) ปฏิบัติการเมาระเบิด EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/12/Obliterated-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -663,8 +846,8 @@
     },
     {
       "name": "My Daemon (2023) ดีมอนของผม EP.1-13 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/12/My-Daemon-2023-185x278.webp",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -748,8 +931,8 @@
     },
     {
       "name": "Sweet Home สวีทโฮม Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/11/Sweet-Home-Season-2-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -863,8 +1046,8 @@
     },
     {
       "name": "Comedy royale (2023) ชิงบัลลังก์ความฮา EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/11/Comedy-royale-2023-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -906,8 +1089,8 @@
     },
     {
       "name": "A Nearly Normal Family (2023) ครอบครัวนี้ เกือบธรรมดา EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/11/A-Nearly-Normal-Family-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -949,8 +1132,8 @@
     },
     {
       "name": "Fate The Winx Saga Season 1-2 (ล่าสุด)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/01/oHj6guMrLfQcBzo3uxwBJc8Y736-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1034,8 +1217,8 @@
     },
     {
       "name": "Akuma-kun (2023) เจ้าหนูประกาศิต EP.1-12 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/11/Akuma-kun-2023-185x278.webp",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1113,8 +1296,8 @@
     },
     {
       "name": "My Demon (2023) ปีศาจของฉัน EP.1-16 (กำลังรอฉาย)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/11/My-Demon-2023-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1180,8 +1363,8 @@
     },
     {
       "name": "Criminal Code (2023) รหัส อาชญากรรม EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/11/Criminal-Code-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1235,8 +1418,8 @@
     },
     {
       "name": "Feedback (2023) เลือนราง EP.1-5 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/11/Feedback-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1272,8 +1455,8 @@
     },
     {
       "name": "Squid Game The Challenge (2023) สควิดเกม เดอะ ชาเลนจ์ EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/11/Squid-Game-The-Challenge-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1339,8 +1522,8 @@
     },
     {
       "name": "Escaping Twin Flames (2023) ทวินเฟลมส์ ลัทธิรักอันตราย EP.1-3 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/11/Escaping-Twin-Flames-2023-185x278.webp",
-      "info": "ซีรีย์สารคดี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1364,8 +1547,8 @@
     },
     {
       "name": "Onimusha (2023) โอนิมูฉะ EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/11/Onimusha-2023.webp",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1419,8 +1602,8 @@
     },
     {
       "name": "Daily Dose of Sunshine (2023) รับแดดอุ่น กรุ่นไอรัก EP.1-12 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/11/Daily-Dose-of-Sunshine-2023-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1498,8 +1681,8 @@
     },
     {
       "name": "All the Light We Cannot See (2023) ดั่งแสงสิ้นแรงฉาน EP.1-4 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/11/All-the-Light-We-Cannot-See-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1529,8 +1712,8 @@
     },
     {
       "name": "Get Gotti (2023) ปราบเจ้าพ่อ EP.1-3 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/11/Get-Gotti-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1554,8 +1737,8 @@
     },
     {
       "name": "Absolute Beginners (2023) รักแรกใส หัวใจซัมเมอร์ EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/10/Absolute-Beginners-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1597,8 +1780,8 @@
     },
     {
       "name": "I Woke Up A Vampire (2023) ตื่นมาก็เป็นแวมไพร์ EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/10/I-Woke-Up-A-Vampire-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1652,8 +1835,8 @@
     },
     {
       "name": "Creature (2023) ตัวประหลาด EP1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/10/Creature-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1707,8 +1890,8 @@
     },
     {
       "name": "Doona (2023) ดูนา ไอดอลสาวข้างบ้าน พากย์ไทย Ep.1-9 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/10/Doona-2023-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1768,8 +1951,8 @@
     },
     {
       "name": "Bodies (2023) ศพ EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/10/Bodies-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1823,8 +2006,8 @@
     },
     {
       "name": "That 90s Show (2023) Season 1 EP.1-10 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/10/That-90s-Show-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1890,8 +2073,8 @@
     },
     {
       "name": "The Fall of the House of Usher (2023) บ้านปีศาจ EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/10/The-Fall-of-the-House-of-Usher-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -1945,8 +2128,8 @@
     },
     {
       "name": "Good Night World (2023) กู้ด ไนท์ เวิลด์ EP.1-12 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/10/Good-Night-World-2023-185x278.webp",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -2024,8 +2207,8 @@
     },
     {
       "name": "Strong Girl Namsoon (2023) สาวน้อยจอมพลังคังนัมซุน EP.1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/10/Strong-Girl-Namsoon-2023-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -2127,8 +2310,8 @@
     },
     {
       "name": "Lupin จอมโจรลูแปง season 1-3 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/Lupin-จอมโจรลูแปง-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -2236,8 +2419,8 @@
     },
     {
       "name": "Song of the Bandits (2023) ลำนำคนโฉด EP.1-9 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/09/Song-of-the-Bandits-2023-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -2297,8 +2480,8 @@
     },
     {
       "name": "Sex Education เพศศึกษา หลักสูตรเร่งรัก season 1-4 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/Sex-Education-เพศศึกษา-หลักสูตรเร่งรัก-185x268.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -2496,8 +2679,8 @@
     },
     {
       "name": "Class Act (2023) ชายเก้าชีวิต EP.1-7 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/09/Class-Act-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -2545,8 +2728,8 @@
     },
     {
       "name": "Reporting for Duty (2023) สน.นี้มีแต่ป่วน EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/09/Reporting-for-Duty-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -2600,8 +2783,8 @@
     },
     {
       "name": "Burning Body (2023) ร่างไหม้ EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/09/Burning-Body-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -2655,8 +2838,8 @@
     },
     {
       "name": "Dear Child (2023) ลูกรัก EP.1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/09/Dear-Child-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -2698,8 +2881,8 @@
     },
     {
       "name": "A Time Called You (2023) เวลาเพรียกหาเธอ EP.1-12 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/09/A-Time-Called-You-2023-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -2777,8 +2960,8 @@
     },
     {
       "name": "6ixtynin9 The Series เรื่องตลก 69 เดอะซีรีส์ EP.1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/09/6ixtynin9-The-Series-185x278.webp",
-      "info": "ซีรีย์ไทย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -2820,8 +3003,8 @@
     },
     {
       "name": "Is She the Wolf (2023) ใครหนอ เป็นหมาป่า EP.1-12 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/09/Is-She-the-Wolf-2023-185x278.webp",
-      "info": "ซีรีย์ญี่ปุ่น",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -2899,8 +3082,8 @@
     },
     {
       "name": "Who Is Erin Carter (2023) เอริน คาร์เตอร์คือใคร EP.1-7 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/09/Who-Is-Erin-Carter-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -2948,8 +3131,8 @@
     },
     {
       "name": "My Dad the Bounty Hunter (2023) คุณพ่อฉันเป็นนักล่าค่าหัว EP.1-9 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/09/My-Dad-the-Bounty-Hunter-2023-185x278.webp",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -3009,8 +3192,8 @@
     },
     {
       "name": "Ragnarok แร็กนาร็อก มหาศึกชี้ชะตา Season 1-3 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/Ragnarok-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -3124,8 +3307,8 @@
     },
     {
       "name": "ONE PIECE (2023) วันพีซ EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/06/ONE-PIECE-2023-e1687159250120-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -3179,8 +3362,8 @@
     },
     {
       "name": "Painkiller (2023) เพนคิลเลอร์ EP.1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/08/Painkiller-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -3222,8 +3405,8 @@
     },
     {
       "name": "The Chosen One (2023) ผู้ถูกเลือก EP.1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/08/The-Chosen-One-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -3265,8 +3448,8 @@
     },
     {
       "name": "Zom 100 (2023) ร้อยสิ่งที่อยากทำก่อนเป็นซอมบี้ EP.1-12 (กำลังรอฉาย)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/08/Zom-100-2023-ร้อยสิ่งที่อยากทำก่อนเป็นซอมบี้-185x278.webp",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -3290,8 +3473,8 @@
     },
     {
       "name": "Mask Girl (2023) มาสก์เกิร์ล EP.1-7 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/08/Mask-Girl-2023.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -3339,8 +3522,8 @@
     },
     {
       "name": "The Lincoln Lawyer Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/08/The-Lincoln-Lawyer-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -3466,8 +3649,8 @@
     },
     {
       "name": "Zombieverse (2023) ซอมบี้เวิร์ส EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/08/Zombieverse-2023-e1691569325768-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -3521,8 +3704,8 @@
     },
     {
       "name": "Glamorous (2023) สวยปังดังฝัน EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/08/Glamorous-2023-e1691398869233-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -3588,8 +3771,8 @@
     },
     {
       "name": "The Uncanny Counter เคาน์เตอร์ คนล่าปีศาจ Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/02/The-Uncanny-Counter-e1690858601137-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -3763,8 +3946,8 @@
     },
     {
       "name": "Quarterback (2023) ควอเตอร์แบ็ก EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/08/Quarterback-2023-e1690961000815-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -3818,8 +4001,8 @@
     },
     {
       "name": "Black Mirror แบล็ก มิร์เรอร์ Season 1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/08/Black-Mirror-แบล็ก-มิร์เรอร์-e1690959327471-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -3987,8 +4170,8 @@
     },
     {
       "name": "D.P. Deserter Pursuit หน่วยล่าทหารหนีทัพ Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/07/D.P.-Season-2-e1690558215387-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -4066,8 +4249,8 @@
     },
     {
       "name": "Burn the House Down (2023) ไฟแค้น ไฟอดีต EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/07/Burn-the-House-Down-2023.webp",
-      "info": "ซีรีย์ญี่ปุ่น",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -4121,8 +4304,8 @@
     },
     {
       "name": "Record of Ragnarok มหาศึกคนชนเทพ Season1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/07/Record-of-Ragnarok-e1689262907717-185x278.webp",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -4290,8 +4473,8 @@
     },
     {
       "name": "Watashi no Shiawase na Kekkon (2023) ขอให้รักเรานี้ได้มีความสุข EP.1-12 (กำลังรอฉาย)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/07/Watashi-no-Shiawase-na-Kekkon-2023-e1689225916546-185x278.webp",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -4345,8 +4528,8 @@
     },
     {
       "name": "Murdaugh Murders A Southern Scandal (2023) คดีฉาวแดนใต้ EP.1-3 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/07/Murdaugh-Murders-A-Southern-Scandal-2023-e1689151219537-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -4370,8 +4553,8 @@
     },
     {
       "name": "Fatal Seduction (2023) ปารถนาอันตราย EP.1-7 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/07/Fatal-Seduction-2023-e1689150582629-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -4419,8 +4602,8 @@
     },
     {
       "name": "Turn of The Tide (2023) อาชญากรน้ำเค็ม EP.1-7 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/07/Turn-of-The-Tide-2023-e1688391105192-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -4468,8 +4651,8 @@
     },
     {
       "name": "Rugal (2020) รูกัล ตำรวจกลคนเหนือมนุษย์ EP.1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/07/Rugal-2020-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -4571,8 +4754,8 @@
     },
     {
       "name": "Celebrity (2023) คนเด่น คนดัง คนดับ EP.1-12 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/07/Celebrity-2023-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -4650,8 +4833,8 @@
     },
     {
       "name": "The Witcher เดอะ วิทเชอร์ นักล่าจอมอสูร Season1-3 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2020/12/The-Witcher-e1686153275841-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -4801,8 +4984,8 @@
     },
     {
       "name": "Delete (2023) ดีลีท EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/06/Delete-2023-e1687948873486-185x278.webp",
-      "info": "ซีรีย์ไทย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -4856,8 +5039,8 @@
     },
     {
       "name": "Sleeping Dog (2023) ย้อนปมคดีเลือด EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/06/Sleeping-Dog-2023-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -4899,8 +5082,8 @@
     },
     {
       "name": "Let s Get Divorced (2023) หย่ากันดีกว่า EP.1-9 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/06/Let-s-Get-Divorced-2023-e1687851565400-185x278.webp",
-      "info": "ซีรีย์ญี่ปุ่น",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -4960,8 +5143,8 @@
     },
     {
       "name": "Skull Island (2023) มหาภัยเกาะกะโหลก EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/06/Skull-Island-2023-e1687764761521-185x278.webp",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -5015,8 +5198,8 @@
     },
     {
       "name": "See You in My 19th Life (2023) ชาตินี้ก็ฝากด้วยนะ EP.1-12 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/06/See-You-in-My-19th-Life-2023-e1687155039787-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -5094,8 +5277,8 @@
     },
     {
       "name": "King The Land (2023) คิง เดอะ แลนด์ EP.1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/06/King-The-Land-2023-e1687153821936-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -5197,8 +5380,8 @@
     },
     {
       "name": "Bloodhounds (2023) บลัดฮาวด์ EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/06/Bloodhounds-2023-e1686377785969-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -5252,8 +5435,8 @@
     },
     {
       "name": "Barracuda Queens (2023) บาร์ราคูด้า ควีนส์ EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/06/Barracuda-Queens-2023-e1686209732154-185x278.webp",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -5295,8 +5478,8 @@
     },
     {
       "name": "Risque Business Japan (2023) ธุรกิจติดเรท ญี่ปุ่น EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/06/oJIpfDELO2MKOZE7dx1ZuWITicR-e1685968291949-185x278.jpg",
-      "info": "ซีรีย์ญี่ปุ่น",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -5338,8 +5521,8 @@
     },
     {
       "name": "Brown and Friends (2022) หมีบราวน์และผองเพื่อน EP.1-18 (จบ)",
+      "info": "Soundtrack",
       "image": "https://tvallseries.co/wp-content/uploads/2023/06/c2mz9eIQXrwQRJgqVUnVOGK3wnH-e1685968249977-185x278.jpg",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -5453,8 +5636,8 @@
     },
     {
       "name": "Siren Survive the Island (2023) เปิดไซเรนพิชิตเกาะ EP.1-10 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/3aBlN1yk8XLYSH1FvEY7EEkvqlp-e1685956078531-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -5520,8 +5703,8 @@
     },
     {
       "name": "Larva Family (2023) ครอบครัวลาร์วา EP.1-9 (จบ)",
+      "info": "Soundtrack",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/5WYKClgu17xq0IcHkvYYfa25TTW-e1685968412706-185x278.jpg",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -5581,8 +5764,8 @@
     },
     {
       "name": "FUBAR (2023) EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/6fM34tcGFp3A0csyxJJomknZB4b-e1685968389902-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -5636,8 +5819,8 @@
     },
     {
       "name": "McGREGOR Forever (2023) EP.1-4 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/8vjMXey1TDjtXMTzxxG8c0GHvgr-e1685968338349-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -5667,8 +5850,8 @@
     },
     {
       "name": "XO Kitty (2023) ด้วยรัก จากคิตตี้ EP.1-10 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/hxvTdKAwv27PUfpXOQp6AwWr6V-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -5734,8 +5917,8 @@
     },
     {
       "name": "Ultraman Season 1-3 (จบ)",
+      "info": "พากย์ไทย/ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/yt3jAozd4EmWsUyhKAY3viStAO6-185x278.jpg",
-      "info": "ซีรีย์ญี่ปุ่น",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -5927,8 +6110,8 @@
     },
     {
       "name": "Queen Cleopatra (2023) ราชินีคลีโอพัตรา EP.1-4 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/9j0u72TrqdVEFDTj7uG5KOFwbSg-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -5958,8 +6141,8 @@
     },
     {
       "name": "Black Knight (2023) EP.1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/fF7vSzea99gdOnlBEwq82jP3ca5-e1685967745272-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6001,8 +6184,8 @@
     },
     {
       "name": "The Puppet Master Huntin the Ultimate Conman (2022) ล่ายอด 18 มงกุฎ EP.1-3 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/aK6s9YZbZ5UI2zqqRN2DrYp4B1z-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6026,8 +6209,8 @@
     },
     {
       "name": "Thicker Than Water (2023) เลือดข้นกว่าน้ำ EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/rDVfTRXMP5iwO7EgmVA5ivUwli4-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6081,8 +6264,8 @@
     },
     {
       "name": "In the Name of God (2023) ศรัทธาลวง EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/In-the-Name-of-God-2023-ศรัทธาลวง-185x278.jpg",
-      "info": "ซีรีย์สารคดี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6136,8 +6319,8 @@
     },
     {
       "name": "800 Meters (2022) EP.1-3 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/g1FMWoqv6LAQjRiLre5s1WZpKHY-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6161,8 +6344,8 @@
     },
     {
       "name": "The Marked Heart หัวใจตีตรา Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/M1q0HuyRnqxP8Si54srsPREFIH-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6312,8 +6495,8 @@
     },
     {
       "name": "The Brave Ones (2022) ผู้กล้า EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/gtJVqPfax61940ak6k94F3D6Klh-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6355,8 +6538,8 @@
     },
     {
       "name": "Queen Charlotte A Bridgerton Story (2023) EP.1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/koVgHfTsw6Fmx3QuDMvbtlaBZD9-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6398,8 +6581,8 @@
     },
     {
       "name": "Sanctuary (2023) สังเวียนศักดิ์สิทธิ์ EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/fnr87DcGxKB02vcuZlLgxX8tHPs-185x278.jpg",
-      "info": "ซีรีย์ญี่ปุ่น",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6453,8 +6636,8 @@
     },
     {
       "name": "Santo (2022) ซานโต้ EP.1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/qIF53PuAJB0SE37IuPe77xCBuse-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6496,8 +6679,8 @@
     },
     {
       "name": "Rough Diamonds (2023) ตระกูลเพชรตัดเหลี่ยม EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/dr8BsZpkMsw7YFqVCM6aLEog3It-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6551,8 +6734,8 @@
     },
     {
       "name": "The Tailor (2023) ช่างตัดเสื้อ EP.1-7 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/a3SYikJGnXNZu3vjnHiRjiAxLyN-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6600,8 +6783,8 @@
     },
     {
       "name": "The Diplomat (2023) EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/cOKXV0FalCYixNmZYCfHXgyQ0VX-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6655,8 +6838,8 @@
     },
     {
       "name": "Emergency (2023) นครนิวยอร์ก EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/05/3pdVKXRnEEf2YUzm4net4MFEWV5-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6710,8 +6893,8 @@
     },
     {
       "name": "The Nurse (2023) พยาบาลมัจจุราช EP.1-4 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/04/zxh9kjto6w8GMIEGigdLFot7pUK-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6741,8 +6924,8 @@
     },
     {
       "name": "Sweet Tooth สวีททูธ Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/04/Sweet-Tooth-2021-สวีททูธ-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6844,8 +7027,8 @@
     },
     {
       "name": "Transatlantic (2023) ทรานส์แอตแลนติก EP.1-7 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/04/pCqUcxfxIAalYyaoDqMli8xtb1d-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6893,8 +7076,8 @@
     },
     {
       "name": "Queenmaker (2023) ฉันจะปั้นราชินี EP.1-11 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/04/ptMxe9xl7RZcQQR2NwwoaOyVgdZ-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6966,8 +7149,8 @@
     },
     {
       "name": "Obsession (2023) คลั่ง EP.1-4 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/04/8nQmxCYvidrCMxYCPdhuls94cl9-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -6997,8 +7180,8 @@
     },
     {
       "name": "Sonic Prime (2022) โซนิค ไพรม์ EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/04/lMqruIEov5PSA7eu8mF0I4IiKda-185x278.jpg",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -7052,8 +7235,8 @@
     },
     {
       "name": "Physical 100 (2023) ร้อยแกร่งแข่งอึด EP.1-9 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/04/Physical-100-2023-ร้อยแกร่งแข่งอึด-185x278.webp",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -7113,8 +7296,8 @@
     },
     {
       "name": "BEEF (2023) คนหัวร้อน EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/04/4b4v7RnPhNyPEaVGFarEuo74r8W-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -7180,8 +7363,8 @@
     },
     {
       "name": "WAR SAILOR (2023) กะลาสีสงคราม EP.1-3 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/04/fVeJkFAWjKxlfbD8Rt4foBqL71h-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -7205,8 +7388,8 @@
     },
     {
       "name": "Wellmania (2023) ไขว่คว้าหาสุข(ภาพ) EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/04/c3F9aMUSwQovZkpEBynxBxN3keo-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -7260,8 +7443,8 @@
     },
     {
       "name": "Copycat Killer (2023) ฆ่าเลียนแบบ EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/04/xSkcZk9bh1wIkP2vpMA47Bdl6UI-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -7327,8 +7510,8 @@
     },
     {
       "name": "You เธอ Season 1-5 (กำลังฉาย)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/04/7bEYwjUvlJW7GerM8GYmqwl4oS3-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -7574,8 +7757,8 @@
     },
     {
       "name": "Unseen (2023) EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/03/lFKtgbboQohDi4tJNX1jp50WoXC-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -7617,8 +7800,8 @@
     },
     {
       "name": "The Night Agent (2023) EP.1-10 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/03/xjsx6rGEgHl2tUqkimo6Bz2KzVo-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -7684,8 +7867,8 @@
     },
     {
       "name": "Who Were We Running From (2023) แม่ขา… เราหนีใคร EP.1-7 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/03/kpmf1CHtclmwv26mfYI98hxlbId-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -7733,8 +7916,8 @@
     },
     {
       "name": "The good detective ตำรวจพันธุ์แกร่ง Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/11/oj9zTCRn8tfuXTcqa0UbOCO2DZX-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -7932,8 +8115,8 @@
     },
     {
       "name": "Sex/Life เซ็กส์/ชีวิต Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/2ST6l4WP7ZfqAetuttBqx8F3AAH-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8023,8 +8206,8 @@
     },
     {
       "name": "Meltdown Three Mile Island (2022) หายนะนิวเคลียร์เกาะทรีไมล์ EP.1-4 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/03/6JGixD9P7hOhHBfiTpAdzWcpCxV-185x278.jpg",
-      "info": "ซีรีย์สารคดี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8054,8 +8237,8 @@
     },
     {
       "name": "Shadow and Bone ตำนานกรีชา Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/04/mrVoyDFiDSqfH4mkoRtccOv2vwh-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8157,8 +8340,8 @@
     },
     {
       "name": "The Silent Sea (2021) ทะเลสงัด EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/03/fFT0IgqtCOks4munDTxQwkvNJkd-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8212,8 +8395,8 @@
     },
     {
       "name": "Rana Naidu (2023) พยัคฆ์บอมเบย์ EP.1-10 (ตอนจบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/03/4kUF7cO76W4vEx70KVfwmju6Vud-185x278.jpg",
-      "info": "ซีรีย์อินเดีย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8279,8 +8462,8 @@
     },
     {
       "name": "MH370 The Plane That Disappeared (2023) MH370 เครื่องบินที่หายไป EP.1-3 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/03/8anIkfHEc87mOeoobYXkEwvwuOg-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8304,8 +8487,8 @@
     },
     {
       "name": "Outlast (2023) เอาท์ลาสต์ EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/03/jr7GxQpohdJ67IPedXIO7rN1dMv-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8359,8 +8542,8 @@
     },
     {
       "name": "In Love All Over Again (2023) ตกหลุมรัก เธออีกครั้ง EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/03/8HteBmTyI9yN0Mava1Cu7D6FIW-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8414,8 +8597,8 @@
     },
     {
       "name": "In the Name of God (2023) ศรัทธาลวง EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/03/srGzplt2VmQqpLSRytAqkPr8pVI-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8469,8 +8652,8 @@
     },
     {
       "name": "The Law According to Lidia Poet (2023) กฏหมายของลิเดีย EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/02/9k8cA7T8hOwjoKZLEgFvvAVHP6l-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8512,8 +8695,8 @@
     },
     {
       "name": "Shahmaran (2023) ชาห์มารัน EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/02/2nzbkxI6AKVw5kfLXAIvsf0xEKF-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8567,8 +8750,8 @@
     },
     {
       "name": "The Endless Night (2023) คืนไม่รู้จบ EP.1-5 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/02/wbCt8M0wDQxhhCa85yLgBvd5wMw-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8604,8 +8787,8 @@
     },
     {
       "name": "A Girl and an Astronaut (2023) หญิงสาวกับนักบินอวกาศ EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/02/5GDhb86zGf7evaoR2ZTdNfrsU0j-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8647,8 +8830,8 @@
     },
     {
       "name": "Ganglands ปล้นท้าทรชน Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/Ganglands-2021-ปล้นท้าทรชน-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8726,8 +8909,8 @@
     },
     {
       "name": "November 13 Attack on Paris (2018) 13 พฤศจิกายน เมื่อปารีสถูกโจมตี EP.1-3 (จบ)",
+      "info": "Soundtrack",
       "image": "https://tvallseries.co/wp-content/uploads/2023/02/9TdpNQfW7VwUxIkrOxWzpOtlgun-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8751,8 +8934,8 @@
     },
     {
       "name": "RED ROSE (2022) กุหลาบแดง EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/02/jS8mOKloyEzqQKrne0w4Upu1pnv-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8806,8 +8989,8 @@
     },
     {
       "name": "Love to Hate You (2023) ยี้ให้หนัก รักให้เข็ด EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/02/kbfcnflR4FnfxvSnXR536V4FMUB-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8873,8 +9056,8 @@
     },
     {
       "name": "The Exchange (2023) EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/02/imNAWAuRJoj6kquvx9VTgLnpIAK-185x278.jpg",
-      "info": "ซีรีย์อินเดีย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8916,8 +9099,8 @@
     },
     {
       "name": "Cunk on Earth (2022) EP.1-5 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/02/uvKX8AP9AS7dJQ8uMxBGjdoylgO-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -8953,8 +9136,8 @@
     },
     {
       "name": "From Scratch (2022) เริ่มจากศูนย์ EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/02/s8D32MA8NlNgixnAIxVbmt9cazX-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9008,8 +9191,8 @@
     },
     {
       "name": "Make My Day (2023) EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/02/1gWb9o0XVyXwFk2aRPqyVJV8mXE-185x278.jpg",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9063,8 +9246,8 @@
     },
     {
       "name": "Kings of Jo burg คิงส์ ออฟ โจเบิร์ก Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/02/vSM1FB86gr3QNelkk0jDovN5228-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9154,8 +9337,8 @@
     },
     {
       "name": "On My Block Freeridge (2023) ออน มาย บล็อค ฟรีริดจ์ EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/02/14dtUdFPXmjLNNOjkYCHCNOg01d-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9209,8 +9392,8 @@
     },
     {
       "name": "LOCKWOOD & CO (2023) ล็อควู้ด บริษัทรับล่าผี EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/lxWSGo8D6MbFbQmM9tqhbaG80TP-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9264,8 +9447,8 @@
     },
     {
       "name": "The Snow Girl (2023) เด็กน้อยที่หายไป EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/iRdBQkJ4q44BmMGcRZ9ecbhWVVD-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9307,8 +9490,8 @@
     },
     {
       "name": "Physical 100 (2023) ร้อยแกร่งแข่งอึด EP.1-9 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/lGXjcx4l31TFMH4gtJ59hE9DZAL-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9368,8 +9551,8 @@
     },
     {
       "name": "Shanty Town (2023) เมืองสลัม EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/eqRQQeyfWMMj3DQqsG8shSbaGtp-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9411,8 +9594,8 @@
     },
     {
       "name": "Women at War (2022) ผู้หญิงกับสงคราม EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/3pjmXpvWwEU4e9GFioGMwIsHBkM-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9466,8 +9649,8 @@
     },
     {
       "name": "Represent (2023) ปธน.ส้มหล่น EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/7QqFilEkKSPiU2QsWShTjSf5wgM-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9509,8 +9692,8 @@
     },
     {
       "name": "Junji Ito Maniac Japanese Tales of the Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น EP.1-12 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/eE3vyu2F8upsQujhS8IP7QiG8Hm-185x278.jpg",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9588,8 +9771,8 @@
     },
     {
       "name": "Only for Love (2022) เพื่อรักเท่านั้น EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/2MxYaviOwMZOOCP38vJx2C0y33V-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9631,8 +9814,8 @@
     },
     {
       "name": "Lookism (2022) EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/qkoM63HDuCOSwxGfb0pljrgns9I-185x278.jpg",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9686,8 +9869,8 @@
     },
     {
       "name": "Vikings Valhalla ไวกิ้ง วัลฮัลลา Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/rDFy1fUU6OC3Mm0CLFB7u0fGwVN-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9789,8 +9972,8 @@
     },
     {
       "name": "Treason (2022) กบฏ EP.1-5 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/qOitarv5B5ydsScN3dkJPipYPg3-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9826,8 +10009,8 @@
     },
     {
       "name": "The Lying Life of Adults (2023) ชีวิตโกหกของผู้ใหญ่ EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/cDy24NY2QIXYUxRzelvhkWGbkPH-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9869,8 +10052,8 @@
     },
     {
       "name": "Madoff The Monster of Wall Street (2023) ปีศาจแห่งวอลล์สตรีท EP.1-4 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/yPN0KNBt8KZ562Jf2YUn9lcMZIu-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9900,8 +10083,8 @@
     },
     {
       "name": "WOMAN OF THE DEAD (2022) ผู้หญิงของคนตาย EP.1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/v9gijQNMhZjGSglOh0nFpfFHhC0-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9943,8 +10126,8 @@
     },
     {
       "name": "Pepsi Wheres My Jet? (2022) เป๊ปซี่ เครื่องบินเจ็ทกูอยู่ไหน EP.1-4 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/uRdZwrdUisIVux3qmW53P4EDynC-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -9974,8 +10157,8 @@
     },
     {
       "name": "Ginny And Georgia (2021) จินนี่กับจอร์เจีย Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/j1yqOSVVskSYpYreNT0VeD1S3Dq-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -10101,8 +10284,8 @@
     },
     {
       "name": "Medal of Honor (2018) เหรียญตราแห่งเกียรติยศ EP.1-8 (จบ)",
+      "info": "Soundtrack",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/woLBbRAsUHlPW2irklMCwKQCBoh-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -10156,8 +10339,8 @@
     },
     {
       "name": "72 Dangerous Animals (2018) 72 สัตว์อันตราย EP.1-12 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/cpEWS8KTYnm60v3qieutLKC9Enx-185x278.jpg",
-      "info": "ซีรีย์สารคดี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -10235,8 +10418,8 @@
     },
     {
       "name": "The Glory Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2023/01/kQSEZ4BYiTnbiTAV1tJNx1A6ifF-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -10338,8 +10521,8 @@
     },
     {
       "name": "MR. MIDNIGHT Beware the Monsters (2022) มิสเตอร์มิดไนท์ ระวังปีศาจไว้นะ EP.1-13 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/12/88Qguo88OKruv5REalqQAyf0jLS-185x278.jpg",
-      "info": "ซีรีย์อินโดนีเซีย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -10423,8 +10606,8 @@
     },
     {
       "name": "The Fabulous (2022) หรู เริ่ด เชิด โสด EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/12/1LnPNXQ8upwUT1dYX2ZopQXjmt8-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -10478,8 +10661,8 @@
     },
     {
       "name": "The Witcher Blood Origin (2022) เดอะ วิทเชอร์ นักล่าจอมอสูร ปฐมบทเลือด EP.1-4 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/12/vpfJK9F0UJNcAIIeC42oJyKMnZQ-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -10509,8 +10692,8 @@
     },
     {
       "name": "Reign Supreme (2022) EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/12/f1sONdnwAR9fJNW7rp5VmGjGYTl-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -10552,8 +10735,8 @@
     },
     {
       "name": "Hot Skull (2022) ฮอตสกัลล์ EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/12/obal3CZD2sqFF79fFGce3wZFp46-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -10607,8 +10790,8 @@
     },
     {
       "name": "Holy Family (2022) โฮลลี่ แฟมิลี่ EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/12/eAzhMrghahXXCVXwQ0rfUuv9niR-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -10662,8 +10845,8 @@
     },
     {
       "name": "Alice in Borderland อลิสในแดนมรณะ Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/12/20mOwAAPwZ1vLQkw0fvuQHiG7bO-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -10765,8 +10948,8 @@
     },
     {
       "name": "A Storm for Christmas ( 2022) พายุคริสต์มาส EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/12/ljsMCs9tDuEOfm2LGn2Qf1OLKeR-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -10808,8 +10991,8 @@
     },
     {
       "name": "THE RECRUIT (2022) ทนายซีไอเอ EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/12/mLbFg0u2DPYuB5CILzwWk3kdI8b-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -10863,8 +11046,8 @@
     },
     {
       "name": "The Kings Affection (2021) ราชันผู้งดงาม EP.1-20 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/12/2Qim2grFzfNJ4h3QSTzxi8CsKdG-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -10990,8 +11173,8 @@
     },
     {
       "name": "GUDETAMA An Eggcellent Adventure (2022) กุเดทามะ ไข่ขี้เกียจผจญภัย EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/12/irE2cdrnicp8w9Y65hw8Gpx0pWC-185x278.jpg",
-      "info": "ซีรีย์ญี่ปุ่น",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -11057,8 +11240,8 @@
     },
     {
       "name": "HARRY MEGHAN (2022) แฮร์รี่และเมแกน EP.1-3 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/12/nxbQLpCm78w5UHOyLrnkFJVCY7p-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -11082,8 +11265,8 @@
     },
     {
       "name": "Down to Earth with Zac Efron Season1-2 (กำลังฉาย)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/12/eGGHsfDkZXek0qGJ1wsuoVzHEOh-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -11137,8 +11320,8 @@
     },
     {
       "name": "Elite เล่ห์ร้ายเกมไฮโซ Season 1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/12/3NTAbAiao4JLzFQw6YxP1YZppM8-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 1 ตอนที่ 1",
@@ -11432,8 +11615,8 @@
     },
     {
       "name": "Emily in Paris เอมิลี่ในปารีส Season 1-3 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/12/Ak59Y9bzykmV0wAiwKsqrbORDBo-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -11607,8 +11790,8 @@
     },
     {
       "name": "FIRST LOVE (2022) รักแรก EP.1-9 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/11/wZLfNxm6OTTDD5BYVE0zpqO5Vhq-185x278.jpg",
-      "info": "ซีรีย์ญี่ปุ่น",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -11668,8 +11851,8 @@
     },
     {
       "name": "Spirit Rangers (2022) ผู้พิทักษ์วิญญาณแห่งป่า EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/11/o7NV5naNFB1kv0NZTJMKPQ4H0gl-185x278.jpg",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -11735,8 +11918,8 @@
     },
     {
       "name": "WEDNESDAY (2022) เว้นส์เดย์ EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/11/jeGtaMwGxPmQN5xM4ClnwPQcNQz-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -11790,8 +11973,8 @@
     },
     {
       "name": "BLOOD SEX and ROYALTY (2022) เลือด เซ็กซ์ และความภักดี EP.1-3 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/11/ov3BkiVaY6t3YypbZ4eulbn8U04-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -11815,8 +11998,8 @@
     },
     {
       "name": "INSIDE MAN (2022) อินไซด์แมน EP.1-4 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/11/7tZONSnzKylgzHJvtoOGjRmYlgU-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -11846,8 +12029,8 @@
     },
     {
       "name": "The Secret of The Greco Family (2022) ธุรกิจลับตระกูลโหด EP.1-9 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/11/2ppZZoTORmHhvcWYp9UvdSXtrVL-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -11907,8 +12090,8 @@
     },
     {
       "name": "1899 (2022) EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/11/8KGvYHQNOamON6ufQGjyhkiVn1V-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -11962,8 +12145,8 @@
     },
     {
       "name": "Shards of Her (2022) เศษเสี้ยวของเธอ EP.1-9 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/11/hsXtUBCxl31OdvH71bwtAala2cO-185x278.jpg",
-      "info": "ซีรีย์จีน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12023,8 +12206,8 @@
     },
     {
       "name": "BLOCKBUSTER (2022) บล็อกบัสเตอร์ EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/11/1seIJ8wIKo3KXp7hnwS5wj69U8M-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12090,8 +12273,8 @@
     },
     {
       "name": "THE BASTARD SON And THE DEVIL HIMSELF (2022) พ่อมดสองสายเลือด EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/11/46l1cPG3tXd4WxRf7lPmVY9TAwm-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12145,8 +12328,8 @@
     },
     {
       "name": "Guillermo del Toro s Cabinet of Curiosities (2022) กีเยร์โม เดล โตโร ตู้ลับสุดหลอน EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/10/a91e9hpWwfCqxJI4xM9Q2RhuxgI-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12200,8 +12383,8 @@
     },
     {
       "name": "PHANTOM PUPS (2022) หมาน้อยแฟนท่อม EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/10/kqGRszJ2JyXtRTVDmGGyrwM0sJD-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12267,8 +12450,8 @@
     },
     {
       "name": "Messiah (2020) เมสสิยาห์ ปาฏิหาริย์สะเทือนโลก EP.1-10 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/10/psem2jK9GGC0g7dcjb4N5SCYb1u-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12334,8 +12517,8 @@
     },
     {
       "name": "Human playground (2022) EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/10/vrabCpb0NFQnLPVgvVyqODWCnIy-185x278.jpg",
-      "info": "ซีรีย์สารคดี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12377,8 +12560,8 @@
     },
     {
       "name": "The Watcher (2022) ผู้เฝ้าดู EP.1-7 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/10/6RrseODZo2e66XOzC1XMzMuecnf-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12426,8 +12609,8 @@
     },
     {
       "name": "Under The Queen s Umbrella (2022) ใต้ร่มราชินี EP.1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/10/sSBKGb5rwYGRjhSiGaTGX8FVdoQ-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12529,8 +12712,8 @@
     },
     {
       "name": "Island of the Sea Wolves (2022) เกาะหมาป่าทะเล EP.1-3 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/10/czorJe5tld7NUBwZubwxDZksxrL-185x278.jpg",
-      "info": "ซีรีย์สารคดี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12554,8 +12737,8 @@
     },
     {
       "name": "Glitch (2022) กลิตช์ EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/10/Glitch-2022-กลิตช์.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12621,8 +12804,8 @@
     },
     {
       "name": "Dahmer (2022) เจฟฟรีย์ ดาห์เมอร์ ฆาตกรรมอำมหิต EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/10/Dahmer-2022-เจฟฟรีย์-ดาห์เมอร์-ฆาตกรรมอำมหิต-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12688,8 +12871,8 @@
     },
     {
       "name": "Conversation with a Killer The Jeffrey Dahmer Tapes (2022) คุยกับฆาตกร เจฟฟรีย์ ดาห์เมอร์ EP.1-3 (จบ)",
+      "info": "Soundtrack",
       "image": "https://tvallseries.co/wp-content/uploads/2022/10/5BTn4GxWL48BP8OkfiatxZ6qpuE-185x278.jpg",
-      "info": "ซีรีย์สารคดี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12713,8 +12896,8 @@
     },
     {
       "name": "High Water (2022) น้ำถล่มเมือง EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/10/hzlrv2jEqHKyl88g8L03pwEAR1j-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12756,8 +12939,8 @@
     },
     {
       "name": "Glitch (2022) กลิตช์ EP.1-10 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/10/dspwDOosidQT85oPDDHMM9zmaLw-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12823,8 +13006,8 @@
     },
     {
       "name": "THE EMPRESS (2022) ซีซี่ จักรพรรดินีแห่งรัก EP.1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/10/kDcb6ZzWQNDBCkRPdoRdKqCQRxw-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12866,8 +13049,8 @@
     },
     {
       "name": "The Girls at the Back (2022) แก๊งเด็กหลังห้อง EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/10/jpjylMOZl94C9WrvNCmHNhAanv8-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12909,8 +13092,8 @@
     },
     {
       "name": "THE REAL BLING RING (2022) ปล้นฮอลลีวูด EP.1-3 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/09/REHb0vj7aTeNFKvXuUzLJYRLcq-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -12934,8 +13117,8 @@
     },
     {
       "name": "Dahmer (2022) เจฟฟรีย์ ดาห์เมอร์ ฆาตกรรมอำมหิต EP.1-10 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/09/f2PVrphK0u81ES256lw3oAZuF3x-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -13001,8 +13184,8 @@
     },
     {
       "name": "Thai Cave Rescue Limited Series (2022) ถ้ำหลวง ภารกิจแห่งความหวัง EP.1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/09/rq7IxjUUXo0RJJRqgjzqEGfsyPu-185x278.jpg",
-      "info": "ซีรีย์ไทย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -13044,8 +13227,8 @@
     },
     {
       "name": "The Girl in the Mirror (2022) เด็กสาวในกระจก EP.1-9 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/09/drpF9N8aOJlg3ZHCiPTXICyYI4D-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -13105,8 +13288,8 @@
     },
     {
       "name": "A Model Family (2022) ครอบครัวตัวอย่าง EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/09/eRtszL5XtARh2u5JMppmtEtxJmT-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -13172,8 +13355,8 @@
     },
     {
       "name": "CHEF S TABLE PIZZA (2022) เชฟส์ เทเบิ้ล พิซซ่า EP.1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/09/psnYuOZ2cRrBSwl9QbHOphbMEaz-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -13215,8 +13398,8 @@
     },
     {
       "name": "Narco-Saints (2022) นักบุญนาร์โค EP.1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/09/mP2ZJgJ7wnjVWjWJk4y9l9NvhZR-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -13258,8 +13441,8 @@
     },
     {
       "name": "Tekken Bloodline (2022) ศึกสายเลือด EP.1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/09/cLbkedGP2x65V8ljFxLHK5dITWF-185x278.jpg",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -13301,8 +13484,8 @@
     },
     {
       "name": "Fakes (2022) ของปลอม EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/09/yNeS9JvRynUQfwy8DtsWtNEIkQa-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -13368,8 +13551,8 @@
     },
     {
       "name": "Under Fire (2022) ในกองเพลิง EP1-10 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/09/2oXF52JveZKcseNCbrZgC7JRWOU-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -13435,8 +13618,8 @@
     },
     {
       "name": "Once Upon A Small Town (2022) บันทึกรักในเมืองเล็ก EP.1-12 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/09/v7yRf48jKTYtO6pmMlJTHihzieq-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -13514,8 +13697,8 @@
     },
     {
       "name": "PARTNER TRACK (2022) เสันทางทนาย EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/09/ekb76bz68oSJrbYrDMCYsLI5I6E-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -13581,8 +13764,8 @@
     },
     {
       "name": "Devil In Ohio (2022) ปีศาจในโอไฮโอ EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/09/AsdjYB61U8zVAsEyQgOebAjCoUN-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -13636,8 +13819,8 @@
     },
     {
       "name": "The Future of (2022) EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/08/4Ewojohxp92el3xQHvneH7F96eS-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -13679,8 +13862,8 @@
     },
     {
       "name": "She-Hulk Attorney at Law (2022) ชี-ฮัลค์ EP.1-9 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/08/hJfI6AGrmr4uSHRccfJuSsapvOb-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -13740,8 +13923,8 @@
     },
     {
       "name": "The Sandman (2022) เดอะแซนด์แมน EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/08/q54qEgagGOYCq5D1903eBVMNkbo-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -13807,8 +13990,8 @@
     },
     {
       "name": "Locke & Key (2020-2022) ล็อคแอนด์คีย์ ปริศนาลับตระกูลล็อค Season 1-3 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/08/zuxGfRKziGHPogipnEXXykdDmyT-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -13982,8 +14165,8 @@
     },
     {
       "name": "School Tales the Series (2022) โรงเรียนผีมีอยู่ว่า EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/08/3OwFUerRIahvfnV7ADcJm8xX5fx-185x278.jpg",
-      "info": "ซีรีย์ไทย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -14037,8 +14220,8 @@
     },
     {
       "name": "THE WAR NEXT DOOR (2021) จิตป่วนก๊วนข้างบ้าน Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/08/btZ7EjWaap6bdPTGKefn9rsc4Ok-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -14140,8 +14323,8 @@
     },
     {
       "name": "Business Proposal (2022) นัดบอดวุ่น ลุ้นรักท่านประธาน EP.1-12 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/08/Business-Proposal-2022-นัดบอดวุ่น-ลุ้นรักท่านประธาน-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -14219,8 +14402,8 @@
     },
     {
       "name": "Keep Breathing (2022) จนกว่าจะหมดลม EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/08/y4BbshOj69MOIhsm0oELDnymiTY-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -14262,8 +14445,8 @@
     },
     {
       "name": "Indian Predator (2022) ฆาตกรหั่นศพแห่งเดลี EP.1-3 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/07/kC6CSCUQlb1MayCrtBqC1Rt0Ec7-185x278.jpg",
-      "info": "ซีรีย์อินเดีย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -14287,8 +14470,8 @@
     },
     {
       "name": "Mom Dont Do That (2022) แม่จ๋า อย่าทำแบบนั้น EP.1-11 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/07/y2kzg0bwbztLYxtkMiqVvQBOVSE-185x278.jpg",
-      "info": "ซีรีย์จีน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -14360,8 +14543,8 @@
     },
     {
       "name": "Remarriage and Desires (2022) ปรารถนารักครั้งที่สอง EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/07/hqABG0jPug0NoFpCcJYAtrRdIk3-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -14415,8 +14598,8 @@
     },
     {
       "name": "Artificial City (2021) บัลลังค์ลวง EP.1-20 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/07/wB5r70L0gf2XiTD8r5vy0YDtW7o-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -14542,8 +14725,8 @@
     },
     {
       "name": "The Longest Night (2022) คืนนี้ยาวนาน EP.1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/07/8tLBotLw2BKXEOgI5Wpsy7VXkND-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -14585,8 +14768,8 @@
     },
     {
       "name": "Boo Bitch (2022) EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/07/stBtjPLGrl7uAL76w5VkZJjKq87-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -14640,8 +14823,8 @@
     },
     {
       "name": "Yakamoz S-245 (2022) เรือดำน้ำผ่ารัตติกาล EP.1-7 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/07/zaPSsdJrRZFtMRNrS4OqTpSkGFo-185x278.jpg",
-      "info": "ซีรีย์อินเดีย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -14689,8 +14872,8 @@
     },
     {
       "name": "Dead End Paranormal Park (2022) เดด เอนด์ สวนสนุกสุดหลอน EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/07/iB9h1cBIFFjnufhZF4lNGQmt3c5-185x278.jpg",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -14756,8 +14939,8 @@
     },
     {
       "name": "Cafe Minamdang (2022) คาเฟ่ลับจับผู้ร้าย EP.1-18 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/07/nxWVSOxOCU6zaBYGcloPt6NKLqS-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -14871,8 +15054,8 @@
     },
     {
       "name": "Pirate Gold of Adak Island (2022) ทองคำโจรสลัดแห่งเกาะเอลัก EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/07/xaq3mnifkknC8cGA7I65W3bTmu0-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -14926,8 +15109,8 @@
     },
     {
       "name": "Man Vs Bee (2022) EP1-9 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/06/74kkM7E5IymHl7ZS4XugP6YT3zU-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -14987,8 +15170,8 @@
     },
     {
       "name": "Alchemy of Souls (2022) เล่นแร่แปรวิญญาณ EP.1-20 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/06/pGs6UA4rPUZEokDyTwAGdRvwrAD-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -15114,8 +15297,8 @@
     },
     {
       "name": "First Kill (2022) รักแรกฆ่า EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/06/70yK1hRyyQiwqstpMTHZCpcnP7-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -15169,8 +15352,8 @@
     },
     {
       "name": "Yeh Kaali Kaali Ankhein (2022) เงารัก ในดวงตา EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/06/Yeh-Kaali-Kaali-Ankhein-2022-185x278.jpg",
-      "info": "ซีรีย์อินเดีย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -15224,8 +15407,8 @@
     },
     {
       "name": "Twenty Five Twenty One (2022) ยี่สิบห้า ยี่สิบเอ็ด EP.1-16 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/06/Twenty-Five-Twenty-One-2022-ยี่สิบห้า-ยี่สิบเอ็ด-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -15327,8 +15510,8 @@
     },
     {
       "name": "The Lincoln Lawyer (2022) EP.1-10 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/06/4jSaIqEU8CPBBNn4iVCK6wzPjSx-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -15394,8 +15577,8 @@
     },
     {
       "name": "[NETFLIX] The Boss Baby Back in the Crib (2022) ตำนานกลับมาแล้ว EP.1-12 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/05/18f8ASmigtrQTm8MARHD8Af47db-185x278.jpg",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -15473,8 +15656,8 @@
     },
     {
       "name": "Save Me (2017) กับดักลัทธิคลั่ง 1-2 Season (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/05/eNCwfLMkNVkxjRio6q7agJySnXR-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -15672,8 +15855,8 @@
     },
     {
       "name": "Annarasumanara (2022) โอม รักเอยจงมา EP.1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/05/jrWM82Hie9DAkoDzXh3pxAFwf9d-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -15715,8 +15898,8 @@
     },
     {
       "name": "Wild Babies (2022) เกิดในป่า EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/05/s5aDYSqkSWiv143XwhaPV4dqIEu-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -15770,8 +15953,8 @@
     },
     {
       "name": "[NETFLIX] Our Great National Parks (2022) อุทยานมหัศจรรย์ EP.1-5 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/05/3ny9qqgIM2M6LgfLDAXujTOTmBO-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -15807,8 +15990,8 @@
     },
     {
       "name": "Green Mothers Club (2022) ชมรมคุณแม่สีเขียว EP.1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/05/i67uBlKzy94FqzNJ8bai2IGJ6S-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -15910,8 +16093,8 @@
     },
     {
       "name": "Heirs to the Land (2022) ทายาทแห่งผืนดิน EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/04/zuYtzT6rLn5N4g5XHivpkaM5Yls-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -15965,8 +16148,8 @@
     },
     {
       "name": "Smother-in-Law (2022) คุณแม่ยอดยุ่ง EP.1-10 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/04/eAtipcahOmXbsGMP7m9N17kUOwz-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -16032,8 +16215,8 @@
     },
     {
       "name": "Tomorrow (2022) EP.1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/04/ucqzXu2WchcuqCiT7cVQ30WRiGk-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -16135,8 +16318,8 @@
     },
     {
       "name": "My Liberation Notes (2022) ปล่อยใจสู่เสรี EP.1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/04/olmfFeKZyQoTwj9Zo3Y5IUaioPB-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -16238,8 +16421,8 @@
     },
     {
       "name": "Our Blues (2022) เวลาสีฟ้าหม่น EP.1-20 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/04/sT5Mlt5UmKiGfBisccwmD4LnPRD-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -16365,8 +16548,8 @@
     },
     {
       "name": "Thirty-Nine (2022) สามสิบเก้า EP.1-12 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/04/rvIgLUrYTBq80I5Zlk0ihz3h0cR-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -16444,8 +16627,8 @@
     },
     {
       "name": "Juvenile Justice (2022) หญิงเหล็กศาลเยาวชน EP.1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/04/xH2wTVlsUlYeFEOVGFDaamHkMCm-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -16511,8 +16694,8 @@
     },
     {
       "name": "Reacher (2022) รีชเชอร์ ยอดคนสืบระห่ำ EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/03/bQnnKBe3VsvXKMoNCaYmRzs1Dup-e1685968096267-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -16566,8 +16749,8 @@
     },
     {
       "name": "Business Proposal (2022) นัดบอดวุ่น ลุ้นรักท่านประธาน EP.1-12 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/03/6KMhKm2ZHG8KUtg4lhsNUdt4iPh-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -16645,8 +16828,8 @@
     },
     {
       "name": "Catching Killers (2021) ล่าฆาตกรโฉด Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/03/628U5ybT3fV0gGbT41Lk3R15Ya0-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -16700,8 +16883,8 @@
     },
     {
       "name": "สปาร์คใจนายจอมหยิ่ง (2020) 2 Season EP.1-12 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/03/kJn2f9nHKseTWUY3wPXAhnxk408-185x278.jpg",
-      "info": "ซีรีย์ไทย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -16827,8 +17010,8 @@
     },
     {
       "name": "Twenty Five Twenty One (2022) ยี่สิบห้า ยี่สิบเอ็ด EP.1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/02/axvl3VA1swAQUrChromXkkk8yI3-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -16930,8 +17113,8 @@
     },
     {
       "name": "Forecasting Love and Weather (2022) EP1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/02/3Qfh99m0jShWrqlFRsnWY7HeHNX-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -17033,8 +17216,8 @@
     },
     {
       "name": "Inventing Anna (2022) แอนนา มายา ลวง EP.1-9 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/02/jzCnl9wACp0eUMa3IG5e0aSJIXD-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -17094,8 +17277,8 @@
     },
     {
       "name": "Marvel s Jessica Jones (2015) EP.1-13 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/02/oxnWofiE9fHOgUfs9NJa6nG6NTR-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -17179,8 +17362,8 @@
     },
     {
       "name": "Fated to Love You (2014) ชะตารัก สะดุดเลิฟ EP.1-20 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/02/5JqmQ3EbQ6B3tQoMx1SFIbbhVuJ-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -17306,8 +17489,8 @@
     },
     {
       "name": "The Woman in the House Across the Street from the Girl in the Window (2022) ลางหลอน ซ่อนมรณะจ๊ะ EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/02/riSoMsWYkwqed4ul5PgHOnbIVFp-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -17361,8 +17544,8 @@
     },
     {
       "name": "In From The Cold (2022) สายลับเงารัสเซีย Season 1 EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/02/mND3MZbnOIasM3XaL2mXOVMvBw6-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -17416,8 +17599,8 @@
     },
     {
       "name": "Feria The Darkest Light (2022) เฟเรีย แสงที่มืดมิด Season 1 EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/02/k1m4aydO6752Czydk3Z8dR4yP0L-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -17471,8 +17654,8 @@
     },
     {
       "name": "Chosen (2022) ผู้ถูกเลือก EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/02/6xU7H8ovGhNvFf6Mc3WwgyU625p-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -17514,8 +17697,8 @@
     },
     {
       "name": "All of Us Are Dead (2022) มัธยมซอมบี้ EP.1-12 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/01/z4IP8ZiKctB5U9brfKHYujYBUTD-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -17593,8 +17776,8 @@
     },
     {
       "name": "Our Beloved Summer (2021) EP.1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/01/k8Z2CFIG1jGJoLWLO3j9lid6anO-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -17696,8 +17879,8 @@
     },
     {
       "name": "Heavenly Bites Mexico (2022) EP.1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/01/o3iRgpOxp4QeadJGQDutWf3BoMH-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -17739,8 +17922,8 @@
     },
     {
       "name": "Bulgasal Immortal Souls (2021) วิญญาณอมตะ EP.1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/01/4eO3rWtWobAkGkTUwx6zqAFEQ6T-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -17842,8 +18025,8 @@
     },
     {
       "name": "DOTA Dragons Blood (2021) เลือดมังกร Season1-2 EP.1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/01/s1wP1YeQS9fgSHiXZ3yJb2ufB2D-185x278.jpg",
-      "info": "ซีรีย์การ์ตูน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -17945,8 +18128,8 @@
     },
     {
       "name": "Archive 81 (2022) แฟ้มลับ 81 Season 1 EP.1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/01/l1jeSEm6a88GFcLzlHQr60D0dOi-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -18000,8 +18183,8 @@
     },
     {
       "name": "Rebelde (2022) ดนตรีวัยขบถ EP.1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/01/jRlI5euugVZR6a1Ptt0nSWeiWH-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -18055,8 +18238,8 @@
     },
     {
       "name": "Manifest (2018) เที่ยวบินพิศวง Season 1-4 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2022/01/1xeiUxShzNn8TNdMqy3Hvo9o2R-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -18374,8 +18557,8 @@
     },
     {
       "name": "Reflection of You 2021 EP.1-16 ตอนจบ",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/11/AjXKP32QrZehpWjhFiqIs0V0lRa-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -18477,8 +18660,8 @@
     },
     {
       "name": "Inspector Koo 2021 EP.1-12 (ตอนจบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/11/ihAWMJ3K9J7WwA3ph57lxCLsQGA-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -18556,8 +18739,8 @@
     },
     {
       "name": "Hellbound 2021 ทัณฑ์นรก EP.1-6 (จบแล้ว)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/11/5NYdSAnDVIXePrSG2dznHdiibMk-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -18599,8 +18782,8 @@
     },
     {
       "name": "Nevertheless รักนี้ห้ามไม่ได้ EP.1-10 จบแล้ว",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/11/pWIcIhpQibR1eDU0As4HRZeb8EL-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -18666,8 +18849,8 @@
     },
     {
       "name": "The Raincoat Killer: Chasing a Predator in Korea ฆาตกรเสื้อกันฝน ล่าฆาตกรต่อเนื่องเกาหลี EP.1-EP.3 (จบแล้ว)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/10/7Hjvk8ZRL5vovRpPTwVxjbruSsq-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -18691,8 +18874,8 @@
     },
     {
       "name": "My Name 2021 ตอนที่ 1-8 ตอนจบ",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/1eso059Pgrwn0fH3xoVpkcXELgV-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -18746,8 +18929,8 @@
     },
     {
       "name": "Midnight Mass 2021 มิดไนท์ แมส ตอนที่ 1-7 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/10/iYoMZYVD775MtBYJfv6OGY1FsnL-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -18795,8 +18978,8 @@
     },
     {
       "name": "Perfume น้ำหอมมนุษย์ ตอนที่ 1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/oT7Zodol33x7Z1McBXs9tyYNcxO-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -18838,8 +19021,8 @@
     },
     {
       "name": "The Indian Detective ตอนที่ 1-4 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/z46fxeWmLqxbsIPo0UoLj6Sm9OE-185x278.jpg",
-      "info": "ซีรีย์อินเดีย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -18869,8 +19052,8 @@
     },
     {
       "name": "Delhi Crime ล่าเดนเดลี ตอนที่ 1-7 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/aBmLuVY4OmVv7FldtvNiITaqvV0-185x278.jpg",
-      "info": "ซีรีย์อินเดีย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -18918,8 +19101,8 @@
     },
     {
       "name": "Bangkok Breaking 2021 มหานครเมืองลวง ตอนที่ 1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/nAru8tj4RXbLzDL3r89QoVyP6FY-185x278.jpg",
-      "info": "ซีรีย์ไทย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -18961,8 +19144,8 @@
     },
     {
       "name": "Squid Game 2021 สควิดเกม เล่นลุ้นตาย ตอนที่ 1-9 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/Squid-Game-2021-สควิดเกม-เล่นลุ้นตาย-185x278.png",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -19022,8 +19205,8 @@
     },
     {
       "name": "Squid Game 2021 สควิดเกม เล่นลุ้นตาย ตอนที่ 1-9 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/uu4TgyyW259aOZHN0Ew4TEfjnUG-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -19083,8 +19266,8 @@
     },
     {
       "name": "D.P. Deserter Pursuit 2021 หน่วยล่าทหารหนีทัพ ตอนที่ 1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/D.P.-หน่วยล่าทหารหนีทัพ-ซับไทย-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -19126,8 +19309,8 @@
     },
     {
       "name": "Hospital Playlist เพลย์ลิสต์ชุดกาวน์ Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/01/8MSjQkH2FrG0t4l84L5HmiSFrS7-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -19277,8 +19460,8 @@
     },
     {
       "name": "Dive Club ตอนที่ 1-12 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/n0pmXgbBepjIcE93g5OeqdCfZ60-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -19356,8 +19539,8 @@
     },
     {
       "name": "Control Z 2021 Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/fl6S0hvaYvFeRYGniMm9KzNg3AN-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -19459,8 +19642,8 @@
     },
     {
       "name": "Post Mortem: No One Dies in Skarnes 2021 ตอนที่ 1-6 จบ",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/pGahnC1yoYBGSXB3iDHWAT3kLlp-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -19502,8 +19685,8 @@
     },
     {
       "name": "Caliphate (Kalifat) ตอนที่ 1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/pkROJ1GSQ2fVJIFOOdk2IaxJ1v2-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -19557,8 +19740,8 @@
     },
     {
       "name": "La casa de papel (Money Heist) ทรชนคนปล้นโลก Season 1-5 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/02/MoEKaPFHABtA1xKoOteirGaHl1-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -19822,8 +20005,8 @@
     },
     {
       "name": "Money Heist ทรชนคนปล้นโลก Season 1-5 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/Money-Heist-ทรชนคนปล้นโลก-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -20087,8 +20270,8 @@
     },
     {
       "name": "Turning Point: 9/11 and the War on Terror ตอนที่ 1-5 จบ",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/09/z8tHFIO5Ol02X08ZS3taPff3kE6-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -20124,8 +20307,8 @@
     },
     {
       "name": "Open Your Eyes 2021 ตอนที่ 1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/08/bo8nYy9XZzn14d5KqyM3DWXiNJa-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -20167,8 +20350,8 @@
     },
     {
       "name": "Clickbait 2021 คลิกล่อตาย ตอนที่ 1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/08/q42t4S113jebD1khigJt8z3m1mD-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -20222,8 +20405,8 @@
     },
     {
       "name": "Brand New Cherry Flavor 2021 รสแค้นแสนหวาน ตอนที่ 1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/08/Brand-New-Cherry-Flavor-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -20277,8 +20460,8 @@
     },
     {
       "name": "Everything Will Be Fine 2021 ตอนที่ 1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/08/rGUEKs6jUgfGu4jqZjuCid5lDE6-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -20332,8 +20515,8 @@
     },
     {
       "name": "You Are My Spring 2021 เธอคือรักที่ผลิบาน ตอนที่ 1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/07/elwXwSRBJHxLqOtSYFztytB7vj-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -20429,8 +20612,8 @@
     },
     {
       "name": "The Chair 2021 ตอนที่ 1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/08/kz14K7vI2KNGyfTyBnYjBpA0pzQ-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -20472,8 +20655,8 @@
     },
     {
       "name": "Nevertheless 2021 รักนี้ห้ามไม่ได้ ตอนที่ 1-10 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/pWIcIhpQibR1eDU0As4HRZeb8EL-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -20539,8 +20722,8 @@
     },
     {
       "name": "Gone for Good 2021 ตอนที่ 1-5 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/08/xHNAlB1zc66LzwoqBIcd4utCF4S-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -20576,8 +20759,8 @@
     },
     {
       "name": "Brand New Cherry Flavor 2021 รสแค้นแสนหวาน ตอนที่ 1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/08/cX4acZbi2l4v051NJZfonqY0E3X-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -20631,8 +20814,8 @@
     },
     {
       "name": "Love (ft. Marriage and Divorce) รัก แต่ง เลิก Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/02/gyqkFhriSoWVsMTdH03XrXg6JR6-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -20830,8 +21013,8 @@
     },
     {
       "name": "Sexy Beasts 2021 เซ็กซี่ บีสต์ ตอนที่ 1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/08/d6PnWnOAh5279AWu1cQjlVleVwi-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -20873,8 +21056,8 @@
     },
     {
       "name": "Bodyguard บอดี้การ์ด พิทักษ์หักโหด ตอนที่ 1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/08/5DUJTrHTRLHLCKWriPhdusQogAv-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -20916,8 +21099,8 @@
     },
     {
       "name": "Black Lightning แบล็กไลท์นิง สายฟ้าแห่งยุติธรรม Season 1-4 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/04/h1xbvvO6oqchfLe6xh0yLNnQxeM-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -21271,8 +21454,8 @@
     },
     {
       "name": "Resident Evil: Infinite Darkness 2021 ผีชีวะ มหันตภัยไวรัสมืด ตอนที่ 1-4 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/07/xCHJq63FrXCJAF7v69Obd24siDF-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -21302,8 +21485,8 @@
     },
     {
       "name": "Young Royals 2021 เจ้าชาย ตอนที่ 1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/07/6CHznbr0BF78ar16zJwTVRYLLOX-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -21345,8 +21528,8 @@
     },
     {
       "name": "Hi Bye Mama! 2020 บ๊ายบายแม่จ๋า ตอนที่ 1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/07/mc5nLj2EM480d6tlxKsj2GRfsDC-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -21448,8 +21631,8 @@
     },
     {
       "name": "Extracurricular 2020 ชมรมลับ ธุรกิจรัก ตอนที่ 1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/sgzV6RNvc3e7LyRdht11NTS6tVv-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -21515,8 +21698,8 @@
     },
     {
       "name": "The Naked Director โป๊ บ้า กล้า รวย Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/02/nbeRva0jrmJAvRflXAe89CbD3Kg-185x278.jpg",
-      "info": "ซีรีย์ญี่ปุ่น",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -21618,8 +21801,8 @@
     },
     {
       "name": "The Rational Life 2021 ความรักหรือเหตุผล ตอนที่ 1-35 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/4KnAD28ZQPCJ21B8Fi0nvgUgawm-185x278.jpg",
-      "info": "ซีรีย์จีน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -21835,8 +22018,8 @@
     },
     {
       "name": "MINE 2021 ธาตุแท้ ตอนที่ 1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/05/zfEOS8RfMvNtoITnk2GwmH4GgDX-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -21938,8 +22121,8 @@
     },
     {
       "name": "Narcos: Mexico นาร์โคส: เม็กซิโก Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/gQQGxVhdBvT2l7G1Zz6JYSCmL6q-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -22065,8 +22248,8 @@
     },
     {
       "name": "13 Reasons Why 13 บันทึกลับหัวใจสลาย Season 1-4 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/nel144y4dIOdFFid6twN5mAX9Yd-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -22366,8 +22549,8 @@
     },
     {
       "name": "Mad for Each Other 2021 พบรักไว้พักใจ ตอนที่ 1-13 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/05/sav9luRrij21rBQfhUcbiI0e5XQ-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -22451,8 +22634,8 @@
     },
     {
       "name": "Black Summer 2021 หน้าร้อนทมิฬ วันสิ้นโลก Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/gx36rMh4CyZAZLVpypkNBhPsFT5-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -22554,8 +22737,8 @@
     },
     {
       "name": "Katla 2021 คัตลา อาถรรพ์เยือกแข็ง ตอนที่ 1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/vRPDQP51i1Z2RuoIQaxVSj7Pd5R-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -22609,8 +22792,8 @@
     },
     {
       "name": "Black Summer หน้าร้อนทมิฬ วันสิ้นโลก Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/tnRiTrHCL3k5F0QOtQhkQd3AAR5-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -22712,8 +22895,8 @@
     },
     {
       "name": "So Not Worth It 2021 วัยใส ๆ หัวใจสุดเปิ่น ตอนที่ 1-12 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/zdopgBFVozX2d1pIUmMZlfWj5t1-185x278.jpg",
-      "info": "ซีรีย์ไทย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -22791,8 +22974,8 @@
     },
     {
       "name": "Vincenzo 2021 วินเชนโซ่ ทนายมาเฟีย ตอนที่ 1-20 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/05/vincenzo-netflix-poster-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -22918,8 +23101,8 @@
     },
     {
       "name": "The Underclass ห้องนี้ไม่มีห่วย ตอนที่ 1-13 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/iDGmpAQzHfqa9gdLtgGbfpPf2Wx-185x278.jpg",
-      "info": "ซีรีย์ไทย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -23003,8 +23186,8 @@
     },
     {
       "name": "Crash Landing on You ปักหมุดรักฉุกเฉิน ตอนที่ 1-16 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/Crash-Landing-on-You-ปักหมุดรักฉุกเฉิน-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -23106,8 +23289,8 @@
     },
     {
       "name": "The End of the F***ing World โลกมันห่วย ช่วยไม่ได้ Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/vZQKQcB5n91c6tBofAVXq88Uuti-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -23209,8 +23392,8 @@
     },
     {
       "name": "My Holo Love 2020 วุ่นรักโฮโลแกรม ตอนที่ 1-12 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/nLbKNyUKq6WMMoPuL712m43MVhc-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -23288,8 +23471,8 @@
     },
     {
       "name": "Lovestruck in the City 2020 ความรักในเมืองใหญ่ ตอนที่ 1-17 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/ylSkgVyStX0DwSF8irjQVAf2P4H-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -23397,8 +23580,8 @@
     },
     {
       "name": "October Faction 2020 ครอบครัวล่าอสูร ตอนที่ 1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/7yrXh19tH2ThJHXriORT16WKbBi-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -23464,8 +23647,8 @@
     },
     {
       "name": "The Stranded เค้วง ตอนที่ 1-7 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/rbu2TRcFvx2hcZudG4lWJ8FqCiv-185x278.jpg",
-      "info": "ซีรีย์ไทย",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -23513,8 +23696,8 @@
     },
     {
       "name": "Equinox 2020 ตอนที่ 1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/bnU3Rz3nR844WZNOyrCk8W52DUs-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -23556,8 +23739,8 @@
     },
     {
       "name": "Law School 2021 ชีวิตนักเรียนกฏหมาย ตอนที่ 1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/04/ePKPXlfUtrJAsyW7EuNlfcYnvHM-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -23659,8 +23842,8 @@
     },
     {
       "name": "Sisyphus The Myth 2021 รหัสลับข้ามเวลา ตอนที่ 1-16 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/Sisyphus-The-Myth-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -23762,8 +23945,8 @@
     },
     {
       "name": "After Life Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/6eJf4h9XcvqK64vbx27EFlLVURm-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -23841,8 +24024,8 @@
     },
     {
       "name": "The Rise of Phoenixes หงสาประกาศิต ตอนที่ 1-70 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/oClpkfN2ath0GLZFstW1P7wMlan-185x278.jpg",
-      "info": "ซีรีย์จีน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -24268,8 +24451,8 @@
     },
     {
       "name": "Sweet Tooth 2021 ตอนที่ 1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/rgMfhcrVZjuy5b7Pn0KzCRCEnMX-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -24323,8 +24506,8 @@
     },
     {
       "name": "Castlevania แคสเซิลเวเนีย Season 1-4 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/lqS90fU1IEHSbga7X6Gej5amBvR-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -24522,8 +24705,8 @@
     },
     {
       "name": "Virgin River เวอร์จิน ริเวอร์ Season 1 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/jSm9HdxUy9PpsJt0mVAQ0y7gbDJ-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -24589,8 +24772,8 @@
     },
     {
       "name": "Handsome Siblings 2020 เซียวฮื่อยี้ ตอนที่ 1-44 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/05/ldntUGCVdI1twHkB4wtfqCrlRPn-185x278.jpg",
-      "info": "ซีรีย์จีน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -24860,8 +25043,8 @@
     },
     {
       "name": "Million Yen Women (100-manen no Onna-tachi) มิลเลี่ยน เยน วีเมน ตอนที่ 1-12 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/05/1p06R61PjdwiawDyh4KH33MnugH-185x278.jpg",
-      "info": "ซีรีย์ญี่ปุ่น",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -24939,8 +25122,8 @@
     },
     {
       "name": "The New Legends of Monkey ตอนที่ 1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/05/jwu04xIT0kNV9ZpVZ6wNBGPr0eG-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -25006,8 +25189,8 @@
     },
     {
       "name": "It’s Okay to Not Be Okay 2020 เรื่องหัวใจ ไม่ไหวอย่าฝืน ตอนที่ 1-16 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/05/6CvvTWcw9vSf5Zpgeot2ppE0P2D-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -25109,8 +25292,8 @@
     },
     {
       "name": "Bridgerton (2020) บริดเจอร์ตัน วังวนรัก เกมไฮโซ Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/05/qaewZKBKmXjb4ZfFBb1LCug6BE8-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -25212,8 +25395,8 @@
     },
     {
       "name": "The Ghost Bride 2020 เจ้าสาวเซ่นศพ ตอนที่ 1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/05/304PY6ufSpQStZQPwDA4OnfxFxg-185x278.jpg",
-      "info": "ซีรีย์จีน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -25255,8 +25438,8 @@
     },
     {
       "name": "Move to Heaven 2021 ตอนที่ 1-10 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/05/n277gYwCQOBcTnACEwiyU7Xg1m2-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -25322,8 +25505,8 @@
     },
     {
       "name": "Ghost Wars ตอนที่ 1-13 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/05/hdOWk4uAKXXPBdyLd54ejmbzpVP-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -25407,8 +25590,8 @@
     },
     {
       "name": "Arthdal Chronicles อาธดัล สงครามสยบบัลลังก์ ตอนที่ 1-18 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/05/k5bKj5U2Z7AgkK3Mekji8xDHOuD-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -25522,8 +25705,8 @@
     },
     {
       "name": "Marianne มารียาน ตอนที่ 1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/05/vORXihb6o0UvzHZfikBSD7H13Qk-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -25577,8 +25760,8 @@
     },
     {
       "name": "Ju-On: Origins 2020 จูออน กำเนิดโคตรผีดุ ตอนที่ 1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/05/3UIdgIMiU9BryQNegbbHrJvOBgC-185x278.jpg",
-      "info": "ซีรีย์ญี่ปุ่น",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -25620,8 +25803,8 @@
     },
     {
       "name": "Jupiter s Legacy 2021 จูปิเตอร์สเลกาซี ตอนที่ 1-8 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/05/9yxep7oJdkj3Pla9TD9gKflRApY-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -25675,8 +25858,8 @@
     },
     {
       "name": "iZombie สืบ กลืน สมอง Season 1-5 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/04/q4nqNwAhzVR7JuYctrWJvUWz3xR-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -26108,8 +26291,8 @@
     },
     {
       "name": "Vincenzo 2021 วินเชนโซ่ ทนายมาเฟีย ตอนที่ 1-20 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/06/dvXJgEDQXhL9Ouot2WkBHpQiHGd-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -26235,8 +26418,8 @@
     },
     {
       "name": "Navillera ดั่งผีเสื้อร่ายระบำ 2021 ตอนที่ 1-12 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/pBd6pEhszsWk95TrUqo4bdXhH8T-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -26314,8 +26497,8 @@
     },
     {
       "name": "Man to Man สุภาพบุรุษสายลับ ตอนที่ 1-16 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/04/iH7TlkTfhPesQdDsPSTqdagm15y-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -26417,8 +26600,8 @@
     },
     {
       "name": "Street Food อิ่มริมทาง เอเชีย ตอนที่ 1-9 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/04/1lye2ah4QAiWNXRqF9RkUoWUfaV-185x278.jpg",
-      "info": "ซีรีย์สารคดี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -26478,8 +26661,8 @@
     },
     {
       "name": "Our Planet โลกของเรา ตอนที่ 1-8 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/04/wRSnArnQBmeUYb5GWDU595bGsBr-185x278.jpg",
-      "info": "ซีรีย์สารคดี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -26533,8 +26716,8 @@
     },
     {
       "name": "Wok of Love กระทะเลิฟเสิร์ฟรัก ตอนที่ 1-19 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/04/dTh81YtdEzacHhnmLw1Tef7cBRl-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -26654,8 +26837,8 @@
     },
     {
       "name": "Romance is a Bonus Book ลุ้นรักฉบับโบนัส ตอนที่ 1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/04/3cbvygVSgmxN2r4f3nKE7uAv4Vg-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -26757,8 +26940,8 @@
     },
     {
       "name": "Hello Me! ตอนที่ 1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/02/eJomyEtQE9WF2GZWXcfzj3Omb5Q-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -26860,8 +27043,8 @@
     },
     {
       "name": "Sisyphus: The Myth รหัสลับข้ามเวลา ตอนที่ 1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/02/qK5IluP3A7HZ5mDuIKrN9d2yNv2-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -26963,8 +27146,8 @@
     },
     {
       "name": "Arthdal Chronicles อาธดัล สงครามสยบบัลลังก์ ตอนที่ 1-18 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/04/อาธดัล-สงครามสยบบัลลังก์-Arthdal-Chronicles-ซับไทย-185x278.png",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -27078,8 +27261,8 @@
     },
     {
       "name": "Abyss ลูกแก้วคืนวิญญาณ ตอนที่ 1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/04/ttcqbLutnHABQwDiW1k7dxnsJLV-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -27181,8 +27364,8 @@
     },
     {
       "name": "Snowpiercer ปฎิวัติฝ่านรกน้ำแข็ง Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/01/95xQPSqwvQDRoB3rXUn4lRyJrBW-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -27308,8 +27491,8 @@
     },
     {
       "name": "Chilling Adventures of Sabrina ซาบริน่า สาวน้อยต้องสาป Season 1-4 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/yxMpoHO0CXP5o9gB7IfsciilQS4-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -27531,8 +27714,8 @@
     },
     {
       "name": "The Flash วีรบุรุษเหนือแสง Season 1-7 (รอการอัพเดต)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/lJA2RCMfsWoskqlQhXPSLFQGXEJ-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -28336,8 +28519,8 @@
     },
     {
       "name": "Shadowhunters นักล่าเงา Season 1-3 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/66YHvvVduC21xcMXPpBBF0ywyVZ-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -28673,8 +28856,8 @@
     },
     {
       "name": "The Devil Punisher 2020 ผู้พิพากษ์ปีศาจ ตอนที่ 1-20 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/5IqheXmeFSymI4GDhJQcAHwXotg-185x278.jpg",
-      "info": "ซีรีย์จีน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -28800,8 +28983,8 @@
     },
     {
       "name": "The Umbrella Academy (2019) ดิ อัมเบรลลา อคาเดมี่ Season 1-3 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/scZlQQYnDVlnpxFTxaIv2g0BWnL-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -28987,8 +29170,8 @@
     },
     {
       "name": "Star Trek: Discovery Season 1-3 (รอการอัพเดต)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/98RYSYsRNKWgrAAFBn0WfploUG7-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -29168,8 +29351,8 @@
     },
     {
       "name": "The Prince of Tennis สิงห์หนุ่มสนามเทนนิส ตอนที่ 1-40 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/jx9fHJvB7qPvKOzi91IekCwpvHv-185x278.jpg",
-      "info": "ซีรีย์จีน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -29415,8 +29598,8 @@
     },
     {
       "name": "Altered Carbon Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/95IsiH4p5937YXQHaOS2W2dWYOG-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -29530,8 +29713,8 @@
     },
     {
       "name": "Marvel’s Iron Fist ไอรอน ฟิสต์ Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/4l6KD9HhtD6nCDEfg10Lp6C6zah-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -29675,8 +29858,8 @@
     },
     {
       "name": "Peaky Blinders Season 1-5 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/6PX0r5TRRU5y0jZ70y1OtbLYmoD-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -29862,8 +30045,8 @@
     },
     {
       "name": "Love Alarm แอปเลิฟเตือนรัก Season 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/hQ8Hobo1RpYuZVQJQOCycNMHAG-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -29953,8 +30136,8 @@
     },
     {
       "name": "Kingdom ผีดิบคลั่ง บัลลังก์เดือด Season 1-3 (รอการอัพเดต)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/AsICtiVtz4icMQQRwDvOzfaTzjK-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -30032,8 +30215,8 @@
     },
     {
       "name": "Private Lives ตอนที่ 1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/xLFKRcp81TnBRs1bc3FHOhylcjB-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -30135,8 +30318,8 @@
     },
     {
       "name": "The Order ภาคีมิติลับ Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/yMPjmuSd5Fac8YMNOwofGALQWjR-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -30262,8 +30445,8 @@
     },
     {
       "name": "Record of Youth 2020 เส้นทางดาว ตอนที่ 1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/54yTLS5d4OPOuunzOvHlmP82eIT-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -30365,8 +30548,8 @@
     },
     {
       "name": "The School Nurse Files 2020 ครูพยาบาลแปลก ปีศาจป่วน ตอนที่ 1-6 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/dXHM5MSdrRJJvsbakjC3BSBEsOD-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -30408,8 +30591,8 @@
     },
     {
       "name": "Do Do Sol Sol La La Sol 2020 โน้ตรักทำนองหวาน ตอนที่ 1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/v2LOL5NLuHivBhOQ1ybEBgyAVpC-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -30511,8 +30694,8 @@
     },
     {
       "name": "Memories of the Alhambra อาลัมบรา มายาพิศวง ตอนที่ 1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/18UuytTxcPSrhptyW7hHDenN70C-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -30614,8 +30797,8 @@
     },
     {
       "name": "The Haunting of Hill House 2018 ฮิลล์เฮาส์ บ้านกระตุกวิญญาณ ตอนที่ 1-10 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/38PkhBGRQtmVx2drvPik3F42qHO-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -30681,8 +30864,8 @@
     },
     {
       "name": "My Country The New Age พลิกชาติท้าปฐพี ตอนที่ 1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/dU6JSuUSy2ZkWdlMUKzkJjhqtKD-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -30784,8 +30967,8 @@
     },
     {
       "name": "Pacific Rim: The Black 2021 สงครามอสูรเหล็ก: สมรภูมิมืด ตอนที่ 1-7 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/s3mOpPwrcKCPVkSWGqEwOah4jdX-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -30833,8 +31016,8 @@
     },
     {
       "name": "Marvel’s Daredevil Season 1-3 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/03/QWbPaDxiB6LW2LjASknzYBvjMj-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -31074,8 +31257,8 @@
     },
     {
       "name": "Start Up สตาร์ทอัพ ตอนที่ 1-16 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2020/10/hxJQ3A2wtreuWDnVBbzzXI3YlOE-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -31177,8 +31360,8 @@
     },
     {
       "name": "Stranger (Bimilui Soop) สเตรนเจอร์ Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/02/blbbtx7DyvZ3JTGyc9MCArDL79b-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -31376,8 +31559,8 @@
     },
     {
       "name": "Grace and Frankie Season 1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/02/unIKaIljv3ea6RM0V6YOjLCVqx2-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -31851,8 +32034,8 @@
     },
     {
       "name": "Tribes of Europa ยูโรปาทมิฬ ตอนที่ 1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/02/6zZxAFOtNwHCtTgSc2hU7pVIvDl-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -31894,8 +32077,8 @@
     },
     {
       "name": "A Love So Beautiful (2020) ตอนที่ 1-24 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/02/4EzrCBnBdeLAZENNQcYzYq933B-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -32045,8 +32228,8 @@
     },
     {
       "name": "Unrequited Love แอบรัก ตอนที่ 1-24 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/02/8GZ7jvWjfxpfCDMG0xXaJIyqQjq-185x278.jpg",
-      "info": "ซีรีย์จีน",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -32196,8 +32379,8 @@
     },
     {
       "name": "Ozark โอซาร์ก Season 1-3 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/02/oy7Peo5iFIt9sNM59lN6csbJeX2-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -32383,8 +32566,8 @@
     },
     {
       "name": "Stranger Things สเตรนเจอร์ ธิงส์ Season 1-4 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/02/x2LSRK2Cm7MZhjluni1msVJ3wDF-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -32582,8 +32765,8 @@
     },
     {
       "name": "The Crown เดอะ คราวน์ Season 1-6 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/02/7IbBxgYjpOp0i6BT1GRhrQ5EHBt-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -32949,8 +33132,8 @@
     },
     {
       "name": "Orange Is the New Black Season 1-7 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/02/ekaa7YjGPTkFLcPhwWXTnARuCEU-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -33502,8 +33685,8 @@
     },
     {
       "name": "The Queen’s Gambit เกมกระดานแห่งชีวิต ตอนที่ 1-7 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/02/zU0htwkhNvBQdVSIKB9s6hgVeFK-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -33551,8 +33734,8 @@
     },
     {
       "name": "Run On วิ่งนำรัก ตอนที่ 1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/01/lS4cOR2WxHs2h4pegNUaZVVIyNA-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -33654,8 +33837,8 @@
     },
     {
       "name": "Rookie Historian Goo Hae-Ryung กูแฮรยอง นารีจารึกโลก ตอนที่ 1-20 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/01/ijHgv6ZbvW4ZUu2QbHwOSb3YPTK-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -33781,8 +33964,8 @@
     },
     {
       "name": "Marvel s Luke Cage มาร์เวล ลุคเคจ ปี 1-2 (จบ)",
+      "info": "พากย์ไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/01/quTfV803fGaSADzTeEqCbIZnt9d-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -33944,8 +34127,8 @@
     },
     {
       "name": "Lost in Space ทะลุโลกหลุดจักรวาล Season 1-2 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/01/83mK4CnvRPFSqcyO3s3lq6aDy1x-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -34071,8 +34254,8 @@
     },
     {
       "name": "Lupin จอมโจรลูแปง ตอนที่ 1-5 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/01/sgxawbFB5Vi5OkPWQLNfl3dvkNJ-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -34108,8 +34291,8 @@
     },
     {
       "name": "Black Mirror แบล็ก มิร์เรอร์ Seasons 1-5 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/01/pXeuSWSKgWUnhRFHZ4TjAUU8lbE-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -34247,8 +34430,8 @@
     },
     {
       "name": "Lucifer ลูซิเฟอร์ ยมทูตล้างนรก",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2021/01/4EYPN5mVIhKLfxGruy7Dy41dTVn-185x278.jpg",
-      "info": "ซีรีย์ฝรั่ง",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
@@ -34704,8 +34887,8 @@
     },
     {
       "name": "Start Up (2020) สตาร์ทอัพ ตอนที่ 1-16 (จบ)",
+      "info": "ซับไทย",
       "image": "https://tvallseries.co/wp-content/uploads/2020/10/hxJQ3A2wtreuWDnVBbzzXI3YlOE-185x278.jpg",
-      "info": "ซีรีย์เกาหลี",
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
