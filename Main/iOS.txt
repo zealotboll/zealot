@@ -72,6 +72,12 @@
 	"import":"true"
   },
   {
+	"name": "24-hd",
+	"image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/24-hd/24-hd_หนังใหม่-2023.w3u",
+	"import": "true"
+  },
+  {
 	"name":"Dooseries4k", 
 	"image":"https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
 	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/DooSeries4K/รวม.txt",
