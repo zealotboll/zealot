@@ -1,6 +1,6 @@
 {
  "name": "School",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 17 กันยายน 2566",
+ "author": "เจียว เจียว อัพวันที่ 4 ตุลาคม 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
  "groups": [
@@ -514,12 +514,6 @@
      "name": "ตอนที่ 19",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/09/My-Sunshine-2015-รอรักกลับมา-พากย์ไทย.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/CoUAUnzz/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/09/My-Sunshine-2015-รอรักกลับมา-พากย์ไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/ZWtux2E2/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     },
     {
@@ -1216,12 +1210,6 @@
      "name": "ตอนที่ 6",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/07/Attention-Love-2017-ลุ้นรักฉบับคู่ต่างขั้ว-พากย์ไทย.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/newvidlDmqQ8ry/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/07/Attention-Love-2017-ลุ้นรักฉบับคู่ต่างขั้ว-พากย์ไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/newvido9Xs0qM/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     },
     {
@@ -3774,39 +3762,13 @@
    "name": "Kyojo 2 (2021) – ซับไทย",
    "info": "Kyojo 2 (2021) – ซับไทย 2021  ซีซั่น 2 Ep 2",
    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Kyojo-2-2021-ซับไทย.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Kyojo-2-2021-ซับไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/ge80uIbG/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Kyojo-2-2021-ซับไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/JhnZn12/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
+   "stations": []
   },
   {
    "name": "Kyojo (2020) – ซับไทย",
    "info": "Kyojo (2020) – ซับไทย 2020  ซีซั่น 1 Ep 2",
    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Kyojo-2020-–-ซับไทย.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Kyojo-2020-–-ซับไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/f9x6swJ/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Kyojo-2020-–-ซับไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/0gNMFoMo/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
+   "stations": []
   },
   {
    "name": "From Today, It’s My Turn!! (2018) – คู่ซ่าฮาคูณสอง (ซับไทย)",

@@ -1,9 +1,40 @@
 {
  "name": "วาไรตี้",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 17 กันยายน 2566",
+ "author": "เจียว เจียว อัพวันที่ 4 ตุลาคม 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
  "groups": [
+  {
+   "name": "The Devil’s Plan (พากย์ไทย)",
+   "info": "The Devil’s Plan (พากย์ไทย) 2023  ซีซั่น 1 Ep 4",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/final-2-1.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/final-2-1.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/WGPuqja8G2/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/final-2-1.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/9s4mvqleUM/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/final-2-1.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/vtDYnxRVy/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/final-2-1.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/rwaulrmFAX/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    }
+   ]
+  },
   {
    "name": "Is She the Wolf? 2023  – ใครหนอ…เป็นหมาป่า (ซับไทย)",
    "info": "Is She the Wolf? 2023  – ใครหนอ…เป็นหมาป่า (ซับไทย) 2023  ซีซั่น 14 Ep 12",

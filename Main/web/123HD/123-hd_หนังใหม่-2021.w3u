@@ -1,9 +1,54 @@
 {
   "name": "หนังใหม่ 2021",
-  "author": "เจียว เจียว อัพวันที่ 27 พฤศจิกายน 2566",
+  "author": "เจียว เจียว อัพวันที่ 08 มกราคม 2567",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "Tokyo Revengers (2021) โตเกียว รีเวนเจอร์ส",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Tokyo-Revengers-2021-โตเกียว-รีเวนเจอร์ส-300x450.png",
+      "stations": [
+        {
+          "name": "Tokyo Revengers The Movie ภาค 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Tokyo-Revengers-2021-โตเกียว-รีเวนเจอร์ส-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/18a4ca3ea0cad2ab1d42d41b4503bfde/18a4ca3ea0cad2ab1d42d41b4503bfde.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Tokyo Revengers The Movie ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Tokyo-Revengers-2021-โตเกียว-รีเวนเจอร์ส-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/4b7b91e94655c5569020a543/4b7b91e94655c5569020a543438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Madres (2021) สามานย์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Madres-2021-สามานย์-300x450.jpg",
+      "stations": [
+        {
+          "name": "Madres (2021) สามานย์",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Madres-2021-สามานย์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/bd6806bf243ec84e88d9b0f2/bd6806bf243ec84e88d9b0f2438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Madres (2021) สามานย์",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Madres-2021-สามานย์-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/34137740d7a92ffc1db0dbae/34137740d7a92ffc1db0dbae800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Spencer (2021) สเปนเซอร์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Spencer-2021-สเปนเซอร์-300x450.jpg",
+      "stations": []
+    },
     {
       "name": "Escape from Mogadishu (2021) หนีตาย โมกาดิชู",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Escape-from-Mogadishu-2021-หนีตาย-โมกาดิชู-300x450.png",
@@ -537,26 +582,6 @@
       ]
     },
     {
-      "name": "Oh My Ghost! The Fierce Escape from Covid-19 (2021) หอแต๋วแตก แหกโควิดปังปุริเย่",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021-หอแต๋วแตก-แหกโควิดปังปุริเย่-300x450.jpg",
-      "stations": [
-        {
-          "name": "Oh My Ghost! The Fierce Escape from Covid-19 (2021) หอแต๋วแตก แหกโควิดปังปุริเย่",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021-หอแต๋วแตก-แหกโควิดปังปุริเย่-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/84512fde5b5a1d88d20cfcc8/84512fde5b5a1d88d20cfcc8438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Oh My Ghost! The Fierce Escape from Covid-19 (2021) หอแต๋วแตก แหกโควิดปังปุริเย่",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Oh-My-Ghost-The-Fierce-Escape-from-Covid-19-2021-หอแต๋วแตก-แหกโควิดปังปุริเย่-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/4e12f3d598dcefe21295eefe/4e12f3d598dcefe21295eefe800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "Legend of Snake 2 Tai Sui (2021) ตำนานงูขาว 2",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Legend-of-Snake-2-Tai-Sui-2021-ตำนานงูขาว-2-300x450.jpg",
       "stations": [
@@ -754,7 +779,7 @@
           "name": "ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Queenmaker-2023-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/2d351c1eb8b4473c8d573759/2d351c1eb8b4473c8d573759438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/2d351c1eb8b4473c8d573759/2d351c1eb8b4473c8d573759.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2236,14 +2261,14 @@
       "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Tokyo-Revengers-2021-โตเกียว-รีเวนเจอร์ส-300x450.png",
       "stations": [
         {
-          "name": "Tokyo Revengers (2021) โตเกียว รีเวนเจอร์ส",
+          "name": "Tokyo Revengers The Movie ภาค 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Tokyo-Revengers-2021-โตเกียว-รีเวนเจอร์ส-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/18a4ca3ea0cad2ab1d42d41b4503bfde/18a4ca3ea0cad2ab1d42d41b4503bfde.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "Tokyo Revengers (2021) โตเกียว รีเวนเจอร์ส",
+          "name": "Tokyo Revengers The Movie ภาค 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Tokyo-Revengers-2021-โตเกียว-รีเวนเจอร์ส-300x450.png",
           "url": "https://main.77player.xyz/m3u8/4b7b91e94655c5569020a543/4b7b91e94655c5569020a543438.m3u8",
@@ -2600,368 +2625,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/06/Down-with-the-King-2021-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/798dc4ceaf321a171dd5abcd5f670519/798dc4ceaf321a171dd5abcd5f670519.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "King Richard (2021) คิง ริชาร์ด",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/06/King-Richard-2021-คิง-ริชาร์ด-300x450.png",
-      "stations": [
-        {
-          "name": "King Richard (2021) คิง ริชาร์ด",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/King-Richard-2021-คิง-ริชาร์ด-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/82be8c70e27fa3de4963d9a837c7290b/82be8c70e27fa3de4963d9a837c7290b.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "King Richard (2021) คิง ริชาร์ด",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/06/King-Richard-2021-คิง-ริชาร์ด-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/3157d08784001b71b2fb7a3e8ea08d92/3157d08784001b71b2fb7a3e8ea08d92.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Sell Your Haunted House (2021) [จบแล้ว]",
-      "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/2225290766c2da801ca451cfd24e8e5a/2225290766c2da801ca451cfd24e8e5a.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/bc3b51a48e76be0b0844e939091e3018/bc3b51a48e76be0b0844e939091e3018.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/f7f9ebd9cfc9d5a2b5fefc0835ef8ba4/f7f9ebd9cfc9d5a2b5fefc0835ef8ba4.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/1aaac89566c6f33ee9b3962a7fc0e110/1aaac89566c6f33ee9b3962a7fc0e110.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/168f04557563d7fcf5456c6fa45b5396/168f04557563d7fcf5456c6fa45b5396.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/53ba73d1ee98772f467e5ce510d89f6d/53ba73d1ee98772f467e5ce510d89f6d.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/ea399c289a9fa8fa0f9d5ac7d216374c/ea399c289a9fa8fa0f9d5ac7d216374c.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/b7f37a2758b6b1ef664c333b1dbd78fd/b7f37a2758b6b1ef664c333b1dbd78fd.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/3916bf6e68d207e8dfc2ceeb/3916bf6e68d207e8dfc2ceeb438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/2c2abc5aa97c86ffed377989c95be41a/2c2abc5aa97c86ffed377989c95be41a.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/38954ea59aefdfc56c51fc8f/38954ea59aefdfc56c51fc8f438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/1f0e756660abbc12085a4240/1f0e756660abbc12085a4240438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/2124c40a39092e3e3965c819/2124c40a39092e3e3965c819438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/d400a1f57abbcd5aee3c269b/d400a1f57abbcd5aee3c269b438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/65924e00f1e84cfeab64a81d/65924e00f1e84cfeab64a81d438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/67c5b22550227b91275adc5b50c80290/67c5b22550227b91275adc5b50c80290.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/d5dcdbf5c18b0ecdeb419d6d3a9a1ec8/d5dcdbf5c18b0ecdeb419d6d3a9a1ec8.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/2b72c182a11861a14663f3c74cccdc8f/2b72c182a11861a14663f3c74cccdc8f.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/3d039a822a2d309318431162a74f470d/3d039a822a2d309318431162a74f470d.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/0a07757ce2da136551505c9d/0a07757ce2da136551505c9d438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 11",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/ec882e5bb96a6f6a1f75ebb13fc1381a/ec882e5bb96a6f6a1f75ebb13fc1381a.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 11",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/fea17b07101f1cadc27c480a2bd7edd4/fea17b07101f1cadc27c480a2bd7edd4.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 12",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/1b05cf5cbbc3d8d302a5c4a76967d103/1b05cf5cbbc3d8d302a5c4a76967d103.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 12",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/d3c6618012dd10dec8dbb1c7/d3c6618012dd10dec8dbb1c7438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 13",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/9ae168301c3731fceec1df611f8bf7b9/9ae168301c3731fceec1df611f8bf7b9.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 13",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/2156723f05a660b26f1a9612/2156723f05a660b26f1a9612438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 14",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/d7d40db7f7a0efd3f73b764e135e97b7/d7d40db7f7a0efd3f73b764e135e97b7.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 14",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/5f15f75f8c8b480de48490c73274ec61/5f15f75f8c8b480de48490c73274ec61.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 15",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/21ad7f4754cb5820c5ea6c1be7b10af0/21ad7f4754cb5820c5ea6c1be7b10af0.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 15",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/610b0fd091c5b10d5823fe83/610b0fd091c5b10d5823fe83438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 16",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/abca5d978ea1f3b7bc901e7426fe1145/abca5d978ea1f3b7bc901e7426fe1145.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 16",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/f9cd2b62cb8070d16ff99f0e/f9cd2b62cb8070d16ff99f0e438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 17",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/a6d1486d53c4a77a99a0d8cd/a6d1486d53c4a77a99a0d8cd438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 18",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/36acacf7cfc5c9e6b0a23ccf752465ca/36acacf7cfc5c9e6b0a23ccf752465ca.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 19",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/83156fa60a5f9b1a5a02705b21986d49/83156fa60a5f9b1a5a02705b21986d49.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 20",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/7564becab1d585cfc40efcb4/7564becab1d585cfc40efcb4438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 21",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/a0c7d6d70f23c695ba639a0a92adfdb3/a0c7d6d70f23c695ba639a0a92adfdb3.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 22",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/9d6d9b1de45697e267ffead4/9d6d9b1de45697e267ffead4438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 23",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/cc86570cc23aef43f2c9482d0914b33c/cc86570cc23aef43f2c9482d0914b33c.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 24",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/d4c66d3f9b3c4d49c4570635/d4c66d3f9b3c4d49c4570635438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 25",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/48f1b742f877801f727cd282a49e8eb6/48f1b742f877801f727cd282a49e8eb6.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 26",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/66fedbd6ee65c226382fc520/66fedbd6ee65c226382fc520438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 27",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/6eb94a5df98e7521c885fe3c/6eb94a5df98e7521c885fe3c438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 28",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://main.77player.xyz/m3u8/cb2cd0f33d17882b5029ce57/cb2cd0f33d17882b5029ce57438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 29",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/dc95b68ee2e2f93e040e2c2f027cf1de/dc95b68ee2e2f93e040e2c2f027cf1de.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 30",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/42c96c0202b613e71a2eddc4d181e2f4/42c96c0202b613e71a2eddc4d181e2f4.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 31",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/601195e6c922a32bbc96e54de381109d/601195e6c922a32bbc96e54de381109d.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "ตอนที่ 32",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/04/Sell-Your-Haunted-House-2021-300x450.jpeg",
-          "url": "https://xxx.77player.xyz/ioshls/c9608292475d6e40d3d4c6f64e3dee6b/c9608292475d6e40d3d4c6f64e3dee6b.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3655,7 +3318,7 @@
           "name": "A Writer's Odyssey (2021) จอมยุทธ์ทะลุภพ",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/03/A-Writers-Odyssey-2021-จอมยุทธ์ทะลุภพ-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/7d5e83418dc6e8f5ac0b33a7/7d5e83418dc6e8f5ac0b33a7438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/7d5e83418dc6e8f5ac0b33a7/7d5e83418dc6e8f5ac0b33a7.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -5841,11 +5504,6 @@
       ]
     },
     {
-      "name": "Sinkhole (2021) ฝ่าวิกฤต หลุมระทึก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2021/10/Sinkhole-300x450.jpeg",
-      "stations": []
-    },
-    {
       "name": "Halloween Kills (2021) ฮาโลวีนสังหาร",
       "image": "https://www.123-hd.com/wp-content/uploads/2021/11/Halloween-Kills-2021-ฮาโลวีนสังหาร-300x450.png",
       "stations": [
@@ -6282,13 +5940,6 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/11/Yara-2021-หนูน้อยยารา-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/6287ff097419bad7f04f9060e9635735/6287ff097419bad7f04f9060e9635735.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Yara (2021) หนูน้อยยารา",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2021/11/Yara-2021-หนูน้อยยารา-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/db60af64f8d03710f9e7e91f7656dc8b/db60af64f8d03710f9e7e91f7656dc8b.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -6836,6 +6487,13 @@
           "image": "https://www.123-hd.com/wp-content/uploads/2021/09/Spirit-Untamed-2021-สปิริต-ม้าพยศหัวใจแกร่ง-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/7f3d9aec68f353cc702176c38ddd6fd5/7f3d9aec68f353cc702176c38ddd6fd5.m3u8",
           "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Spirit Untamed (2021) สปิริต ม้าพยศหัวใจแกร่ง",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2021/09/Spirit-Untamed-2021-สปิริต-ม้าพยศหัวใจแกร่ง-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/4da9fa9c5f2056d29227a779fda00761/4da9fa9c5f2056d29227a779fda00761.m3u8",
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -7124,7 +6782,7 @@
           "name": "Rurouni Kenshin The Beginning (2021) รูโรนิ เคนชิน ซามูไรพเนจร ปฐมบท",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/07/Rurouni-Kenshin-The-Beginning-2021-รูโรนิ-เคนชิน-ซามูไรพเนจร-ปฐมบท-300x450.png",
-          "url": "https://main.77player.xyz/newplaylist/22156ca03765a7e20f7ef93e/22156ca03765a7e20f7ef93e.m3u8",
+          "url": "https://main.77player.xyz/m3u8/22156ca03765a7e20f7ef93e/22156ca03765a7e20f7ef93e438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -8746,11 +8404,6 @@
       ]
     },
     {
-      "name": "Death Chasing (2021) ล่ามรณะ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Death-Chasing-2021-300x450.jpg",
-      "stations": []
-    },
-    {
       "name": "Proud of Love (2021) อย่าหยิ่งยะโสเกินไป",
       "image": "https://www.123-hd.com/wp-content/uploads/2021/03/Proud-of-Love-2021-อย่าหยิ่งยะโสเกินไป-300x450.png",
       "stations": [
@@ -8870,21 +8523,21 @@
     },
     {
       "name": "News of the World (2021) นิวส์ ออฟ เดอะ เวิลด์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2021/02/News-of-the-World-2021-นิวส์-ออฟ-เดอะ-เวิลด์-300x450.png",
+      "image": "https://ok.ru/wp-content/uploads/2021/02/News-of-the-World-2021-นิวส์-ออฟ-เดอะ-เวิลด์-300x450.png",
       "stations": [
         {
           "name": "News of the World (2021) นิวส์ ออฟ เดอะ เวิลด์",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/02/News-of-the-World-2021-นิวส์-ออฟ-เดอะ-เวิลด์-300x450.png",
           "url": "https://main.77player.xyz/m3u8/856599f31e165b223d8f257e/856599f31e165b223d8f257e438.m3u8",
-          "referer": "https://ok.ru/"
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "News of the World (2021) นิวส์ ออฟ เดอะ เวิลด์",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/02/News-of-the-World-2021-นิวส์-ออฟ-เดอะ-เวิลด์-300x450.png",
           "url": "https://main.77player.xyz/m3u8/55306a3a7f5445309f5e77d0/55306a3a7f5445309f5e77d0438.m3u8",
-          "referer": "https://ok.ru/"
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -8897,14 +8550,14 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/02/Space-Sweepers-2021-ชนชั้นขยะปฏิวัติจักรวาล-300x450.png",
           "url": "https://main.77player.xyz/m3u8/e45f5c40b0085a870b0616af/e45f5c40b0085a870b0616af438.m3u8",
-          "referer": "https://ok.ru/"
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "Space Sweepers (2021) ชนชั้นขยะปฏิวัติจักรวาล",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/02/Space-Sweepers-2021-ชนชั้นขยะปฏิวัติจักรวาล-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/73d192d4c1883f254ff389c799c7dacf/73d192d4c1883f254ff389c799c7dacf.m3u8",
-          "referer": "https://ok.ru/"
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -8917,7 +8570,7 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/02/The-Yin-Yang-Master-Dream-of-Eternity-2021-หยิน-หยาง-ศึกมหาเวทสะท้านพิภพ-สู่ฝันอมตะ-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/575af9aa1e3ac645951d2417ef98552a/575af9aa1e3ac645951d2417ef98552a.m3u8",
-          "referer": "https://ok.ru/"
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -8930,14 +8583,14 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/01/The-White-Tiger-2021-พยัคฆ์ขาวรำพัน-300x450.png",
           "url": "https://main.77player.xyz/m3u8/db05849a1ec5175127aeeed7/db05849a1ec5175127aeeed7438.m3u8",
-          "referer": "https://ok.ru/"
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "The White Tiger (2021) พยัคฆ์ขาวรำพัน",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/01/The-White-Tiger-2021-พยัคฆ์ขาวรำพัน-300x450.png",
           "url": "https://main.77player.xyz/m3u8/43e5f089273b3036da158e4e/43e5f089273b3036da158e4e438.m3u8",
-          "referer": "https://ok.ru/"
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -8950,14 +8603,14 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Outside-the-Wire-2021-สมรภูมินอกลวดหนาม-300x450.png",
           "url": "https://main.77player.xyz/m3u8/1d2885ea3f028854ba491bb3/1d2885ea3f028854ba491bb3438.m3u8",
-          "referer": "https://ok.ru/"
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "Outside the Wire (2021) สมรภูมินอกลวดหนาม",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Outside-the-Wire-2021-สมรภูมินอกลวดหนาม-300x450.png",
           "url": "https://main.77player.xyz/m3u8/9ca4ebe91b5f513e14abcb3f/9ca4ebe91b5f513e14abcb3f438.m3u8",
-          "referer": "https://ok.ru/"
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -8970,7 +8623,7 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Locked-Down-2021-300x450.png",
           "url": "https://main.77player.xyz/m3u8/7e53d254b7f0e26494be9d31/7e53d254b7f0e26494be9d31438.m3u8",
-          "referer": "https://ok.ru/"
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -8983,7 +8636,7 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/01/What-Happened-to-Mr-Cha-2021-ชาอินพโย-สุภาพบุรุษสุดขั้ว-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/80cb0b054172a855171c11d3f4acfcb2/80cb0b054172a855171c11d3f4acfcb2.m3u8",
-          "referer": "https://ok.ru/"
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -8996,7 +8649,7 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Tony-Parker-The-Final-Shot-2021-โทนี่-ปาร์คเกอร์-ช็อตสุดท้าย-300x450.png",
           "url": "https://main.77player.xyz/m3u8/78abdd973381e208492b5df3/78abdd973381e208492b5df3438.m3u8",
-          "referer": "https://ok.ru/"
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -9009,7 +8662,7 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/01/The-Minimalists-Less-Is-Now-2021-มินิมอลลิสม์-ถึงเวลามักน้อย-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/1788ea152ef8dd3488235fafe6fb9375/1788ea152ef8dd3488235fafe6fb9375.m3u8",
-          "referer": "https://ok.ru/"
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -9022,14 +8675,14 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/12/Sing.2-300x450.jpeg",
           "url": "https://xxx.77player.xyz/ioshls/59628b681a600a2085934b39e604e842/59628b681a600a2085934b39e604e842.m3u8",
-          "referer": "https://ok.ru/"
+          "referer": "https://www.123-hd.com/"
         },
         {
           "name": "Sing 2 (2021) ร้องจริงเสียงจริง 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2021/12/Sing.2-300x450.jpeg",
           "url": "https://xxx.77player.xyz/ioshls/7183742ba44cec8fe03a60497868fdaa/7183742ba44cec8fe03a60497868fdaa.m3u8",
-          "referer": "https://ok.ru/"
+          "referer": "https://www.123-hd.com/"
         }
       ]
     }

@@ -1,12 +1,12 @@
 {
  "name": "ซีรีย์วาย",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 17 กันยายน 2566",
+ "author": "เจียว เจียว อัพวันที่ 4 ตุลาคม 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
  "groups": [
   {
    "name": "Kiseki: Dear to Me (ซับไทย)",
-   "info": "Kiseki: Dear to Me (ซับไทย) 2023  ซีซั่น 1 Ep 5",
+   "info": "Kiseki: Dear to Me (ซับไทย) 2023  ซีซั่น 1 Ep 7",
    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692701683-1254-ryPh1eDxQmH81sswQG6cMrbnccR.jpg",
    "stations": [
     {
@@ -37,6 +37,18 @@
      "name": "ตอนที่ 5",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692701683-1254-ryPh1eDxQmH81sswQG6cMrbnccR.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/HlV861uGrm/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692701683-1254-ryPh1eDxQmH81sswQG6cMrbnccR.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/58OgyKBJfi/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/08/1692701683-1254-ryPh1eDxQmH81sswQG6cMrbnccR.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/vnAKbh16AK/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     }
    ]
@@ -1373,44 +1385,7 @@
    "name": "My Beautiful Man (2021) – เพราะรักเธอผู้งดงาม (ซับไทย)",
    "info": "My Beautiful Man (2021) – เพราะรักเธอผู้งดงาม (ซับไทย) 2021  ซีซั่น 1 Ep 6",
    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Beautiful-Man-1.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Beautiful-Man-1.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/HyQO0ue0/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Beautiful-Man-1.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/JxjCY88B/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Beautiful-Man-1.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/Tw5hQET9/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Beautiful-Man-1.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/RtYD0Ft5/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Beautiful-Man-1.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/0Lpn36cX/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/My-Beautiful-Man-1.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/JNuHf2QL/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
+   "stations": []
   },
   {
    "name": "Love Class – วิชารัก (ซับไทย)",
@@ -1777,32 +1752,7 @@
    "name": "Life Senjou no Bokura (2020) – ซับไทย",
    "info": "Life Senjou no Bokura (2020) – ซับไทย 2020  ซีซั่น 1 Ep 4",
    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Life-Senjou-no-Bokura.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Life-Senjou-no-Bokura.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/nYIqno47/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Life-Senjou-no-Bokura.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/tFoc1nZu/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Life-Senjou-no-Bokura.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/PsTxrXL/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2021/12/Life-Senjou-no-Bokura.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/Y6dDWJIY/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
+   "stations": []
   },
   {
    "name": "Nobleman Ryu’s Wedding (ซับไทย)",

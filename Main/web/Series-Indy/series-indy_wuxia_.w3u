@@ -1,9 +1,76 @@
 {
  "name": "Wuxia",
- "author": "อุ๋ง อุ๋ง อัพวันที่ 17 กันยายน 2566",
+ "author": "เจียว เจียว อัพวันที่ 4 ตุลาคม 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
  "groups": [
+  {
+   "name": "The Snow Moon 2023 – สายลมจันทราดุจหิมะ (ซับไทย)",
+   "info": "The Snow Moon 2023 – สายลมจันทราดุจหิมะ (ซับไทย) 2023  ซีซั่น 1 Ep 10",
+   "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695978156-3671-gsDUvuDYG9EoBiYv8QGzmxVoNWV.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695978156-3671-gsDUvuDYG9EoBiYv8QGzmxVoNWV.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/YiWQvKpNw4/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695978156-3671-gsDUvuDYG9EoBiYv8QGzmxVoNWV.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/PwDl4FCLFS/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695978156-3671-gsDUvuDYG9EoBiYv8QGzmxVoNWV.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/DxcI4sVmh0/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695978156-3671-gsDUvuDYG9EoBiYv8QGzmxVoNWV.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/angHFbGJK7/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695978156-3671-gsDUvuDYG9EoBiYv8QGzmxVoNWV.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/angHFbGJK7/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695978156-3671-gsDUvuDYG9EoBiYv8QGzmxVoNWV.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/gszFrEVhcR/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695978156-3671-gsDUvuDYG9EoBiYv8QGzmxVoNWV.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/nBopsqS7lt/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695978156-3671-gsDUvuDYG9EoBiYv8QGzmxVoNWV.jpg",
+     "url": "https://series-cdn.team-indy.net:8443/vod/qgGhhCwOxq/video.mp4/playlist.m3u8",
+     "referer": "https://series.team-indy.net/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695978156-3671-gsDUvuDYG9EoBiYv8QGzmxVoNWV.jpg",
+     "url": "https://ok.ru/videoembed/6216989149760/",
+     "referer": "https://ok.ru/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2023/09/1695978156-3671-gsDUvuDYG9EoBiYv8QGzmxVoNWV.jpg",
+     "url": "https://ok.ru/videoembed/6216989805120/",
+     "referer": "https://ok.ru/"
+    }
+   ]
+  },
   {
    "name": "My Journey To You 2023 – เหนือเมฆาชะตาลิขิต (ซับไทย)",
    "info": "My Journey To You 2023 – เหนือเมฆาชะตาลิขิต (ซับไทย) 2023  ซีซั่น 1 Ep 24",
@@ -5438,12 +5505,6 @@
    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/07/Immortal-Samsara-2022-อวลกลิ่นละอองรัก-ซับไทย.jpg",
    "stations": [
     {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/07/Immortal-Samsara-2022-อวลกลิ่นละอองรัก-ซับไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/PX0hjIbw/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
      "name": "ตอนที่ 1",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/07/Immortal-Samsara-2022-อวลกลิ่นละอองรัก-ซับไทย.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/newvidYkk0zAN8/video.mp4/playlist.m3u8",
@@ -5465,12 +5526,6 @@
      "name": "ตอนที่ 4",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/07/Immortal-Samsara-2022-อวลกลิ่นละอองรัก-ซับไทย.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/newvidL5we4rfO/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/07/Immortal-Samsara-2022-อวลกลิ่นละอองรัก-ซับไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod//video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     },
     {
@@ -7088,14 +7143,7 @@
    "name": "Love Is An Accident (2022) – พานพบประสบรัก (ซับไทย)",
    "info": "Love Is An Accident (2022) – พานพบประสบรัก (ซับไทย) 2022  ซีซั่น 1 Ep Tr",
    "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/07/Love-Is-An-Accident-2022-พานพบประสบรัก-ซับไทย.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ Tr",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/07/Love-Is-An-Accident-2022-พานพบประสบรัก-ซับไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/jVDw18WA/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    }
-   ]
+   "stations": []
   },
   {
    "name": "The Romance of Hua Rong (2019) – ฮัวหรงลิขิตรักเจ้าสาวโจรสลัด (พากย์ไทย)",
@@ -12657,12 +12705,6 @@
      "name": "ตอนที่ 5",
      "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Ms.-Cupid-in-Love-2022-ตำนานรักแม่สื่อจอมวุ่น-ซับไทย.jpg",
      "url": "https://series-cdn.team-indy.net:8443/vod/IS8mHBI6/video.mp4/playlist.m3u8",
-     "referer": "https://series.team-indy.net/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "image": "https://i0.wp.com/series-indy.com/wp-content/uploads/2022/02/Ms.-Cupid-in-Love-2022-ตำนานรักแม่สื่อจอมวุ่น-ซับไทย.jpg",
-     "url": "https://series-cdn.team-indy.net:8443/vod/0ApNFgqZ/video.mp4/playlist.m3u8",
      "referer": "https://series.team-indy.net/"
     },
     {
