@@ -409,7 +409,7 @@
 						},
 			{
 				"name": "True Series",
-				"image": "https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_320.webp",
+				"image": "https://img5.pic.in.th/file/secure-sv1/trueseries.png",
 				"imageScale": "fitStart",
 				"url": "https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8",
 				"info": "ช่องหนังทรูวิชั่นส์",
@@ -418,7 +418,7 @@
 						},
 			{
 				"name": "TrueFilmAsia",
-				"image": "https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_320.webp", 
+				"image": "https://img2.pic.in.th/pic/film-asia.png", 
 				"url": "https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8",
 				"info": "ช่องหนังทรูวิชั่นส์",
 				"referer": "https://freetvdd.com/",
@@ -427,7 +427,7 @@
 						},
 			{
 				"name": "ThaiFilm",
-				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-thai-film.webp",
+				"image": "https://img5.pic.in.th/file/secure-sv1/thaifilm.png",
 				"imageScale": "fitStart",
 				"url": "https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8",
 				"referer": "https://streaming.livescorethai.net",
@@ -439,7 +439,7 @@
 						},
 			{
 				"name": "Warner TV",
-				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-wb-tv.webp",
+				"image": "https://img5.pic.in.th/file/secure-sv1/wb.png",
 				"imageScale": "fitStart",
 				"url": "https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8",
 				"referer": "https://streaming.livescorethai.net/",
@@ -451,7 +451,7 @@
 						},
 			{
 				"name": "Paramount",
-				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-paramount-hd.webp",
+				"image": "https://img5.pic.in.th/file/secure-sv1/paramount.png",
 				"imageScale": "fitStart",
 				"url": "https://wacthstream.com/stream_live/232_Paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjEzOjU5IEFNJmhhc2hfdmFsdWU9Vm10cnMycXgyVGNKRjlBOFd3RE5zQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzY2OTQ0","referer": "https://wacth.tv/",
 				"userAgent" : "Mozilla/5.0 (iPad; CPU OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 OPT/3.2.17",
@@ -462,7 +462,7 @@
 						},
 			{
 				"name": "TrueFilm1",
-				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-truefilm1.webp",
+				"image": "https://img2.pic.in.th/pic/filmhd.png",
 				"imageScale": "fitStart",
 				"url": "https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8",
 				"referer": "https://freetvdd.com",
@@ -474,7 +474,7 @@
 						},
 			{
 				"name": " TrueFilm HD2",
-				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-truefilm2.webp",
+				"image": "https://img5.pic.in.th/file/secure-sv1/filmhd2.png",
 				"imageScale": "fitStart",
 				"url": "http://playtv.my.id/play/truefilm2.m3u8",
 				"referer": "https://ufanance.co/",
@@ -487,7 +487,7 @@
 			{
 				"name": "TVNHD",
 				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tvn.webp", 
-				"url": "https://streaming.livescorethai.net/iptv/hd-tvn.stream/playlist.m3u8",
+				"url": "https://img2.pic.in.th/pic/tvn.png",
 				"info": "ทีวีช่องหนัง",
 				"referer": "https://freetvdd.com",
 				"userAgent" : "Mozilla/5.0 (iPad; CPU OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 OPT/3.2.17",
@@ -498,7 +498,7 @@
 						},
 			{
 				"name": "Crime+Investigation",
-				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-crime+investigation.webp",
+				"image": "https://img5.pic.in.th/file/secure-sv1/ceime.png",
 				"imageScale": "fitStart",
 				"url": "https://wacthstream.com/stream_live/557_H2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjM1OjA3IEFNJmhhc2hfdmFsdWU9TS8veDZwVy81T2pvNWdJZmlSc3VUQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQ2OTQ4",
 				"referer": "https://wacth.tv/",
@@ -510,7 +510,7 @@
 						},
 			{
 				"name": "KBS WORLD TRUE",
-				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-kbs-world-hd.webp", 
+				"image": "https://img5.pic.in.th/file/secure-sv1/kbs.png", 
 				"url": "https://wacthstream.com/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjExOjI3IEFNJmhhc2hfdmFsdWU9MGpsN3U4MGR0Q0ZUNDBGWlZuenFIQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQ2MTM5","referer": "https://wacth.tv/",
 				"userAgent" : "Mozilla/5.0 (iPad; CPU OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 OPT/3.2.17",
 						"info":"(อัพเดท/16/พ.ย/23)",
@@ -520,7 +520,7 @@
 						},
 			{
 				"name": "FoodNetwork",
-				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-food-network.webp",
+				"image": "https://img2.pic.in.th/pic/food.png",
 				"imageScale": "fitStart",
 				"url": "https://streaming.livescorethai.net/iptv/hd-foodeng.stream/playlist.m3u8",
 				"referer": "https://freetvdd.com/",
@@ -531,7 +531,8 @@
 						"online":"true"
 						},
 			{
-				"name": "BBCLifestyle","image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-bbc-lifestyle.webp",
+				"name": "BBCLifestyle",
+				"image": "https://img5.pic.in.th/file/secure-sv1/bbclife.png",
 				"url": "https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjEwOjE2IEFNJmhhc2hfdmFsdWU9OFBVcEdDSkRRY2kxQU5YRnEyK1pLUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzg5Njk0",
 				"referer": "https://wacth.tv/",
 				"userAgent" : "android",
