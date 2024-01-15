@@ -461,7 +461,7 @@
 						"online":"true"
 						},
 			{
-				"name": "TrueFilm1",
+				"name": "TrueFilm",
 				"image": "https://img2.pic.in.th/pic/filmhd.png",
 				"imageScale": "fitStart",
 				"url": "https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8",
@@ -486,8 +486,8 @@
 						},
 			{
 				"name": "TVNHD",
-				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tvn.webp", 
-				"url": "https://img2.pic.in.th/pic/tvn.png",
+				"image": "https://img2.pic.in.th/pic/tvn.png", 
+				"url": "https://streaming.livescorethai.net/iptv/hd-tvn.stream/playlist.m3u8",
 				"info": "ทีวีช่องหนัง",
 				"referer": "https://freetvdd.com",
 				"userAgent" : "Mozilla/5.0 (iPad; CPU OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 OPT/3.2.17",
@@ -542,7 +542,7 @@
 						},
 			{
 				"name": "AFN Network",
-				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-afn.webp", 
+				"image": "https://img5.pic.in.th/file/secure-sv1/asf.png", 
 				"imageScale": "fitStart",
 				"url": "https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8",
 				"referer": "https://streaming.livescorethai.net/",
@@ -554,7 +554,7 @@
 						},
 			{
 				"name": "Rock Entertainment HD",
-				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-rock-entertainment.webp",
+				"image": "https://img2.pic.in.th/pic/rockenten.png",
 				"url": "https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjM5OjU0IEFNJmhhc2hfdmFsdWU9NzN1MG9JUnA0NXhGWHU4YUowNHAzUT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzQ5NTkx",
 				"referer": "https://wacth.tv",
 				"userAgent" : "Mozilla/5.0 (iPad; CPU OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 OPT/3.2.17",
@@ -565,7 +565,7 @@
 						},
 			{
 				"name": "ROCK ACTION HD",
-				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-rock-extreame.webp", 
+				"image": "https://img5.pic.in.th/file/secure-sv1/rockaction.png", 
 				"imageScale": "fitStart",
 				"url": "https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjE0OjUwIEFNJmhhc2hfdmFsdWU9alRQM25tS0NEbDM5cjUzVkExRVpRQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM0MjAw",
 				"referer": "https://wacth.tv",
@@ -577,7 +577,7 @@
 						},	
 			{
 				"name": "TRUE XZYTE",
-				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-xzyte-hd.webp",
+				"image": "https://img5.pic.in.th/file/secure-sv1/x-zyte.png",
 				"imageScale": "fitStart",
 				"url": "https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8",
 				"referer": "https://streaming.livescorethai.net/",
@@ -589,14 +589,14 @@
 						},
 			{
 				"name":"ปลูกปัญญา",
-				"image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F1d7dc8be-49df-46c7-ac16-4847229c6ab9.png&w=320&h=240",
+				"image":"https://img2.pic.in.th/pic/22da2cbb8eceb51a5044f6c759b1501b.png",
 				"url":"http://www.trueplookpanya.com/new/tv_live?var_link=720p",
 						"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
 						"desktop": "true"
 						},
 			{
 				"name": "AXN-HD",
-				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-axn-hd.webp",
+				"image": "https://img5.pic.in.th/file/secure-sv1/axn.png",
 				"imageScale": "fitStart",
 				"url": "https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
 				"referer": "https://streaming.livescorethai.net",
@@ -608,7 +608,7 @@
 						},
 			{
 				"name": "Lifetime",
-				"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-lifetime.webp",
+				"image": "https://img2.pic.in.th/pic/lifetime.png",
 				"url":"https://streaming.livescorethai.net/iptv/hd-lifetime.stream/chunks.m3u8","referer":"https://freetvdd.com/", 
 				"userAgent" : "Mozilla/5.0 (iPad; CPU OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 OPT/3.2.17",     
 						"info":"(อัพเดท/8/พ.ย/23)",
