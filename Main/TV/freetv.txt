@@ -764,7 +764,7 @@
 						},
 			{
 				"name": "CTB",
-				"image": "https://attv.mobi/images_tvonline/1430148187.jpg",
+				"image": "https://img5.pic.in.th/file/secure-sv1/ctb.png",
 				"imageScale": "fitStart",
 				"url": "http://vip.login.in.th:1935/CTB/CTB/chunklist_w672486153.m3u8",
 						"online":"",
@@ -773,7 +773,7 @@
 						},									
 			{
 				"name": "BBC EARTH",
-				"image": "https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0",
+				"image": "https://img5.pic.in.th/file/secure-sv1/bbc.png",
 				"imageScale": "fitStart",
 						"url": "https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8",
 						"referer": "https://streaming.livescorethai.net",
@@ -782,7 +782,7 @@
 						},	
 			{
 				"name": "True Explorer Wild",
-				"image": "https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_320.webp",
+				"image": "https://img2.pic.in.th/pic/wild1.png",
 				"imageScale": "fitStart",
 				"url": "https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8",
 				"referer": "https://streaming.livescorethai.net",
@@ -792,7 +792,7 @@
 						},
 			{
 				"name": "Global Trekker",
-				"image": "https://dl.dropbox.com/s/q13zqqq8s4lpfl4/globaltrekker.jpeg?dl=0",
+				"image": "https://img5.pic.in.th/file/secure-sv1/global.png",
 				"imageScale": "fitStart",
 				"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8",
 						"info":"(อัพเดท/8/พ.ย/23)",
@@ -801,7 +801,7 @@
 						},
 			{
 				"name":"DISCOVERY ASIA",
-				"image":"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",
+				"image":"https://img2.pic.in.th/pic/asian.png",
 				"url": "https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8",
 						"referer": "https://freetvdd.com/",
 						"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
@@ -810,25 +810,16 @@
 						},
 			{
 				"name":"HISTORY",
-				"image":"https://miraclemarinejets.com/wp-content/uploads/history-1.png",
+				"image":"https://img5.pic.in.th/file/secure-sv1/history927763e869b4f1c0.png",
 				"url":"https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8",
 						"referer":"https://freetvdd.com", 
 						"info":"",
 						"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
 						"playInNatPlayer": "true"
 						},
-			{	
-				"name":"TRUE EXPLORE WILD",
-				"image": "https://sv1.picz.in.th/images/2022/10/07/p253fR.png",
-				"url":"https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8",
-						"referer": "https://freetvdd.com/",
-						"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-						"info": "",
-						"desktop": "true"
-						},
 			{
 				"name":"TLC",
-				"image":"https://cms.dmpcdn.com/livetv/2023/05/26/e3c376d0-fb8a-11ed-82d8-75b5e95c0f8a_webp_320.webp",
+				"image":"https://img2.pic.in.th/pic/tlc.png",
 				"url": "https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8",
 						"referer":"https://freetvdd.com/"
 						},
