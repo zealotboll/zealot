@@ -915,9 +915,9 @@
 				"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"},
 
 			{
-				"name":"test",
+				"name":"test2",
 				"image":"https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",
-				"url":"https://dootv.streaming-fast.com/ais/ais_player.php?id=5e6218ceaae7314874e32c05&token=76e1c05eb928e3b9520994d36dae10f8",
+				"url":"https://dootv.streaming-fast.com/ais/iframe_ais.php?id=5e6218ceaae7314874e32c05&ip=76e1c05eb928e3b9520994d36dae10f8",
 					"online":"true",
 						  "info":"(อัพเดท/2/1/24)",
 				"embed": "",
