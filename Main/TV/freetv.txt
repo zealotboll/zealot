@@ -147,7 +147,7 @@
 			{
 				"name":"PPTVHD",
 				"info":"AISPLAY",
-				"image":"hhttps://img5.pic.in.th/file/secure-sv1/pptve2185c44ded3faa9.png",
+				"image":"https://img5.pic.in.th/file/secure-sv1/pptve2185c44ded3faa9.png",
 				"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
@@ -265,7 +265,7 @@
 			{
 				"name":"Bomerong",
 				"info":"AISPLAY",
-				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",
+				"image":"https://img5.pic.in.th/file/secure-sv1/boome.png",
 				"url":"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/HLS/V0104.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 				      
@@ -273,28 +273,28 @@
 			{
 				"name":"Cartoonclub",
 				"info":"AISPLAY",
-				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",
+				"image":"https://img2.pic.in.th/pic/cartoonclubc1d1a968212da152.png",
 				"url":"https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0100/HLS/V0100.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"สำรวจโลก",
 				"info":"AISPLAY",
-				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",
+				"image":"https://img5.pic.in.th/file/secure-sv1/7f78610ca3a46c5d6491964156756fa3.png",
 				"url":"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"MySCI",
 				"info":"AISPLAY",
-				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png",
+				"image":"https://img5.pic.in.th/file/secure-sv1/mysci.png",
 				"url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/HLS/V0152.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
 			{
 				"name":"AnimalShow",
 				"info":"AISPLAY",
-				"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png",
+				"image":"https://img5.pic.in.th/file/secure-sv1/animalshow.png",
 				"url":"https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8",
 				"referer":"https://web-player.ais-vidnt.com/"	
 			},
@@ -391,7 +391,7 @@
 			},
 			{
 				"name": "MovieHits",
-				"image": "https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_320.webp",
+				"image": "https://img5.pic.in.th/file/secure-sv1/moviehit.png",
 				"imageScale": "fitStart",
 				"url": "https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8",
 				"referer": "https://freetvdd.com/",
@@ -401,7 +401,7 @@
 						},			
 			{		
 				"name": "Asian_More",
-				"image": "https://rentapi.blackboxsys.net/images/png/hd-asianmore.png",
+				"image": "https://img2.pic.in.th/pic/tasian-more.png",
 				"url": "https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDExOjExOjQ3IEFNJmhhc2hfdmFsdWU9VXczcVlJUGUxRE54WUFoTWZJNnJDZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzU1ODgx",
 				"referer": "https://wacth.tv/",
 				"info": "ช่องหนังทรูวิชั่นส์",
