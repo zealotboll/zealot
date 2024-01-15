@@ -896,23 +896,32 @@
 
 			{name:"CGTN DOCUMENTARY",image:"https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",url:"https://livedoc.cgtn.com/500d/prog_index.m3u8",referer:""},
 
-{"name": "DREAMWORKS",
-        "info":"(อัพเดท/2/1/24)",
-"online": "true",
-"image": "https://cms.dmpcdn.com/livetv/2021/09/28/0495d070-2012-11ec-9629-7dc4459cd94d_webp_320.webp",
-"url": "http://playtv.my.id/play/dreamworld.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", 
-"embed": ""
-},
-{
-"name":"MONO PLUS",
-"image":"https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",
-"url":"https://dookeela.live/live-tv/mono29plus",
-        "online":"true",
-              "info":"(อัพเดท/2/1/24)",
-"embed": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"},
+			{"name": "DREAMWORKS",
+					"info":"(อัพเดท/2/1/24)",
+				"online": "true",
+				"image": "https://cms.dmpcdn.com/livetv/2021/09/28/0495d070-2012-11ec-9629-7dc4459cd94d_webp_320.webp",
+				"url": "http://playtv.my.id/play/dreamworld.m3u8",
+				"referer": "",
+				"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", 
+				"embed": ""
+			},
+			{
+				"name":"MONO PLUS",
+				"image":"https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",
+				"url":"https://dookeela.live/live-tv/mono29plus",
+					"online":"true",
+						  "info":"(อัพเดท/2/1/24)",
+				"embed": "",
+				"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"},
+
+			{
+				"name":"test",
+				"image":"https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/109.png",
+				"url":"https://dootv.streaming-fast.com/ais/ais_player.php?id=5e6218ceaae7314874e32c05&token=76e1c05eb928e3b9520994d36dae10f8",
+					"online":"true",
+						  "info":"(อัพเดท/2/1/24)",
+				"embed": "",
+				"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"},
 
 		]
 }
