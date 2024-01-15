@@ -870,7 +870,34 @@
 				"url": "https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8",
 						"referer":"https://freetvdd.com/"
 						},
-		
-		
+			{name:"TVB ไทย",image:"https://cdn.pic.in.th/file/picinth/89_x_saHpK8xzyeAbF1kVoBEQ7WvjLSrCO6Dq.png",url:"https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w1167255818.m3u8",referer:""},
+
+			{name:"CHANNEL 8",image:"http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",url:"https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8",referer:""},
+
+			{"name":"จอมยุทธ์","image": "https://sv1.picz.in.th/images/2022/10/11/p8ZdFa.png","url": "http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8",referer:"www.mvtv.co.th"},
+
+			{name:"FOXSOUL",image:"https://static.wikia.nocookie.net/logopedia/images/1/15/Fox_Soul_%28Streaming_service%29.png/revision/latest?cb=20200320215209",url:"https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",referer:"https://wacth.tv/"},
+
+			{"name": "คูล ชาแนล","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0170.png","url": "https://live-iptv.cool-channel.com/cool/live-manifest.m3u8",referer:""},
+
+			{"name": "SIAM NEWS","image": "https://sv1.picz.in.th/images/2022/10/18/pIwRxQ.png","url":"https://live1.thaitvstream.com/play/siamnewstv/index.m3u8",referer:""},
+
+			{"name": "THAI NEWS","image": "https://sv1.picz.in.th/images/2021/10/15/uTdoaV.png",  "url": "https://live.thaitvstream.com/play/thaikaona/index.m3u8",referer:""},
+
+			{"name": "MOUNCHON TV","image": "https://sv1.picz.in.th/images/2022/10/07/p2E84E.png","url":"https://live2.thaitvstream.com/play/mounchontv/index.m3u8",referer:""}, 
+
+			{"name": "NK MOVIES","image": "https://sv1.picz.in.th/images/2022/10/07/p2UIQZ.png","url":"http://sv1.afdc.live:9898/live/nktv.stream/playlist.m3u8",referer:""}, 
+ 
+			{"name": "TVPHET","image": "https://sv1.picz.in.th/images/2023/10/04/ddBVCou.jpeg","url": "https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8",referer:""},
+ 
+			{"name": "เชียงราย","image": "https://sv1.picz.in.th/images/2021/09/04/CtBpRq.jpg","url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",referer:""},
+
+			{name:"LOVE NATURE",image:"https://sv1.picz.in.th/images/2022/10/07/p2QbCa.png",url:"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",referer:""},
+
+			{name:"CGTN DOCUMENTARY",image:"https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",url:"https://livedoc.cgtn.com/500d/prog_index.m3u8",referer:""},
+
+
+
+
 		]
 }
