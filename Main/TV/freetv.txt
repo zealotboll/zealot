@@ -719,7 +719,7 @@
 						},			
 			{
 				"name": "NKTV",
-				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSWjQ-5nl_D6X1OgtYzuA_pU9xVVCDV0ivSQ&usqp=CAU",
+				"image": "https://img2.pic.in.th/pic/nktv.png",
 				"imageScale": "fitStart",
 						"url": "http://sv1.afdc.live:9898/live/nktv.stream/playlist.m3u8",
 						"online":"true",
@@ -728,7 +728,7 @@
 						},
 			{	
 				"name": "BoxFilm",
-				"image": "https://i.imgur.com/ACIoLb2.png",
+				"image": "https://img2.pic.in.th/pic/boxfilm.png",
 				"imageScale": "fitStart",
 				"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8",
 						"online":"true",
@@ -825,7 +825,7 @@
 						},
 			{
 				"name":"CABLE CHANNEL 37",
-				"image":"https://sv1.picz.in.th/images/2022/10/07/p2R1XQ.png",
+				"image":"https://img5.pic.in.th/file/secure-sv1/cable3e37ac2dad1099e4.png",
 				"url":"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
 						"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", 
 						"playInNatPlayer": "true"
@@ -855,7 +855,7 @@
 						},		
 			{
 				"name":"CARTOON NETWORK",
-				"image":"https://www.animationkolkata.com/blog/wp-content/uploads/2016/08/tumblr_m4ksayhoaZ1qbbs8oo1_500.gif",
+				"image":"https://img2.pic.in.th/pic/cn.png",
 				"url":"https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8",
 						"referer":"https://freetvdd.com", "info":"","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", 
 						"playInNatPlayer": "true"
