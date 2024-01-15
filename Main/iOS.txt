@@ -6,23 +6,11 @@
 	"url": "https://raw.githubusercontent.com/zealotboll/zealot/main/Main/iOS.txt",
 	"groups": [
 
-  {
-	"name":"Digital TV", 
-	"image":"https://v1.igetweb.com/www/aosat/article/art_42205644.png",
-	"url":"https://pastebin.com/raw/85xPY9SY",
-	"import":"true"
-  },
   {	
-	"name":"AIS FREE TV",
-	"image":"https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png",
+	"name":"รวมช่อง TV",
+	"image":"https://cdn0.iconfinder.com/data/icons/TV_icons/256/8.png",
 	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/TV/freetv.txt",
 	"import":"true"
-  },
-  {
-	"name":"รวมช่อง TV", 
-	"image":"https://cdn0.iconfinder.com/data/icons/TV_icons/256/8.png",
-	"url":"https://pastebin.com/raw/iMR2DqYX",
-	"import":"fale"
   },
   {	"name":"Sport Channel",
 	"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g5NUSyMS2OB-fZCEMSCdLFnAxKutGuycn9clJfdVMT7e2VKH&usqp=CAU",

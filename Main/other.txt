@@ -2,11 +2,23 @@
  "image":"https://mrclown.tv/wp-content/uploads/2014/11/MC_SightWords-Other.jpg",
  "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/other.txt",
 	"groups": [
-
+		
 		{"name":"จัดให้", 
  		 "image":"https://lh3.googleusercontent.com/-PPiF3ZR4_Q8/ZQyd_dEuGwI/AAAAAAAAFrE/emFbzgZoAQocp54EV6UN6LxDNHP5z7cJACNcBGAsYHQ/h120/Untitled-4.png",
  		 "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/จัดให้.w3u",
  		 "import":"true"},
+		{
+		"name":"Digital TV", 
+		"image":"https://v1.igetweb.com/www/aosat/article/art_42205644.png",
+		"url":"https://pastebin.com/raw/85xPY9SY",
+		"import":"true"
+ 			 },
+		{
+		"name":"รวมช่อง TV", 
+		"image":"https://cdn0.iconfinder.com/data/icons/TV_icons/256/8.png",
+		"url":"https://pastebin.com/raw/iMR2DqYX",
+		"import":"fale"
+  			},
 
 		{"name":" TV Online",
 		 "author":"จัดทำและรับชมฟรี ห้ามซื้อขาย",
