@@ -1,9 +1,69 @@
 {
   "name": "หนังไทย",
-  "author": "เจียว เจียว อัพวันที่ 28 ธันวาคม 2566",
+  "author": "เจียว เจียว อัพวันที่ 16 มกราคม 2567",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "4 Kings 2 (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/4-Kings-2-2023-1-300x450.jpg",
+      "stations": [
+        {
+          "name": "4 Kings 2 (2023)",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/4-Kings-2-2023-1-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/344ebb16dc839a942536c157/344ebb16dc839a942536c157438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "4 Kings 2 (2023)",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/4-Kings-2-2023-1-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/5cee447c6ab287a5181ab9b4/5cee447c6ab287a5181ab9b4800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Home (2012) ความรัก ความสุข ความทรงจำ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Home-2012-ความรัก-ความสุข-ความทรงจำ-300x450.jpg",
+      "stations": [
+        {
+          "name": "Home (2012) ความรัก ความสุข ความทรงจำ",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Home-2012-ความรัก-ความสุข-ความทรงจำ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/4745a3c8e437648943540064/4745a3c8e437648943540064438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Home (2012) ความรัก ความสุข ความทรงจำ",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Home-2012-ความรัก-ความสุข-ความทรงจำ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/bac1c66f1bcb3fea882fa8f0/bac1c66f1bcb3fea882fa8f0800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "After Sundown (2023) ดับแสงรวี",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/After-Sundown-2023-ดับแสงรวี-300x450.jpg",
+      "stations": [
+        {
+          "name": "After Sundown (2023) ดับแสงรวี",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/After-Sundown-2023-ดับแสงรวี-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/bed3f120edae3e9a5fa75813/bed3f120edae3e9a5fa75813438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "After Sundown (2023) ดับแสงรวี",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/After-Sundown-2023-ดับแสงรวี-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/71ce8bd779713b573c721bbd/71ce8bd779713b573c721bbd800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "The Adventures (2023) ผจญภัยล่าขุมทรัพย์หมื่นลี้",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Adventures-2023-ผจญภัยล่าขุมทรัพย์หมื่นลี้-300x450.jpg",
@@ -105,7 +165,7 @@
           "name": "The 4 Movie (2011) หลุด 4 หลุด",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-4-Movie-2011-หลุด-4-หลุด-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/d2f44bc74e8f7ff7ed9f9c60/d2f44bc74e8f7ff7ed9f9c60.m3u8",
+          "url": "https://main.77player.xyz/m3u8/d2f44bc74e8f7ff7ed9f9c60/d2f44bc74e8f7ff7ed9f9c60438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -397,26 +457,6 @@
       ]
     },
     {
-      "name": "Coming Soon (2008) โปรแกรมหน้า วิญญาณอาฆาต",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Coming-Soon-2008-โปรแกรมหน้า-วิญญาณอาฆาต-300x450.jpg",
-      "stations": [
-        {
-          "name": "Coming Soon (2008) โปรแกรมหน้า วิญญาณอาฆาต",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Coming-Soon-2008-โปรแกรมหน้า-วิญญาณอาฆาต-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/7c40d95a5d08b8f8fae15a5e/7c40d95a5d08b8f8fae15a5e438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Coming Soon (2008) โปรแกรมหน้า วิญญาณอาฆาต",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Coming-Soon-2008-โปรแกรมหน้า-วิญญาณอาฆาต-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/e438d00d06292cc559b63157/e438d00d06292cc559b63157800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "Long Live Love (2023) ลอง ลีฟ เลิฟว์",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Long-Live-Love-2023-ลอง-ลีฟ-เลิฟว์-300x450.jpg",
       "stations": [
@@ -452,6 +492,26 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/It-Gets-Better-2012-ไม่ได้ขอให้มารัก-300x450.jpg",
           "url": "https://xxx.77player.xyz/m3u8/a5669d69eeb650646cfe1096/a5669d69eeb650646cfe1096800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Ghost Rookie (2023) ผีมือใหม่",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Ghost-Rookie-2023-ผีมือใหม่-300x450.jpg",
+      "stations": [
+        {
+          "name": "Ghost Rookie (2023) ผีมือใหม่",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Ghost-Rookie-2023-ผีมือใหม่-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/0d6785d00a79258a2aaf43b8/0d6785d00a79258a2aaf43b8438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Ghost Rookie (2023) ผีมือใหม่",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Ghost-Rookie-2023-ผีมือใหม่-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/15cb4a2ea8a2fa425e2a5c8f/15cb4a2ea8a2fa425e2a5c8f800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -804,7 +864,7 @@
           "name": "Khun Phan ภาค 3",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Khun-Phan-3-2023-ขุนพันธ์-3-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/7a71143870df9671d6af8627/7a71143870df9671d6af8627.m3u8",
+          "url": "https://main.77player.xyz/m3u8/7a71143870df9671d6af8627/7a71143870df9671d6af8627438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -872,26 +932,6 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Ong-Bak-2003-องค์บาก-300x450.jpg",
           "url": "https://xxx.77player.xyz/m3u8/7c54ee768c6646ce3a9d87b4/7c54ee768c6646ce3a9d87b4800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Home for Rent (2023) บ้านเช่า บูชายัญ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Home-for-Rent-2023-บ้านเช่า-บูชายัญ-300x450.jpg",
-      "stations": [
-        {
-          "name": "Home for Rent (2023) บ้านเช่า บูชายัญ",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Home-for-Rent-2023-บ้านเช่า-บูชายัญ-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/5d8c7a799c05ba42a6dfd053/5d8c7a799c05ba42a6dfd053438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Home for Rent (2023) บ้านเช่า บูชายัญ",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Home-for-Rent-2023-บ้านเช่า-บูชายัญ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/5fd0a1e5580d7693e537b629/5fd0a1e5580d7693e537b629800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1322,7 +1362,27 @@
           "name": "Snap (2015) แค่...ได้คิดถึง",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Snap-2015-แค่...ได้คิดถึง-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/b0e6c202fa03ef06ac0b56e3/b0e6c202fa03ef06ac0b56e3.m3u8",
+          "url": "https://main.77player.xyz/m3u8/b0e6c202fa03ef06ac0b56e3/b0e6c202fa03ef06ac0b56e3438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Snap (2015) แค่...ได้คิดถึง",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Snap-2015-แค่...ได้คิดถึง-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/2dc55529c4cf5b9b8da64fe6/2dc55529c4cf5b9b8da64fe6800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Snap (2015) แค่...ได้คิดถึง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Snap-2015-แค่...ได้คิดถึง-300x450.jpg",
+      "stations": [
+        {
+          "name": "Snap (2015) แค่...ได้คิดถึง",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Snap-2015-แค่...ได้คิดถึง-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b0e6c202fa03ef06ac0b56e3/b0e6c202fa03ef06ac0b56e3438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1350,26 +1410,6 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Indie-Look-Esan-2019-อินดี้ลูกอิสาน-300x450.jpg",
           "url": "https://xxx.77player.xyz/m3u8/235bf9fa635001b3ee6a5fb7/235bf9fa635001b3ee6a5fb7800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "My Tempo (2022) น้องพี่ ดนตรี + เพื่อน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/06/My-Tempo-2022-น้องพี่-ดนตรี-เพื่อน-300x450.jpg",
-      "stations": [
-        {
-          "name": "My Tempo (2022) น้องพี่ ดนตรี + เพื่อน",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/My-Tempo-2022-น้องพี่-ดนตรี-เพื่อน-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/f97216b91d290bc4d6e5b94f/f97216b91d290bc4d6e5b94f438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "My Tempo (2022) น้องพี่ ดนตรี + เพื่อน",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/06/My-Tempo-2022-น้องพี่-ดนตรี-เพื่อน-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/397600ec3ec83f4bbd413bce/397600ec3ec83f4bbd413bce800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1724,19 +1764,6 @@
       ]
     },
     {
-      "name": "The Bodyguard 2 (2007) บอดี้การ์ดหน้าเหลี่ยม 2",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/12/The-Bodyguard-2-2007-บอดี้การ์ดหน้าเหลี่ยม-2-300x450.png",
-      "stations": [
-        {
-          "name": "The Bodyguard ภาค 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/12/The-Bodyguard-2-2007-บอดี้การ์ดหน้าเหลี่ยม-2-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/18a91684497f5ef12ce2a675/18a91684497f5ef12ce2a675438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "The Bodyguard (2004) บอดี้การ์ดหน้าเหลี่ยม",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/12/The-Bodyguard-2004-บอดี้การ์ดหน้าเหลี่ยม-300x450.png",
       "stations": [
@@ -1745,6 +1772,26 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/12/The-Bodyguard-2004-บอดี้การ์ดหน้าเหลี่ยม-300x450.png",
           "url": "https://main.77player.xyz/m3u8/833b137f4aaccbc16223a3ae/833b137f4aaccbc16223a3ae438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Muay Thai Giant (2008) ส้มตำ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Muay-Thai-Giant-2008-ส้มตำ-300x450.jpg",
+      "stations": [
+        {
+          "name": "Muay Thai Giant (2008) ส้มตำ",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Muay-Thai-Giant-2008-ส้มตำ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/50df97f727a8999fe86d5f4a/50df97f727a8999fe86d5f4a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Muay Thai Giant (2008) ส้มตำ",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Muay-Thai-Giant-2008-ส้มตำ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/ce30398eac4596d22520a4b4/ce30398eac4596d22520a4b4800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2355,6 +2402,19 @@
       ]
     },
     {
+      "name": "Ploy (2007) พลอย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/01/Ploy-2007-พลอย-300x450.png",
+      "stations": [
+        {
+          "name": "Ploy (2007) พลอย",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/01/Ploy-2007-พลอย-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/7336bc48fbccff6efe628d13/7336bc48fbccff6efe628d13438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "Premika (2017) เปรมิกาป่าราบ",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/01/Premika-2017-เปรมิกาป่าราบ-300x450.png",
       "stations": [
@@ -2649,19 +2709,6 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/11/Buppah-Arigato-2016-บุปผาอาริกาโตะ-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/355157644b1cf03ffef02c4da61dffcc/355157644b1cf03ffef02c4da61dffcc.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Buppah Rahtree 3.2 (2009) บุปผาราตรี 3.2",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/11/Buppah-Rahtree-3.2-2009-บุปผาราตรี-3.2-300x450.png",
-      "stations": [
-        {
-          "name": "Buppah Rahtree ภาค 3.2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/11/Buppah-Rahtree-3.2-2009-บุปผาราตรี-3.2-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/bd5b82ddd8b5028d9f5a6d26/bd5b82ddd8b5028d9f5a6d26438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2986,6 +3033,19 @@
       ]
     },
     {
+      "name": "Deaw13 Thai Stand Up Comedy (2022) เดี่ยว 13",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Deaw13-Thai-Stand-Up-Comedy-2022-เดี่ยว-13-300x450.png",
+      "stations": [
+        {
+          "name": "Deaw13 Thai Stand Up Comedy (2022) เดี่ยว 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Deaw13-Thai-Stand-Up-Comedy-2022-เดี่ยว-13-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/1392b1f527ccd810edc1c50e/1392b1f527ccd810edc1c50e438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "Jan Dara The Beginning (2012) จันดารา ปฐมบท",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Jan-Dara-The-Beginning-2012-จันดารา-ปฐมบท-300x450.png",
       "stations": [
@@ -3164,6 +3224,13 @@
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-6-2015-ตำนานสมเด็จพระนเรศวรมหาราช-ภาค-6-อวสานหงสา-300x450.png",
           "url": "https://main.77player.xyz/m3u8/fadb3e78b98670e55a0f50c6/fadb3e78b98670e55a0f50c6438.m3u8",
           "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Legend of King Naresuan ภาค 6 อวสานหงสา",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-6-2015-ตำนานสมเด็จพระนเรศวรมหาราช-ภาค-6-อวสานหงสา-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/2bb9a65709a6782d4d402ac4/2bb9a65709a6782d4d402ac4800.m3u8",
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -3176,6 +3243,13 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-5-2014-ตำนานสมเด็จพระนเรศวรมหาราช-ภาค-5-ยุทธหัตถี-300x450.png",
           "url": "https://main.77player.xyz/m3u8/be0920bfcec10fee7342cb15/be0920bfcec10fee7342cb15438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Legend of King Naresuan ภาค 5 ยุทธหัตถี",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-5-2014-ตำนานสมเด็จพระนเรศวรมหาราช-ภาค-5-ยุทธหัตถี-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/899b456e83fbb54228a6ceb5/899b456e83fbb54228a6ceb5800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3190,6 +3264,13 @@
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-4-2011-ตำนานสมเด็จพระนเรศวรมหาราช-ภาค-4-ศึกนันทบุเรง-300x450.png",
           "url": "https://main.77player.xyz/m3u8/66ad5c00fa69b1f68389205c/66ad5c00fa69b1f68389205c438.m3u8",
           "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Legend of King Naresuan ภาค 4 ศึกนันทบุเรง",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-4-2011-ตำนานสมเด็จพระนเรศวรมหาราช-ภาค-4-ศึกนันทบุเรง-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/69a2ac096a2619310a951690/69a2ac096a2619310a951690800.m3u8",
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -3202,6 +3283,13 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-3-2011-ตำนานสมเด็จพระนเรศวรมหาราช-ภาค-3-ยุทธนาวี-300x450.png",
           "url": "https://main.77player.xyz/m3u8/3e0cceb1855c585e7c4ad888/3e0cceb1855c585e7c4ad888438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Legend of King Naresuan ภาค 3 ยุทธนาวี",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-3-2011-ตำนานสมเด็จพระนเรศวรมหาราช-ภาค-3-ยุทธนาวี-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/fe9acb889f76ab4e730a7df6/fe9acb889f76ab4e730a7df6800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3216,6 +3304,13 @@
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-2-2007-ตำนานสมเด็จพระนเรศวรมหาราช-2-ประกาศอิสรภาพ-300x450.png",
           "url": "https://main.77player.xyz/m3u8/9997e52b6b10d992c263b787/9997e52b6b10d992c263b787438.m3u8",
           "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Legend of King Naresuan ภาค 2 ประกาศอิสรภาพ",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-2-2007-ตำนานสมเด็จพระนเรศวรมหาราช-2-ประกาศอิสรภาพ-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/bdf9d7964ddcb178bca0cf28/bdf9d7964ddcb178bca0cf28800.m3u8",
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -3228,6 +3323,13 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/King-Naresuan-2007-ตำนานสมเด็จพระนเรศวรมหาราช-300x450.png",
           "url": "https://main.77player.xyz/m3u8/3b02101bfe73dea118cb80a5/3b02101bfe73dea118cb80a5438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Legend of King Naresuan 1 ตัวประกันหงษา",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/King-Naresuan-2007-ตำนานสมเด็จพระนเรศวรมหาราช-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/6a087de3c56bc1009c635bd7/6a087de3c56bc1009c635bd7800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]

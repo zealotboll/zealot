@@ -1,9 +1,282 @@
 {
   "name": "Disney+",
-  "author": "เจียว เจียว อัพวันที่ 11 ธันวาคม 2566",
+  "author": "เจียว เจียว อัพวันที่ 15 มกราคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "Percy Jackson and the Olympians (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/10b5f404-5429-5959-8083-b0a6c8f40991.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f8d7542e-e231-5764-b40b-6b26972304cc.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b9100b24-cd3b-55fc-aa30-0391f2ed7843.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/52c403b6-46a6-5e93-ad83-0d48ecad5aa4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b770eb0e-db41-5c16-82bc-3a4c61915e44.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Tell Me That You Love Me (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/033beb2b-3a1d-598a-97e4-815946975b4d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/75f7d1f3-784d-53c1-ac30-052ec4b061b9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/045a6e0b-cc38-5ddf-8653-d4a6d673fdd1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bef40136-3eec-5316-a738-289f2c1d43b6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2e4b0248-799a-54a0-8c52-826d542e51f7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bde6819e-d397-591c-9579-f907c4ccbbb1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/94b94762-faf1-5214-a96b-bd13cae3bb50.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/99c9fd8b-a449-554b-89d1-a290c966b164.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e7a8c639-3038-5e97-87ef-d1c222280de7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c375f6df-d82e-59b5-8f7b-1c35a547032c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b573ef25-9049-5a67-9e39-a951feedc215.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9b0d83f2-3332-515a-8347-06922918a5e2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/94872995-fb06-5f94-8794-074294ccec50.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/98b7de54-1cd1-52f4-bc3b-d56947a80462.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Maestra Strings of Truth (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ead62d8b-2197-5afd-9d7b-0f1400127525.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b0f50a90-45e2-5af4-863a-50ac6221d876.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3ef91ae1-8ef4-59ed-b28d-813b5123e54b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8bafffec-ec26-5a61-b784-c351f453e95b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c89215ee-6307-5f4d-aa56-25fc841c88bd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1fea6d96-2b50-5531-8703-0b5a3f2b194d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d171f203-ebea-53de-b19b-2b9a5f2025f5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b4646c5d-cafc-5020-a764-1c2872b032a1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/435c6d69-5757-58d9-870d-3ef7613435c0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Maestra-Strings-of-Truth-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a33359c6-ecc5-5f22-affd-18f5305cb0ab.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Soundtrack 2 (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Soundtrack-2-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ซีซั่น 2 ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Soundtrack-2-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/959e85c5-0605-5cb6-a4ef-a27b8ec99eb3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Soundtrack-2-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1897d1fb-5465-51b5-aee4-1ef9df00b9bf.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Soundtrack-2-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fa3cc130-23da-539f-9021-53a8100b8ec8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Soundtrack-2-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/04797e6a-d26d-526f-8e08-9fcc3adf71a3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Soundtrack-2-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bdadc8c1-2747-53b4-bfa8-7073d474caaa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 2 ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Soundtrack-2-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/90d99705-608f-578c-85e7-b0c5ca7f729a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
     {
       "name": "A Murder at the End of the World (2023)",
       "info": "SUB",
@@ -43,61 +316,19 @@
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/11707f26-bc2a-5c7c-9da6-0d7a652d030f.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "Soundtrack 2 (2023)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Soundtrack-2-2023-220x300-c-default.jpg",
-      "stations": [
+        },
         {
-          "name": "ซีซั่น 2 ตอนที่ 1",
+          "name": "ตอนที่ 6",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Soundtrack-2-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/959e85c5-0605-5cb6-a4ef-a27b8ec99eb3.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8b9020be-cd41-5007-b707-33dd44937a0b.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
-          "name": "ซีซั่น 2 ตอนที่ 2",
+          "name": "ตอนที่ 7",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Soundtrack-2-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1897d1fb-5465-51b5-aee4-1ef9df00b9bf.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "Tell Me That You Love Me (2023)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/033beb2b-3a1d-598a-97e4-815946975b4d.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/75f7d1f3-784d-53c1-ac30-052ec4b061b9.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/045a6e0b-cc38-5ddf-8653-d4a6d673fdd1.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Tell-Me-That-You-Love-Me-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/bef40136-3eec-5316-a738-289f2c1d43b6.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/eb765832-5b28-5d1b-9dd9-968635012a8d.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]

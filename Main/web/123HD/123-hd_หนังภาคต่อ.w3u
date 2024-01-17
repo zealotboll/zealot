@@ -1,9 +1,401 @@
 {
   "name": "หนังภาคต่อ",
-  "author": "เจียว เจียว อัพวันที่ 11 ธันวาคม 2566",
+  "author": "เจียว เจียว อัพวันที่ 16 มกราคม 2567",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "The Mechanic (2011) โคตรเพชฌฆาตแค้นมหากาฬ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Mechanic-2011-โคตรเพชฌฆาตแค้นมหากาฬ-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Mechanic ภาค 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Mechanic-2011-โคตรเพชฌฆาตแค้นมหากาฬ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/3928d8195e75ca701ad212fc/3928d8195e75ca701ad212fc438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Mechanic ภาค 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Mechanic-2011-โคตรเพชฌฆาตแค้นมหากาฬ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/eb98012b56def371d8a523c5/eb98012b56def371d8a523c5800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Mechanic ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Mechanic-2011-โคตรเพชฌฆาตแค้นมหากาฬ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/e0cee5f2922d4c47d72793bc/e0cee5f2922d4c47d72793bc438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Mechanic ภาค 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Mechanic-2011-โคตรเพชฌฆาตแค้นมหากาฬ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/e8303d1769a30934dfcb32d9/e8303d1769a30934dfcb32d9800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Mechanic Resurrection (2016) โคตรเพชฌฆาต แค้นข้ามโลก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Mechanic-Resurrection-2016-โคตรเพชฌฆาต-แค้นข้ามโลก-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Mechanic ภาค 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Mechanic-Resurrection-2016-โคตรเพชฌฆาต-แค้นข้ามโลก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/ba569c5dce0a0395489ae90d/ba569c5dce0a0395489ae90d438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Mechanic ภาค 2",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Mechanic-Resurrection-2016-โคตรเพชฌฆาต-แค้นข้ามโลก-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/0fa3c767666b31a6a1436cc3/0fa3c767666b31a6a1436cc3800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Mechanic ภาค 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Mechanic-Resurrection-2016-โคตรเพชฌฆาต-แค้นข้ามโลก-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/f6772fd9b694179605ed6bd0/f6772fd9b694179605ed6bd0438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Mechanic ภาค 2",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Mechanic-Resurrection-2016-โคตรเพชฌฆาต-แค้นข้ามโลก-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/398d9331496896e93fff05e2/398d9331496896e93fff05e2800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Home Alone 4 Taking Back the House (2002) โดดเดี่ยวผู้น่ารัก 4",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-4-Taking-Back-the-House-2002-โดดเดี่ยวผู้น่ารัก-4-300x450.png",
+      "stations": [
+        {
+          "name": "Home Alone 4 Taking Back the House",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-4-Taking-Back-the-House-2002-โดดเดี่ยวผู้น่ารัก-4-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/82c716e09448a33ef4f5f9b4/82c716e09448a33ef4f5f9b4438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Home Alone 4 Taking Back the House",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-4-Taking-Back-the-House-2002-โดดเดี่ยวผู้น่ารัก-4-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/9308121fea64b0e814a1ec66/9308121fea64b0e814a1ec66800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Home Alone 4 Taking Back the House",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-4-Taking-Back-the-House-2002-โดดเดี่ยวผู้น่ารัก-4-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/59fa5c71823c7f8de6541ec52cdca89d/59fa5c71823c7f8de6541ec52cdca89d.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Home Alone 4 Taking Back the House",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-4-Taking-Back-the-House-2002-โดดเดี่ยวผู้น่ารัก-4-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/52f12e0de4ebbda27e202766/52f12e0de4ebbda27e202766800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Home Alone 2 Lost in New York (1992) โดดเดี่ยวผู้น่ารัก 2 ตอน หลงในนิวยอร์ค",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-2-Lost-in-New-York-1992-โดดเดี่ยวผู้น่ารัก-2-ตอน-หลงในนิวยอร์ค-300x450.png",
+      "stations": [
+        {
+          "name": "Home Alone 2 Lost in New York",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-2-Lost-in-New-York-1992-โดดเดี่ยวผู้น่ารัก-2-ตอน-หลงในนิวยอร์ค-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/54fd20bb4220528c892d76835d829409/54fd20bb4220528c892d76835d829409.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Home Alone 2 Lost in New York",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-2-Lost-in-New-York-1992-โดดเดี่ยวผู้น่ารัก-2-ตอน-หลงในนิวยอร์ค-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/c0232c7ec5cf899c734ab36f/c0232c7ec5cf899c734ab36f800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Home Alone 2 Lost in New York",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-2-Lost-in-New-York-1992-โดดเดี่ยวผู้น่ารัก-2-ตอน-หลงในนิวยอร์ค-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/e5b5bd23ba0382317931fbc9/e5b5bd23ba0382317931fbc9438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Home Alone 2 Lost in New York",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-2-Lost-in-New-York-1992-โดดเดี่ยวผู้น่ารัก-2-ตอน-หลงในนิวยอร์ค-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/8a4b38bf49fd8deb478225d6/8a4b38bf49fd8deb478225d6800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Home Alone (1990) โดดเดี่ยวผู้น่ารัก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-1990-โดดเดี่ยวผู้น่ารัก-300x450.png",
+      "stations": [
+        {
+          "name": "Home Alone 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-1990-โดดเดี่ยวผู้น่ารัก-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/e52236a8bc7f5c8edae9db50f4a037ab/e52236a8bc7f5c8edae9db50f4a037ab.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Home Alone 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-1990-โดดเดี่ยวผู้น่ารัก-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/c91b66e31db61cf2c5e8d6ad/c91b66e31db61cf2c5e8d6ad800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Home Alone 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-1990-โดดเดี่ยวผู้น่ารัก-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/fd86975aa24e93039efd22329f21e1d6/fd86975aa24e93039efd22329f21e1d6.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Home Alone 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-1990-โดดเดี่ยวผู้น่ารัก-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/74090d14692de1a308c97216/74090d14692de1a308c97216800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom 3 The Flame of Destiny (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Kingdom-3-The-Flame-of-Destiny-2023-1-300x450.jpg",
+      "stations": [
+        {
+          "name": "Kingdom 3 The Flame of Destiny (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Kingdom-3-The-Flame-of-Destiny-2023-1-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/277d80708201c0b7644e3ccc/277d80708201c0b7644e3ccc438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Kingdom 3 The Flame of Destiny (2023)",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Kingdom-3-The-Flame-of-Destiny-2023-1-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/8f76619fc4291ba322559622/8f76619fc4291ba322559622800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Aquaman and the Lost Kingdom (2023) อควาแมน กับอาณาจักรสาบสูญ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Aquaman-and-the-Lost-Kingdom-2023-อควาแมน-กับอาณาจักรสาบสูญ-1-300x450.jpg",
+      "stations": [
+        {
+          "name": "Aquaman and the Lost Kingdom (2023) อควาแมน กับอาณาจักรสาบสูญ",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Aquaman-and-the-Lost-Kingdom-2023-อควาแมน-กับอาณาจักรสาบสูญ-1-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/c5e7b4ad0927b309131872d5/c5e7b4ad0927b309131872d5438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Aquaman and the Lost Kingdom (2023) อควาแมน กับอาณาจักรสาบสูญ",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Aquaman-and-the-Lost-Kingdom-2023-อควาแมน-กับอาณาจักรสาบสูญ-1-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/641e7e317555b3e44bc557db/641e7e317555b3e44bc557db800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Aquaman and the Lost Kingdom (2023) อควาแมน กับอาณาจักรสาบสูญ",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Aquaman-and-the-Lost-Kingdom-2023-อควาแมน-กับอาณาจักรสาบสูญ-1-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/0ebc92b12e4411e8bbb59db8/0ebc92b12e4411e8bbb59db8438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Aquaman and the Lost Kingdom (2023) อควาแมน กับอาณาจักรสาบสูญ",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Aquaman-and-the-Lost-Kingdom-2023-อควาแมน-กับอาณาจักรสาบสูญ-1-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/ce88b46d7b8a94f4215096ee/ce88b46d7b8a94f4215096ee800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Tokyo Revengers 2 Part 2 Bloody Halloween Final Battle (2023) โตเกียว รีเวนเจอร์ส ฮาโลวีนสีเลือด ศึกตัดสิน",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Tokyo-Revengers-2-Part-2-Bloody-Halloween-Final-Battle-2023-โตเกียว-รีเวนเจอร์ส-ฮาโลวีนสีเลือด-ศึกตัดสิน-300x450.jpg",
+      "stations": [
+        {
+          "name": "Tokyo Revengers The Movie ภาค 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Tokyo-Revengers-2-Part-2-Bloody-Halloween-Final-Battle-2023-โตเกียว-รีเวนเจอร์ส-ฮาโลวีนสีเลือด-ศึกตัดสิน-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/96b51047bf6424c21ceff606/96b51047bf6424c21ceff606438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Tokyo Revengers The Movie ภาค 3",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Tokyo-Revengers-2-Part-2-Bloody-Halloween-Final-Battle-2023-โตเกียว-รีเวนเจอร์ส-ฮาโลวีนสีเลือด-ศึกตัดสิน-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/bc316ffd663459f0b4f584dc/bc316ffd663459f0b4f584dc800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Tokyo Revengers 2 Part 1 Bloody Halloween Destiny (2023) โตเกียว รีเวนเจอร์ส ฮาโลวีนสีเลือด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Tokyo-Revengers-2-Part-1-Bloody-Halloween-Destiny-2023-โตเกียว-รีเวนเจอร์ส-ฮาโลวีนสีเลือด-โชคชะตา-300x450.jpg",
+      "stations": [
+        {
+          "name": "Tokyo Revengers The Movie ภาค 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Tokyo-Revengers-2-Part-1-Bloody-Halloween-Destiny-2023-โตเกียว-รีเวนเจอร์ส-ฮาโลวีนสีเลือด-โชคชะตา-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/1f3786b780da3d07caae4e98/1f3786b780da3d07caae4e98438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Tokyo Revengers The Movie ภาค 2",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Tokyo-Revengers-2-Part-1-Bloody-Halloween-Destiny-2023-โตเกียว-รีเวนเจอร์ส-ฮาโลวีนสีเลือด-โชคชะตา-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/cb88f003e996e3f8efba02d8/cb88f003e996e3f8efba02d8800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Tokyo Revengers (2021) โตเกียว รีเวนเจอร์ส",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Tokyo-Revengers-2021-โตเกียว-รีเวนเจอร์ส-300x450.png",
+      "stations": [
+        {
+          "name": "Tokyo Revengers The Movie ภาค 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Tokyo-Revengers-2021-โตเกียว-รีเวนเจอร์ส-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/18a4ca3ea0cad2ab1d42d41b4503bfde/18a4ca3ea0cad2ab1d42d41b4503bfde.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Tokyo Revengers The Movie ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Tokyo-Revengers-2021-โตเกียว-รีเวนเจอร์ส-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/4b7b91e94655c5569020a543/4b7b91e94655c5569020a543438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Fantastic Four Rise of the Silver Surfer (2007) สี่พลังคนกายสิทธิ์ กำเนิดซิลเวอร์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fantastic-Four-Rise-of-the-Silver-Surfer-2007-สี่พลังคนกายสิทธิ์-กำเนิดซิลเวอร์-เซิรฟเฟอร์-300x450.jpg",
+      "stations": [
+        {
+          "name": "Fantastic Four ภาค 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fantastic-Four-Rise-of-the-Silver-Surfer-2007-สี่พลังคนกายสิทธิ์-กำเนิดซิลเวอร์-เซิรฟเฟอร์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/d457f584cb4323cc7fede093/d457f584cb4323cc7fede093438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Fantastic Four ภาค 2",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fantastic-Four-Rise-of-the-Silver-Surfer-2007-สี่พลังคนกายสิทธิ์-กำเนิดซิลเวอร์-เซิรฟเฟอร์-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/d448e39b3560b7e12a6e90f4/d448e39b3560b7e12a6e90f4800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Fantastic Four ภาค 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fantastic-Four-Rise-of-the-Silver-Surfer-2007-สี่พลังคนกายสิทธิ์-กำเนิดซิลเวอร์-เซิรฟเฟอร์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/1b343ce54065a1079dc5bc9f/1b343ce54065a1079dc5bc9f438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Fantastic Four ภาค 2",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fantastic-Four-Rise-of-the-Silver-Surfer-2007-สี่พลังคนกายสิทธิ์-กำเนิดซิลเวอร์-เซิรฟเฟอร์-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/910d5afd7f2ad269327ba2ab/910d5afd7f2ad269327ba2ab800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Fantastic Four (2005) สี่พลังคนกายสิทธิ์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fantastic-Four-2005-สี่พลังคนกายสิทธิ์-300x450.jpg",
+      "stations": [
+        {
+          "name": "Fantastic Four ภาค 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fantastic-Four-2005-สี่พลังคนกายสิทธิ์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/3aa2edd52fd79910d6dbe4b3/3aa2edd52fd79910d6dbe4b3438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Fantastic Four ภาค 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fantastic-Four-2005-สี่พลังคนกายสิทธิ์-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/990e0990854cc94e3eef63ca/990e0990854cc94e3eef63ca800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Fantastic Four ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fantastic-Four-2005-สี่พลังคนกายสิทธิ์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/179a9560dda690eaa1e20400/179a9560dda690eaa1e20400438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Fantastic Four ภาค 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Fantastic-Four-2005-สี่พลังคนกายสิทธิ์-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/7a46a51b71960c010ebf8b54/7a46a51b71960c010ebf8b54800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Figth Break Sphere 2 (2023) สัประยุทธ์ทะลุฟ้า 2",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2-2023-สัประยุทธ์ทะลุฟ้า-2-300x450.jpg",
+      "stations": [
+        {
+          "name": "Figth Break Sphere ภาค 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2-2023-สัประยุทธ์ทะลุฟ้า-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/52becbfb44f04c9fd9907eb9/52becbfb44f04c9fd9907eb9438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Figth Break Sphere ภาค 2",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2-2023-สัประยุทธ์ทะลุฟ้า-2-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/34e74caa73f1702fbb6db958/34e74caa73f1702fbb6db958800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Figth Break Sphere (2023) สัประยุทธ์ทะลุฟ้า",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2023-สัประยุทธ์ทะลุฟ้า-300x450.jpg",
+      "stations": [
+        {
+          "name": "Figth Break Sphere ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2023-สัประยุทธ์ทะลุฟ้า-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/c1b64e9362515f802435bdcc/c1b64e9362515f802435bdcc438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Figth Break Sphere ภาค 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Figth-Break-Sphere-2023-สัประยุทธ์ทะลุฟ้า-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/f35ac77a16f246f9cca7e944/f35ac77a16f246f9cca7e944800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "The Hunger Games (2012) ฮังเกอร์เกมส์ ภาค 1",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Hunger-Games-2012-ฮังเกอร์เกมส์-ภาค-1-250x350.png",
@@ -25,26 +417,6 @@
       ]
     },
     {
-      "name": "The Hangover (2009) เดอะ แฮงค์โอเวอร์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Hangover-2009-เดอะ-แฮงค์โอเวอร์-1-300x450.jpg",
-      "stations": [
-        {
-          "name": "The Hangover ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Hangover-2009-เดอะ-แฮงค์โอเวอร์-1-300x450.jpg",
-          "url": "https://xxx.77player.xyz/ioshls/55714b456cd6d3af73da73074eb12077/55714b456cd6d3af73da73074eb12077.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Hangover ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Hangover-2009-เดอะ-แฮงค์โอเวอร์-1-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/b6c7da4b91ac5e1ab5ccd869/b6c7da4b91ac5e1ab5ccd869438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "The Hunger Games The Ballad of Songbirds & Snakes (2023) เดอะ ฮังเกอร์เกมส์ ปฐมบทเกมล่าเกม",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023-เดอะ-ฮังเกอร์เกมส์-ปฐมบทเกมล่าเกม-300x450.jpg",
       "stations": [
@@ -52,14 +424,61 @@
           "name": "The Hunger Games ภาค 5",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023-เดอะ-ฮังเกอร์เกมส์-ปฐมบทเกมล่าเกม-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/bb713749c664e3d7c65e6d6b/bb713749c664e3d7c65e6d6b438.m3u8",
+          "url": "https://main.77player.xyz/m3u8/1ae729097633ed79a1dd1193/1ae729097633ed79a1dd1193438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
           "name": "The Hunger Games ภาค 5",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023-เดอะ-ฮังเกอร์เกมส์-ปฐมบทเกมล่าเกม-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/83e0fc6501f6cc33927257fd/83e0fc6501f6cc33927257fd800.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/42e9e3913897a635141cedf7/42e9e3913897a635141cedf7800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Hunger Games ภาค 5",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/The-Hunger-Games-The-Ballad-of-Songbirds-Snakes-2023-เดอะ-ฮังเกอร์เกมส์-ปฐมบทเกมล่าเกม-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/56a8e412ffbb48a3e109a688/56a8e412ffbb48a3e109a688800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Rope Curse 2 (2020) เชือกอาถรรพ์ 2",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Rope-Curse-2-2020-เชือกอาถรรพ์-2-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Rope Curse ภาค 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Rope-Curse-2-2020-เชือกอาถรรพ์-2-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b24687f792cc403f6658dec2/b24687f792cc403f6658dec2438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Rope Curse ภาค 2",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Rope-Curse-2-2020-เชือกอาถรรพ์-2-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/f247acf14751d088a33dde80/f247acf14751d088a33dde80800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Rope Curse (2018) เชือกอาถรรพ์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Rope-Curse-2018-เชือกอาถรรพ์-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Rope Curse ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Rope-Curse-2018-เชือกอาถรรพ์-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/1865416751669ee6a57a3969/1865416751669ee6a57a3969438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Rope Curse ภาค 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Rope-Curse-2018-เชือกอาถรรพ์-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/0bc66dc7e06f11ef3876ae62/0bc66dc7e06f11ef3876ae62800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -119,6 +538,26 @@
       ]
     },
     {
+      "name": "The Hangover (2009) เดอะ แฮงค์โอเวอร์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Hangover-2009-เดอะ-แฮงค์โอเวอร์-1-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Hangover ภาค 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Hangover-2009-เดอะ-แฮงค์โอเวอร์-1-300x450.jpg",
+          "url": "https://xxx.77player.xyz/ioshls/55714b456cd6d3af73da73074eb12077/55714b456cd6d3af73da73074eb12077.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Hangover ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/12/The-Hangover-2009-เดอะ-แฮงค์โอเวอร์-1-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/b6c7da4b91ac5e1ab5ccd869/b6c7da4b91ac5e1ab5ccd869438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "Indiana Jones and the Dial of Destiny (2023) อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา",
       "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Indiana-Jones-and-the-Dial-of-Destiny-2023-อินเดียน่า-โจนส์-กับกงล้อแห่งโชคชะตา-300x450.jpg",
       "stations": [
@@ -133,7 +572,7 @@
           "name": "Indiana Jones and the Dial of Destiny (2023) อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Indiana-Jones-and-the-Dial-of-Destiny-2023-อินเดียน่า-โจนส์-กับกงล้อแห่งโชคชะตา-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/9f59b225a7c2c781063ff199/9f59b225a7c2c781063ff199.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/9f59b225a7c2c781063ff199/9f59b225a7c2c781063ff199800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -147,7 +586,7 @@
           "name": "Indiana Jones and the Dial of Destiny (2023) อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Indiana-Jones-and-the-Dial-of-Destiny-2023-อินเดียน่า-โจนส์-กับกงล้อแห่งโชคชะตา-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/c010ffc711af1dcb4a90b910/c010ffc711af1dcb4a90b910.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/c010ffc711af1dcb4a90b910/c010ffc711af1dcb4a90b910800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -201,75 +640,7 @@
           "name": "Justice League x RWBY ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Justice-League-x-RWBY-Super-Heroes-Huntsmen-Part-Two-2023-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/ac262ba3b68811f3a971b6c8/ac262ba3b68811f3a971b6c8.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Percy Jackson & the Olympians The Lightning Thief (2010) เพอร์ซีย์ แจ็คสันกับสายฟ้าที่หายไป",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-เพอร์ซีย์-แจ็คสันกับสายฟ้าที่หายไป-300x450.jpg",
-      "stations": [
-        {
-          "name": "Percy Jackson 1 the Olympians The Lightning Thief",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-เพอร์ซีย์-แจ็คสันกับสายฟ้าที่หายไป-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/d2beab5102f95ca1642f07fb/d2beab5102f95ca1642f07fb438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Percy Jackson 1 the Olympians The Lightning Thief",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-เพอร์ซีย์-แจ็คสันกับสายฟ้าที่หายไป-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/e5326d99867f8e993d8df1fa/e5326d99867f8e993d8df1fa800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Percy Jackson 1 the Olympians The Lightning Thief",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-เพอร์ซีย์-แจ็คสันกับสายฟ้าที่หายไป-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/9c66fe2ae055cd2a908eae0a/9c66fe2ae055cd2a908eae0a438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Percy Jackson 1 the Olympians The Lightning Thief",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-the-Olympians-The-Lightning-Thief-2010-เพอร์ซีย์-แจ็คสันกับสายฟ้าที่หายไป-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/c6ca0a61378c2c6ca95cc497/c6ca0a61378c2c6ca95cc497800.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Percy Jackson Sea of Monsters (2013) เพอร์ซี่ย์ แจ็คสัน กับอาถรรพ์ทะเลปีศาจ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-Sea-of-Monsters-2013-เพอร์ซี่ย์-แจ็คสัน-กับอาถรรพ์ทะเลปีศาจ-300x450.jpg",
-      "stations": [
-        {
-          "name": "Percy Jackson 2 Sea of Monsters",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-Sea-of-Monsters-2013-เพอร์ซี่ย์-แจ็คสัน-กับอาถรรพ์ทะเลปีศาจ-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/250fd93027c545817a4b79ec/250fd93027c545817a4b79ec438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Percy Jackson 2 Sea of Monsters",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-Sea-of-Monsters-2013-เพอร์ซี่ย์-แจ็คสัน-กับอาถรรพ์ทะเลปีศาจ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/de8034006ecf1b346c722860/de8034006ecf1b346c722860.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Percy Jackson 2 Sea of Monsters",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-Sea-of-Monsters-2013-เพอร์ซี่ย์-แจ็คสัน-กับอาถรรพ์ทะเลปีศาจ-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/ecae07ce6da7f0891862028f/ecae07ce6da7f0891862028f438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Percy Jackson 2 Sea of Monsters",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Percy-Jackson-Sea-of-Monsters-2013-เพอร์ซี่ย์-แจ็คสัน-กับอาถรรพ์ทะเลปีศาจ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/05e2b8fbcbd7bb34bfb89e5a/05e2b8fbcbd7bb34bfb89e5a.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/ac262ba3b68811f3a971b6c8/ac262ba3b68811f3a971b6c8800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -289,7 +660,7 @@
           "name": "Hostel ภาค 3",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Hostel-3-2011-นรกรอชำแหละ-3-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/1ca09343939bc28167001ecc/1ca09343939bc28167001ecc.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/1ca09343939bc28167001ecc/1ca09343939bc28167001ecc800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -371,7 +742,7 @@
           "name": "Hostel ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/11/Hostel-2005-นรกรอชำแหละ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/581ab2ebb360106f689173f0/581ab2ebb360106f689173f0.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/581ab2ebb360106f689173f0/581ab2ebb360106f689173f0800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -615,7 +986,7 @@
           "name": "Saw ภาค 10",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Saw-X-2023-ชำแหละแค้น...เกมตัดตาย-2-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/c296ac810e693823c4416747/c296ac810e693823c4416747.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/c296ac810e693823c4416747/c296ac810e693823c4416747800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -663,7 +1034,7 @@
           "name": "Goosebumps ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2-Haunted-Halloween-2018-คืนอัศจรรย์ขนหัวลุก-2-หุ่นฝังแค้น-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/5e7efdc7d71a5fdd3641aabc/5e7efdc7d71a5fdd3641aabc.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/5e7efdc7d71a5fdd3641aabc/5e7efdc7d71a5fdd3641aabc800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -683,7 +1054,7 @@
           "name": "Goosebumps ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2015-คืนอัศจรรย์ขนหัวลุก-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/6e3a1583c8ddfe0fbcc783f4/6e3a1583c8ddfe0fbcc783f4.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/6e3a1583c8ddfe0fbcc783f4/6e3a1583c8ddfe0fbcc783f4800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -697,7 +1068,27 @@
           "name": "Goosebumps ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Goosebumps-2015-คืนอัศจรรย์ขนหัวลุก-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/fa13e48d6987e7bd40985ac3/fa13e48d6987e7bd40985ac3.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/fa13e48d6987e7bd40985ac3/fa13e48d6987e7bd40985ac3800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Hatchet 3 (2013)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hatchet-3-2013-300x450.jpg",
+      "stations": [
+        {
+          "name": "Hatchet ภาค 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hatchet-3-2013-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/c9ecf1db2fdd79095175c46a/c9ecf1db2fdd79095175c46a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Hatchet ภาค 3",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hatchet-3-2013-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/462269a69815dcaef7cfcc19/462269a69815dcaef7cfcc19800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -718,6 +1109,60 @@
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hatchet-2006-300x450.jpg",
           "url": "https://xxx.77player.xyz/m3u8/49d583f1aacf1f2252335f78/49d583f1aacf1f2252335f78800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Hatchet 2 (2010)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hatchet-2-2010-300x450.jpg",
+      "stations": [
+        {
+          "name": "Hatchet ภาค 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hatchet-2-2010-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/4f2e280f15daba100ca5046a/4f2e280f15daba100ca5046a438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Hatchet ภาค 2",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hatchet-2-2010-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/6393c245cb53dd1daf745131/6393c245cb53dd1daf745131800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "G.I. Joe The Rise of Cobra (2009) จีไอโจ สงครามพิฆาตคอบร้าทมิฬ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/10/G.I.-Joe-The-Rise-of-Cobra-2009-จีไอโจ-สงครามพิฆาตคอบร้าทมิฬ-300x450.jpg",
+      "stations": [
+        {
+          "name": "G.I. Joe ภาค 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/G.I.-Joe-The-Rise-of-Cobra-2009-จีไอโจ-สงครามพิฆาตคอบร้าทมิฬ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/49afbe716ecf82b19e9ed0e1/49afbe716ecf82b19e9ed0e1438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "G.I. Joe ภาค 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/G.I.-Joe-The-Rise-of-Cobra-2009-จีไอโจ-สงครามพิฆาตคอบร้าทมิฬ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/cc6c1bf524a6d15eabe9c5e9/cc6c1bf524a6d15eabe9c5e9800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "G.I. Joe ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/G.I.-Joe-The-Rise-of-Cobra-2009-จีไอโจ-สงครามพิฆาตคอบร้าทมิฬ-300x450.jpg",
+          "url": "https://main.77player.xyz/m3u8/859f02d845aed50096b83065/859f02d845aed50096b83065438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "G.I. Joe ภาค 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/10/G.I.-Joe-The-Rise-of-Cobra-2009-จีไอโจ-สงครามพิฆาตคอบร้าทมิฬ-300x450.jpg",
+          "url": "https://xxx.77player.xyz/m3u8/45d2ccf6700395b328e80342/45d2ccf6700395b328e80342800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -757,7 +1202,7 @@
           "name": "The Expendables ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Expendables-2010-โครตคนทีมมหากาฬ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/c3cec211c65311ca9b853bf5/c3cec211c65311ca9b853bf5.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/c3cec211c65311ca9b853bf5/c3cec211c65311ca9b853bf5800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -771,7 +1216,7 @@
           "name": "The Expendables ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Expendables-2010-โครตคนทีมมหากาฬ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/1774d09576fadd9cdce13f8b/1774d09576fadd9cdce13f8b.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/1774d09576fadd9cdce13f8b/1774d09576fadd9cdce13f8b800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -791,7 +1236,7 @@
           "name": "The Expendables ภาค 4",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Expend4bles-2023-โคตรคนทีมมหากาฬ-4-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/c492e7052da8fbd332e213de/c492e7052da8fbd332e213de.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/c492e7052da8fbd332e213de/c492e7052da8fbd332e213de800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -805,7 +1250,7 @@
           "name": "The Expendables ภาค 4",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Expend4bles-2023-โคตรคนทีมมหากาฬ-4-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/a90b12d873fa2185ad1179a0/a90b12d873fa2185ad1179a0.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/a90b12d873fa2185ad1179a0/a90b12d873fa2185ad1179a0800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -825,7 +1270,7 @@
           "name": "Hotel Transylvania ภาค 4",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Hotel-Transylvania-Transformania-2022-โรงแรมผีหนีไปพักร้อน-300x450.png",
-          "url": "https://xxx.77player.xyz/autoplaylist/d0244a2c34516942551e7d20/d0244a2c34516942551e7d20.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/d0244a2c34516942551e7d20/d0244a2c34516942551e7d20800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -852,7 +1297,7 @@
           "name": "Hotel Transylvania ภาค 3",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hotel-Transylvania-3-Summer-Vacation-2018-โรงแรมผีหนี-ไปพักร้อน-3-ซัมเมอร์หฤหรรษ์-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/467387b556b205a4a2a04755/467387b556b205a4a2a04755.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/467387b556b205a4a2a04755/467387b556b205a4a2a04755800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -886,7 +1331,7 @@
           "name": "Hotel Transylvania ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hotel-Transylvania-2-2015-โรงแรมผี-หนีไปพักร้อน-2-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/696d207e538ae858ab6e6547/696d207e538ae858ab6e6547.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/696d207e538ae858ab6e6547/696d207e538ae858ab6e6547800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -934,7 +1379,7 @@
           "name": "Hotel Transylvania ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Hotel-Transylvania-2012-โรงแรมผี-หนีไปพักร้อน-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/29705bfff63dc9e158b253bc/29705bfff63dc9e158b253bc.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/29705bfff63dc9e158b253bc/29705bfff63dc9e158b253bc800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -954,7 +1399,7 @@
           "name": "OMG ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/OMG-Oh-My-God-2012-พระเจ้าช่วย-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/9c5679f04f69eadbc2a9262f/9c5679f04f69eadbc2a9262f.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/9c5679f04f69eadbc2a9262f/9c5679f04f69eadbc2a9262f800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1061,7 +1506,7 @@
           "name": "Backdraft ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Backdraft-2-2019-เปลวไฟกับวีรบุรุษ-2-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/2893d8d3e67a78ec91cf18ac/2893d8d3e67a78ec91cf18ac.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/2893d8d3e67a78ec91cf18ac/2893d8d3e67a78ec91cf18ac800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1081,7 +1526,7 @@
           "name": "Backdraft ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Backdraft-1991-เปลวไฟกับวีรบุรุษ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/97b383259b454b3962675f0b/97b383259b454b3962675f0b.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/97b383259b454b3962675f0b/97b383259b454b3962675f0b800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1095,7 +1540,7 @@
           "name": "Backdraft ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Backdraft-1991-เปลวไฟกับวีรบุรุษ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/cc29302a72aa5c2ee14a67d6/cc29302a72aa5c2ee14a67d6.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/cc29302a72aa5c2ee14a67d6/cc29302a72aa5c2ee14a67d6800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1135,7 +1580,7 @@
           "name": "Speed ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Speed-2-Cruise-Control-1997-สปีด-2-เร็วกว่านรก-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/3d6b51ce40faba62c6498d8e/3d6b51ce40faba62c6498d8e.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/3d6b51ce40faba62c6498d8e/3d6b51ce40faba62c6498d8e800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1149,7 +1594,7 @@
           "name": "Speed ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Speed-2-Cruise-Control-1997-สปีด-2-เร็วกว่านรก-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/a7a6393503f5c9a62d06486e/a7a6393503f5c9a62d06486e.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/a7a6393503f5c9a62d06486e/a7a6393503f5c9a62d06486e800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1223,14 +1668,14 @@
           "name": "Ghost Rider ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Ghost-Rider-2007-โกสต์-ไรเดอร์-มัจจุราชแห่งรัตติกาล-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/f469650e7a1014f546f226b0/f469650e7a1014f546f226b0.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/f469650e7a1014f546f226b0/f469650e7a1014f546f226b0800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
           "name": "Ghost Rider ภาค 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Ghost-Rider-2007-โกสต์-ไรเดอร์-มัจจุราชแห่งรัตติกาล-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/844ad45a12899bd394883533/844ad45a12899bd394883533.m3u8",
+          "url": "https://main.77player.xyz/m3u8/844ad45a12899bd394883533/844ad45a12899bd394883533438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1257,7 +1702,7 @@
           "name": "Rurouni Kenshin ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Rurouni-Kenshin-2012-รูโรนิ-เคนชิน-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/ed28f84d784e90eb56e20be6/ed28f84d784e90eb56e20be6.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/ed28f84d784e90eb56e20be6/ed28f84d784e90eb56e20be6800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1311,14 +1756,14 @@
           "name": "The Reef ภาค 1",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Reef-2010-ครีบสยองทะเลเลือด-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/4b42e756bcb1fdcc7ef1cc1b/4b42e756bcb1fdcc7ef1cc1b.m3u8",
+          "url": "https://main.77player.xyz/m3u8/4b42e756bcb1fdcc7ef1cc1b/4b42e756bcb1fdcc7ef1cc1b438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
           "name": "The Reef ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/The-Reef-2010-ครีบสยองทะเลเลือด-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/550df133550cf46dc8ece920/550df133550cf46dc8ece920.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/550df133550cf46dc8ece920/550df133550cf46dc8ece920800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1338,7 +1783,7 @@
           "name": "Rurouni Kenshin ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Rurouni-Kenshin-2-Kyoto-Inferno-2014-รูโรนิ-เคนชิน-เกียวโตทะเลเพลิง-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/95f9f7ac802730ef111d3f12/95f9f7ac802730ef111d3f12.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/95f9f7ac802730ef111d3f12/95f9f7ac802730ef111d3f12800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1352,7 +1797,7 @@
           "name": "Rurouni Kenshin ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Rurouni-Kenshin-2-Kyoto-Inferno-2014-รูโรนิ-เคนชิน-เกียวโตทะเลเพลิง-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/e746a95214dab46d460e5171/e746a95214dab46d460e5171.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/e746a95214dab46d460e5171/e746a95214dab46d460e5171800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1372,7 +1817,7 @@
           "name": "Rurouni Kenshin ภาค 3",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Rurouni-Kenshin-3-The-Legend-Ends-2014-รูโรนิ-เคนชิน-คนจริง-โคตรซามูไร-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/5e23125c321c50cf76e599c5/5e23125c321c50cf76e599c5.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/5e23125c321c50cf76e599c5/5e23125c321c50cf76e599c5800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1386,7 +1831,7 @@
           "name": "Rurouni Kenshin ภาค 3",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Rurouni-Kenshin-3-The-Legend-Ends-2014-รูโรนิ-เคนชิน-คนจริง-โคตรซามูไร-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/81b92390a06d1aad11fd3a6c/81b92390a06d1aad11fd3a6c.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/81b92390a06d1aad11fd3a6c/81b92390a06d1aad11fd3a6c800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1406,7 +1851,7 @@
           "name": "Street Flow ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Street-Flow-2023-ทางแยก-2-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/d59257bc6ebbacfe98d5ea3a/d59257bc6ebbacfe98d5ea3a.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/d59257bc6ebbacfe98d5ea3a/d59257bc6ebbacfe98d5ea3a800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1420,7 +1865,7 @@
           "name": "Street Flow ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Street-Flow-2023-ทางแยก-2-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/690dd047613f9329b03f22e3/690dd047613f9329b03f22e3.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/690dd047613f9329b03f22e3/690dd047613f9329b03f22e3800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1440,7 +1885,7 @@
           "name": "Street Flow ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Street-Flow-2019-ทางแยก-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/1478fdfaffa1714438a33c8c/1478fdfaffa1714438a33c8c.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/1478fdfaffa1714438a33c8c/1478fdfaffa1714438a33c8c800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1474,7 +1919,7 @@
           "name": "Death Note ภาค 4",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-4-Light-Up-the-New-World-2016-สมุดมรณะ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/bb6b48e94cb95697c7c88ebc/bb6b48e94cb95697c7c88ebc.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/bb6b48e94cb95697c7c88ebc/bb6b48e94cb95697c7c88ebc800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1488,7 +1933,7 @@
           "name": "Death Note ภาค 4",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-4-Light-Up-the-New-World-2016-สมุดมรณะ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/6b114b656c44e9a4472f063b/6b114b656c44e9a4472f063b.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/6b114b656c44e9a4472f063b/6b114b656c44e9a4472f063b800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1542,7 +1987,7 @@
           "name": "Death Note ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2-The-Last-Name-2006-อวสานสมุดมรณะ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/3dec1618ce2fe9cece6b4c80/3dec1618ce2fe9cece6b4c80.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/3dec1618ce2fe9cece6b4c80/3dec1618ce2fe9cece6b4c80800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1590,7 +2035,7 @@
           "name": "Death Note ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Death-Note-2006-สมุดโน๊ตกระชากวิญญาณ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/57c41511ba5de1c64e8c9338/57c41511ba5de1c64e8c9338.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/57c41511ba5de1c64e8c9338/57c41511ba5de1c64e8c9338800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1610,7 +2055,7 @@
           "name": "The Wandering Earth ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/The-Wandering-Earth-2019-ปฏิบัติการฝ่าสุริยะ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/2b8e5609955287a3785cfb35/2b8e5609955287a3785cfb35.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/2b8e5609955287a3785cfb35/2b8e5609955287a3785cfb35800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1624,7 +2069,7 @@
           "name": "The Wandering Earth ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/The-Wandering-Earth-2019-ปฏิบัติการฝ่าสุริยะ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/f31871295b747c8c14b2da98/f31871295b747c8c14b2da98.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/f31871295b747c8c14b2da98/f31871295b747c8c14b2da98800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1712,7 +2157,7 @@
           "name": "Escape Plan ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/09/Escape-Plan-2013-แหกคุกมหาประลัย-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/248b8e3d9648685a9b951b89/248b8e3d9648685a9b951b89.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/248b8e3d9648685a9b951b89/248b8e3d9648685a9b951b89800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1752,7 +2197,7 @@
           "name": "The Roundup ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Roundup-No-Way-Out-2023-บู๊ระห่ำล่าล้างนรก-ทุบนรกแตก-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/a5cc620ff8bcb7e502e8523e/a5cc620ff8bcb7e502e8523e.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/a5cc620ff8bcb7e502e8523e/a5cc620ff8bcb7e502e8523e800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1766,7 +2211,7 @@
           "name": "The Roundup ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Roundup-No-Way-Out-2023-บู๊ระห่ำล่าล้างนรก-ทุบนรกแตก-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/1e1404ee714a46e2b69bc2a7/1e1404ee714a46e2b69bc2a7.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/1e1404ee714a46e2b69bc2a7/1e1404ee714a46e2b69bc2a7800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1806,7 +2251,7 @@
           "name": "The Human Centipede ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/The-Human-Centipede-2-2011-มนุษย์ตะขาบ-ภาค-2-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/8a10014b20b91f8934e83a31/8a10014b20b91f8934e83a31.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/8a10014b20b91f8934e83a31/8a10014b20b91f8934e83a31800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1826,7 +2271,7 @@
           "name": "The Human Centipede ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/The-Human-Centipede-2009-จับคนมาทำตะขาบ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/d5475d91e7607dbc3521f023/d5475d91e7607dbc3521f023.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/d5475d91e7607dbc3521f023/d5475d91e7607dbc3521f023800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1846,7 +2291,7 @@
           "name": "The Meg ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Meg-2-The-Trench-2023-เม็ก-2-อภิมหาโคตรหลาม-ร่องนรก-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/8eb0ae9202d352db0c9bc84f/8eb0ae9202d352db0c9bc84f.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/8eb0ae9202d352db0c9bc84f/8eb0ae9202d352db0c9bc84f800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1880,7 +2325,7 @@
           "name": "Insidious ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Insidious-2010-อินซิเดียส-วิญญาณตามติด-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/30ec143b3fd2a1cc1afc2b6e/30ec143b3fd2a1cc1afc2b6e.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/30ec143b3fd2a1cc1afc2b6e/30ec143b3fd2a1cc1afc2b6e800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -1928,7 +2373,7 @@
           "name": "Insidious ภาค 5",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Insidious-The-Red-Door-2023-วิญญาณตามติด-ประตูผีผ่าน-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/9de0645b263aff33d6d7acad/9de0645b263aff33d6d7acad.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/9de0645b263aff33d6d7acad/9de0645b263aff33d6d7acad800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2129,7 +2574,7 @@
           "name": "Taxi ภาค 3",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Taxi-3-2003-แท็กซี่ขับระเบิด-3-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/9b30708b0c7060431a113f6d/9b30708b0c7060431a113f6d.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/9b30708b0c7060431a113f6d/9b30708b0c7060431a113f6d800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2183,7 +2628,7 @@
           "name": "Taxi ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Taxi-1998-แท็กซี่ระห่ำระเบิด-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/5f1f3b1972d1cc8f01cabdc7/5f1f3b1972d1cc8f01cabdc7.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/5f1f3b1972d1cc8f01cabdc7/5f1f3b1972d1cc8f01cabdc7800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2197,7 +2642,7 @@
           "name": "Taxi ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Taxi-1998-แท็กซี่ระห่ำระเบิด-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/d39786bc67b61f6df23204a6/d39786bc67b61f6df23204a6.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/d39786bc67b61f6df23204a6/d39786bc67b61f6df23204a6800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2237,7 +2682,7 @@
           "name": "Ong-Bak ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Ong-Bak-2-2008-องค์บาก-2-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/239ece0f196cb51da7c9c2dc/239ece0f196cb51da7c9c2dc.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/239ece0f196cb51da7c9c2dc/239ece0f196cb51da7c9c2dc800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2379,7 +2824,7 @@
           "name": "Infernal Affairs ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Infernal-Affairs-2-2003-ต้นฉบับสองคนสองคม-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/6f16c15febf4362e98e3d599/6f16c15febf4362e98e3d599.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/6f16c15febf4362e98e3d599/6f16c15febf4362e98e3d599800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2466,7 +2911,7 @@
           "name": "Jeepers Creepers 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Jeepers-Creepers-2-2003-โฉบกระชากหัว-2-300x450.png",
-          "url": "https://xxx.77player.xyz/autoplaylist/f4e250a2d6f3d96a36474f74/f4e250a2d6f3d96a36474f74.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/f4e250a2d6f3d96a36474f74/f4e250a2d6f3d96a36474f74800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2480,7 +2925,7 @@
           "name": "Jeepers Creepers 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Jeepers-Creepers-2-2003-โฉบกระชากหัว-2-300x450.png",
-          "url": "https://xxx.77player.xyz/autoplaylist/9be5428a3bb5f2e2be28c91f/9be5428a3bb5f2e2be28c91f.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/9be5428a3bb5f2e2be28c91f/9be5428a3bb5f2e2be28c91f800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2520,7 +2965,7 @@
           "name": "47 Meters Down ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/47-Meters-Down-Uncaged-2019-ดิ่งลึกสุดนรก-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/6a11a630a032551b53069663/6a11a630a032551b53069663.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/6a11a630a032551b53069663/6a11a630a032551b53069663800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2581,7 +3026,7 @@
           "name": "Deep Blue Sea ภาค 3",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Deep-Blue-Sea-3-2020-ฝูงมฤตยูใต้มหาสมุทร-3-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/60eeae3d6011a20abd38b442/60eeae3d6011a20abd38b442.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/60eeae3d6011a20abd38b442/60eeae3d6011a20abd38b442800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2601,7 +3046,7 @@
           "name": "Deep Blue Sea ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Deep-Blue-Sea-2-2018-ฝูงมฤตยูใต้มหาสมุทร-2-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/b6bc42dc533cf19dd05b81d6/b6bc42dc533cf19dd05b81d6.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/b6bc42dc533cf19dd05b81d6/b6bc42dc533cf19dd05b81d6800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2621,7 +3066,7 @@
           "name": "Deep Blue Sea ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Deep-Blue-Sea-1999-ฝูงมฤตยูใต้มหาสมุทร-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/45c88a1a927d7854fd836f69/45c88a1a927d7854fd836f69.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/45c88a1a927d7854fd836f69/45c88a1a927d7854fd836f69800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2641,7 +3086,7 @@
           "name": "Jaws ภาค 4",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Jaws-The-Revenge-1987-จอว์ส-4-ล้าง…แค้น-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/783e782dbb5c18997eb46e36/783e782dbb5c18997eb46e36.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/783e782dbb5c18997eb46e36/783e782dbb5c18997eb46e36800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2715,7 +3160,7 @@
           "name": "Jaws ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/08/Jaws-1975-จอว์ส-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/c141caf48537bb6d42db27ec/c141caf48537bb6d42db27ec.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/c141caf48537bb6d42db27ec/c141caf48537bb6d42db27ec800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2788,7 +3233,7 @@
           "name": "Guardians of the Galaxy Vol 3 (2023) รวมพันธุ์นักสู้พิทักษ์จักรวาล 3",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Guardians-of-the-Galaxy-Vol-3-2023-รวมพันธุ์นักสู้พิทักษ์จักรวาล-3-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/a33b8e67fb57bde545bdbb48/a33b8e67fb57bde545bdbb48.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/a33b8e67fb57bde545bdbb48/a33b8e67fb57bde545bdbb48800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2802,7 +3247,7 @@
           "name": "Guardians of the Galaxy Vol 3 (2023) รวมพันธุ์นักสู้พิทักษ์จักรวาล 3",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Guardians-of-the-Galaxy-Vol-3-2023-รวมพันธุ์นักสู้พิทักษ์จักรวาล-3-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/2bc28a1a80694cdbe0c195fd/2bc28a1a80694cdbe0c195fd.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/2bc28a1a80694cdbe0c195fd/2bc28a1a80694cdbe0c195fd800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2822,7 +3267,7 @@
           "name": "The Collection (2012) จับคนมาเชือด",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Collection-2012-จับคนมาเชือด-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/0616c61b65479cae1a096c4c/0616c61b65479cae1a096c4c.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/0616c61b65479cae1a096c4c/0616c61b65479cae1a096c4c800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2836,7 +3281,7 @@
           "name": "The Collection (2012) จับคนมาเชือด",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Collection-2012-จับคนมาเชือด-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/af893ee4116fe22804dc0403/af893ee4116fe22804dc0403.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/af893ee4116fe22804dc0403/af893ee4116fe22804dc0403800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2856,7 +3301,7 @@
           "name": "The Collector ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Collector-2009-คืนสยองต้องเชือด-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/9e829f6583885f75fc4736e4/9e829f6583885f75fc4736e4.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/9e829f6583885f75fc4736e4/9e829f6583885f75fc4736e4800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2896,7 +3341,7 @@
           "name": "Saints and Soldiers ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Saints-and-Soldiers-2003-สงครามปลดแอกความเป็นคน-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/e700782ad73132b6d8e4bf75/e700782ad73132b6d8e4bf75.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/e700782ad73132b6d8e4bf75/e700782ad73132b6d8e4bf75800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -2944,7 +3389,7 @@
           "name": "Saints and Soldiers ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Saints-and-Soldiers-Airborne-Creed-2012-ภารกิจกล้าฝ่าแดนข้าศึก-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/ffd416d92e29d0a36887b524/ffd416d92e29d0a36887b524.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/ffd416d92e29d0a36887b524/ffd416d92e29d0a36887b524800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2964,7 +3409,7 @@
           "name": "A Moment of Romance ภาค 3",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/A-Moment-of-Romance-3-1993-ผู้หญิงข้าใตรอย่าเตะ-3-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/e22d330f1d094dff1c05eb68/e22d330f1d094dff1c05eb68.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/e22d330f1d094dff1c05eb68/e22d330f1d094dff1c05eb68800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3071,7 +3516,7 @@
           "name": "Insidious ภาค 4",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Insidious-The-Last-Key-2018-วิญญาณตามติด-กุญแจผีบอก-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/16364f5c46716ef0b312af1a/16364f5c46716ef0b312af1a.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/16364f5c46716ef0b312af1a/16364f5c46716ef0b312af1a800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3119,7 +3564,7 @@
           "name": "Insidious ภาค 3",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Insidious-Chapter-3-2015-วิญญาณตามติด-3-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/1b3aec7c58c32cec32f9e340/1b3aec7c58c32cec32f9e340.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/1b3aec7c58c32cec32f9e340/1b3aec7c58c32cec32f9e340800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3139,7 +3584,7 @@
           "name": "Insidious ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Insidious-Chapter-2-2013-วิญญาณตามติด-ภาค-2-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/379671281001048b73e79c4d/379671281001048b73e79c4d.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/379671281001048b73e79c4d/379671281001048b73e79c4d800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3153,7 +3598,7 @@
           "name": "Insidious ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/Insidious-Chapter-2-2013-วิญญาณตามติด-ภาค-2-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/79c3d6fafa19d38b6d570f22/79c3d6fafa19d38b6d570f22.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/79c3d6fafa19d38b6d570f22/79c3d6fafa19d38b6d570f22800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3287,7 +3732,7 @@
           "name": "The Expendables ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Expendables-2-2012-โคตรคน-ทีมเอ็กซ์เพนเดเบิ้ล-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/781d9776d02e971947337680/781d9776d02e971947337680.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/781d9776d02e971947337680/781d9776d02e971947337680800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3301,7 +3746,7 @@
           "name": "The Expendables ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/07/The-Expendables-2-2012-โคตรคน-ทีมเอ็กซ์เพนเดเบิ้ล-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/15fdc5e75975c2c7b79a21cb/15fdc5e75975c2c7b79a21cb.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/15fdc5e75975c2c7b79a21cb/15fdc5e75975c2c7b79a21cb800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3355,7 +3800,7 @@
           "name": "Indiana Jones ภาค 3",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Indiana-Jones-3-1989-ขุมทรัพย์สุดขอบฟ้า-3-ศึกอภินิหารครูเสด-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/b425af4d5ea9b247c73b54c3/b425af4d5ea9b247c73b54c3.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/b425af4d5ea9b247c73b54c3/b425af4d5ea9b247c73b54c3800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3369,7 +3814,7 @@
           "name": "Indiana Jones ภาค 3",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Indiana-Jones-3-1989-ขุมทรัพย์สุดขอบฟ้า-3-ศึกอภินิหารครูเสด-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/6a24e9adadc3eefa0c45ba3d/6a24e9adadc3eefa0c45ba3d.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/6a24e9adadc3eefa0c45ba3d/6a24e9adadc3eefa0c45ba3d800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3389,7 +3834,7 @@
           "name": "Indiana Jones ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Indiana-Jones-2-1984-ขุมทรัพย์สุดขอบฟ้า-2-ถล่มวิหารเจ้าแม่กาลี-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/8a61296af8ebea3b95f75b7f/8a61296af8ebea3b95f75b7f.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/8a61296af8ebea3b95f75b7f/8a61296af8ebea3b95f75b7f800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3403,7 +3848,7 @@
           "name": "Indiana Jones ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Indiana-Jones-2-1984-ขุมทรัพย์สุดขอบฟ้า-2-ถล่มวิหารเจ้าแม่กาลี-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/a82823c6d76bd530757fc665/a82823c6d76bd530757fc665.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/a82823c6d76bd530757fc665/a82823c6d76bd530757fc665800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3423,7 +3868,7 @@
           "name": "Indiana Jones ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Indiana-Jones-and-the-Raiders-of-the-Lost-Ark-1981-ขุมทรัพย์สุดขอบฟ้า-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/d17866cac7f47d875fd2cfd6/d17866cac7f47d875fd2cfd6.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/d17866cac7f47d875fd2cfd6/d17866cac7f47d875fd2cfd6800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3437,7 +3882,7 @@
           "name": "Indiana Jones ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Indiana-Jones-and-the-Raiders-of-the-Lost-Ark-1981-ขุมทรัพย์สุดขอบฟ้า-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/47a2802a27249ae49b1b91bb/47a2802a27249ae49b1b91bb.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/47a2802a27249ae49b1b91bb/47a2802a27249ae49b1b91bb800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3457,7 +3902,7 @@
           "name": "Phu Bao Thai Bahn E-Saan Juad (2021) ผู้บ่าวไทบ้าน อีสานจ้วด...",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Phu-Bao-Thai-Bahn-E-Saan-Juad-2021-ผู้บ่าวไทบ้าน-อีสานจ้วด...-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/e98dea0d953d219bbadbecd1/e98dea0d953d219bbadbecd1.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/e98dea0d953d219bbadbecd1/e98dea0d953d219bbadbecd1800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3477,7 +3922,7 @@
           "name": "E-SAN Indy ภาค 3",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Poo-Baow-Tai-Ban-3-2018-ผู้บ่าวไทบ้าน-3-หมาน-แอนด์-เดอะ-คำผาน-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/cd1d833dbc0676c7f09ba941/cd1d833dbc0676c7f09ba941.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/cd1d833dbc0676c7f09ba941/cd1d833dbc0676c7f09ba941800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3517,7 +3962,7 @@
           "name": "E-SAN Indy ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/E-SAN-Indy-2014-ผู้บ่าวไทบ้าน-อีสานอินดี้-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/17033d3e5acb586de32aac51/17033d3e5acb586de32aac51.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/17033d3e5acb586de32aac51/17033d3e5acb586de32aac51800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3603,7 +4048,7 @@
           "name": "Miracle Fighters ภาค 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Miracle-Fighters-2-2023-ฉีเหมินตุ้นเจี่ย-2-300x450.jpg",
-          "url": "https://main.77player.xyz/newplaylist/195d4f88df413a22b788a48c/195d4f88df413a22b788a48c.m3u8",
+          "url": "https://main.77player.xyz/m3u8/195d4f88df413a22b788a48c/195d4f88df413a22b788a48c438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3630,7 +4075,7 @@
           "name": "Miracle Fighters ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Miracle-Fighters-2020-ฉีเหมินตุ้นเจี่ย-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/46d4e5fceabe5de7befb8d02/46d4e5fceabe5de7befb8d02.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/46d4e5fceabe5de7befb8d02/46d4e5fceabe5de7befb8d02800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3650,7 +4095,7 @@
           "name": "Extraction 2 (2023) คนระห่ำภารกิจเดือด 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Extraction-2-2023-คนระห่ำภารกิจเดือด-2-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/769d127d895fcc76105e4621/769d127d895fcc76105e4621.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/769d127d895fcc76105e4621/769d127d895fcc76105e4621800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3664,7 +4109,7 @@
           "name": "Extraction 2 (2023) คนระห่ำภารกิจเดือด 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/06/Extraction-2-2023-คนระห่ำภารกิจเดือด-2-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/438c4955f409055cbe303b57/438c4955f409055cbe303b57.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/438c4955f409055cbe303b57/438c4955f409055cbe303b57800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3804,7 +4249,7 @@
           "name": "Johnny English ภาค 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Johnny-English-2003-จอห์นนี่-อิงลิช-พยัคฆ์ร้าย-ศูนย์-ศูนย์-ก๊าก-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/4b97707ecc9806e1adf7e338/4b97707ecc9806e1adf7e338438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/4b97707ecc9806e1adf7e338/4b97707ecc9806e1adf7e338.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3824,7 +4269,7 @@
           "name": "Mirrors ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Mirrors-2-2010-มันอยู่ในกระจก-2-สะท้อนผีดุ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/a68075060aa4081259557813/a68075060aa4081259557813.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/a68075060aa4081259557813/a68075060aa4081259557813800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3838,7 +4283,7 @@
           "name": "Mirrors ภาค 2",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Mirrors-2-2010-มันอยู่ในกระจก-2-สะท้อนผีดุ-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/21b46eed7def788603a86ecf/21b46eed7def788603a86ecf.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/21b46eed7def788603a86ecf/21b46eed7def788603a86ecf800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3858,7 +4303,7 @@
           "name": "Mirrors ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Mirrors-มันอยู่ในกระจก-2008-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/39e7369a983df6730e01214c/39e7369a983df6730e01214c.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/39e7369a983df6730e01214c/39e7369a983df6730e01214c800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -3872,7 +4317,7 @@
           "name": "Mirrors ภาค 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Mirrors-มันอยู่ในกระจก-2008-300x450.jpg",
-          "url": "https://xxx.77player.xyz/autoplaylist/bfcde76de017b0fd77c598d8/bfcde76de017b0fd77c598d8.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/bfcde76de017b0fd77c598d8/bfcde76de017b0fd77c598d8800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3966,66 +4411,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Wrong-Turn-3-Left-for-Dead-2009-หวีดเขมือบคน-3-300x450.jpg",
           "url": "https://main.77player.xyz/m3u8/741c79bcf2145d12bd021f5c/741c79bcf2145d12bd021f5c438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Wrong Turn 2 Dead End (2007) หวีดเขมือบคน 2",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Wrong-Turn-2-Dead-End-2007-หวีดเขมือบคน-2-300x450.jpg",
-      "stations": [
-        {
-          "name": "Wrong Turn 2 Dead End ภาค 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Wrong-Turn-2-Dead-End-2007-หวีดเขมือบคน-2-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/0bd4a3486bdd420b57bc6bb8/0bd4a3486bdd420b57bc6bb8438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Wrong Turn 2 Dead End ภาค 2",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Wrong-Turn-2-Dead-End-2007-หวีดเขมือบคน-2-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/529f1aaefaa2daa429f8ce9f/529f1aaefaa2daa429f8ce9f438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Wrong Turn (2003) หวีดเขมือบคน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Wrong-Turn-2003-หวีดเขมือบคน-300x450.jpg",
-      "stations": [
-        {
-          "name": "Wrong Turn ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Wrong-Turn-2003-หวีดเขมือบคน-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/effa5c601df46d0ec88d8825/effa5c601df46d0ec88d8825438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Wrong Turn ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/02/Wrong-Turn-2003-หวีดเขมือบคน-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/0482135bd3a799170b62c5b9/0482135bd3a799170b62c5b9438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Bodyguard (2021)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Bodyguard-2021-300x450.jpg",
-      "stations": [
-        {
-          "name": "bodyguard ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Bodyguard-2021-300x450.jpg",
-          "url": "https://main.77player.xyz/m3u8/dda128ec6de33cdc67a2906b/dda128ec6de33cdc67a2906b438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "bodyguard ภาค 1",
-          "info": "ตัวเล่นสำรอง",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/05/Bodyguard-2021-300x450.jpg",
-          "url": "https://xxx.77player.xyz/m3u8/f536d52163f388aa3f12d890/f536d52163f388aa3f12d890800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -4446,6 +4831,59 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-Beyond-2016-สตาร์-เทรค-ข้ามขอบจักรวาล-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/5b93233246577165a4a47117fdd5b730/5b93233246577165a4a47117fdd5b730.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Star Trek 2 Into Darkness (2013) สตาร์ เทรค ทะยานสู่ห้วงมืด",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-Into-Darkness-2013-สตาร์-เทรค-ทะยานสู่ห้วงมืด-300x450.png",
+      "stations": [
+        {
+          "name": "Star Trek 2 Into Darkness",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-Into-Darkness-2013-สตาร์-เทรค-ทะยานสู่ห้วงมืด-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/f5016e87005a056afac93283ed02aa18/f5016e87005a056afac93283ed02aa18.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Star Trek 2 Into Darkness",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-Into-Darkness-2013-สตาร์-เทรค-ทะยานสู่ห้วงมืด-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/380f940ee739a28fd8eb49c893ef716f/380f940ee739a28fd8eb49c893ef716f.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Star Trek (2009) สตาร์ เทรค สงครามพิฆาตจักรวาล",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-2009-สตาร์-เทรค-สงครามพิฆาตจักรวาล-300x450.png",
+      "stations": [
+        {
+          "name": "Star Trek 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-2009-สตาร์-เทรค-สงครามพิฆาตจักรวาล-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/c89e32c374d7b61a36d3621b08f71f46/c89e32c374d7b61a36d3621b08f71f46.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Star Trek 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/01/Star-Trek-2009-สตาร์-เทรค-สงครามพิฆาตจักรวาล-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/545302b8d314cd093ccd60600cbdaaed/545302b8d314cd093ccd60600cbdaaed.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "3AM Part 2 (2014) ตีสาม คืนสาม 3D",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/04/3AM-Part-2-2014-ตีสาม-คืนสาม-3D-300x450.jpg",
+      "stations": [
+        {
+          "name": "3AM Part 2 (2014) ตีสาม คืนสาม 3D",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/04/3AM-Part-2-2014-ตีสาม-คืนสาม-3D-300x450.jpg",
+          "url": "https://xxx.77player.xyz/ioshls/7991f357409cf115c9027adc8087bcbd/7991f357409cf115c9027adc8087bcbd.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -4963,27 +5401,7 @@
           "name": "21 Jump Street",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/03/21-Jump-Street-2012-สายลับร้ายไฮสคูล-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/b2ab95143c28900ce53322bf/b2ab95143c28900ce53322bf438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Sinister (2012) เห็นแล้วต้องตาย",
-      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Sinister-2012-เห็นแล้วต้องตาย-300x450.png",
-      "stations": [
-        {
-          "name": "Sinister ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Sinister-2012-เห็นแล้วต้องตาย-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/af897fadcc408dbf87423a9aecbadd2c/af897fadcc408dbf87423a9aecbadd2c.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Sinister ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Sinister-2012-เห็นแล้วต้องตาย-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/419dd33974c3a4b654ceb69898e8fff2/419dd33974c3a4b654ceb69898e8fff2.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/b2ab95143c28900ce53322bf/b2ab95143c28900ce53322bf.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -5004,6 +5422,26 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Sinister-2-2015-เห็นแล้วต้องตาย-2-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/0700ae1d68509d64c351738a8030bf1e/0700ae1d68509d64c351738a8030bf1e.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Sinister (2012) เห็นแล้วต้องตาย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Sinister-2012-เห็นแล้วต้องตาย-300x450.png",
+      "stations": [
+        {
+          "name": "Sinister ภาค 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Sinister-2012-เห็นแล้วต้องตาย-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/af897fadcc408dbf87423a9aecbadd2c/af897fadcc408dbf87423a9aecbadd2c.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Sinister ภาค 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Sinister-2012-เห็นแล้วต้องตาย-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/419dd33974c3a4b654ceb69898e8fff2/419dd33974c3a4b654ceb69898e8fff2.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -5826,7 +6264,7 @@
           "name": "I Spit on Your Grave 3 Vengeance is Mine",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/12/I-Spit-on-Your-Grave-3-Vengeance-is-Mine-2015-เดนนรกต้องตาย-300x450.png",
-          "url": "https://main.77player.xyz/newplaylist/2807c1e319d276680c8ee102/2807c1e319d276680c8ee102.m3u8",
+          "url": "https://main.77player.xyz/m3u8/2807c1e319d276680c8ee102/2807c1e319d276680c8ee102438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -6254,7 +6692,7 @@
           "name": "Jan Dara The Finale (2013) จันดารา ปัจฉิมบท",
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/10/Jan-Dara-The-Finale-2013-จันดารา-ปัจฉิมบท-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/24f87c3f7adca2facc630093/24f87c3f7adca2facc630093438.m3u8",
+          "url": "https://main.77player.xyz/newplaylist/24f87c3f7adca2facc630093/24f87c3f7adca2facc630093.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -6514,6 +6952,13 @@
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-6-2015-ตำนานสมเด็จพระนเรศวรมหาราช-ภาค-6-อวสานหงสา-300x450.png",
           "url": "https://main.77player.xyz/m3u8/fadb3e78b98670e55a0f50c6/fadb3e78b98670e55a0f50c6438.m3u8",
           "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Legend of King Naresuan ภาค 6 อวสานหงสา",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-6-2015-ตำนานสมเด็จพระนเรศวรมหาราช-ภาค-6-อวสานหงสา-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/2bb9a65709a6782d4d402ac4/2bb9a65709a6782d4d402ac4800.m3u8",
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -6526,6 +6971,13 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-5-2014-ตำนานสมเด็จพระนเรศวรมหาราช-ภาค-5-ยุทธหัตถี-300x450.png",
           "url": "https://main.77player.xyz/m3u8/be0920bfcec10fee7342cb15/be0920bfcec10fee7342cb15438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Legend of King Naresuan ภาค 5 ยุทธหัตถี",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-5-2014-ตำนานสมเด็จพระนเรศวรมหาราช-ภาค-5-ยุทธหัตถี-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/899b456e83fbb54228a6ceb5/899b456e83fbb54228a6ceb5800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -6540,6 +6992,13 @@
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-4-2011-ตำนานสมเด็จพระนเรศวรมหาราช-ภาค-4-ศึกนันทบุเรง-300x450.png",
           "url": "https://main.77player.xyz/m3u8/66ad5c00fa69b1f68389205c/66ad5c00fa69b1f68389205c438.m3u8",
           "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Legend of King Naresuan ภาค 4 ศึกนันทบุเรง",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-4-2011-ตำนานสมเด็จพระนเรศวรมหาราช-ภาค-4-ศึกนันทบุเรง-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/69a2ac096a2619310a951690/69a2ac096a2619310a951690800.m3u8",
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -6552,6 +7011,13 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-3-2011-ตำนานสมเด็จพระนเรศวรมหาราช-ภาค-3-ยุทธนาวี-300x450.png",
           "url": "https://main.77player.xyz/m3u8/3e0cceb1855c585e7c4ad888/3e0cceb1855c585e7c4ad888438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Legend of King Naresuan ภาค 3 ยุทธนาวี",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-3-2011-ตำนานสมเด็จพระนเรศวรมหาราช-ภาค-3-ยุทธนาวี-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/fe9acb889f76ab4e730a7df6/fe9acb889f76ab4e730a7df6800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -6566,6 +7032,13 @@
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-2-2007-ตำนานสมเด็จพระนเรศวรมหาราช-2-ประกาศอิสรภาพ-300x450.png",
           "url": "https://main.77player.xyz/m3u8/9997e52b6b10d992c263b787/9997e52b6b10d992c263b787438.m3u8",
           "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Legend of King Naresuan ภาค 2 ประกาศอิสรภาพ",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/The-Legend-of-King-Naresuan-2-2007-ตำนานสมเด็จพระนเรศวรมหาราช-2-ประกาศอิสรภาพ-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/bdf9d7964ddcb178bca0cf28/bdf9d7964ddcb178bca0cf28800.m3u8",
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },
@@ -6578,6 +7051,13 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/09/King-Naresuan-2007-ตำนานสมเด็จพระนเรศวรมหาราช-300x450.png",
           "url": "https://main.77player.xyz/m3u8/3b02101bfe73dea118cb80a5/3b02101bfe73dea118cb80a5438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Legend of King Naresuan 1 ตัวประกันหงษา",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/09/King-Naresuan-2007-ตำนานสมเด็จพระนเรศวรมหาราช-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/6a087de3c56bc1009c635bd7/6a087de3c56bc1009c635bd7800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -7182,59 +7662,6 @@
       ]
     },
     {
-      "name": "Scary Movie 1 (2000) ยําหนังจี้ หวีดดีไหมหว่า",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Scary-Movie-1-2000-ยําหนังจี้-หวีดดีไหมหว่า-300x450.png",
-      "stations": [
-        {
-          "name": "Scary Movie 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Scary-Movie-1-2000-ยําหนังจี้-หวีดดีไหมหว่า-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/5ea1efde2091f70adc68d3b0ade2429a/5ea1efde2091f70adc68d3b0ade2429a.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "The Predator (2018) เดอะ เพรดเดเทอร์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/08/The-Predator-2018-เดอะ-เพรดเดเทอร์-300x450.png",
-      "stations": [
-        {
-          "name": "The Predator",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/08/The-Predator-2018-เดอะ-เพรดเดเทอร์-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/1ae5c665957eaef0ad283abad498210a/1ae5c665957eaef0ad283abad498210a.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Predator",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/08/The-Predator-2018-เดอะ-เพรดเดเทอร์-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/8c9db6fcaa5819058a558aa5fe7c3035/8c9db6fcaa5819058a558aa5fe7c3035.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Predators (2010) มหากาฬพรีเดเตอร์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Predators-2010-มหากาฬพรีเดเตอร์-300x450.png",
-      "stations": [
-        {
-          "name": "Predators",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Predators-2010-มหากาฬพรีเดเตอร์-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/afe6cd7bbd60efa8afd922375798cbaa/afe6cd7bbd60efa8afd922375798cbaa.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Predators",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Predators-2010-มหากาฬพรีเดเตอร์-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/38178fba041d028d6d3bb043466373fd/38178fba041d028d6d3bb043466373fd.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "Predator 2 (1990) คนไม่ใช่คน 2 บดเมืองมนุษย์",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/08/Predator-2-1990-คนไม่ใช่คน-2-บดเมืองมนุษย์-300x450.png",
       "stations": [
@@ -7567,6 +7994,59 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Benyamin-Biang-Kerok-2-2020-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/c7436928ecfe11233d0800e2b28c65e2/c7436928ecfe11233d0800e2b28c65e2.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Benyamin Biang Kerok (2018)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Benyamin-Biang-Kerok-2018-300x450.png",
+      "stations": [
+        {
+          "name": "Benyamin Biang Kerok 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Benyamin-Biang-Kerok-2018-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/2b5fc9e081de1bded8057a94554f869e/2b5fc9e081de1bded8057a94554f869e.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Child's Play (2019) คลั่งฝังหุ่น",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Childs-Play-2019-คลั่งฝังหุ่น-300x450.png",
+      "stations": [
+        {
+          "name": "Child's Play (2019)",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Childs-Play-2019-คลั่งฝังหุ่น-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/887cb9f8eae217749760564f095ac289/887cb9f8eae217749760564f095ac289.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Child's Play (2019)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Childs-Play-2019-คลั่งฝังหุ่น-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/50b4b7fb655eb236da375255/50b4b7fb655eb236da375255438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Curse of Chucky (2013) คำสาปแค้นฝังหุ่น",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Curse-of-Chucky-2013-คำสาปแค้นฝังหุ่น-300x450.png",
+      "stations": [
+        {
+          "name": "Curse of Chucky",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Curse-of-Chucky-2013-คำสาปแค้นฝังหุ่น-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/435acf3550a091c60d9256da9a411cf2/435acf3550a091c60d9256da9a411cf2.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Curse of Chucky",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Curse-of-Chucky-2013-คำสาปแค้นฝังหุ่น-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/de30438e178b88042f0dfeb2f5ef7f28/de30438e178b88042f0dfeb2f5ef7f28.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -9114,81 +9594,21 @@
       ]
     },
     {
-      "name": "Home Alone 4 Taking Back the House (2002) โดดเดี่ยวผู้น่ารัก 4",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-4-Taking-Back-the-House-2002-โดดเดี่ยวผู้น่ารัก-4-300x450.png",
+      "name": "A Good Day to Die Hard (2013) วันดีมหาวินาศ คนอึดตายยาก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/04/A-Good-Day-to-Die-Hard-2013-วันดีมหาวินาศ-คนอึดตายยาก-300x450.png",
       "stations": [
         {
-          "name": "Home Alone 4 Taking Back the House",
+          "name": "Die Hard 5",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-4-Taking-Back-the-House-2002-โดดเดี่ยวผู้น่ารัก-4-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/82c716e09448a33ef4f5f9b4/82c716e09448a33ef4f5f9b4438.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/A-Good-Day-to-Die-Hard-2013-วันดีมหาวินาศ-คนอึดตายยาก-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/a4d8e0140a79d1261ee82a4e/a4d8e0140a79d1261ee82a4e438.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "Home Alone 4 Taking Back the House",
+          "name": "Die Hard 5",
           "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-4-Taking-Back-the-House-2002-โดดเดี่ยวผู้น่ารัก-4-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/59fa5c71823c7f8de6541ec52cdca89d/59fa5c71823c7f8de6541ec52cdca89d.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Home Alone 3 (1997) โดดเดี่ยวผู้น่ารัก 3",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-3-1997-โดดเดี่ยวผู้น่ารัก-3-300x450.png",
-      "stations": [
-        {
-          "name": "Home Alone 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-3-1997-โดดเดี่ยวผู้น่ารัก-3-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/a175ee463347c94ea02f2df4/a175ee463347c94ea02f2df4438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Home Alone 3",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-3-1997-โดดเดี่ยวผู้น่ารัก-3-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/40fe5b52c49a0cb2c53eac549ec2fd31/40fe5b52c49a0cb2c53eac549ec2fd31.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Home Alone 2 Lost in New York (1992) โดดเดี่ยวผู้น่ารัก 2 ตอน หลงในนิวยอร์ค",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-2-Lost-in-New-York-1992-โดดเดี่ยวผู้น่ารัก-2-ตอน-หลงในนิวยอร์ค-300x450.png",
-      "stations": [
-        {
-          "name": "Home Alone 2 Lost in New York",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-2-Lost-in-New-York-1992-โดดเดี่ยวผู้น่ารัก-2-ตอน-หลงในนิวยอร์ค-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/54fd20bb4220528c892d76835d829409/54fd20bb4220528c892d76835d829409.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Home Alone 2 Lost in New York",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-2-Lost-in-New-York-1992-โดดเดี่ยวผู้น่ารัก-2-ตอน-หลงในนิวยอร์ค-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/e5b5bd23ba0382317931fbc9/e5b5bd23ba0382317931fbc9438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Home Alone (1990) โดดเดี่ยวผู้น่ารัก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-1990-โดดเดี่ยวผู้น่ารัก-300x450.png",
-      "stations": [
-        {
-          "name": "Home Alone 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-1990-โดดเดี่ยวผู้น่ารัก-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/e52236a8bc7f5c8edae9db50f4a037ab/e52236a8bc7f5c8edae9db50f4a037ab.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Home Alone 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-1990-โดดเดี่ยวผู้น่ารัก-300x450.png",
-          "url": "https://xxx.77player.xyz/ioshls/fd86975aa24e93039efd22329f21e1d6/fd86975aa24e93039efd22329f21e1d6.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/A-Good-Day-to-Die-Hard-2013-วันดีมหาวินาศ-คนอึดตายยาก-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/56e9140baed857c985e71c55/56e9140baed857c985e71c55438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -9209,26 +9629,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Die-Hard-1988-นรกระฟ้า-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/398e3b280470c848552da18eefe6b5e0/398e3b280470c848552da18eefe6b5e0.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "A Good Day to Die Hard (2013) วันดีมหาวินาศ คนอึดตายยาก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2022/04/A-Good-Day-to-Die-Hard-2013-วันดีมหาวินาศ-คนอึดตายยาก-300x450.png",
-      "stations": [
-        {
-          "name": "Die Hard 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/A-Good-Day-to-Die-Hard-2013-วันดีมหาวินาศ-คนอึดตายยาก-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/a4d8e0140a79d1261ee82a4e/a4d8e0140a79d1261ee82a4e438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Die Hard 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/A-Good-Day-to-Die-Hard-2013-วันดีมหาวินาศ-คนอึดตายยาก-300x450.png",
-          "url": "https://main.77player.xyz/m3u8/56e9140baed857c985e71c55/56e9140baed857c985e71c55438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -9994,9 +10394,23 @@
         },
         {
           "name": "The Texas Chainsaw Massacre 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/The-Texas-Chainsaw-Massacre-2003-ล่อ...มาชำแหละ-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/2da18752679eea5f45ac9f83/2da18752679eea5f45ac9f83800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Texas Chainsaw Massacre 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/02/The-Texas-Chainsaw-Massacre-2003-ล่อ...มาชำแหละ-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/20ae451e079effb34c3d49503449bc8b/20ae451e079effb34c3d49503449bc8b.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Texas Chainsaw Massacre 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/The-Texas-Chainsaw-Massacre-2003-ล่อ...มาชำแหละ-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/e3797a713bfa2b88b0bda608/e3797a713bfa2b88b0bda608800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -10014,9 +10428,23 @@
         },
         {
           "name": "The Texas Chainsaw Massacre 5",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Texas-Chainsaw-Massacre-2022-สิงหาสับ-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/305bddc6d2c794b6e7a81b03/305bddc6d2c794b6e7a81b03800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Texas Chainsaw Massacre 5",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Texas-Chainsaw-Massacre-2022-สิงหาสับ-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/2fc5e35b7cd5b941bea75b5e43bbd8d3/2fc5e35b7cd5b941bea75b5e43bbd8d3.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Texas Chainsaw Massacre 5",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Texas-Chainsaw-Massacre-2022-สิงหาสับ-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/b016652ee4d135e9b4864441/b016652ee4d135e9b4864441800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -10034,9 +10462,23 @@
         },
         {
           "name": "Leatherface",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Leatherface-2017-สิงหาสับ-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/f530e34f47c25feee7292744/f530e34f47c25feee7292744800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Leatherface",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Leatherface-2017-สิงหาสับ-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/8f31ff973336b7816812df5475503f9d/8f31ff973336b7816812df5475503f9d.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Leatherface",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Leatherface-2017-สิงหาสับ-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/ca7e2b9f41c388baa1717961/ca7e2b9f41c388baa1717961800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -10054,9 +10496,23 @@
         },
         {
           "name": "Texas Chainsaw 3",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Texas-Chainsaw-2013-สิงหาต้องสับ..-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/1aa8a44f563b31e9b2fd5c67/1aa8a44f563b31e9b2fd5c67800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Texas Chainsaw 3",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Texas-Chainsaw-2013-สิงหาต้องสับ..-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/611fa05bb8ffed613ade02d3bd5fe30f/611fa05bb8ffed613ade02d3bd5fe30f.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Texas Chainsaw 3",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Texas-Chainsaw-2013-สิงหาต้องสับ..-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/299b3cabd99f264ad364be8b/299b3cabd99f264ad364be8b800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -10074,9 +10530,23 @@
         },
         {
           "name": "The Texas Chainsaw Massacre 2 The Beginning",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/The-Texas-Chainsaw-Massacre-2-The-Beginning-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/692da5193e80c7011be18c68/692da5193e80c7011be18c68800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Texas Chainsaw Massacre 2 The Beginning",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/02/The-Texas-Chainsaw-Massacre-2-The-Beginning-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/258c3b9e69733e6d7c6ded088eb75f80/258c3b9e69733e6d7c6ded088eb75f80.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "The Texas Chainsaw Massacre 2 The Beginning",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/The-Texas-Chainsaw-Massacre-2-The-Beginning-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/db01db83df9d9a9fe03b33fd/db01db83df9d9a9fe03b33fd800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -10234,9 +10704,23 @@
         },
         {
           "name": "Kick-Ass ภาค 2",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Kick-Ass-2-2013-เกรียนโคตรมหาประลัย-2-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/36cda9f7856faa720c8c6580/36cda9f7856faa720c8c6580800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Kick-Ass ภาค 2",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Kick-Ass-2-2013-เกรียนโคตรมหาประลัย-2-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/62667cf2e5adb792190773c891bbf508/62667cf2e5adb792190773c891bbf508.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Kick-Ass ภาค 2",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Kick-Ass-2-2013-เกรียนโคตรมหาประลัย-2-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/ea4370f9e81f21f02ac2b776/ea4370f9e81f21f02ac2b776800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -10254,9 +10738,23 @@
         },
         {
           "name": "Kick-Ass ภาค 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Kick-Ass-2010-เกรียนโคตรมหาประลัย-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/bab064a6a9cfce6afb0a6e9e/bab064a6a9cfce6afb0a6e9e800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Kick-Ass ภาค 1",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Kick-Ass-2010-เกรียนโคตรมหาประลัย-300x450.png",
           "url": "https://xxx.77player.xyz/ioshls/3e98c08d3786fa3ff7350f29b4a22e03/3e98c08d3786fa3ff7350f29b4a22e03.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Kick-Ass ภาค 1",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/02/Kick-Ass-2010-เกรียนโคตรมหาประลัย-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/f2079c7ac992e4f4aa6ae57e/f2079c7ac992e4f4aa6ae57e800.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -10420,6 +10918,40 @@
       ]
     },
     {
+      "name": "Home Alone 3 (1997) โดดเดี่ยวผู้น่ารัก 3",
+      "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-3-1997-โดดเดี่ยวผู้น่ารัก-3-300x450.png",
+      "stations": [
+        {
+          "name": "Home Alone 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-3-1997-โดดเดี่ยวผู้น่ารัก-3-300x450.png",
+          "url": "https://main.77player.xyz/m3u8/a175ee463347c94ea02f2df4/a175ee463347c94ea02f2df4438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Home Alone 3",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-3-1997-โดดเดี่ยวผู้น่ารัก-3-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/61523d7c2a26928640ae8d60/61523d7c2a26928640ae8d60800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Home Alone 3",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-3-1997-โดดเดี่ยวผู้น่ารัก-3-300x450.png",
+          "url": "https://xxx.77player.xyz/ioshls/40fe5b52c49a0cb2c53eac549ec2fd31/40fe5b52c49a0cb2c53eac549ec2fd31.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Home Alone 3",
+          "info": "ตัวเล่นสำรอง",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/04/Home-Alone-3-1997-โดดเดี่ยวผู้น่ารัก-3-300x450.png",
+          "url": "https://xxx.77player.xyz/m3u8/2569fa890d958861d5c1bbb1/2569fa890d958861d5c1bbb1800.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "Fantastic Beasts and Where to Find Them (2016) สัตว์มหัศจรรย์และถิ่นที่อยู่",
       "image": "https://www.123-hd.com/wp-content/uploads/2021/01/Fantastic-Beasts-and-Where-to-Find-Them-2016-สัตว์มหัศจรรย์และถิ่นที่อยู่-300x450.png",
       "stations": [
@@ -10474,7 +11006,7 @@
           "name": "Attraction 1",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2020/12/Attraction-2017-มหาวิบัติเอเลี่ยนถล่มโลก-300x450.png",
-          "url": "https://xxx.77player.xyz/autoplaylist/5098b453198668ea82b55d1b/5098b453198668ea82b55d1b.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/5098b453198668ea82b55d1b/5098b453198668ea82b55d1b800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -10830,6 +11362,26 @@
       ]
     },
     {
+      "name": "It (2017) อิท โผล่จากนรก 1",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/It-2017-อิท-โผล่จากนรก-1-250x350.png",
+      "stations": [
+        {
+          "name": "It อิท โผล่จากนรก 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/It-2017-อิท-โผล่จากนรก-1-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/e63a78b6030cc3db76f6c8fd576bbd57/e63a78b6030cc3db76f6c8fd576bbd57.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "It อิท โผล่จากนรก 1",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/It-2017-อิท-โผล่จากนรก-1-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/0d9fc79ec19d748ecba3329ce30b2d4f/0d9fc79ec19d748ecba3329ce30b2d4f.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "Jarhead 4 Law Of Return (2019) จาร์เฮด พลระห่ำสงครามนรก",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Jarhead-4-Law-Of-Return-2019-จาร์เฮด-พลระห่ำสงครามนรก-250x350.png",
       "stations": []
@@ -10890,46 +11442,6 @@
       ]
     },
     {
-      "name": "Maze Runner 2 The Scorch Trials (2015) วงกตมฤตยู ภาค 2",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Maze-Runner-2-The-Scorch-Trials-2015-วงกตมฤตยู-ภาค-2-250x350.png",
-      "stations": [
-        {
-          "name": "Maze Runner ภาค 2 The Scorch Trials",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Maze-Runner-2-The-Scorch-Trials-2015-วงกตมฤตยู-ภาค-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/5da8ed9cea1e524bc3b7dde4e2ccc191/5da8ed9cea1e524bc3b7dde4e2ccc191.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Maze Runner ภาค 2 The Scorch Trials",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Maze-Runner-2-The-Scorch-Trials-2015-วงกตมฤตยู-ภาค-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/a050c6d9a0b097261741e4626eb148fd/a050c6d9a0b097261741e4626eb148fd.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "The Maze Runner (2014) วงกตมฤตยู ภาค 1",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Maze-Runner-2014-วงกตมฤตยู-ภาค-1-250x350.png",
-      "stations": [
-        {
-          "name": "The Maze Runner ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Maze-Runner-2014-วงกตมฤตยู-ภาค-1-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/bbaa55ae94a48f8e567e1dace38c7124/bbaa55ae94a48f8e567e1dace38c7124.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Maze Runner ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Maze-Runner-2014-วงกตมฤตยู-ภาค-1-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/05a7497c7266505299e195cf07509be0/05a7497c7266505299e195cf07509be0.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "Terminator 5 Genisys (2015) คนเหล็ก 5 มหาวิบัติจักรกลยึดโลก",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Terminator-5-Genisys-2015-คนเหล็ก-5-มหาวิบัติจักรกลยึดโลก-250x350.png",
       "stations": [
@@ -10945,26 +11457,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Terminator-5-Genisys-2015-คนเหล็ก-5-มหาวิบัติจักรกลยึดโลก-250x350.png",
           "url": "https://xxx.77player.xyz/ioshls/341d13568442a93cf38fca960d03ebdc/341d13568442a93cf38fca960d03ebdc.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Terminator 3 Rise Of The Machines คนเหล็ก 3 กำเนิดใหม่เครื่องจักรสังหาร",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Terminator-3-Rise-Of-The-Machines-2003-คนเหล็ก-3-กำเนิดใหม่เครื่องจักรสังหาร-250x350.png",
-      "stations": [
-        {
-          "name": "คนเหล็ก ภาค 3 กำเนิดใหม่เครื่องจักรสังหาร",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Terminator-3-Rise-Of-The-Machines-2003-คนเหล็ก-3-กำเนิดใหม่เครื่องจักรสังหาร-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/9ed4bfef37e5d4546c9c6cc941ea1d4e/9ed4bfef37e5d4546c9c6cc941ea1d4e.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "คนเหล็ก ภาค 3 กำเนิดใหม่เครื่องจักรสังหาร",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Terminator-3-Rise-Of-The-Machines-2003-คนเหล็ก-3-กำเนิดใหม่เครื่องจักรสังหาร-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/9c25f9e7ab99569d35a0733750fb6ab5/9c25f9e7ab99569d35a0733750fb6ab5.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -11184,7 +11676,27 @@
           "name": "Transformers ภาค 3",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-3-2011-ทรานฟอร์เมอร์-3-250x350.png",
-          "url": "https://main.77player.xyz/newplaylist/e94429de8aa01d26e00cf7f0/e94429de8aa01d26e00cf7f0.m3u8",
+          "url": "https://main.77player.xyz/m3u8/e94429de8aa01d26e00cf7f0/e94429de8aa01d26e00cf7f0438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Transformers 2 ทรานฟอร์เมอร์ 2",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-2-2009-ทรานฟอร์เมอร์-2-250x350.png",
+      "stations": [
+        {
+          "name": "Transformers ภาค 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-2-2009-ทรานฟอร์เมอร์-2-250x350.png",
+          "url": "https://main.77player.xyz/m3u8/c710ac20919ac00136d78eca/c710ac20919ac00136d78eca438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Transformers ภาค 2",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Transformers-2-2009-ทรานฟอร์เมอร์-2-250x350.png",
+          "url": "https://main.77player.xyz/m3u8/ef1dea5733b05c01d942376d/ef1dea5733b05c01d942376d438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -11370,14 +11882,14 @@
       ]
     },
     {
-      "name": "The Bourne Legacy (2012) พลิกแผนล่ายอดจารชน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Bourne-Legacy-2012-พลิกแผนล่ายอดจารชน-250x350.png",
+      "name": "The Bourne Ultimatum ปิดเกมล่าจารชน คนอันตราย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Bourne-Ultimatum-2007-ปิดเกมล่าจารชน-คนอันตราย-250x350.png",
       "stations": [
         {
-          "name": "The Bourne Legacy (2012)",
+          "name": "The Bourne Ultimatum (2007)",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Bourne-Legacy-2012-พลิกแผนล่ายอดจารชน-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/f46f50facaaf4f6433d4b401cfa49d40/f46f50facaaf4f6433d4b401cfa49d40.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Bourne-Ultimatum-2007-ปิดเกมล่าจารชน-คนอันตราย-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/4d62be815c300238bd17839f5ded2a2a/4d62be815c300238bd17839f5ded2a2a.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -11391,6 +11903,19 @@
           "info": "พากย์ไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Bourne-Supremacy-2004-สุดยอดเกมล่าจารชน-250x350.png",
           "url": "https://xxx.77player.xyz/ioshls/d2b88ce10e9816363b6a636146c5b0b5/d2b88ce10e9816363b6a636146c5b0b5.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Bourne Identity ล่าจารชน ยอดคนอันตราย",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Bourne-Identity-2002-ล่าจารชน-ยอดคนอันตราย-250x350.png",
+      "stations": [
+        {
+          "name": "The Bourne Identity (2002)",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Bourne-Identity-2002-ล่าจารชน-ยอดคนอันตราย-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/cdf6a90dc48b1364770d78ae384deeb2/cdf6a90dc48b1364770d78ae384deeb2.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -11410,7 +11935,7 @@
           "name": "Mission Impossible 6 Fallout (2018)",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Mission-Impossible-6-Fallout-2018-มิชชั่น-อิมพอสซิเบิ้ล-6-ฟอลล์เอาท์-250x350.png",
-          "url": "https://xxx.77player.xyz/autoplaylist/5435775da60650da59777a4a/5435775da60650da59777a4a.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/5435775da60650da59777a4a/5435775da60650da59777a4a800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -11437,7 +11962,7 @@
           "name": "Mission Impossible 5 Rogue Nation (2015)",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Mission-Impossible-5-Rogue-Nation-2015-มิชชั่น-อิมพอสซิเบิ้ล-5-ปฏิบัติการรัฐอำพราง-250x350.png",
-          "url": "https://xxx.77player.xyz/autoplaylist/9e0632aa0bb10ea9d3f31db4/9e0632aa0bb10ea9d3f31db4.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/9e0632aa0bb10ea9d3f31db4/9e0632aa0bb10ea9d3f31db4800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -11464,7 +11989,7 @@
           "name": "Mission Impossible 4 Ghost Protocol (2011)",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Mission-Impossible-4-Ghost-Protocol-2011-มิชชั่น-อิมพอสซิเบิ้ล-4-ปฏิบัติการไร้เงา-250x350.png",
-          "url": "https://xxx.77player.xyz/autoplaylist/1f1d5ba2a0fb249b5de4d248/1f1d5ba2a0fb249b5de4d248.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/1f1d5ba2a0fb249b5de4d248/1f1d5ba2a0fb249b5de4d248800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -11518,7 +12043,7 @@
           "name": "Mission Impossible 2 (2000)",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Mission-Impossible-2-2000-มิชชั่น-อิมพอสซิเบิ้ล-2-250x350.png",
-          "url": "https://xxx.77player.xyz/autoplaylist/b1ecb5b353eb3791909be030/b1ecb5b353eb3791909be030.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/b1ecb5b353eb3791909be030/b1ecb5b353eb3791909be030800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -11545,7 +12070,7 @@
           "name": "Mission Impossible 1 (1996)",
           "info": "ตัวเล่นสำรอง",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Mission-Impossible-1-1996-มิชชั่น-อิมพอสซิเบิ้ล-1-250x350.png",
-          "url": "https://xxx.77player.xyz/autoplaylist/470f2ced046685646f2ad780/470f2ced046685646f2ad780.m3u8",
+          "url": "https://xxx.77player.xyz/m3u8/470f2ced046685646f2ad780/470f2ced046685646f2ad780800.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
@@ -11553,6 +12078,26 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Mission-Impossible-1-1996-มิชชั่น-อิมพอสซิเบิ้ล-1-250x350.png",
           "url": "https://xxx.77player.xyz/ioshls/bc2835123bfd2497177c67fa46a82f80/bc2835123bfd2497177c67fa46a82f80.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Venom (2018) เวน่อม",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Venom-2018-เวน่อม-250x350.png",
+      "stations": [
+        {
+          "name": "Venom 2018",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Venom-2018-เวน่อม-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/e9270d72e8d2edc71f2889e9b564c245/e9270d72e8d2edc71f2889e9b564c245.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Venom 2018",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Venom-2018-เวน่อม-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/c080a1035d80a6ff5e6c934726a3a70f/c080a1035d80a6ff5e6c934726a3a70f.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -11593,86 +12138,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Amazing-Spider-Man-2012-ดิ-อะเมซิ่ง-สไปเดอร์แมน-250x350.png",
           "url": "https://xxx.77player.xyz/ioshls/d45995a2590265d1f23d11825ae28346/d45995a2590265d1f23d11825ae28346.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Spider Man ไอ้แมงมุม สไปเดอร์แมน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Spider-Man-2002-ไอ้แมงมุม-สไปเดอร์แมน-250x350.png",
-      "stations": [
-        {
-          "name": "Spider Man ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Spider-Man-2002-ไอ้แมงมุม-สไปเดอร์แมน-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/a1d5cf2fd7bda6c67ee0dd57bc0d5253/a1d5cf2fd7bda6c67ee0dd57bc0d5253.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Spider Man ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Spider-Man-2002-ไอ้แมงมุม-สไปเดอร์แมน-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/a8e6d932f351adc08b41fc24f6dc7a68/a8e6d932f351adc08b41fc24f6dc7a68.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "The Hobbit 3 (2014) เดอะ ฮอบบิท 3 สงคราม 5 ทัพ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Hobbit-3-2014-เดอะ-ฮอบบิท-3-สงคราม-5-ทัพ-250x350.png",
-      "stations": [
-        {
-          "name": "The Hobbit: The Battle of the Five Armies (2014)",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Hobbit-3-2014-เดอะ-ฮอบบิท-3-สงคราม-5-ทัพ-250x350.png",
-          "url": "https://main.77player.xyz/m3u8/ccb486443aa0b9d399f08e3b/ccb486443aa0b9d399f08e3b438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Hobbit: The Battle of the Five Armies (2014)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Hobbit-3-2014-เดอะ-ฮอบบิท-3-สงคราม-5-ทัพ-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/20805ae346a34e24da22ccdaeaf271d5/20805ae346a34e24da22ccdaeaf271d5.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "The Hobbit 2 (2013) เดอะ ฮอบบิท 2 ดินแดนเปลี่ยวร้างของสม็อค",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Hobbit-2-2013-เดอะ-ฮอบบิท-2-ดินแดนเปลี่ยวร้างของสม็อค-250x350.png",
-      "stations": [
-        {
-          "name": "The Hobbit: The Desolation of Smaug (2013)",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Hobbit-2-2013-เดอะ-ฮอบบิท-2-ดินแดนเปลี่ยวร้างของสม็อค-250x350.png",
-          "url": "https://main.77player.xyz/m3u8/74b9904bbd397541e53438ba/74b9904bbd397541e53438ba438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Hobbit: The Desolation of Smaug (2013)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Hobbit-2-2013-เดอะ-ฮอบบิท-2-ดินแดนเปลี่ยวร้างของสม็อค-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/a51cd5e589197cd9b2576c50b3f5b10a/a51cd5e589197cd9b2576c50b3f5b10a.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "The Hobbit 1 (2012) เดอะ ฮอบบิท 1 การผจญภัยสุดคาดคิด",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Hobbit-1-2012-เดอะ-ฮอบบิท-1-การผจญภัยสุดคาดคิด-250x350.png",
-      "stations": [
-        {
-          "name": "The Hobbit: An Unexpected Journey (2012)",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Hobbit-1-2012-เดอะ-ฮอบบิท-1-การผจญภัยสุดคาดคิด-250x350.png",
-          "url": "https://main.77player.xyz/m3u8/c2aa86ad59aed5e7c791dfc8/c2aa86ad59aed5e7c791dfc8438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "The Hobbit: An Unexpected Journey (2012)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/The-Hobbit-1-2012-เดอะ-ฮอบบิท-1-การผจญภัยสุดคาดคิด-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/f8783d8e9baf35a99cedd8f55bc47d61/f8783d8e9baf35a99cedd8f55bc47d61.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -11753,26 +12218,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-Dark-Phoenix-2019-X-เม็น-ดาร์ก-ฟีนิกซ์-250x350.png",
           "url": "https://xxx.77player.xyz/ioshls/e599ffc250edb65bf51f1e234a989ac9/e599ffc250edb65bf51f1e234a989ac9.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Logan (2017) โลแกน เดอะ วูล์ฟเวอรีน",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Logan-2017-โลแกน-เดอะ-วูล์ฟเวอรีน-250x350.png",
-      "stations": [
-        {
-          "name": "Logan โลแกน เดอะ วูล์ฟเวอรีน",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Logan-2017-โลแกน-เดอะ-วูล์ฟเวอรีน-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/9756dcd4b062f87e00cce7b4e65f1ded/9756dcd4b062f87e00cce7b4e65f1ded.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Logan โลแกน เดอะ วูล์ฟเวอรีน",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/Logan-2017-โลแกน-เดอะ-วูล์ฟเวอรีน-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/218cb822e8a10428841bc09317001f00/218cb822e8a10428841bc09317001f00.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -11898,21 +12343,21 @@
       ]
     },
     {
-      "name": "X-Men 2 ศึกมนุษย์พลังเหนือโลก 2",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-2-2003-ศึกมนุษย์พลังเหนือโลก-2-250x350.png",
+      "name": "X-Men 1 ศึกมนุษย์พลังเหนือโลก",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
       "stations": [
         {
-          "name": "Xmen ภาค 2",
+          "name": "Xmen ภาค 1",
           "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-2-2003-ศึกมนุษย์พลังเหนือโลก-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/002e10ffee11efb6826bc41f44d0c758/002e10ffee11efb6826bc41f44d0c758.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/92fa028c964a8df58403a92387e626f1/92fa028c964a8df58403a92387e626f1.m3u8",
           "referer": "https://www.123-hd.com/"
         },
         {
-          "name": "Xmen ภาค 2",
+          "name": "Xmen ภาค 1",
           "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-2-2003-ศึกมนุษย์พลังเหนือโลก-2-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/55c2186a942868c3b1df46055227e8cc/55c2186a942868c3b1df46055227e8cc.m3u8",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-1-2000-ศึกมนุษย์พลังเหนือโลก-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/827edacd60f3e1f0af18130180f7e832/827edacd60f3e1f0af18130180f7e832.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -12518,26 +12963,6 @@
       ]
     },
     {
-      "name": "Captain America (2011) กัปตันอเมริกา 1",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Captain-America-2011-กัปตันอเมริกา-1-250x350.png",
-      "stations": [
-        {
-          "name": "Captain America ภาค 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Captain-America-2011-กัปตันอเมริกา-1-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/8db933ef98f59ee7358078df892378a6/8db933ef98f59ee7358078df892378a6.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Captain America ภาค 1",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Captain-America-2011-กัปตันอเมริกา-1-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/87c14bd12eb2d90c7037e18acfd67c40/87c14bd12eb2d90c7037e18acfd67c40.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "The Incredible Hulk (2008) เดอะฮัค มนุษย์ตัวเขียวจอมพลัง",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Incredible-Hulk-2008-เดอะฮัค-มนุษย์ตัวเขียวจอมพลัง-250x350.png",
       "stations": [
@@ -12718,66 +13143,6 @@
       ]
     },
     {
-      "name": "Fast and Furious 6 (2013) เร็ว แรงทะลุนรก 6",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-6-2013-เร็ว-แรงทะลุนรก-6-250x350.png",
-      "stations": [
-        {
-          "name": "Fast and Furious 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-6-2013-เร็ว-แรงทะลุนรก-6-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/e7195f9292a445ec30daa3c0eb9aded8/e7195f9292a445ec30daa3c0eb9aded8.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Fast and Furious 6",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-6-2013-เร็ว-แรงทะลุนรก-6-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/0bf59a7bf103d1b412b5fb2b6f29779f/0bf59a7bf103d1b412b5fb2b6f29779f.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Fast and Furious 5 (2011) เร็ว แรงทะลุนรก 5",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-5-2011-เร็ว-แรงทะลุนรก-5-250x350.png",
-      "stations": [
-        {
-          "name": "Fast and Furious 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-5-2011-เร็ว-แรงทะลุนรก-5-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/3cb942ec25c65dc27c9a9f5d205ff4bc/3cb942ec25c65dc27c9a9f5d205ff4bc.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Fast and Furious 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-5-2011-เร็ว-แรงทะลุนรก-5-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/64f28dfdda8607afc8da8c112c99e15a/64f28dfdda8607afc8da8c112c99e15a.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Fast and Furious 4 เร็วแรงทะลุนรก 4 ยกทีมซิ่ง แรงทะลุไมล์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-4-2009-เร็วแรงทะลุนรก-4-ยกทีมซิ่ง-แรงทะลุไมล์-250x350.png",
-      "stations": [
-        {
-          "name": "Fast and Furious 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-4-2009-เร็วแรงทะลุนรก-4-ยกทีมซิ่ง-แรงทะลุไมล์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/e3bd7bc97551bd06ccdc37d292d3c2f8/e3bd7bc97551bd06ccdc37d292d3c2f8.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Fast and Furious 4",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Fast-and-Furious-4-2009-เร็วแรงทะลุนรก-4-ยกทีมซิ่ง-แรงทะลุไมล์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/83167cbd60b1fe17b1748753229def2d/83167cbd60b1fe17b1748753229def2d.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "Fast 3 Tokyo Drift เร็วแรงทะลุนรก ซิ่งแหกพิกัดโตเกียว",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/11/The-Fast-and-the-Furious-Tokyo-Drift-2006-เร็วแรงทะลุนรก-ซิ่งแหกพิกัดโตเกียว-250x350.png",
       "stations": [
@@ -12798,6 +13163,26 @@
       ]
     },
     {
+      "name": "Harry Potter 7 Part 1 แฮร์รี่ พอตเตอร์ ภาค 7.1 เครื่องรางยมฑูต",
+      "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-7-Part-1-2010-แฮร์รี่-พอตเตอร์-7.1-เครื่องรางยมฑูต-250x350.png",
+      "stations": [
+        {
+          "name": "Harry Potter 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-7-Part-1-2010-แฮร์รี่-พอตเตอร์-7.1-เครื่องรางยมฑูต-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/92df000ad67f6f21b3e064bba533c1e4/92df000ad67f6f21b3e064bba533c1e4.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Harry Potter 7",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-7-Part-1-2010-แฮร์รี่-พอตเตอร์-7.1-เครื่องรางยมฑูต-250x350.png",
+          "url": "https://xxx.77player.xyz/ioshls/bd7acdff9cf3868fa4051dac511cf3b3/bd7acdff9cf3868fa4051dac511cf3b3.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "Harry Potter 6 แฮร์รี่ พอตเตอร์ ภาค 6 กับเจ้าชายเลือดผสม",
       "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-6-And-The-Half-Blood-Prince-2009-แฮร์รี่-พอตเตอร์-6-กับเจ้าชายเลือดผสม-250x350.png",
       "stations": [
@@ -12813,26 +13198,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-6-And-The-Half-Blood-Prince-2009-แฮร์รี่-พอตเตอร์-6-กับเจ้าชายเลือดผสม-250x350.png",
           "url": "https://xxx.77player.xyz/ioshls/cb28bda711dedf6c2471dfb474672ea4/cb28bda711dedf6c2471dfb474672ea4.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Harry Potter 5 แฮร์รี่ พอตเตอร์ ภาค 5 กับภาคีนกฟีนิกซ์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-5-And-The-Order-Of-The-Phoenix-2007-แฮร์รี่-พอตเตอร์-5-กับภาคีนกฟีนิกซ์-250x350.png",
-      "stations": [
-        {
-          "name": "Harry Potter 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-5-And-The-Order-Of-The-Phoenix-2007-แฮร์รี่-พอตเตอร์-5-กับภาคีนกฟีนิกซ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/dbff8506aea2a8fa70c49ddb350a72af/dbff8506aea2a8fa70c49ddb350a72af.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "Harry Potter 5",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2019/11/Harry-Potter-5-And-The-Order-Of-The-Phoenix-2007-แฮร์รี่-พอตเตอร์-5-กับภาคีนกฟีนิกซ์-250x350.png",
-          "url": "https://xxx.77player.xyz/ioshls/ba014060bc472240be8661a4dd4e7536/ba014060bc472240be8661a4dd4e7536.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]

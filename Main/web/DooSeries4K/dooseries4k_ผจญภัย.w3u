@@ -1,9 +1,177 @@
 {
   "name": "ผจญภัย",
-  "author": "เจียว เจียว อัพวันที่ 11 ธันวาคม 2566",
+  "author": "เจียว เจียว อัพวันที่ 15 มกราคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "Dragons of Wonderhatch (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Dragons-of-Wonderhatch-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Dragons-of-Wonderhatch-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/13fa47fa-7c4f-54f0-b575-606055711449.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Dragons-of-Wonderhatch-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/69df59a7-ee90-502a-8943-f83509afe0fe.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Dragons-of-Wonderhatch-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f8c7d5b2-28ad-54e7-9c2b-bf2333de4044.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Dragons-of-Wonderhatch-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/67a64e07-0bd4-59d6-a8b2-6223db1439b7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Dragons-of-Wonderhatch-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/14379f28-fd70-5375-9ed3-b6ced8cb49ce.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Dragons-of-Wonderhatch-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a3d9068c-8a6d-5a64-8651-f2b0bf5e4f72.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Monarch: Legacy of Monsters (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/048c45dc-8fa2-57e9-a44f-534bcbc5fb2e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/285a7178-0cd7-5dce-a72c-be9be63bea7d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ac40d1df-a55b-5514-82d5-5ed6964b559f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0be84802-3b5c-54a1-a2e2-ac9c1810b6aa.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1bb2e712-2bb9-561f-8d47-36c1ee3f0da2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a4631b8a-d87d-55a6-a369-91ae9ee860cd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/df204999-c4a4-5d7f-a77d-d01a2af650b5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8acebed4-b00a-5ecf-84de-ccff24c5c1f9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/71dd1d34-9623-560a-b982-f996d13564d9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6f2fa88a-4816-5174-9a61-06236f76ae09.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Percy Jackson and the Olympians (2023)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/10b5f404-5429-5959-8083-b0a6c8f40991.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f8d7542e-e231-5764-b40b-6b26972304cc.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b9100b24-cd3b-55fc-aa30-0391f2ed7843.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/52c403b6-46a6-5e93-ad83-0d48ecad5aa4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Percy-Jackson-and-the-Olympians-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b770eb0e-db41-5c16-82bc-3a4c61915e44.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
     {
       "name": "A Journey to Love (2023) ข้ามภูผาหาญท้าลิขิตรัก(พากย์ไทย)",
       "info": "HD",
@@ -263,9 +431,23 @@
         },
         {
           "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/58a160c9-7f12-5a1c-9df4-52db2b89fc57.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 19",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/b94d0dd8-d206-5e57-80a9-8581233587f7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cc684721-709e-598d-b448-079f9392791d.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -277,9 +459,23 @@
         },
         {
           "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/dfd82087-425f-558b-b6f9-ef8106cc0f6f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 21",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/50dc3a18-6f0a-5731-adf4-79f8bda1f0c2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/14783730-ef52-5497-a55c-d93943eae1f8.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -291,9 +487,23 @@
         },
         {
           "name": "ตอนที่ 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3c1eed56-e8d6-550a-9e9e-8f838d9f4d74.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 23",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/09969c84-d46c-5910-a385-e3d72050a693.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/49ff5586-ffb8-58e9-bd7a-5d0636e5fdc7.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -305,6 +515,13 @@
         },
         {
           "name": "ตอนที่ 25",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e4752318-f382-5c12-a72b-d622a0b71c5d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 25",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/a6a4275f-3722-5ddf-adb1-0d70a3ac1978.m3u8",
@@ -312,9 +529,1101 @@
         },
         {
           "name": "ตอนที่ 26",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/487f5557-b945-50a5-91b2-b3c3fde464a4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 26",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/b98f5d8a-122e-5fe9-91b9-c7f4e3b36aec.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/568f436f-a207-5c7c-8a29-801482511a6f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c821124d-f64d-5a8a-95e8-3fcc1cbf5cc5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/aea261aa-a9d9-5c7e-a476-3a17bbf2cf0e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6e15fc89-fec5-5c20-bc7d-6ee5c4f513d4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/adb05ff5-ee42-593d-ba58-5954cb62e0b7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d0bc4951-bd69-5585-866f-750c85949880.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4e4385f2-6074-511f-8b2b-d96f8d1f4b32.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/33f8b274-274e-5ebe-9e9e-51c627de786a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/75068cac-8006-540c-802c-8d0dd12a640c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/47a237c2-e2a9-5a06-a3dd-ac2cdc5e25c1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fe998c54-6d88-5275-ac06-c0d92bff8a75.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/454fc52e-1ef0-56f9-8719-01c50a56e2ad.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 33",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e0599acf-4259-5acb-b872-f9491eb7921d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 33",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e37b4d6f-2ddb-5f34-a13c-de9bf0bb0b00.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 34",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ed00ee38-2f58-5782-aea2-1bc9b7a7f84e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 34",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3fd13f0d-5936-5307-88f9-a7766e433363.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 35",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/457348b8-abb5-545d-abc7-342a175d2a4d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 35",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b2d25783-f03a-55e2-8593-a1f369fdeeb3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 36",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/052648a5-6696-5109-80bf-76b1f6ea84b1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 36",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f2a17015-7a07-5ecf-be5c-12c5e38225f3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 37",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5dbbf2a8-4188-527f-9ad3-ad1536d71aa1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 37",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1db848fa-257c-5446-bfb7-a23b0ffb9d49.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 38",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e2109144-c603-589a-9b99-21be32bcb375.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 38",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/05e4b069-a0cb-5af4-aede-6db2f1768b16.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 39",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4c04728a-0b19-54ea-8823-fdbf6ce9c299.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 39",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f72ebd97-f44f-5778-ae7a-c9db9b852ad6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 40",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a23b85d6-31f9-558c-a64b-1f15e0232cce.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 40",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/A-Journey-To-Love-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1c7e414e-98a2-5ff0-9184-e7bd8ae8be8a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Love Is an Accident (2023) พานพบประสบรัก",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8dbc9d83-2e1b-5cdd-8e56-fe2a0571585d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e170c663-f557-5a6d-ba58-50f2c6c998c0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/488b18c8-0a24-5952-8768-f73d5ba00d9e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/11a3bfe1-832a-5fa4-ae27-178f902fe6f1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8428a671-5953-53c2-8053-f7e296af6db7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/69931487-aa64-53a3-a7a5-8720d5ed897a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b57f58d9-1034-507f-b595-6cf7a05714b8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/da897eab-fa61-544d-b77e-339f61f43396.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0d97842b-22c2-5157-bc64-78c35564fcd8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/406c24c9-0847-5132-a795-c0d2a1fdd3e3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/75353bca-7179-592a-bbe5-efd96f7263ec.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f6126872-2e74-5037-9047-7d056c37e2b0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/739c773e-e53f-56df-ba21-1f5770400be3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6c21fee5-21fe-534e-b07d-6dc766ae6bd4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3f6411c3-8de2-508d-8070-284d6652b8e4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d249c740-40cd-5bd5-928b-6f62a92165d2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4aed1169-0d17-554d-96c7-b78a3f63d0b9.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/346e6eb6-3bf4-58cc-9cef-3a072b45bae5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5f3a5fe5-65ee-53f0-8b48-5f491be89304.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0d3c4fd8-150b-5e38-9cc7-ffafaee8bbeb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9008fe24-a128-53e4-9264-06f3adcfd2d8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/59e46be3-626a-5da6-a900-efd6e93c03ab.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ba035fe9-18aa-525d-b45a-9ca92c597fbe.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cd0f199a-abaf-5540-8d2c-5886deb1099e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bc7c11ca-5ce3-5d35-a0db-871621e0688e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4d0c8f2f-8857-51b3-bd67-461f103a8a79.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2db0a2ee-296a-5880-87f2-31ca409104b5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cfd50dc0-eeae-59aa-b6cd-1deb2c445fc8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9a322741-da96-5fb9-9396-2cf0793128d2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5cfad1eb-1400-566a-9b8a-70bff7cc0bf8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1f054975-7316-5393-86af-97b1b65d558f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6848cd60-1f91-52d7-b6bd-e45d1cf60adb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e7349c57-6c5d-5875-b531-88dcba687ec8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/d86e23b6-9736-52e1-88a1-17ddc596b5d6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/34782017-efda-5c6f-9a09-1ce79f2ce280.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e2fc9f47-1293-5558-bef6-306030eedb94.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c41c9469-00eb-5118-8012-da0b3c694653.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a4eada2b-d68b-570d-89b7-0ddd4ac73cd7.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/037c9893-3faf-5988-a4cf-297fd319627d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f0ef5406-b2cb-586c-9f70-5ebb4614e978.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1afa6c89-6a4a-5a64-a882-1dd830698ab5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/899c6bd9-ec07-5941-a6ef-2feeb060afc0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/03dd6273-e448-5899-b8e6-1ef32643e417.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/93971595-7e93-5edc-95b7-19de57194ea1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e48de4a4-27b7-58be-a5b6-684ed5d519f0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9f98a0f6-a25e-523a-9ed8-92953561bfaf.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/16afef56-e0df-5353-8553-2e371cbdcfef.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b459040b-f852-5da2-803f-8935de016497.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/36dfe65b-fd21-55ff-b64e-3191c53ec044.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5e601a85-18cd-545e-af75-9cf5ec1b0500.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/77be1fb8-0e9c-59c8-a633-059397b8758e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1f78cfcd-3ef5-5ffa-9f96-505463467a71.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/6008a404-6fc0-5e64-b82a-ac2adb3cd40f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b048cfee-b533-5269-b039-16596cf22911.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/feebac5d-452f-5e68-b90c-5c0b119205d0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/26bc9a5a-13fc-5258-a825-d1916976415c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cd312407-0d60-5f15-832a-b43a58cc7259.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/419d2d36-f6d8-5ecc-a297-fd80a6a689b8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bd4f385d-5baa-52e1-a096-9b36c609fd9b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f4ddd27f-c481-5ea5-8651-ad629ba1f467.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/00e0d9fc-7e94-5bfd-9b70-37cea44d8cf3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/aef5aa94-8981-5012-8117-c2b0e7244a06.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/76697348-495d-5037-bd4a-285be7027901.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9f316cb5-ac84-5ce7-8feb-f9e838e6d1f2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Battle Through the Heaven (2023) สัประยุทธ์ทะลุฟ้า จอมดรุณหวนกลับคืน",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/45d5742d-ab5a-5a68-a0b6-19e76fbaf8dd.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b4b96ed6-8ce7-54f2-8cc6-469dc74bca01.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ca7e52fe-9323-5262-bc83-c839c7deb1b3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c21c5b0a-4ade-57ee-9a32-b1f9144805dc.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e01736c5-876a-57b5-854d-9681b61a3188.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4e9b8705-7c45-5809-a218-09d06c218e6f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/63a0e0f2-0e09-53a7-a49c-20b28ea7bd78.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/662a08e9-822d-5dfa-a018-0d59989c852c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/815f814c-08c9-547a-ac34-c1cce9ac3b68.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/100738af-686d-5329-ac86-5d7920646af3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b6964ab9-af38-5079-a654-2fd8786b004f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/97fcfd19-6f40-53b4-9648-ec0a5fd59873.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cf957a32-79f4-524a-8204-708a27219052.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/97d023ad-1b9f-5157-99ea-218f80522750.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/697d30b9-3cb8-57ba-a140-ad84949a135d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4d7b1c91-4275-525a-84b0-b62d05cd0351.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c5c9fe0c-0184-583c-acb1-dddae029737b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/15fb0b1f-3a3f-5484-84e8-870d385aafe4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f7505317-9b2e-5369-a976-e2e7a6bc2218.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/449b7d30-5b76-57cf-a325-826165bc28ec.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4acdd7d8-b70e-56c4-95ad-f4c66305e32f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9e4780f5-6182-5207-aad8-8fa6d8022a42.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/48a44089-59e6-5e0d-8c53-3f761d04cda4.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/50447aea-1a7b-5f28-84ce-1bfc5daefad0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/c8f41c58-aef4-5af1-8cc5-79cfc74979ec.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/cebfb2fb-fe86-555c-8a3f-c59e1918510e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/56f71aca-2bcb-5611-b426-7bb9b7f9ae79.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b42b9a51-5adb-5336-afc9-63f0d222e1eb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1f79c841-0a3c-57b0-bd02-c228e4643fce.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fe436d2d-f8b5-559b-b519-995890a5e431.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/8ab5d57d-5e4a-5b77-bba4-6dff1e4fab16.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2804a1ce-e3f2-5b16-9b70-c55e912c163b.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 33",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a3f7cb29-9c58-54ea-a104-a6ebcf444fa3.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 34",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Battle-Through-the-Heaven-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3028a0c2-177b-5fa8-8fdb-5e405c9cf661.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Yu Yu Hakusho (2023) คนเก่งฟ้าประทาน",
+      "info": "HD",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/267701ad-1278-5bc8-bdd7-fdd995370c9f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/161c4d29-d09e-5e3a-8c19-271af3e2cd7d.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e2c8a94b-34a8-569e-b81d-1a40cf3eb1e6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ed4b2d03-4bf6-56de-8c46-a2eda77abc21.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3ec9b6f9-ea4b-5218-9d34-f5b955dd92ee.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
+    {
+      "name": "Hail to the Princess (2023) รักอลเวงเมืองลับแล",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/724ebd80-6ac8-5ba5-9c7f-21cf83ca77b8.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a235ea15-93ff-5124-a012-2b085d51a703.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/b5d2122d-485a-5fa0-b960-44c9d01c0e9e.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/fe387ae3-564e-567e-b94b-9b9d33cfd7c2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9cef687d-70e9-528a-a26d-51a011ae24c0.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/ad036fa1-34b5-5359-a770-a52004499f6c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/284fdaf9-4707-52ef-9837-7fd803243e27.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/acf0d912-8755-5611-93fc-a079a622b650.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/26898d28-c252-5746-861d-66bc5e8dd398.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/915d009b-903a-5018-a466-9a593e37a3a1.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/03412e39-339f-54fa-b189-ff382b14b11f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/a3266e43-dd5f-530e-887c-ec6f357a240c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9a713d47-feb0-59a3-8f61-66a182f6944c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/9755f791-f1a1-5c81-b62c-47521540157f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4a08eacb-042b-5753-bbce-9053e015fc38.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3393f24a-30d3-5dac-8a3e-c288256290bb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/4e7c9154-7e19-56e0-9911-b3fb6ff330ce.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0d4f2b6a-1856-528e-8891-83fcda9321af.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/f09b6354-cfa4-572f-a0e5-aeb190a9af5f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/401ab5e0-e303-5058-8dba-8eb1a7041cde.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -428,47 +1737,12 @@
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/South-Sea-Tomb-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/788e2132-1d1f-5c8c-bb2e-d7a8a95c0648.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "Monarch: Legacy of Monsters (2023)",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/048c45dc-8fa2-57e9-a44f-534bcbc5fb2e.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
-          "name": "ตอนที่ 2",
+          "name": "ตอนที่ 16",
           "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/285a7178-0cd7-5dce-a72c-be9be63bea7d.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ac40d1df-a55b-5514-82d5-5ed6964b559f.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0be84802-3b5c-54a1-a2e2-ac9c1810b6aa.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1bb2e712-2bb9-561f-8d47-36c1ee3f0da2.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/South-Sea-Tomb-2023-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/e47bac37-edc1-51b9-81e0-2e6df5612fcd.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -644,125 +1918,6 @@
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Ms-Fantastic-Miracle-Doctor-2023-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/a9228bd1-301c-53b5-99c7-f364b8de9d63.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "Hail to the Princess (2023) รักอลเวงเมืองลับแล",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/724ebd80-6ac8-5ba5-9c7f-21cf83ca77b8.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a235ea15-93ff-5124-a012-2b085d51a703.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b5d2122d-485a-5fa0-b960-44c9d01c0e9e.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/fe387ae3-564e-567e-b94b-9b9d33cfd7c2.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9cef687d-70e9-528a-a26d-51a011ae24c0.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ad036fa1-34b5-5359-a770-a52004499f6c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/284fdaf9-4707-52ef-9837-7fd803243e27.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/acf0d912-8755-5611-93fc-a079a622b650.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/26898d28-c252-5746-861d-66bc5e8dd398.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/915d009b-903a-5018-a466-9a593e37a3a1.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 11",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/03412e39-339f-54fa-b189-ff382b14b11f.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 12",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a3266e43-dd5f-530e-887c-ec6f357a240c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 13",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9a713d47-feb0-59a3-8f61-66a182f6944c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 14",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9755f791-f1a1-5c81-b62c-47521540157f.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 15",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4a08eacb-042b-5753-bbce-9053e015fc38.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 16",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/11/Hail-to-the-princess-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/3393f24a-30d3-5dac-8a3e-c288256290bb.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -4907,237 +6062,6 @@
           "info": "พากย์ไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Eternal-Love-2017-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/b33ad2b4-8964-541e-bf1a-36e9a8afd904.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
-    },
-    {
-      "name": "Love Is an Accident (2023) พานพบประสบรัก",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e170c663-f557-5a6d-ba58-50f2c6c998c0.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/11a3bfe1-832a-5fa4-ae27-178f902fe6f1.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/69931487-aa64-53a3-a7a5-8720d5ed897a.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/da897eab-fa61-544d-b77e-339f61f43396.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/406c24c9-0847-5132-a795-c0d2a1fdd3e3.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f6126872-2e74-5037-9047-7d056c37e2b0.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/6c21fee5-21fe-534e-b07d-6dc766ae6bd4.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/d249c740-40cd-5bd5-928b-6f62a92165d2.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/346e6eb6-3bf4-58cc-9cef-3a072b45bae5.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/0d3c4fd8-150b-5e38-9cc7-ffafaee8bbeb.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 11",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/59e46be3-626a-5da6-a900-efd6e93c03ab.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 12",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cd0f199a-abaf-5540-8d2c-5886deb1099e.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 13",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/4d0c8f2f-8857-51b3-bd67-461f103a8a79.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 14",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cfd50dc0-eeae-59aa-b6cd-1deb2c445fc8.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 15",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5cfad1eb-1400-566a-9b8a-70bff7cc0bf8.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 16",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/6848cd60-1f91-52d7-b6bd-e45d1cf60adb.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 17",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/d86e23b6-9736-52e1-88a1-17ddc596b5d6.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 18",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/e2fc9f47-1293-5558-bef6-306030eedb94.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 19",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a4eada2b-d68b-570d-89b7-0ddd4ac73cd7.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 20",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f0ef5406-b2cb-586c-9f70-5ebb4614e978.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 21",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/899c6bd9-ec07-5941-a6ef-2feeb060afc0.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 22",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/93971595-7e93-5edc-95b7-19de57194ea1.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 23",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9f98a0f6-a25e-523a-9ed8-92953561bfaf.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 24",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b459040b-f852-5da2-803f-8935de016497.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 25",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5e601a85-18cd-545e-af75-9cf5ec1b0500.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 26",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1f78cfcd-3ef5-5ffa-9f96-505463467a71.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 27",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b048cfee-b533-5269-b039-16596cf22911.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 28",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/26bc9a5a-13fc-5258-a825-d1916976415c.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 29",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/419d2d36-f6d8-5ecc-a297-fd80a6a689b8.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 30",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/f4ddd27f-c481-5ea5-8651-ad629ba1f467.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 31",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/aef5aa94-8981-5012-8117-c2b0e7244a06.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 32",
-          "info": "ซับไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/Love-is-an-Accident-2023-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9f316cb5-ac84-5ce7-8feb-f9e838e6d1f2.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         }
       ]
@@ -22118,9 +23042,23 @@
       "stations": [
         {
           "name": "ซีซั่น 1 ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/bc3e1a47-75bf-56cd-ad72-0e07c471ce97.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/038992bd-32dd-5767-98ce-9cc7ff75f561.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/2fdbbd1f-0417-5f9b-8cd5-7b49694a8214.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -22132,9 +23070,23 @@
         },
         {
           "name": "ซีซั่น 1 ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/1ccff6b2-8630-50e2-9f31-4c22fdc42ecb.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/c8b9408c-84d1-525c-b970-d7f29c478439.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/26ad6c38-44fb-5d99-90fb-8d1fd0a2bd89.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -22146,9 +23098,23 @@
         },
         {
           "name": "ซีซั่น 1 ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/3893a5ef-d860-5507-8b21-e1100775adc6.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/9f0a4b9f-0d1c-5fc4-9440-d9d402af4362.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/7a2ed8eb-49e0-5c42-a896-b6cbcf9a397b.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -22160,9 +23126,23 @@
         },
         {
           "name": "ซีซั่น 1 ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/34772efd-e411-538a-b074-28a05bffbbd5.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/f5a25e1f-3240-56b0-98ea-1477d37eb06c.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/0a35a8fc-5896-5849-94f6-d501b1538662.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -22174,9 +23154,23 @@
         },
         {
           "name": "ซีซั่น 1 ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/5dfe475e-24de-5e9e-bed1-50eb9b4f4d9f.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 9",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
           "url": "https://www.sgcdnseriesn.xyz/view/10c95c96-e130-5171-9fbd-86886ffad9e2.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ซีซั่น 1 ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseriesn.xyz/view/98281385-2f16-5de6-873e-0e7f409dc721.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -31057,91 +32051,91 @@
           "name": "ซีซั่น 4 ตอนที่ 1",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Star-Trek-Discovery-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b3bad285-5fe9-5804-8b84-df01fff1366b.m3u8",
+          "url": "https://www.sgcdnseriesn.xyz/view/a4ee3887-e816-5729-b8ad-6c54953067de.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 2",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Star-Trek-Discovery-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/68b14650-0a28-5c62-8de7-b9e8b93b25c8.m3u8",
+          "url": "https://www.sgcdnseriesn.xyz/view/5d02c146-8f9a-5076-90a0-a1831bdad29a.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 3",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Star-Trek-Discovery-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/b566800c-12ff-5375-be68-91fb62c11cdb.m3u8",
+          "url": "https://www.sgcdnseriesn.xyz/view/8f05101a-cf8e-5cb6-bb7a-31dc30482764.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 4",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Star-Trek-Discovery-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/637660d4-09f6-59a6-945e-94b89c6c2ad1.m3u8",
+          "url": "https://www.sgcdnseriesn.xyz/view/ca46b88b-dd48-5c70-a1fa-d3de722d187e.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 5",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Star-Trek-Discovery-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cdd74c09-9006-5d10-a578-05c7b1f384f0.m3u8",
+          "url": "https://www.sgcdnseriesn.xyz/view/97579974-07f5-5d10-bc2d-880e1b25ae27.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 6",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Star-Trek-Discovery-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/d1f17fb9-2d84-5a02-b557-27f514874389.m3u8",
+          "url": "https://www.sgcdnseriesn.xyz/view/d5514b78-d894-547d-8a68-9a9981f2b38b.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 7",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Star-Trek-Discovery-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/058fe8e1-4c50-5aae-b9d1-86ba41ba2771.m3u8",
+          "url": "https://www.sgcdnseriesn.xyz/view/85ef314e-423b-576b-a6c8-5fa388c78916.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 8",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Star-Trek-Discovery-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/66bba6f7-f526-5021-8c7e-0259f4e731f0.m3u8",
+          "url": "https://www.sgcdnseriesn.xyz/view/ab60c2fa-1611-5543-9207-5e6d19fe16e1.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 9",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Star-Trek-Discovery-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/52137224-2dd4-56cf-b9c3-3009215c824e.m3u8",
+          "url": "https://www.sgcdnseriesn.xyz/view/c085e810-6488-58c0-9011-6f37dee57f2c.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 10",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Star-Trek-Discovery-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/059d90d2-194c-528b-b120-7e190c718e5a.m3u8",
+          "url": "https://www.sgcdnseriesn.xyz/view/5498c0f8-c129-5e1d-a55f-db7844e9caf4.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 11",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Star-Trek-Discovery-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/2966f413-1704-56c2-b270-00aec89872f6.m3u8",
+          "url": "https://www.sgcdnseriesn.xyz/view/2aa5ca5f-0087-563f-9ba1-5f25d682e009.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 12",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Star-Trek-Discovery-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/a9c5d163-7988-55d6-9426-40db06257e88.m3u8",
+          "url": "https://www.sgcdnseriesn.xyz/view/5ba7065d-4d37-5f0e-8070-678d92f511ae.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
           "name": "ซีซั่น 4 ตอนที่ 13",
           "info": "ซับไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Star-Trek-Discovery-Season-4-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9bed2771-6720-50a5-98ab-6714b23cb6e8.m3u8",
+          "url": "https://www.sgcdnseriesn.xyz/view/11976ea2-5089-5080-af2d-dc692c685af1.m3u8",
           "referer": "https://www.sgcdnseriesn.xyz/"
         },
         {
@@ -39859,78 +40853,7 @@
       "name": "Future Man เกมล่าโลกอนาคต SEASON 1 (2017) พากย์ไทย",
       "info": "HD",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/nWOf73kvq363IEjyIUfIMZuc8Dy-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/nWOf73kvq363IEjyIUfIMZuc8Dy-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5ff8bf86-35e4-56f3-ac4b-a941fc66e051.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/nWOf73kvq363IEjyIUfIMZuc8Dy-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/1b25d0d0-d6fc-5b80-97d5-441d09d9fcce.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/nWOf73kvq363IEjyIUfIMZuc8Dy-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/870986a8-892d-59aa-be4a-8929fe74e53d.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/nWOf73kvq363IEjyIUfIMZuc8Dy-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/2ccd632f-98a2-5a0a-8467-6b333318bbcc.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/nWOf73kvq363IEjyIUfIMZuc8Dy-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ee7d338e-b7a2-5d0d-8418-75e81bb7854f.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/nWOf73kvq363IEjyIUfIMZuc8Dy-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/04633d97-2767-5662-8c8d-225969305bb2.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/nWOf73kvq363IEjyIUfIMZuc8Dy-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/ce84cd2e-3f0e-5154-8dc2-96b2eeca88b1.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/nWOf73kvq363IEjyIUfIMZuc8Dy-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cf594e64-4050-5b9b-925e-2a11cccf3ad0.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/nWOf73kvq363IEjyIUfIMZuc8Dy-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/50061012-c247-5676-af74-0256639e0829.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/nWOf73kvq363IEjyIUfIMZuc8Dy-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/27307ad5-8888-5b39-8129-c81bb013a94d.m3u8",
-          "referer": "https://www.sgcdnseriesn.xyz/"
-        }
-      ]
+      "stations": []
     },
     {
       "name": "Euphoria ยูโฟเรีย Season 1 (2019) พากย์ไทย",
