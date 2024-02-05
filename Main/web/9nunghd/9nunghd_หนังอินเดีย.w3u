@@ -1,9 +1,449 @@
 {
  "name": "หนังอินเดีย",
- "author": "เจียว เจียว อัพวันที่ 29 ตุลาคม 2566",
+ "author": "เจียว เจียว อัพวันที่ 23 มกราคม 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
+  {
+   "name": "Jawaani Jaaneman (2020) หวานใจวัยกระเตาะ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/705gRohjQM7v3yuX9kHMNM9fjEy-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Jawaani Jaaneman (2020) หวานใจวัยกระเตาะ",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/705gRohjQM7v3yuX9kHMNM9fjEy-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/e1bcb013-7d26-4b58-916c-6af4fa198674/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Jawaani Jaaneman (2020) หวานใจวัยกระเตาะ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/705gRohjQM7v3yuX9kHMNM9fjEy-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/69a341c4-97c4-5cbe-ae60-27a965141775.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Raazi (2018) ราซี",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/fF2xXApETxZqyluokyJ1x4gIiTf-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Raazi (2018) ราซี",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/fF2xXApETxZqyluokyJ1x4gIiTf-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/8d66bd92-8839-4946-b4f0-04f96e821667/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Raazi (2018) ราซี",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/fF2xXApETxZqyluokyJ1x4gIiTf-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/a46b670c-56b7-5fb2-a9e6-f0a4ca2f04f4.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Tiger 3 (2024) เรียกข้าว่าเสือ 3",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/8HOqipGorQ7eYDJk7UOkPa5lw8o-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Tiger 3 (2024) เรียกข้าว่าเสือ 3",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/8HOqipGorQ7eYDJk7UOkPa5lw8o-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/764149ab-faa9-42f3-9e5b-fb53b0b455e2/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Tiger 3 (2024) เรียกข้าว่าเสือ 3",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/8HOqipGorQ7eYDJk7UOkPa5lw8o-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/e592a1cd-22f7-5499-baf7-22bf5dd79f7f.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Tiger Zinda Hai (2017) ไทเกอร์ซินดาไฮ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/mdzNLFfCfuBoJz43l0SmMWWdu5t-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Tiger Zinda Hai (2017) ไทเกอร์ซินดาไฮ",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/mdzNLFfCfuBoJz43l0SmMWWdu5t-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d09036a1-8525-491e-92fb-23158fea35b5/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Tiger Zinda Hai (2017) ไทเกอร์ซินดาไฮ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/mdzNLFfCfuBoJz43l0SmMWWdu5t-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/42e7c931-244c-50a7-96a8-b8642217346f.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Ek Tha Tiger (2012) เรียกข้าว่า…เสือ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/jGTyeAH5KZuCX6Qat1VcTBXnqth-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Ek Tha Tiger (2012) เรียกข้าว่า…เสือ",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/jGTyeAH5KZuCX6Qat1VcTBXnqth-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/e178294c-4a83-486d-b2ac-f10d099ff68a/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ek Tha Tiger (2012) เรียกข้าว่า…เสือ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/jGTyeAH5KZuCX6Qat1VcTBXnqth-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/674866d7-bcdd-5d4a-9722-773c887f3d28.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Rocky Aur Rani Kii Prem Kahaani (2023) เรื่องราวรักของรอคกี้กับรานี",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/vTQIqlxUkOuyf2UKhlM2OUaFGKz-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Rocky Aur Rani Kii Prem Kahaani (2023) เรื่องราวรักของรอคกี้กับรานี",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/vTQIqlxUkOuyf2UKhlM2OUaFGKz-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/8a37f236-1145-4605-b0bd-1605bde34caf/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Rocky Aur Rani Kii Prem Kahaani (2023) เรื่องราวรักของรอคกี้กับรานี",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/vTQIqlxUkOuyf2UKhlM2OUaFGKz-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/dfe64e33-13c0-5ae2-b9a9-09ba38a2b46c.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Japan (2023) จอมโจรปล้นสนั่น",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/aWfoTVOkRlz9q1Z7b3K7YFzbwup-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Japan (2023) จอมโจรปล้นสนั่น",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/aWfoTVOkRlz9q1Z7b3K7YFzbwup-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f55ce092-38b5-4b6d-b640-52ed40157533/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Japan (2023) จอมโจรปล้นสนั่น",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/aWfoTVOkRlz9q1Z7b3K7YFzbwup-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/47b5283a-fce7-5dfb-8b88-ef129eeb18e5.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Anandi Gopal (2019)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/k6CxpWfQn8Sec65dy9fkHRLs2XT-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Anandi Gopal (2019)",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/k6CxpWfQn8Sec65dy9fkHRLs2XT-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/2730e3c6-bc31-5f43-824a-eb152af32a42.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Basheerinte Premalekhanam (2017)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/3htLFM6KPmkOKwKdcwFznsfiMpH-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Basheerinte Premalekhanam (2017)",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/3htLFM6KPmkOKwKdcwFznsfiMpH-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/c8741969-b47f-4164-bcd7-cda48e23dd04/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Basheerinte Premalekhanam (2017)",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/3htLFM6KPmkOKwKdcwFznsfiMpH-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/7a8f8cfc-d66e-5cb6-9782-97b5aa881575.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Polite Society (2023) โพลไลท์โซไซตี้",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/lv1WqAo2ulQy9aSOG7ikR44p8RR-scaled-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Polite Society (2023) โพลไลท์โซไซตี้",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/lv1WqAo2ulQy9aSOG7ikR44p8RR-scaled-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/34409377-c192-4f42-9b5e-e3ca6ec22a7d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Polite Society (2023) โพลไลท์โซไซตี้",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/lv1WqAo2ulQy9aSOG7ikR44p8RR-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/191b0633-31a9-5d1b-b73a-7203c26596f1.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Tuck Jagadish (2021) ทัค จากาดิช",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/wJ9wjhkEO0zrsSnCG6CCpMugndk-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Tuck Jagadish (2021) ทัค จากาดิช",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/wJ9wjhkEO0zrsSnCG6CCpMugndk-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/0e61f3ee-1084-4614-865c-608324f51904/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Tuck Jagadish (2021) ทัค จากาดิช",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/wJ9wjhkEO0zrsSnCG6CCpMugndk-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/6fd7d677-259d-57a5-a72c-62ff7da9fbec.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Thrissur Pooram (2019) ทริศเซอร์ ปูรัม",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/axJqOFCs8lFKXWT1snd4YyQ9G8T-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Thrissur Pooram (2019) ทริศเซอร์ ปูรัม",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/axJqOFCs8lFKXWT1snd4YyQ9G8T-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/80095179-0ce4-408d-a620-d6b924745511/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Thrissur Pooram (2019) ทริศเซอร์ ปูรัม",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/axJqOFCs8lFKXWT1snd4YyQ9G8T-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/988f5fc4-bff6-5a1f-8da0-de4743dee22d.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Viswasam (2019) วิสวาซัม",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/9XXABbZY62OWkkjUDPVysMTs7fc-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Viswasam (2019) วิสวาซัม",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/9XXABbZY62OWkkjUDPVysMTs7fc-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/0e7c8f7c-dfbf-44a8-a380-3dc77ae7501d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Viswasam (2019) วิสวาซัม",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/9XXABbZY62OWkkjUDPVysMTs7fc-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/68e73047-e3da-5404-a7c7-62067f1035c7.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Soorarai Pottru (2020) สุดเวหา ข้าจะไป",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/83AFk8uxCpzAcCnVEnEw3sIKiiE-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Soorarai Pottru (2020) สุดเวหา ข้าจะไป",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/83AFk8uxCpzAcCnVEnEw3sIKiiE-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/e10b96c2-6d87-4037-96eb-9d1a8ac7e773/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Soorarai Pottru (2020) สุดเวหา ข้าจะไป",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/83AFk8uxCpzAcCnVEnEw3sIKiiE-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/e55def0a-9084-532c-9eb1-6934556521bc.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Pagalpanti (2019) ปากัลปันติ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/ogGZHdBSc0KrzRin6viVXh7kira-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Pagalpanti (2019) ปากัลปันติ",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/ogGZHdBSc0KrzRin6viVXh7kira-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/304c1cb0-a0c4-443a-99d6-be2a3306ed3c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Pagalpanti (2019) ปากัลปันติ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/ogGZHdBSc0KrzRin6viVXh7kira-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/5f7f0f37-4372-59a0-9f80-94cda839d0ef.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Coolie No. 1 (2020) คูลลี่ นัมเบอร์ 1",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/ahkaPWW2SU9AaDhpD31phQKhTtT-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Coolie No. 1 (2020) คูลลี่ นัมเบอร์ 1",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/ahkaPWW2SU9AaDhpD31phQKhTtT-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/2311e7aa-d406-494d-81db-02363d2268c2/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Coolie No. 1 (2020) คูลลี่ นัมเบอร์ 1",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/ahkaPWW2SU9AaDhpD31phQKhTtT-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/9df9eccc-8984-534f-9000-37f02785ffeb.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Imaikkaa Nodigal (2018) อิไมกา นอดิกัล",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/mHkeMrAqW4TnRkeI1Xl8qwuGyPg-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Imaikkaa Nodigal (2018) อิไมกา นอดิกัล",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/mHkeMrAqW4TnRkeI1Xl8qwuGyPg-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/122272c5-ef22-4b92-95ab-cd44b2e72fab/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Imaikkaa Nodigal (2018) อิไมกา นอดิกัล",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/mHkeMrAqW4TnRkeI1Xl8qwuGyPg-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/d81e7ab2-6993-5afe-9540-d5bcf51123bd.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Ishaqzaade (2012) อิษัคซาเด",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/50GZ5zjNIMch0MDBynVQIKo48T7-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Ishaqzaade (2012) อิษัคซาเด",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/50GZ5zjNIMch0MDBynVQIKo48T7-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/32ecf0b5-5307-4256-ba8d-2ef73a54a32b/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ishaqzaade (2012) อิษัคซาเด",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/50GZ5zjNIMch0MDBynVQIKo48T7-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/8aec4cbd-d067-5e6c-8b7e-48eb72623b68.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Aaraattu (Neyyattinkara Gopante Aaraattu) (2022)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/qt5zIVjW1ThRhJkSetOFlnySsoW-scaled-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Aaraattu (Neyyattinkara Gopante Aaraattu) (2022)",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/qt5zIVjW1ThRhJkSetOFlnySsoW-scaled-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/2a45d8c6-9c2e-409f-9eee-f929e6e698d0/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Aaraattu (Neyyattinkara Gopante Aaraattu) (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/qt5zIVjW1ThRhJkSetOFlnySsoW-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/8c80befe-dfe8-5657-a438-7679bd971ce0.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Student of the Year 2 (2019)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/upy2LuSohFYnMGJQl3039TPnlmh-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Student of the Year 2 (2019)",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/upy2LuSohFYnMGJQl3039TPnlmh-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/c07313dc-8ff9-48ae-9264-1c330e2c1544/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Student of the Year 2 (2019)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/upy2LuSohFYnMGJQl3039TPnlmh-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/fd04fc47-7753-5a70-abae-fc852631947d.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Student of the Year (2012)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/yAhfRGZx7nOAZkrm90pqaAjakdH-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Student of the Year (2012)",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/yAhfRGZx7nOAZkrm90pqaAjakdH-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/4a2ce50e-1ead-4d13-a694-4c48b681b60d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Student of the Year (2012)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/yAhfRGZx7nOAZkrm90pqaAjakdH-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/c4b828d8-bb7b-5af8-9140-f4c7d8c8e03c.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Trippin with the Kandasamys (2021)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/89xDX9eYSaqCPD4RNqXYzuRhqW3-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": []
+  },
   {
    "name": "Detective Byomkesh Bakshy! (2015) บอย์มเกช บัคชี นักสืบกู้ชาติ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7IvuZioWIvj8UAIWJhGtLsqwwt-190x300-c-default.webp",
@@ -11,7 +451,14 @@
    "stations": [
     {
      "name": "Detective Byomkesh Bakshy! (2015) บอย์มเกช บัคชี นักสืบกู้ชาติ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7IvuZioWIvj8UAIWJhGtLsqwwt-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/b92338c4-aeaf-451d-87d1-ddf09fc0cf68/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Detective Byomkesh Bakshy! (2015) บอย์มเกช บัคชี นักสืบกู้ชาติ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7IvuZioWIvj8UAIWJhGtLsqwwt-190x300-c-default.webp",
      "url": "https://streamhls.com/view/55981c9e-5755-5834-9272-e1834c15c498.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -25,7 +472,14 @@
    "stations": [
     {
      "name": "Kabul Express (2006) กาพุล เอกซ์เพรส",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/55JOXvEqxQtB1QQPAEmzCwpXXwY-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/81617c11-7d02-4721-bc38-d107e56f1f0d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kabul Express (2006) กาพุล เอกซ์เพรส",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/55JOXvEqxQtB1QQPAEmzCwpXXwY-190x300-c-default.webp",
      "url": "https://streamhls.com/view/71499f91-657a-5b7f-8380-28fa3dcdbb92.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -39,7 +493,14 @@
    "stations": [
     {
      "name": "IJOGBON (2023) เพชรเถื่อน",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/x6UdslsJh7tOcV7H92xlhv2M0pQ-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/cf3ff44f-71a9-4370-a19f-18a4d8c1249b/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "IJOGBON (2023) เพชรเถื่อน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/x6UdslsJh7tOcV7H92xlhv2M0pQ-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d2c86687-0afb-54d4-a660-e33bba04f344.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -53,7 +514,14 @@
    "stations": [
     {
      "name": "House of Spies (2023) เฮาส์ ออฟ สปาย",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Khufiya-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/4a296213-6013-40e6-b664-ca6ea5f332bb/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "House of Spies (2023) เฮาส์ ออฟ สปาย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Khufiya-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3930e37d-e0ac-5d22-935c-2ea751dcf4a1.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -67,7 +535,14 @@
    "stations": [
     {
      "name": "Gandeevadhari Arjuna (2023) ล้มแผนอหังการ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Gandeevadhari-Arjuna-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/8a40d710-2076-4482-877d-cd3d19bec246/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Gandeevadhari Arjuna (2023) ล้มแผนอหังการ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Gandeevadhari-Arjuna-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f8232297-1aff-58d3-82ce-10bebbaa37d4.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -81,7 +556,14 @@
    "stations": [
     {
      "name": "Bhola Shankar (2023) โบลา ชังการ์",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Bhola-Shankar-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/7b30efe0-246d-47da-92f2-a550ac4fab3a/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Bhola Shankar (2023) โบลา ชังการ์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Bhola-Shankar-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/26e76a8a-e044-5d27-84e0-e752d99bcdf8.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -95,7 +577,14 @@
    "stations": [
     {
      "name": "Bro (2023)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Bro-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/9dd6add9-48d6-4a7c-8623-3ffc96ba71dd/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Bro (2023)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Bro-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/12ed3e86-7948-5a42-86c2-f57489c17863.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -109,7 +598,14 @@
    "stations": [
     {
      "name": "Raatchasi (2019) รัตชาซี",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Raatchasi-2019-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/088a151e-7e47-4bce-aebe-a75c976a557f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Raatchasi (2019) รัตชาซี",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Raatchasi-2019-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a39b2aea-d257-578c-9d3d-52fabc597d08.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -123,7 +619,14 @@
    "stations": [
     {
      "name": "Virata Parvam (2022) ลำนำรักระหว่างรบ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Virata-Parvam-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/da114828-5c68-4911-b603-d9562feab434/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Virata Parvam (2022) ลำนำรักระหว่างรบ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Virata-Parvam-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/09c54ac7-684f-541c-b24b-fe4ac3e07703.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -137,7 +640,14 @@
    "stations": [
     {
      "name": "Andhadhun (2018) บทเพลงในโลกมืด",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Andhadhun-2018-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/227c1e51-a883-490b-850d-04eb6c508c0d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Andhadhun (2018) บทเพลงในโลกมืด",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Andhadhun-2018-190x300-c-default.webp",
      "url": "https://streamhls.com/view/07c0dcf4-d79b-557b-b014-8d98952530c6.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -151,7 +661,14 @@
    "stations": [
     {
      "name": "Bawaal (2023) บาวาล",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Bawaal-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d45f8014-7d60-4b08-b75e-b63dcfe31d1f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Bawaal (2023) บาวาล",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Bawaal-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/bafb54b1-e013-5be2-a9f9-5b31ce10c988.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -165,7 +682,14 @@
    "stations": [
     {
      "name": "Adipurush (2023) อดิปุรุช",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Adipurush-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f2de9af2-e747-4862-97c3-c5f8714d2a50/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Adipurush (2023) อดิปุรุช",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Adipurush-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/dae2f002-7b9f-52c8-87c3-304ccb116275.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -179,9 +703,79 @@
    "stations": [
     {
      "name": "Veeran (2023) วีรัน ฮีโร่สายฟ้าทมิฬ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Veeran-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/3bea7756-8544-4483-9272-2b938238d298/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Veeran (2023) วีรัน ฮีโร่สายฟ้าทมิฬ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Veeran-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9d50ddb3-8e29-5efd-8615-d6bf72acdcb3.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Ponniyin Selvan Part 2 (2023) ปนนิยิน เซลวัน 2",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Ponniyin-Selvan-Part-2-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Ponniyin Selvan Part 2 (2023) ปนนิยิน เซลวัน 2",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Ponniyin-Selvan-Part-2-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/05011639-193b-4053-986b-9bc2820faabe/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ponniyin Selvan Part 2 (2023) ปนนิยิน เซลวัน 2",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Ponniyin-Selvan-Part-2-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/ea4b2629-9808-503c-a885-3a4cf6c4638d.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Afwaah (2023) ข่าวลือ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Afwaah-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Afwaah (2023) ข่าวลือ",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Afwaah-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/a8923e2d-31dd-4f2e-a5be-2ba2851c4e6c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Afwaah (2023) ข่าวลือ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Afwaah-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/85b22d4e-64c5-522a-8d08-b5bd969550f4.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Lust Stories 2 (2023) เรื่องรัก เรื่องใคร่ 2",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Lust-Stories-2-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Lust Stories 2 (2023) เรื่องรัก เรื่องใคร่ 2",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Lust-Stories-2-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/1af73971-1c23-4660-b6e4-d6f38f894d6b/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Lust Stories 2 (2023) เรื่องรัก เรื่องใคร่ 2",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Lust-Stories-2-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/aa92f629-c698-52bc-811b-ab0beff12f52.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -193,7 +787,14 @@
    "stations": [
     {
      "name": "Raajneeti (2010) มายาการเมือง",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Raajneeti-2010-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/907f895d-9dcb-4bbe-8cc4-8e1334c34e14/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Raajneeti (2010) มายาการเมือง",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Raajneeti-2010-190x300-c-default.webp",
      "url": "https://streamhls.com/view/2f105ddd-9313-5e21-af27-7ff4afa12582.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -207,7 +808,14 @@
    "stations": [
     {
      "name": "Bholaa (2023) โภลา",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Bholaa-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f7e9c81f-3439-42d4-8fbe-0827d793d379/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Bholaa (2023) โภลา",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Bholaa-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/1599ae12-ecbf-5141-b978-139c67e93be2.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -221,7 +829,14 @@
    "stations": [
     {
      "name": "Yeh Jawaani Hai Deewani (2013) ทริปซ่าท้าหัวใจ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Yeh-Jawaani-Hai-Deewani-2013-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/051e8089-8db8-4c41-815e-cf7507ebba90/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Yeh Jawaani Hai Deewani (2013) ทริปซ่าท้าหัวใจ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Yeh-Jawaani-Hai-Deewani-2013-190x300-c-default.webp",
      "url": "https://streamhls.com/view/13e1bb6b-5062-5dc6-a992-2d2cc61d4f58.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -235,7 +850,14 @@
    "stations": [
     {
      "name": "Gumraah (2023) คนหน้าเหมือน",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Gumraah-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/cbee2c43-7f66-4923-9f05-004bedcee1b2/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Gumraah (2023) คนหน้าเหมือน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Gumraah-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0170dfbf-a230-5d84-8b40-af4cf6af8b3c.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -249,7 +871,14 @@
    "stations": [
     {
      "name": "Kathal: A Jackfruit Mystery (2023) คดีวุ่น ขนุนอลเวง",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Kathal-A-Jackfruit-Mystery-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/33369142-5398-494e-a043-4b11a9ab430d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kathal: A Jackfruit Mystery (2023) คดีวุ่น ขนุนอลเวง",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Kathal-A-Jackfruit-Mystery-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ff6eb419-293c-58b6-ac6b-4ef3a39f2deb.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -263,7 +892,14 @@
    "stations": [
     {
      "name": "Abang Long Fadil 3 (2022) อาบัง ลอง ฟาดิล 3",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Abang-Long-Fadil-32022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/da679d2b-3946-41b8-b25c-15b7c63d9097/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Abang Long Fadil 3 (2022) อาบัง ลอง ฟาดิล 3",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Abang-Long-Fadil-32022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d2c71006-f024-567b-9b3e-370328600513.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -277,7 +913,14 @@
    "stations": [
     {
      "name": "Juang (2022) ภัยร้ายโควิด",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Juang-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/1f116979-27a7-44c9-b075-4a1aa9afa947/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Juang (2022) ภัยร้ายโควิด",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Juang-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/1c2145d3-917b-5d61-b3c3-e891ed5aeaed.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -291,7 +934,14 @@
    "stations": [
     {
      "name": "Kelab Rojak (2023) เดอะ โรจาค คลับ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Kelab-Rojak-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/6cd885f1-6ded-450c-a022-a6a1527afb6c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kelab Rojak (2023) เดอะ โรจาค คลับ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Kelab-Rojak-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/081cc0cc-5f3c-5404-9a58-974f72601eff.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -305,7 +955,14 @@
    "stations": [
     {
      "name": "Mother’s Day is Cancelled (2023) อลหม่านวันแม่",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Mother-s-Day-is-Cancelled-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/83c56faf-a9cf-477b-8920-77c97546f48c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Mother’s Day is Cancelled (2023) อลหม่านวันแม่",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Mother-s-Day-is-Cancelled-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3355be8c-0fc1-5597-be23-62c103ff543b.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -319,7 +976,14 @@
    "stations": [
     {
      "name": "Ravanasura (2023) ซ้อนแผนฆ่า",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Ravanasura-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/3ac45bc2-0dc7-45dc-af9b-5023c72cfc0d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ravanasura (2023) ซ้อนแผนฆ่า",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Ravanasura-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/faa76cd4-52a8-5f56-a430-2a79f7c1a425.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -333,7 +997,14 @@
    "stations": [
     {
      "name": "Mrs. Chatterjee Vs Norway (2023) สงครามของแม่",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Mrs-Chatterjee-Vs-Norway-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/c81227c0-e317-47fc-bb99-8801db024e22/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Mrs. Chatterjee Vs Norway (2023) สงครามของแม่",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Mrs-Chatterjee-Vs-Norway-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/004a464a-c32a-5d7e-9f50-0029f56950c0.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -347,7 +1018,14 @@
    "stations": [
     {
      "name": "Chhorii (2021)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Chhorii-2021-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/b19ef68d-b2e0-4977-8026-5bf8ac737825/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Chhorii (2021)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Chhorii-2021-190x300-c-default.webp",
      "url": "https://streamhls.com/view/1d16f5fa-281e-5fce-8918-ebc83af89a0e.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -361,7 +1039,14 @@
    "stations": [
     {
      "name": "Tu Jhoothi Main Makkaar (2023)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Tu-Jhoothi-Main-Makkaar-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d0a82e34-cd1f-4492-aeb4-dde83b028d4b/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Tu Jhoothi Main Makkaar (2023)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Tu-Jhoothi-Main-Makkaar-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/1120c944-56ee-5321-ae71-1939e56c6e89.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -375,7 +1060,14 @@
    "stations": [
     {
      "name": "Quasi (2023)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Quasi-2023-Poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d47c2540-2b53-457a-ba2e-fe15bfa930ec/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Quasi (2023)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Quasi-2023-Poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ce985b66-d9d1-58f6-8b21-4ab93be7654e.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -389,7 +1081,14 @@
    "stations": [
     {
      "name": "Faraaz (2023) วีรบุรุษคืนวิกฤติ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Faraaz-2023-Poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/86671b51-12eb-4785-84cb-efab924fd5a2/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Faraaz (2023) วีรบุรุษคืนวิกฤติ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Faraaz-2023-Poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/bafde638-8ab3-523c-aa16-e68776e81aa9.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -403,7 +1102,14 @@
    "stations": [
     {
      "name": "Amigos (2023) เพื่อนยาก",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Amigos-2023-Poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/5c6d7bca-4f96-4e6d-9511-7308d48acf2e/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Amigos (2023) เพื่อนยาก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Amigos-2023-Poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/07079d5c-1088-5e62-afc9-dbf324ef1468.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -417,7 +1123,14 @@
    "stations": [
     {
      "name": "Pathaan (2023) ปาทาน",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Pathaan-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/420a9b71-067c-4204-bc63-892a1120e429/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Pathaan (2023) ปาทาน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Pathaan-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/8b18d462-94ff-5854-a729-e09439a98dec.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -431,7 +1144,14 @@
    "stations": [
     {
      "name": "Vaathi (2023) ครู",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Vaathi-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/da5494bb-b067-4342-8cce-cca1acf63490/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Vaathi (2023) ครู",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Vaathi-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ce9325c2-a9cb-517d-b503-8a9a51a7e0d3.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -445,14 +1165,28 @@
    "stations": [
     {
      "name": "Rrr (2022) ภารกิจทริปเปิ้ลอาร์",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/ncXklBeNi7X7OETqmDVEgaf8ItQ-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/39719b6d-4ff3-462c-bb3f-fe4b36413a1d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Rrr (2022) ภารกิจทริปเปิ้ลอาร์",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/ncXklBeNi7X7OETqmDVEgaf8ItQ-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6ba4d796-dc10-5b73-aa60-8b8424b28738.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Rrr (2022) ภารกิจทริปเปิ้ลอาร์",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/ncXklBeNi7X7OETqmDVEgaf8ItQ-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/05f44c83-b75c-4743-9fdc-0b87541d4ebe/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Rrr (2022) ภารกิจทริปเปิ้ลอาร์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/ncXklBeNi7X7OETqmDVEgaf8ItQ-190x300-c-default.webp",
      "url": "https://streamhls.com/view/00f1bf1c-85e6-5fa5-b448-18373378986c.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -466,7 +1200,14 @@
    "stations": [
     {
      "name": "Kuttey (2023)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Kuttey-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/2fc33c79-7f52-4a7e-9a50-217acdc082f5/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kuttey (2023)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Kuttey-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0a9ca099-d0a9-53bc-b102-e304344dfbee.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -480,7 +1221,14 @@
    "stations": [
     {
      "name": "The Nightingale of Bursa (2023)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Nightingale-of-Bursa-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/c1f7758c-c92e-4372-98bc-0cd2ea873709/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Nightingale of Bursa (2023)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/The-Nightingale-of-Bursa-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/2f9ed2d3-715c-5e67-bb12-e84282cfc726.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -494,7 +1242,14 @@
    "stations": [
     {
      "name": "Nanpakal Nerathu Mayakkam (2023) ดุจดั่งฝันตอนกลางวัน",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Nanpakal-Nerathu-Mayakkam-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/fe229ad0-4ea5-45c5-9f7a-64bbc6ddf90d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Nanpakal Nerathu Mayakkam (2023) ดุจดั่งฝันตอนกลางวัน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Nanpakal-Nerathu-Mayakkam-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c8bf8e21-db39-5f47-9736-23879d485654.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -508,7 +1263,14 @@
    "stations": [
     {
      "name": "Waltair Veerayya (2023) ข้ามทะเลไปจับโจร",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Waltair-Veerayya-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/018cd82e-7b6c-4601-af4a-3387ece1e531/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Waltair Veerayya (2023) ข้ามทะเลไปจับโจร",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/03/Waltair-Veerayya-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/609035b5-e857-58ad-a3da-64a911660d1e.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -522,7 +1284,14 @@
    "stations": [
     {
      "name": "Force 2 (2016)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Force-2-2016-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/5d2c4ffe-e101-4629-82ed-29a43ad6b1a3/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Force 2 (2016)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Force-2-2016-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9f333785-672a-5e59-9781-aa3cbe328617.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -536,7 +1305,14 @@
    "stations": [
     {
      "name": "Cirkus (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Cirkus-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/ca2363db-062a-4946-9a5c-a6c9e28c4695/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Cirkus (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Cirkus-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0757b184-7827-5ffc-bb6b-6ecfafdf3b54.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -550,7 +1326,14 @@
    "stations": [
     {
      "name": "An Action Hero (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/An-Action-Hero-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/c50eccc8-471d-4e00-a9fb-9e3f40015908/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "An Action Hero (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/An-Action-Hero-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c57ce23e-2273-58db-aae6-9b4b97c8c7d6.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -564,7 +1347,14 @@
    "stations": [
     {
      "name": "Kaapa (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Kaapa-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/9962f195-4211-4403-8d5c-dd2190318b23/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kaapa (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Kaapa-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/4e348e9b-c7f9-5809-992e-7833db08c7fa.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -578,7 +1368,14 @@
    "stations": [
     {
      "name": "Mister Mummy (2022) คุณนายแม่",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Mister-Mummy-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/cb5d8e79-9f8c-4110-a699-1610363ef87c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Mister Mummy (2022) คุณนายแม่",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Mister-Mummy-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/78112d7a-f4bb-5abf-9dfe-01347cae9171.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -592,7 +1389,14 @@
    "stations": [
     {
      "name": "Thai Massage (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Thai-Massage-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/8f5ca0ce-caad-4932-9f75-ee864a3ed63b/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Thai Massage (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Thai-Massage-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/11eff3fc-a430-5ff3-a0c1-b97ff14af4ec.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -606,7 +1410,14 @@
    "stations": [
     {
      "name": "Gatta Kusthi (2022) หนุ่มหมัดหนักหารัก",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Gatta-Kusthi-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/6e9e3e33-8d4e-4747-86df-9e07371bb9fe/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Gatta Kusthi (2022) หนุ่มหมัดหนักหารัก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Gatta-Kusthi-190x300-c-default.webp",
      "url": "https://streamhls.com/view/35990496-07a0-5113-b029-aead98588990.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -620,7 +1431,14 @@
    "stations": [
     {
      "name": "Mili (2022) มิลี่",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Mili-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/4c6791c4-734e-4ddd-b150-7cff15f46d1c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Mili (2022) มิลี่",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Mili-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/4baafa17-6b3d-5ec2-82cb-b56ec0495225.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -634,7 +1452,14 @@
    "stations": [
     {
      "name": "Double XL (2022) ดับเบิล เอ็กซ์แอล",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Double-XL-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/e1e1d16a-72c6-4093-9eb3-37f6d1d934ae/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Double XL (2022) ดับเบิล เอ็กซ์แอล",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Double-XL-190x300-c-default.webp",
      "url": "https://streamhls.com/view/20d24f8e-bb5c-5442-b528-89111712ed9c.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -648,7 +1473,14 @@
    "stations": [
     {
      "name": "Tara vs Bilal (2022) รักปะทะใจ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Tara-vs-Bilal-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/65ee32c5-e106-411a-8f52-a683b134c7e1/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Tara vs Bilal (2022) รักปะทะใจ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Tara-vs-Bilal-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/102f4ec6-e7fb-5779-b150-a57917f9353f.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -662,7 +1494,14 @@
    "stations": [
     {
      "name": "Kalaga Thalaivan (2022) ขบถองค์กรเถื่อน",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Kalaga-Thalaivan-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/4fb4386f-61e6-4e0b-8474-cd5e33026657/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kalaga Thalaivan (2022) ขบถองค์กรเถื่อน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Kalaga-Thalaivan-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/1b2c9e0c-091a-512b-ab58-e4de32858fb0.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -676,7 +1515,14 @@
    "stations": [
     {
      "name": "Ariyippu Declaration (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Ariyippu-Declaration-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/77d60ef6-8d9d-4923-9ce7-7491d0edbc81/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ariyippu Declaration (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Ariyippu-Declaration-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/7dd32183-3492-5ce1-a01c-55d19e1d2f07.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -690,7 +1536,14 @@
    "stations": [
     {
      "name": "Code Name Tiranga (2022) ปฏิบัติการเดือดทีรังกา",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Code-Name-Tiranga-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d4191ecd-e921-42d9-93ba-865fc8b6afe9/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Code Name Tiranga (2022) ปฏิบัติการเดือดทีรังกา",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Code-Name-Tiranga-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5de893b6-5e02-59c9-9fba-a1e69f06deb6.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -704,7 +1557,14 @@
    "stations": [
     {
      "name": "Doctor G (2021) ดอกเตอร์ จี",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Doctor-G-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/41536ff3-9f9e-41c9-bcef-8700a4b52c49/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Doctor G (2021) ดอกเตอร์ จี",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Doctor-G-190x300-c-default.webp",
      "url": "https://streamhls.com/view/29cd35af-8dbf-5991-96a7-6c75f75343a9.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -718,7 +1578,14 @@
    "stations": [
     {
      "name": "Gehraiyaan (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Gehraiyaan-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/041f3157-f2b5-4aab-8758-853055e1892f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Gehraiyaan (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Gehraiyaan-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/58579a50-be09-53c9-ae76-6c04aaf3c50e.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -732,7 +1599,14 @@
    "stations": [
     {
      "name": "Goodbye (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Goodbye-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/6bc61db8-1a77-490b-91ab-f3f42d31b901/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Goodbye (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/12/Goodbye-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/eab05b3b-af52-5e92-b010-c39c7ac168e5.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -746,7 +1620,14 @@
    "stations": [
     {
      "name": "Godfather (2022) ก็อดฟาเธอร์",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Godfather-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/13a592ce-6750-4d53-9f6c-9730707507a0/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Godfather (2022) ก็อดฟาเธอร์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Godfather-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/54bd8315-3cf0-504a-9472-e159a9129fd8.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -760,7 +1641,14 @@
    "stations": [
     {
      "name": "Happy Birthday (2022) สุขสันต์วันเกิด",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Happy-Birthday-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/0f469c9a-55b2-417d-8b83-d88c3b73a7c9/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Happy Birthday (2022) สุขสันต์วันเกิด",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/11/Happy-Birthday-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/dba00318-439f-548e-9111-e2862f85b00f.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -774,7 +1662,14 @@
    "stations": [
     {
      "name": "Ammu (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Ammu-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/008229ef-432d-4972-874b-8de3d8342bf8/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ammu (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Ammu-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/59d6d043-e6a6-5695-a99d-da49055e8feb.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -788,7 +1683,14 @@
    "stations": [
     {
      "name": "Ranga Ranga Vaibhavanga (2022) ทั้งเก๊ก ทั้งกั๊ก แต่ก็รักนะ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Ranga-Ranga-Vaibhavanga-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/ad875312-8885-4f57-b549-f20910d055ae/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ranga Ranga Vaibhavanga (2022) ทั้งเก๊ก ทั้งกั๊ก แต่ก็รักนะ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Ranga-Ranga-Vaibhavanga-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9752478a-2c9b-5760-9199-3bdee154e235.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -802,7 +1704,14 @@
    "stations": [
     {
      "name": "Dongalunnaru Jagratha (2022) ปล้นรถนรก",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Dongalunnaru-Jagratta-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/0d1b65dd-2a2c-4e90-a74c-059adb6f98f7/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Dongalunnaru Jagratha (2022) ปล้นรถนรก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Dongalunnaru-Jagratta-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f93583f5-e6bd-5f65-af6b-f91f66eadfb3.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -816,7 +1725,14 @@
    "stations": [
     {
      "name": "Oru Thekkan Thallu Case (2022) อินเดียใต้ตะลุมบอน",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Oru-Thekkan-Thallu-Case-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/528e9522-ff1e-4716-9e3e-b379bd00cf68/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Oru Thekkan Thallu Case (2022) อินเดียใต้ตะลุมบอน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Oru-Thekkan-Thallu-Case-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/321c7f98-d61c-599e-ba04-14c607813f69.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -830,7 +1746,14 @@
    "stations": [
     {
      "name": "Brij Mohan Amar Rahe (2018) โธ่ถัง กรรมของผม!",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Brij-Mohan-Amar-Rahe-2018-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/16c815a0-6608-44aa-9f5a-48844046cedb/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Brij Mohan Amar Rahe (2018) โธ่ถัง กรรมของผม!",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/10/Brij-Mohan-Amar-Rahe-2018-190x300-c-default.webp",
      "url": "https://streamhls.com/view/497ed8ea-6653-5514-be58-ec74b7c4057d.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -844,7 +1767,14 @@
    "stations": [
     {
      "name": "Oh My Dog (2022) โอ้หมาของฉัน",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Oh-My-Dog-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/74cd6606-7073-49c0-a5dc-3aec5e9a74e6/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Oh My Dog (2022) โอ้หมาของฉัน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Oh-My-Dog-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d402690c-ba9f-5a75-8218-f08872311ff9.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -858,7 +1788,14 @@
    "stations": [
     {
      "name": "Good Luck Sakhi (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Good-Luck-Sakhi-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/8c630edf-375d-4e7d-9103-5698bc35ddf7/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Good Luck Sakhi (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Good-Luck-Sakhi-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/581d17d4-28e0-5f8b-9a4d-2606cc5569f2.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -872,7 +1809,14 @@
    "stations": [
     {
      "name": "Middle Class Melodies (2020)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Middle-Class-Melodies-2020-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/1e66b4ef-b342-4a88-b44e-16b29f8ace40/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Middle Class Melodies (2020)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Middle-Class-Melodies-2020-190x300-c-default.webp",
      "url": "https://streamhls.com/view/8bf8bc7d-a4f7-5f3b-a2b6-f8c6a4d0604c.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -886,7 +1830,14 @@
    "stations": [
     {
      "name": "Sandeep Aur Pinky Faraar (2021) แซนดีฟ ออ พิงกี้ ฟาร่า",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/sandeep-aur-pinky-faraar-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/a0e1642a-0ab1-4162-91ac-dd03aa73f642/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Sandeep Aur Pinky Faraar (2021) แซนดีฟ ออ พิงกี้ ฟาร่า",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/sandeep-aur-pinky-faraar-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3351a2fa-4740-5b9b-a908-2c1f2a0fafd2.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -900,7 +1851,14 @@
    "stations": [
     {
      "name": "Vadhayiyaan Ji Vadhayiyaan (2018) วัธยายาน จิ วัธยายาน",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Vadhayiyaan-Ji-Vadhayiyaan-2018-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/ebca3afa-49a6-4e3e-bb21-3d95d0d2f67c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Vadhayiyaan Ji Vadhayiyaan (2018) วัธยายาน จิ วัธยายาน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Vadhayiyaan-Ji-Vadhayiyaan-2018-190x300-c-default.webp",
      "url": "https://streamhls.com/view/562795f0-3b6b-5ce8-a85b-f9b5cd6ef99c.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -914,7 +1872,14 @@
    "stations": [
     {
      "name": "Jathi Ratnalu (2021) จาธิ รัทนาลู",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Jathi-Ratnalu-2021-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/30f51ae1-35e7-43cc-99e8-64df532415ac/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Jathi Ratnalu (2021) จาธิ รัทนาลู",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Jathi-Ratnalu-2021-190x300-c-default.webp",
      "url": "https://streamhls.com/view/60bc7e15-fc3d-5eb9-a8e4-9f2121fec4b1.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -928,7 +1893,14 @@
    "stations": [
     {
      "name": "Bheemante Vazhi (2021)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bheemante-Vazhi-2021-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/1e3fd768-23fa-46ab-ac21-cedb33fcc515/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Bheemante Vazhi (2021)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bheemante-Vazhi-2021-190x300-c-default.webp",
      "url": "https://streamhls.com/view/fd9b8297-c367-57b5-8678-b14d81be19b6.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -942,7 +1914,14 @@
    "stations": [
     {
      "name": "Fraud Saiyyan (2019) สามีกำมะลอ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Fraud-Saiyaan-2019-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/1d2ab1b0-4296-4984-ac4a-195acae7ab6e/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Fraud Saiyyan (2019) สามีกำมะลอ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Fraud-Saiyaan-2019-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f47c44d7-7a4e-53a7-9a8f-6245cd18bb72.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -956,7 +1935,14 @@
    "stations": [
     {
      "name": "Galwakdi (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Galwakdi-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/e2981526-5bba-4f12-85ed-06f98659c7c0/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Galwakdi (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Galwakdi-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/17aa0819-f462-5067-b3fc-6f9339b38164.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -970,7 +1956,14 @@
    "stations": [
     {
      "name": "Jogi (2022) สู้เพื่อศรัทธา",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Jogi-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/4a8960b0-3ab0-4dff-a4b7-e39953fcc1a4/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Jogi (2022) สู้เพื่อศรัทธา",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Jogi-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/fa6835cf-7d08-5457-9bdf-8df38b0afdd0.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -984,7 +1977,14 @@
    "stations": [
     {
      "name": "Sarileru Neekevvaru (2020) แกร่งไร้เทียมทาน",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Sarileru-Neekevvaru-2020-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/7b10d7c2-ffcc-4eda-a9bd-b4c16a829cad/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Sarileru Neekevvaru (2020) แกร่งไร้เทียมทาน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Sarileru-Neekevvaru-2020-190x300-c-default.webp",
      "url": "https://streamhls.com/view/cf9b3570-a108-5109-bb69-6e790a8da58d.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -998,7 +1998,14 @@
    "stations": [
     {
      "name": "Mahaan (2022) มหายาน ชายผู้ยิ่งใหญ่",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Mahaan-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/7fe8a3e8-ca27-4f0a-94a8-f7b5e1a0e7fc/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Mahaan (2022) มหายาน ชายผู้ยิ่งใหญ่",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Mahaan-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f48aea6a-e9e1-5e02-8f4e-0e2d8b0048c9.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1012,7 +2019,14 @@
    "stations": [
     {
      "name": "Saani Kaayidham (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Saani-Kaayidham-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/4f6111fc-3b85-4c74-9282-2368bdd065db/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Saani Kaayidham (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Saani-Kaayidham-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/bfc99fa4-5b4f-54dc-9794-da6b8ac8871a.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1026,7 +2040,14 @@
    "stations": [
     {
      "name": "Acharya (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Acharya-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/948b4afa-d803-49b8-af65-b619b6f84e94/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Acharya (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Acharya-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/57cf3e69-1b9e-5b10-9000-9d786005dccb.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1040,7 +2061,14 @@
    "stations": [
     {
      "name": "Bachchan Pandey (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bachchan-Pandey-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d2cef76e-3a43-4022-aa56-7964ed8adbab/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Bachchan Pandey (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bachchan-Pandey-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ef9974b7-c4db-5d8e-ad9f-2e8e6bbc8192.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1054,7 +2082,14 @@
    "stations": [
     {
      "name": "Bell Bottom (2021) การผจญภัยของนักสืบดิวาการ์",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bell-Bottom-2021-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/5c7ec90e-c09f-4af2-82c5-ab4b60a068d7/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Bell Bottom (2021) การผจญภัยของนักสืบดิวาการ์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Bell-Bottom-2021-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d9811091-2cda-583d-b4fa-ae40f46fe2c0.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1068,7 +2103,14 @@
    "stations": [
     {
      "name": "Ek Villain Returns (2022) วายร้ายรีเทิร์น",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Ek-Villain-Returns-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/56413d91-3db7-4cda-8f03-3b820b524197/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ek Villain Returns (2022) วายร้ายรีเทิร์น",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Ek-Villain-Returns-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/20b0bb28-d51b-5f19-bc84-37d610512502.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1082,7 +2124,14 @@
    "stations": [
     {
      "name": "Man of the Match (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Man-of-the-Match-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/9a99f24e-09d1-4220-a0a8-042201997853/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Man of the Match (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/09/Man-of-the-Match-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/14b1c7e9-fc47-52d3-969a-831898764853.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1096,7 +2145,14 @@
    "stations": [
     {
      "name": "Hit The First Case (2022) คดีแรก",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Hit-The-First-Case-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/9274fee6-62fb-4749-887c-725a7d88f7a3/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Hit The First Case (2022) คดีแรก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Hit-The-First-Case-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/846c58ec-b7f1-5cd0-9bfe-cb00bab35087.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1110,7 +2166,14 @@
    "stations": [
     {
      "name": "Pushpa The Rise Part 1 (2021) พุชป้า กลับมาตะลุย",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Pushpa-The-Rise-Part-1-2021-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/c45ba193-5a59-4a9e-9986-1273a3d6eeae/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Pushpa The Rise Part 1 (2021) พุชป้า กลับมาตะลุย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Pushpa-The-Rise-Part-1-2021-190x300-c-default.webp",
      "url": "https://streamhls.com/view/4f979776-42a6-5f56-93ff-b0f237021ed3.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1124,7 +2187,14 @@
    "stations": [
     {
      "name": "K.G.F Chapter 2 (2022) เคจีเอฟ บทที่ 2",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/K.G.F-Chapter-2-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/bb625e79-a45a-4eb3-ad3d-0f641173a87a/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "K.G.F Chapter 2 (2022) เคจีเอฟ บทที่ 2",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/K.G.F-Chapter-2-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6b7e3af7-aa76-591d-bd80-e1f973cba413.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1138,7 +2208,14 @@
    "stations": [
     {
      "name": "Shamshera (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Shamshera-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/40247d0a-2402-4daf-932d-9df293b66688/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Shamshera (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Shamshera-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f53fc70e-7a95-5a63-bc34-6188818e1d01.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1152,7 +2229,14 @@
    "stations": [
     {
      "name": "Godse (2022) กระชากยุติธรรม",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Godse-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/03a2f481-bfe3-44e5-9125-bc1e05d44c14/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Godse (2022) กระชากยุติธรรม",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Godse-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6f738609-f618-5a89-ba76-6a204fff9570.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1166,7 +2250,14 @@
    "stations": [
     {
      "name": "Heropanti 2 (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Heropanti-2-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/7c287346-8e9e-49a3-b822-bab97753a681/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Heropanti 2 (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Heropanti-2-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/4116e40d-4631-5651-9fbb-225298fd7248.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1180,14 +2271,28 @@
    "stations": [
     {
      "name": "Darlings (2022) ที่รัก",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Darlings-2022-ที่รัก-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/4b345611-4bbe-496c-a429-a9b81d31797e/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Darlings (2022) ที่รัก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Darlings-2022-ที่รัก-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d27a31bb-1755-56cb-92f0-923e2ba176fe.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Darlings (2022) ที่รัก",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Darlings-2022-ที่รัก-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/5ed06d8b-f80f-41ee-8bd7-f518224cbab9/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Darlings (2022) ที่รัก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/Darlings-2022-ที่รัก-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5d69410c-fe45-5555-ae81-f689d46848fd.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1201,7 +2306,14 @@
    "stations": [
     {
      "name": "FIR (2022) เฟอร์",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/FIR-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/6848ab69-8c54-472d-881e-bb3400ddfa67/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "FIR (2022) เฟอร์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/08/FIR-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3c28e27f-9217-51d3-b95f-09fc3a220c14.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1215,7 +2327,14 @@
    "stations": [
     {
      "name": "Sher Shivraj 2022",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/Sher-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/3088ef65-bde8-4c45-8369-494275ca4358/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Sher Shivraj 2022",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/Sher-190x300-c-default.webp",
      "url": "https://streamhls.com/view/befee4f6-0c5b-5de3-8bc9-8e59728119ac.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1229,7 +2348,14 @@
    "stations": [
     {
      "name": "Jug Jugg Jeeyo (2022)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/ovyWtXhPRKKpSyMUIVYBWiurggY-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/73374203-984c-4158-ae7a-294874e50171/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Jug Jugg Jeeyo (2022)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/ovyWtXhPRKKpSyMUIVYBWiurggY-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f411013e-6c1b-5918-8759-2cb0f53e5e67.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1243,7 +2369,14 @@
    "stations": [
     {
      "name": "Anek (2022) สงครามสันติ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/fIHF8WrZpoomx0QSVTe74NeYGUD-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/a2b7c44a-5975-4686-9ecf-a8704a78cb8c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Anek (2022) สงครามสันติ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/fIHF8WrZpoomx0QSVTe74NeYGUD-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0f54a968-9be4-58f3-9879-23dbaebd4617.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1257,7 +2390,14 @@
    "stations": [
     {
      "name": "Jaadugar (Love Goals) (2022) เป้าหมายรัก",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/AmN1EdNRzpwLMzQSPkIFtIVbsxk-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/9f1e9453-5564-4330-9b76-7b16fb464221/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Jaadugar (Love Goals) (2022) เป้าหมายรัก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/AmN1EdNRzpwLMzQSPkIFtIVbsxk-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b7d435bb-a417-5e02-bf34-3b9ab4a1dd36.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1271,7 +2411,14 @@
    "stations": [
     {
      "name": "The Valet (2022) บรรยายไทย",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/q7FmdJHKMLIC4XgWfcFRIu2iVdL-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/87f2a471-e256-4989-bba7-3aaa76f33837/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Valet (2022) บรรยายไทย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/q7FmdJHKMLIC4XgWfcFRIu2iVdL-190x300-c-default.webp",
      "url": "https://streamhls.com/view/718640e2-6575-5ad8-80b2-619563984a09.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1285,7 +2432,14 @@
    "stations": [
     {
      "name": "Petite Maman (2021) เจ้าหญิงน้อย",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/fxl2ARZO2vRfUGDfqSz2bostauE-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/e391a3f9-38c1-416f-8204-a10176e8684c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Petite Maman (2021) เจ้าหญิงน้อย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/fxl2ARZO2vRfUGDfqSz2bostauE-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a828dd6b-458e-57ea-9b8f-1b2a9a081bdb.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1299,7 +2453,14 @@
    "stations": [
     {
      "name": "Petromax (2019) บ้านหลังนี้ (ไม่) มีผี",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/m8LQrSxh3I8FDZ2erJsqK4cGnyI-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/bf9a48ac-af27-471d-980d-9aa1632003f9/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Petromax (2019) บ้านหลังนี้ (ไม่) มีผี",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/m8LQrSxh3I8FDZ2erJsqK4cGnyI-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d87929ec-ec21-5bd6-aa3d-f17c1f0c2c1d.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1313,7 +2474,14 @@
    "stations": [
     {
      "name": "Mere Dad Ki Maruti (2013) คนอลวนรถอลเวง",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/xzJIm62ZMewLP5sweQoRqAuVXhP-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/fa23c4bc-d5ad-419f-b3a9-452698b8beb3/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Mere Dad Ki Maruti (2013) คนอลวนรถอลเวง",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/xzJIm62ZMewLP5sweQoRqAuVXhP-190x300-c-default.webp",
      "url": "https://streamhls.com/view/718a4ea3-dd8e-5cb8-bbdc-26243ddcb862.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1327,7 +2495,14 @@
    "stations": [
     {
      "name": "Janamaithri (2019) ชนาไมทรี",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/esEz3yOBjQFqsTBmveQyeNa3Gjj-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/beacbbaf-0c47-4322-b086-5d8aed05c767/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Janamaithri (2019) ชนาไมทรี",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/esEz3yOBjQFqsTBmveQyeNa3Gjj-190x300-c-default.webp",
      "url": "https://streamhls.com/view/78b2bbe9-d2d2-51d7-8053-ad083dbcf152.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1341,7 +2516,14 @@
    "stations": [
     {
      "name": "Kaksha Gyaarvi (2018) กักชา กยารวี",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/wuPLvo9QdhkV1tDF9xTgLip2MIw-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/b04205bf-9d89-44a6-849e-47bf2bffe8db/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kaksha Gyaarvi (2018) กักชา กยารวี",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/07/wuPLvo9QdhkV1tDF9xTgLip2MIw-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c4fe0584-2c6d-543e-b612-208800fe7dfd.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1355,7 +2537,14 @@
    "stations": [
     {
      "name": "Drishyam 2 (2021) บรรยายไทย",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/8RJBCUGE27LX06tAES4jTELN0KA-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f35bfdcc-3371-4bf0-bbd7-7d8e154227bb/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Drishyam 2 (2021) บรรยายไทย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/8RJBCUGE27LX06tAES4jTELN0KA-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5a00e89b-0115-56a9-b8b3-4974c50ffaa0.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1369,7 +2558,14 @@
    "stations": [
     {
      "name": "Road to Ladakh (2003) โร้ดทูลาดักห์",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/VwTIkV-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/9c2e2bda-b80b-4aaf-a864-3bcc9bf5004e/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Road to Ladakh (2003) โร้ดทูลาดักห์",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/VwTIkV-190x300-c-default.webp",
      "url": "https://streamhls.com/view/755691a4-87fe-5dbe-8bc4-e2280977d9e1.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1383,7 +2579,14 @@
    "stations": [
     {
      "name": "To Let (2019) ตูเลต",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4EZMSwTeYxQxIs1eEpNqpCbNeFB-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f5940e36-d6f0-4859-aa8b-7abbe25fbb56/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "To Let (2019) ตูเลต",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4EZMSwTeYxQxIs1eEpNqpCbNeFB-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d9ac163b-ead0-5132-b27a-f0109c704cbe.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1397,7 +2600,14 @@
    "stations": [
     {
      "name": "One Cut Two Cut (2022) บรรยายไทย",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/lecQEQja7by9D7uZjAQE7H9EUqA-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/a955db30-f9e1-4b49-b3e8-9cc924c94d23/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "One Cut Two Cut (2022) บรรยายไทย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/lecQEQja7by9D7uZjAQE7H9EUqA-190x300-c-default.webp",
      "url": "https://streamhls.com/view/71c9f353-2dca-5acf-be22-8450255d3eea.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1411,7 +2621,14 @@
    "stations": [
     {
      "name": "Hero (2019) ฮีโร่",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/1wNVijazGGdplBB57t7dGuHwz3o-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/1d60ff64-1b21-4601-977b-1b0ad3fcb075/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Hero (2019) ฮีโร่",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/1wNVijazGGdplBB57t7dGuHwz3o-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f91e1855-6d05-59b6-9500-ab323691794e.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1425,7 +2642,14 @@
    "stations": [
     {
      "name": "Action (2019) แอ๊คชั่น",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/2K4cZbZQCZvDCKOb5MCoqbjNfw2-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/6607e805-6283-4576-8237-bc4868f26222/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Action (2019) แอ๊คชั่น",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/2K4cZbZQCZvDCKOb5MCoqbjNfw2-190x300-c-default.webp",
      "url": "https://streamhls.com/view/70070c07-ba09-5c34-81e7-fb68f451b04b.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1439,7 +2663,14 @@
    "stations": [
     {
      "name": "Velle (2021) บรรยายไทย",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/uhq3hWo4KwkoXb4BJ0sixZEWCn9-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/93fcfd61-6c61-4ee7-8e98-659c50185e46/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Velle (2021) บรรยายไทย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/uhq3hWo4KwkoXb4BJ0sixZEWCn9-190x300-c-default.webp",
      "url": "https://streamhls.com/view/18f058cf-6d40-52f3-97dc-68c334f5d407.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1453,7 +2684,14 @@
    "stations": [
     {
      "name": "Theeran Adhigaaram Ondru (2017) ทีรัน อาดิกาอารัม ออนดรู",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/ssYIBfoEj3eX46ARQNaJZP8qpxL-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/34ac7356-ac97-4ca6-adf4-07b3e6060291/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Theeran Adhigaaram Ondru (2017) ทีรัน อาดิกาอารัม ออนดรู",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/ssYIBfoEj3eX46ARQNaJZP8qpxL-190x300-c-default.webp",
      "url": "https://streamhls.com/view/673978c1-6f36-5b15-a3d6-b4a344b3ecfb.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1467,7 +2705,14 @@
    "stations": [
     {
      "name": "Sullu (2019) พ่ายแพ้",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/odfW1ZNoRRam6M1VGbLtk6zVnM9-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/b2d4b54f-73ee-45e6-b89a-e64cabb669bb/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Sullu (2019) พ่ายแพ้",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/odfW1ZNoRRam6M1VGbLtk6zVnM9-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b96573d6-ad0b-5be6-9713-82841dabe5b2.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1481,7 +2726,14 @@
    "stations": [
     {
      "name": "Pattas (2020) ประทัด: คนแกร่ง สังเวียนเดือด",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/3nEPS4918NKb33Txte2BWEDInaq-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/9a1debfb-578e-4800-bbc9-ad038c07b589/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Pattas (2020) ประทัด: คนแกร่ง สังเวียนเดือด",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/3nEPS4918NKb33Txte2BWEDInaq-190x300-c-default.webp",
      "url": "https://streamhls.com/view/8d379b97-db92-533f-834d-80366e529ce6.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1495,7 +2747,14 @@
    "stations": [
     {
      "name": "Jayeshbhai Jordaar (2022) บรรยายไทย",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/dv93VspYwwNPbvdB0AcddhiDrGU-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f958fbb0-2653-49ac-bee6-e82829bbbf89/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Jayeshbhai Jordaar (2022) บรรยายไทย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/dv93VspYwwNPbvdB0AcddhiDrGU-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b87493d6-691c-52ab-95bc-899af59df044.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1509,7 +2768,14 @@
    "stations": [
     {
      "name": "Jack and Daniel (2019) แจ๊คกับแดเนียล",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/tCad25r7nkbjLipOZMpJ1uxYWk0-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d1de5675-9ca0-421d-bd3c-0aa7ba75beb9/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Jack and Daniel (2019) แจ๊คกับแดเนียล",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/tCad25r7nkbjLipOZMpJ1uxYWk0-190x300-c-default.webp",
      "url": "https://streamhls.com/view/386fe105-0619-5830-8f1f-88a8991955f4.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1523,7 +2789,14 @@
    "stations": [
     {
      "name": "Humble Politiciann Nograj (2018) ฮัมเบิล โพลิทีเชียน นคราช",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/8ouswX9c4FUHjUwhTzOiX3RAzwA-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/dbfac4bd-5d10-45a7-ba4f-523d0d048a7f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Humble Politiciann Nograj (2018) ฮัมเบิล โพลิทีเชียน นคราช",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/8ouswX9c4FUHjUwhTzOiX3RAzwA-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b313aedc-72d6-536e-b393-c0e8f1d31089.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1537,7 +2810,14 @@
    "stations": [
     {
      "name": "The Priest (2021) บรรยายไทย",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/mHqi61trOOSLo4N51lrKSBoJ5cC-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/5ad5b60f-0f3f-4a36-acc1-7280b07e6eed/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Priest (2021) บรรยายไทย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/mHqi61trOOSLo4N51lrKSBoJ5cC-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b5d7b264-a87c-5413-9940-c1c40898528b.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1551,7 +2831,14 @@
    "stations": [
     {
      "name": "Shershaah (2021) บรรยายไทย",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/zGvFnwoXJKrYnKhoVPytqkqCJ8V-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/18d6406a-114e-4077-aaaf-ce1ca845ea17/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Shershaah (2021) บรรยายไทย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/zGvFnwoXJKrYnKhoVPytqkqCJ8V-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ecb581c2-acb3-5305-a82a-2e9f8a884a44.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1565,7 +2852,14 @@
    "stations": [
     {
      "name": "Mumbai Saga (2021) เดือดระอุ เมืองมุมไบ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4xTtLkGEmUD5Oqjsv3lrkeLr2NW-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/61579e8b-d4a1-4e61-8e2b-4d0815b96698/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Mumbai Saga (2021) เดือดระอุ เมืองมุมไบ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4xTtLkGEmUD5Oqjsv3lrkeLr2NW-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d500de5a-50e0-5c06-8eab-a851388f876c.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1579,7 +2873,14 @@
    "stations": [
     {
      "name": "Beast (2022) บีสต์",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4hqtjslVCaDVgblg7iCtGIy7exO-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/3b538694-06ac-4dd7-abe6-1bc59237e163/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Beast (2022) บีสต์",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/06/4hqtjslVCaDVgblg7iCtGIy7exO-190x300-c-default.webp",
      "url": "https://streamhls.com/view/cfa8f29d-0dc6-5558-834f-08203455e936.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1593,7 +2894,14 @@
    "stations": [
     {
      "name": "Jersey (2022) เจอร์ซีย์",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/ur2D5MXrwBBymQ7DjG0cOFen2yh-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/087b6100-4eec-47c6-99c5-a326bf0db9ac/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Jersey (2022) เจอร์ซีย์",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/ur2D5MXrwBBymQ7DjG0cOFen2yh-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a84ce0c4-646e-5785-83b2-195826375cb1.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1607,7 +2915,14 @@
    "stations": [
     {
      "name": "Jai Bhim (2021) บรรยายไทย",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/mPMQl3voLNlZQt3STGV5KAcLN4h-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/ce025627-798e-4e9a-b77b-2cd719a54264/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Jai Bhim (2021) บรรยายไทย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/mPMQl3voLNlZQt3STGV5KAcLN4h-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d6e3818d-1da9-5926-895c-e0af4d9dbe22.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1621,7 +2936,14 @@
    "stations": [
     {
      "name": "Jalsa (2022) บรรยายไทย",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/h7lazOfbemCtX7ZZYnqmZx4IHxD-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/9494412a-a03f-4399-975e-9064e035db9d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Jalsa (2022) บรรยายไทย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/h7lazOfbemCtX7ZZYnqmZx4IHxD-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b165cb2b-8456-5d39-aec6-b2617ea4550a.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1635,7 +2957,14 @@
    "stations": [
     {
      "name": "Thar (2022) หมู่บ้านเลือด",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/tiRG2E8A8Km56celb68UnJJzODr-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/73f712e0-616b-4f73-b3c0-a98a40a2bca2/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Thar (2022) หมู่บ้านเลือด",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/05/tiRG2E8A8Km56celb68UnJJzODr-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6b0337e2-c172-5321-9de4-0d6099114e37.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1649,7 +2978,14 @@
    "stations": [
     {
      "name": "Bharat Ane Nenu (2018) บาห์รัตอาเนนีนู",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/a0hFV8G0ofyPgPEjVcYrueuxFex-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/aa88e042-01bd-4a66-8580-74233ce272d2/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Bharat Ane Nenu (2018) บาห์รัตอาเนนีนู",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/a0hFV8G0ofyPgPEjVcYrueuxFex-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5009eaf1-aff8-52fa-bfde-bdf31c2943b1.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1663,7 +2999,14 @@
    "stations": [
     {
      "name": "Dasvi (2022) สอบจากคุก",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zL40soH0AYoBD5BVNu9U2B98ejD-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/3e2c870c-53fd-42f5-b8c6-ed86a2925aee/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Dasvi (2022) สอบจากคุก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zL40soH0AYoBD5BVNu9U2B98ejD-190x300-c-default.webp",
      "url": "https://streamhls.com/view/7e53c4d1-d4aa-5536-9f0c-3873198801cb.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1677,7 +3020,14 @@
    "stations": [
     {
      "name": "Cobalt Blue (2022) ปรารถนาสีน้ำเงิน",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yyKZRbZCFkxlXZprPfnmn799Twa-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/a84e9bf3-5ea5-4ad0-8a94-1d5c59fb500d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Cobalt Blue (2022) ปรารถนาสีน้ำเงิน",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yyKZRbZCFkxlXZprPfnmn799Twa-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a9c0912e-0611-5b5c-8564-59f7f412bbc5.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1691,7 +3041,14 @@
    "stations": [
     {
      "name": "Love Tactics (2022) ยุทธวิธีกำราบรัก",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/9mXoEX9RNsRD1bG8nmJSfhwaM3O-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/5453ffa5-80a0-4fa9-b5bd-87bdf32c5f0d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Love Tactics (2022) ยุทธวิธีกำราบรัก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/9mXoEX9RNsRD1bG8nmJSfhwaM3O-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a1c20291-b701-558b-930b-35854049d60d.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1705,7 +3062,14 @@
    "stations": [
     {
      "name": "Looop Lapeta (2022) วันวุ่นเวียนวน",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/onGdT8sYi89drvSJyEJnft97rOq-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/14f4aa1a-faf1-49af-9bfb-6763b72835d1/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Looop Lapeta (2022) วันวุ่นเวียนวน",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/onGdT8sYi89drvSJyEJnft97rOq-190x300-c-default.webp",
      "url": "https://streamhls.com/view/73c2d619-28dd-5d6a-a5b9-d506db1af08d.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1719,7 +3083,14 @@
    "stations": [
     {
      "name": "Shyam Singha Roy (2021) รำลึกอดีตรัก",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/iU1vOMlnX2zdzL4lBeZuqQC2lgu-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d9706e12-bb2c-421b-9eb0-3190aa213864/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Shyam Singha Roy (2021) รำลึกอดีตรัก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/iU1vOMlnX2zdzL4lBeZuqQC2lgu-190x300-c-default.webp",
      "url": "https://streamhls.com/view/1958cd5b-d182-5a2e-81f3-7095ff2298bc.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1733,7 +3104,14 @@
    "stations": [
     {
      "name": "Kurup (2021) อาชญากรเหนือเมฆ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/bQU8Ru6hVHHkELTM0mAxThuXFQY-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/2a06cfc2-3b3b-44ed-a750-02d60203b8be/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kurup (2021) อาชญากรเหนือเมฆ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/bQU8Ru6hVHHkELTM0mAxThuXFQY-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c611bb43-2273-5e78-ab36-bea8fbac051d.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1747,7 +3125,14 @@
    "stations": [
     {
      "name": "Meenakshi Sundareshwar (2021) คู่โสดกำมะลอ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qDuTWET9QdSronOvoyWj2MjVvVr-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/26534b50-54a3-47d1-b1be-273ba7e4d650/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Meenakshi Sundareshwar (2021) คู่โสดกำมะลอ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qDuTWET9QdSronOvoyWj2MjVvVr-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b9ac64f7-db28-508b-97f9-280ca54e4c3c.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1761,7 +3146,14 @@
    "stations": [
     {
      "name": "Ankahi Kahaniya (2021) เรื่องรัก เรื่องหัวใจ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/wNDu6aBv0yynUr8TcvSLUe8QLPt-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/bcba5b2c-9c2d-489f-925a-b81615ce2f93/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ankahi Kahaniya (2021) เรื่องรัก เรื่องหัวใจ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/wNDu6aBv0yynUr8TcvSLUe8QLPt-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3bbfc7e1-8f84-516b-8352-56dd83fd737a.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1775,14 +3167,28 @@
    "stations": [
     {
      "name": "Jagame Thandhiram (2021) โลกนี้สีขาวดำ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/goLoLNagbnWpPQh4YQE9R2hSLqj-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/9a55a1f0-63d5-47ac-8cde-7c5b31c26213/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Jagame Thandhiram (2021) โลกนี้สีขาวดำ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/goLoLNagbnWpPQh4YQE9R2hSLqj-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9a50763b-7a36-5250-8144-61efd8dd4194.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Jagame Thandhiram (2021) โลกนี้สีขาวดำ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/goLoLNagbnWpPQh4YQE9R2hSLqj-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/dd54082d-b750-4b25-b739-bfe9ed1da384/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Jagame Thandhiram (2021) โลกนี้สีขาวดำ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/goLoLNagbnWpPQh4YQE9R2hSLqj-190x300-c-default.webp",
      "url": "https://streamhls.com/view/af377c8e-a319-5a83-9203-eba97d69a117.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1796,7 +3202,14 @@
    "stations": [
     {
      "name": "Love or Money (2021)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kisYQIfUzXYBopZuSDVXDEyRXyl-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d8d4ec41-14ac-484c-88bf-2cc62167e252/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Love or Money (2021)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/kisYQIfUzXYBopZuSDVXDEyRXyl-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c01e4df7-6f8d-5faa-bdb0-570aedb7bc8f.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1810,7 +3223,14 @@
    "stations": [
     {
      "name": "Wild Dog (2021)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8377XckHbfJDMrkSpEa9ZQJlVE0-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/c958d7b0-c38e-4b0f-b7a5-84a84b85fb2b/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Wild Dog (2021)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8377XckHbfJDMrkSpEa9ZQJlVE0-190x300-c-default.webp",
      "url": "https://streamhls.com/view/aef68bad-89e7-501f-b057-46a127a69d24.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1824,7 +3244,14 @@
    "stations": [
     {
      "name": "Uppena (2021) น้ำขึ้นให้รีบรัก",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qO5ofw2mTJgDEguKBadZ7HyOyn-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/7296c900-e8ae-4900-bb3e-83dc5c231255/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Uppena (2021) น้ำขึ้นให้รีบรัก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qO5ofw2mTJgDEguKBadZ7HyOyn-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3c2081da-ca0b-5687-8615-2a56731e4b13.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1838,7 +3265,7 @@
    "stations": [
     {
      "name": "Roohi (2021) ผีลักเจ้าสาว",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qHpEGFx13ntiAVl94e08EJ5ss4U-190x300-c-default.webp",
      "url": "https://streamhls.com/view/2bc85eac-368d-53bc-820b-72257953ae27.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1852,7 +3279,14 @@
    "stations": [
     {
      "name": "One (2021)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/b709793ddbef7d0876af6b36da912ced-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/08713ca9-8803-421d-b904-bc2fe6043125/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "One (2021)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/b709793ddbef7d0876af6b36da912ced-190x300-c-default.webp",
      "url": "https://streamhls.com/view/e5597ce2-aa56-5dc7-ab6e-49802d4a3fb2.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1866,7 +3300,14 @@
    "stations": [
     {
      "name": "Malang (2020) บ้า ล่า ระห่ำ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/noi7E47L0bpu60DO1jcYAvCqfSS-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f9458086-41d6-4ba1-bd86-8c340fe0fec2/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Malang (2020) บ้า ล่า ระห่ำ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/noi7E47L0bpu60DO1jcYAvCqfSS-190x300-c-default.webp",
      "url": "https://streamhls.com/view/72c00b5a-1605-550e-9455-950a5cbfb5ed.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1880,7 +3321,14 @@
    "stations": [
     {
      "name": "Panga (2020)",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Ap8NRozS7wlWCMmsd3RIDP1xzGP-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/4ac323a1-a7f7-4aad-8173-63f1cacc462c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Panga (2020)",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Ap8NRozS7wlWCMmsd3RIDP1xzGP-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0b3f9948-d0ae-529e-b6e8-229221d2d663.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1894,7 +3342,14 @@
    "stations": [
     {
      "name": "Baaghi 3 (2020) ยอดคนสุดกระห่ำ 3",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/14nxzkz2ZE0BXoywF6UnP5rjfcL-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/414d67e6-21c0-467b-b008-f86abc992846/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Baaghi 3 (2020) ยอดคนสุดกระห่ำ 3",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/14nxzkz2ZE0BXoywF6UnP5rjfcL-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9725d885-f06a-53b9-99be-d495115d60f7.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1908,7 +3363,14 @@
    "stations": [
     {
      "name": "Chhapaak (2020)",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cr5KqiolMMRUEJxrNLWESxyVVeU-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/3b82c659-cd55-4f9d-ada8-397ee3581c2a/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Chhapaak (2020)",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cr5KqiolMMRUEJxrNLWESxyVVeU-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0d64598e-7f09-5f68-81ed-7a9fcef7cbf3.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1922,7 +3384,14 @@
    "stations": [
     {
      "name": "Dil Bechara (2020)",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yNBRZc8K9sxUjpObMj3t8IbbwK5-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/00ca63fe-5feb-499c-8115-1d1fd3ba2828/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Dil Bechara (2020)",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yNBRZc8K9sxUjpObMj3t8IbbwK5-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c8265f04-753c-5289-9228-5d5a38121d6d.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1936,7 +3405,14 @@
    "stations": [
     {
      "name": "Malang (2020) | NETFLIX บ้า ล่า ระห่ำ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4rv8hy7t1sw-14687-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f9458086-41d6-4ba1-bd86-8c340fe0fec2/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Malang (2020) | NETFLIX บ้า ล่า ระห่ำ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4rv8hy7t1sw-14687-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/72c00b5a-1605-550e-9455-950a5cbfb5ed.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1950,7 +3426,14 @@
    "stations": [
     {
      "name": "Love Aaj Kal (2020) เวลากับความรัก 2",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/mnud4xa1wgk-15191-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/63ee325e-dace-4963-b5f1-3c447829b62b/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Love Aaj Kal (2020) เวลากับความรัก 2",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/mnud4xa1wgk-15191-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/2cb5cb17-72ad-520f-8a25-b4b4b18cc5b1.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1964,7 +3447,14 @@
    "stations": [
     {
      "name": "Ala Vaikunthapurramuloo (2020) ทายาทหัวใจแท้",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/dezt4f87vq1-13036-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/a44af02a-2840-4972-a41f-c02b152f6841/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ala Vaikunthapurramuloo (2020) ทายาทหัวใจแท้",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/dezt4f87vq1-13036-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/4d69cd05-6e25-5027-ae2a-0d748308e953.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1984,7 +3474,14 @@
    "stations": [
     {
      "name": "Petta (2019) อย่าแหย่เสือแก่",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yNkTNIjPl4QSQmVNQyfopM4wcFF-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/3a00cf29-4ea0-4bc5-97e7-9509cfce2363/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Petta (2019) อย่าแหย่เสือแก่",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/yNkTNIjPl4QSQmVNQyfopM4wcFF-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f28c00db-fdb6-57e0-99dd-57e652dbb494.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -1998,7 +3495,14 @@
    "stations": [
     {
      "name": "Notebook (2019)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xWGuyAriV4h3vzSSplITsJlIUSX-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/5b0b4de3-2c31-4a17-a980-b6311893f5ae/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Notebook (2019)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xWGuyAriV4h3vzSSplITsJlIUSX-190x300-c-default.webp",
      "url": "https://streamhls.com/view/7118c99b-f2bc-51cf-8204-a0f366996d5b.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2012,7 +3516,14 @@
    "stations": [
     {
      "name": "Maharshi (2019) มหาฤษี",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/pV6xLQh54ga8oaQqJtUqLp12LwQ-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/190f5f5d-2df0-44fc-b6ee-29918635d239/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Maharshi (2019) มหาฤษี",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/pV6xLQh54ga8oaQqJtUqLp12LwQ-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6e5a3cab-1aeb-5c48-a036-1cf65ff8e207.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2026,9 +3537,37 @@
    "stations": [
     {
      "name": "Triple Seat (2019)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5jJXlGY3oHtjSXs8x8GOLMJk8Px-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/62c93dff-f1be-49b7-b324-fafb026f3309/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Triple Seat (2019)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5jJXlGY3oHtjSXs8x8GOLMJk8Px-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d623aac8-6e36-5c8d-a442-6c6bec2060aa.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Asuran (2019) อัสลาน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zlievojt45n-15005-poster-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Asuran (2019) อัสลาน",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zlievojt45n-15005-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/0a6e0973-8c68-4064-97f6-5e612257ff49/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Asuran (2019) อัสลาน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zlievojt45n-15005-poster-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/a40460b3-b38e-5b79-a8e2-af83ec91e627.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -2040,7 +3579,14 @@
    "stations": [
     {
      "name": "Venky Mama (2019) บรรยายไทย",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/thksy92uw1q-15283-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/7993b4c8-6180-40dc-98f7-e0297c70c24e/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Venky Mama (2019) บรรยายไทย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/thksy92uw1q-15283-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6384bd1a-577f-58d0-aaa9-b3be4e02f7b8.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2054,7 +3600,14 @@
    "stations": [
     {
      "name": "Bigil (2019) บรรยายไทย",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/x5icyqpae6o-15340-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/0b8d38c6-acd3-47e0-95f7-d94486f6320f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Bigil (2019) บรรยายไทย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/x5icyqpae6o-15340-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/e021f92c-f8bf-58b6-b6be-6bec34aa4b84.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2068,23 +3621,16 @@
    "stations": [
     {
      "name": "Axone (2019) เมนูร้าวฉาน",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/72jl3wcqx6r-15342-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/8aa3240a-d9d3-4de0-a164-133af0264c82/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Axone (2019) เมนูร้าวฉาน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/72jl3wcqx6r-15342-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6316fe3c-0be2-5df7-af18-6682fa715647.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Asuran (2019) อัสลาน",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zlievojt45n-15005-poster-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Asuran (2019) อัสลาน",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zlievojt45n-15005-poster-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/a40460b3-b38e-5b79-a8e2-af83ec91e627.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -2096,7 +3642,14 @@
    "stations": [
     {
      "name": "Ghawre Bairey Aaj (2019) บรรยายไทย",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/6y0iuox9dh3-14874-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/95b77756-04d5-4688-bdc2-b76681a3639d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ghawre Bairey Aaj (2019) บรรยายไทย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/6y0iuox9dh3-14874-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5b62472e-d4e3-5140-aa79-207659d0e85d.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2110,7 +3663,14 @@
    "stations": [
     {
      "name": "Dear Comrade (2019) ถึงเพื่อน…เพื่อน",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qkedgcf6uom-15001-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/fbeacd20-7aa4-4646-bde1-6b5fa69af9ac/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Dear Comrade (2019) ถึงเพื่อน…เพื่อน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qkedgcf6uom-15001-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b5e7034b-2f3b-572a-91c2-96bf791207b8.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2124,7 +3684,14 @@
    "stations": [
     {
      "name": "Kesari (2019) เคซารี",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1ycrikgbend-14498-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d9d6dc61-a482-4e3e-83c2-de88482179bf/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kesari (2019) เคซารี",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1ycrikgbend-14498-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/e8c054ab-e6db-520b-8fb4-7f61af061dcf.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2138,7 +3705,14 @@
    "stations": [
     {
      "name": "Sye Raa Narasimha Reddy (2019) ไซร่า นาราซิมฮา เรดดี้",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/c2w43gqpskm-12305-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f3744d5e-b778-4c9f-8569-3f60d275b39d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Sye Raa Narasimha Reddy (2019) ไซร่า นาราซิมฮา เรดดี้",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/c2w43gqpskm-12305-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3a929c75-0da4-54ff-a49b-1cb260466d98.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2152,7 +3726,14 @@
    "stations": [
     {
      "name": "Motichoor Chaknachoor (2019) ยูฮู้ ความรักอยู่ไหน",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/up0nyxbz45t-12012-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/3e2c59c2-e9b2-495c-b3ea-487386bd0471/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Motichoor Chaknachoor (2019) ยูฮู้ ความรักอยู่ไหน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/up0nyxbz45t-12012-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/165545cd-07c2-5662-a7df-7e8d18eeb0ec.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2166,7 +3747,14 @@
    "stations": [
     {
      "name": "Laal Kaptaan กัปตันแดงเดือด (2019) บรรยายไทย",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ydqjrp7xh01-12022-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/db6435fb-7d20-4f81-bbb8-c851a2800bed/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Laal Kaptaan กัปตันแดงเดือด (2019) บรรยายไทย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ydqjrp7xh01-12022-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/82cfe931-2f90-5dbb-9a7c-5b3698aaba34.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2180,13 +3768,41 @@
    "stations": []
   },
   {
+   "name": "Aadai (2019) อาได",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4lkdbxri71u-11326-poster-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Aadai (2019) อาได",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4lkdbxri71u-11326-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/37102483-f74b-4733-8e42-067a0bbed7a3/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Aadai (2019) อาได",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4lkdbxri71u-11326-poster-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/5ca7da0d-cbc5-5ed6-a8ee-c854ed5f7818.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Jackpot (2019)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cdx630rlf1q-11197-poster-190x300-c-default.webp",
    "info": "ซับไทย",
    "stations": [
     {
      "name": "Jackpot (2019)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cdx630rlf1q-11197-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/5546ebbf-65ff-489f-a86d-a14e4185f909/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Jackpot (2019)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cdx630rlf1q-11197-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/56fc9737-1a76-5cf9-9918-f597b991a256.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2200,23 +3816,16 @@
    "stations": [
     {
      "name": "Ghost Stories (2020) เรื่องผี เรื่องวิญญาณ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eu4b3xycjfd-11307-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/03c5ac34-3c75-4ebc-a751-7a5c66845c11/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ghost Stories (2020) เรื่องผี เรื่องวิญญาณ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eu4b3xycjfd-11307-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0a8d9e96-5587-5e7c-8f8d-880266e53557.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Aadai (2019) อาได",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4lkdbxri71u-11326-poster-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Aadai (2019) อาได",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4lkdbxri71u-11326-poster-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/5ca7da0d-cbc5-5ed6-a8ee-c854ed5f7818.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -2228,7 +3837,14 @@
    "stations": [
     {
      "name": "Kalank (2019) ด้วยรักและแรงแค้น",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ltgu4zq9woh-10930-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/c1048268-4f26-47cc-8308-2e3670771150/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kalank (2019) ด้วยรักและแรงแค้น",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ltgu4zq9woh-10930-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/1f12f183-fc33-5c10-8224-39a027a18eb3.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2242,7 +3858,14 @@
    "stations": [
     {
      "name": "War (2019) สงคราม",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2p840udjg3m-11043-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/3fd7622c-0274-4170-950c-fc0f51654d3f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "War (2019) สงคราม",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2p840udjg3m-11043-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/dfac198e-c0b1-5b82-8c9d-4a8ea7863236.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2256,7 +3879,14 @@
    "stations": [
     {
      "name": "The Sky Is Pink (2019) ใต้ฟ้าสีชมพู",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/itn36qs20za-11127-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/21ac16ec-9c00-4f90-bb48-1176faf9637f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Sky Is Pink (2019) ใต้ฟ้าสีชมพู",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/itn36qs20za-11127-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/cd29204f-cbd4-5cb7-9e18-ad9cc12164d5.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2270,7 +3900,14 @@
    "stations": [
     {
      "name": "Fraud Saiyyan (2019) สามีกำมะลอ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191029075611p17131997_v_v8_aa-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/3cea3fe9-d5b4-4369-8f7a-e4836d5bc3ab/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Fraud Saiyyan (2019) สามีกำมะลอ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191029075611p17131997_v_v8_aa-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c37352f3-d80e-5e96-a8b5-c52d4f4524c3.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2284,7 +3921,14 @@
    "stations": [
     {
      "name": "Manikarnika The Queen of Jhansi (2019) (ซับไทย)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2019102515251791kWzfCuahL._RI_-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/cb71b2a3-5bc3-4aac-b7ed-f31a94823328/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Manikarnika The Queen of Jhansi (2019) (ซับไทย)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/2019102515251791kWzfCuahL._RI_-190x300-c-default.webp",
      "url": "https://streamhls.com/view/1646580e-77eb-569b-b316-b683e68181fa.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2298,7 +3942,14 @@
    "stations": [
     {
      "name": "Game Over (2019) เกมโอเวอร์ (ภาษาฮินดี)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190822201121MV5BZDA5OTIyZmY-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/eb31ee91-2a98-41cb-a279-f1c4633db085/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Game Over (2019) เกมโอเวอร์ (ภาษาฮินดี)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190822201121MV5BZDA5OTIyZmY-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9f0eec9c-0cee-58e9-aa0e-c387fd9c10e6.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2312,7 +3963,14 @@
    "stations": [
     {
      "name": "Baaghi 2 (2018) ยอดคนสุดกระห่ำ 2",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1E2lUedrxlzIgReszV0OuJ5JpvG-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d9bfa262-5ba7-4830-a8c7-485c73e3bc81/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Baaghi 2 (2018) ยอดคนสุดกระห่ำ 2",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/1E2lUedrxlzIgReszV0OuJ5JpvG-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6e510373-d1aa-521a-859e-740f28e1016a.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2326,7 +3984,14 @@
    "stations": [
     {
      "name": "Bhaagamathie (2018) พาคามฐี",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/31e7l5xq9sj-15422-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d8847dea-77f9-401d-b085-d0efbb4877d2/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Bhaagamathie (2018) พาคามฐี",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/31e7l5xq9sj-15422-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/67a33de5-0a71-5fd2-a8c5-6d31b6f42b1e.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2346,7 +4011,14 @@
    "stations": [
     {
      "name": "Go-Go Sisters (2018) ไป-ไป แม่สาวน้อย",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7l2af8vzrxb-14313-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/4c507654-b9a5-4a84-b01e-51ad4d873b58/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Go-Go Sisters (2018) ไป-ไป แม่สาวน้อย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/7l2af8vzrxb-14313-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c4f2aa7a-5867-5896-80f0-24e2e06b29c4.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2360,7 +4032,14 @@
    "stations": [
     {
      "name": "Tumbbad (2018) คำสาปแห่งทุมบ์บาด",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/89empxuiocy-13858-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/e1dd4087-dc17-4077-92b8-fb36f71c1e40/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Tumbbad (2018) คำสาปแห่งทุมบ์บาด",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/89empxuiocy-13858-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/e615da5e-cde5-538a-a309-592d8c049cec.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2374,7 +4053,14 @@
    "stations": [
     {
      "name": "Baazaar (2018) บรรยายไทย",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/25m4tocrv7b-11711-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/3c196f48-80e6-4d81-a1ab-995fea6f0f5f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Baazaar (2018) บรรยายไทย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/25m4tocrv7b-11711-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/dbd9c44e-16cf-5022-be1f-c14001be4c03.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2388,7 +4074,14 @@
    "stations": [
     {
      "name": "Padmaavat (2018) ปัทมาวัต",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/gsjyc38it9o-10932-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d0427a3b-ff1b-49e2-a681-311eb999b49a/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Padmaavat (2018) ปัทมาวัต",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/gsjyc38it9o-10932-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/709fe87b-00cf-5172-b60f-aa4da437e60b.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2402,7 +4095,14 @@
    "stations": [
     {
      "name": "Jalebi – The Taste of Everlasting Love (2018)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qz71ufnxtwa-10936-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/cd49d249-8303-4fb5-9a5d-23b602eb8c33/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Jalebi – The Taste of Everlasting Love (2018)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qz71ufnxtwa-10936-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/04b30dd0-d32b-5329-9923-daea36313153.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2416,7 +4116,14 @@
    "stations": [
     {
      "name": "Sui Dhaaga Made in India (2018) หนุ่มทอผ้าล่าฝัน",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191028083923188579_aa-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/827bf72a-960a-4d6a-9693-9440ec6e661c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Sui Dhaaga Made in India (2018) หนุ่มทอผ้าล่าฝัน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191028083923188579_aa-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6c17fa85-6588-567e-91d5-3c37ff2529d5.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2430,7 +4137,14 @@
    "stations": [
     {
      "name": "Zero (2018) ซีโร่ คนเล็กใจใหญ่ (ซับไทย)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190620113723MV5BYmU1MWJmZDgtNDk1NC0-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/bd63410e-dd5f-4536-bbd3-4009c62a0151/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Zero (2018) ซีโร่ คนเล็กใจใหญ่ (ซับไทย)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190620113723MV5BYmU1MWJmZDgtNDk1NC0-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c10e9275-55ea-59ca-b1b9-dc2b84f08dd5.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2444,7 +4158,14 @@
    "stations": [
     {
      "name": "Hichki (2018) สะอึก (ซับไทย)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vawEeGTT115cJBFezPWiit0j533-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/8531332e-2ded-4c8f-8e4e-bc31985872c2/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Hichki (2018) สะอึก (ซับไทย)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vawEeGTT115cJBFezPWiit0j533-190x300-c-default.webp",
      "url": "https://streamhls.com/view/bc22b60f-94ec-5be9-b987-94ddc752e7fc.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2458,7 +4179,14 @@
    "stations": [
     {
      "name": "Kadvi Hawa (2017)",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/byOKAa9yAVk5fYzEFk31NPS086s-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/9b2ffbc1-def3-4553-bfc7-34a9f9887042/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kadvi Hawa (2017)",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/byOKAa9yAVk5fYzEFk31NPS086s-190x300-c-default.webp",
      "url": "https://streamhls.com/view/fc28d605-8543-5a17-8a24-cbea1713248f.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2472,7 +4200,14 @@
    "stations": [
     {
      "name": "The Ghazi Attack (2017)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uFAwFoRf1BULZtufwFObUIUK0Um-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f8baeea5-50b3-4be1-a28b-d57cd9c9b945/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Ghazi Attack (2017)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uFAwFoRf1BULZtufwFObUIUK0Um-190x300-c-default.webp",
      "url": "https://streamhls.com/view/83e89953-a084-57b3-ac40-ab94c69fd38f.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2486,7 +4221,14 @@
    "stations": [
     {
      "name": "Kaatru Veliyidai (2017) รักจากฟากฟ้า",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eAhi75mHLylj5J0ZsjhaVTtHhQD-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/21c9a74f-ad70-4a51-b97f-2145e6bf7d1b/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kaatru Veliyidai (2017) รักจากฟากฟ้า",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/eAhi75mHLylj5J0ZsjhaVTtHhQD-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b5a25f19-d73d-55b0-89af-438fb592cc4d.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2500,7 +4242,14 @@
    "stations": [
     {
      "name": "Simran (2017) ซิมรัน โบยบินไกลเกินฝัน",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191029074651wc28w6EW198EB5NHKmmfDpiOkqf-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/8b546641-3c3f-493e-bc78-e1a3ab24d6bc/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Simran (2017) ซิมรัน โบยบินไกลเกินฝัน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20191029074651wc28w6EW198EB5NHKmmfDpiOkqf-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b6992974-09fc-5ff4-b11f-7eae5a032810.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2514,7 +4263,14 @@
    "stations": [
     {
      "name": "OK Jaanu (2017) ลิขิตรักตามใจเธอ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/90knpjvzr86-10934-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/5d24acee-c7a2-49cd-9f8f-b04c87d74155/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "OK Jaanu (2017) ลิขิตรักตามใจเธอ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/90knpjvzr86-10934-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/7429f396-0006-5241-bd28-8e603f125d8f.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2528,7 +4284,14 @@
    "stations": [
     {
      "name": "Baahubali 2 The Conclusion (2017) เปิดตำนานบาฮูบาลี 2",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/sXf30F2HFpsFPXlNz7jpOySSV9I-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d4d17c5a-51f6-4bd6-8fee-4a758ad6739b/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Baahubali 2 The Conclusion (2017) เปิดตำนานบาฮูบาลี 2",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/sXf30F2HFpsFPXlNz7jpOySSV9I-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a61a2e25-2b62-5d8d-9f54-f1d8e9b41220.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2542,7 +4305,14 @@
    "stations": [
     {
      "name": "The Worthy (2016) ผู้อยู่รอด",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/fDBlIFntmminhCOaSTv3Gn0WByC-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/a7b1891f-9d8f-4a67-8906-0712df67fc52/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Worthy (2016) ผู้อยู่รอด",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/fDBlIFntmminhCOaSTv3Gn0WByC-190x300-c-default.webp",
      "url": "https://streamhls.com/view/67645bc9-a4a3-5c5d-8cc5-8f329223ee4e.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2556,7 +4326,14 @@
    "stations": [
     {
      "name": "Natsamrat (2016) บรรยายไทย",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xg37cqz8a4o-15424-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/7766d7c7-3c30-42f3-9843-c89d403dd43a/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Natsamrat (2016) บรรยายไทย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xg37cqz8a4o-15424-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/90476091-5895-5a2a-90ee-11c248a98bd5.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2570,7 +4347,14 @@
    "stations": [
     {
      "name": "Dangal (2016) ปล้ำฝันสนั่นโลก",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tt5074352-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/deb1217b-d967-4427-9305-3e61a8c0d255/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Dangal (2016) ปล้ำฝันสนั่นโลก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tt5074352-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ed3392bb-c188-5374-9b84-7bd821659fef.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2584,7 +4368,14 @@
    "stations": [
     {
      "name": "Befikre (2016) ถ้าหัวใจมีรัก [ซับไทย]",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Befikre-2016-Sub-TH-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/6403df7c-7b57-46d5-98c4-5bb662774743/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Befikre (2016) ถ้าหัวใจมีรัก [ซับไทย]",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Befikre-2016-Sub-TH-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9ad5d0a0-a146-5998-ab0d-5fdb97f63650.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2598,7 +4389,14 @@
    "stations": [
     {
      "name": "Sultan สุลต่าน (2016)(บรรยายไทย)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Sultan282016295BSubTH5D-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/09f3242f-bc7b-48db-ab42-8471e280fd72/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Sultan สุลต่าน (2016)(บรรยายไทย)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Sultan282016295BSubTH5D-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6f3b1467-8eed-5bfb-adb9-7278ba8bb1cd.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2612,7 +4410,14 @@
    "stations": [
     {
      "name": "Prem Ratan Dhan Payo (2015) บัลลังก์รักสลับร่าง",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/pCxT9c2E0YhzxsSkweVW2ELO3mS-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/019c451c-f195-47cd-abf9-6e21d00d9c7d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Prem Ratan Dhan Payo (2015) บัลลังก์รักสลับร่าง",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/pCxT9c2E0YhzxsSkweVW2ELO3mS-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9a4b10f1-b160-5550-b6a7-a59db0382e37.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2626,7 +4431,14 @@
    "stations": [
     {
      "name": "Baahubali The Beginning (2015) เปิดตำนานบาฮูบาลี",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uYsiKArSSY8ZfH9arxD6IDZLnCm-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/78773f8e-1362-473f-b447-b078a1ade0c4/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Baahubali The Beginning (2015) เปิดตำนานบาฮูบาลี",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/uYsiKArSSY8ZfH9arxD6IDZLnCm-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f105e909-ba89-5732-bdfc-015b8c5fe0f9.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2640,7 +4452,14 @@
    "stations": [
     {
      "name": "1000 Rupee Note (2014) พลิกชีวิตพันรูปี",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/oFFLlUTaphyr1ptha9OGmrLCitu-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/0395c85b-9102-4b14-8295-27851ebdbd0b/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "1000 Rupee Note (2014) พลิกชีวิตพันรูปี",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/oFFLlUTaphyr1ptha9OGmrLCitu-190x300-c-default.webp",
      "url": "https://streamhls.com/view/827adf0d-fc96-5e47-bdac-f57c6dc3ff3f.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2654,7 +4473,14 @@
    "stations": [
     {
      "name": "PK (2014) [ซับไทย]",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/JHntr-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f6e846f5-4f36-40bb-9ebc-2be371483e66/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "PK (2014) [ซับไทย]",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/JHntr-190x300-c-default.webp",
      "url": "https://streamhls.com/view/2ba15ab4-1a99-59cf-b8a1-a1dbdfd33b19.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2668,7 +4494,14 @@
    "stations": [
     {
      "name": "Kal Ho Naa Ho (2013) โอ้รัก สุดชีวิต",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/RxqG2n-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/868484cc-862c-45d5-a0d4-1e709920e144/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kal Ho Naa Ho (2013) โอ้รัก สุดชีวิต",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/RxqG2n-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a710ceed-968a-5cd0-a9fb-21b1d2a5cf4f.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2682,7 +4515,14 @@
    "stations": [
     {
      "name": "Sparks (2013) โคตรเกรียนเมืองคนบาป",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Sparks2013-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/a3396518-6f2e-4ee8-9cd2-eac4786b7535/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Sparks (2013) โคตรเกรียนเมืองคนบาป",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Sparks2013-190x300-c-default.webp",
      "url": "https://streamhls.com/view/caea18ee-19ec-580b-9e0d-62848f418f04.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2696,7 +4536,14 @@
    "stations": [
     {
      "name": "Dhoom 3 (2013) มหกรรมล่า คนเหนือเมฆ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Dhoom-3-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/cbecc4a2-a0a2-4729-912e-d9e2f6c85ece/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Dhoom 3 (2013) มหกรรมล่า คนเหนือเมฆ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Dhoom-3-190x300-c-default.webp",
      "url": "https://streamhls.com/view/bc962006-3827-594b-95ea-64b09d0a45c7.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2710,7 +4557,14 @@
    "stations": [
     {
      "name": "Dabangg 2 (2012) มือปราบกำราบเซียน 2",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Dabangg-2-2012-E0B8A1E0B8B7E0B8ADE0B89BE0B8A3E0B8B2E0B89AE0B881E0B8B3E0B8A3E0B8B2E0B89AE0B980E0B88BE0B8B5E0B8A2E0B899-2-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/3063f067-2c21-41c4-aa31-2c85bb514a8c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Dabangg 2 (2012) มือปราบกำราบเซียน 2",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Dabangg-2-2012-E0B8A1E0B8B7E0B8ADE0B89BE0B8A3E0B8B2E0B89AE0B881E0B8B3E0B8A3E0B8B2E0B89AE0B980E0B88BE0B8B5E0B8A2E0B899-2-190x300-c-default.webp",
      "url": "https://streamhls.com/view/465d5d3d-4568-505b-99c9-0103040bb59d.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2724,7 +4578,14 @@
    "stations": [
     {
      "name": "Barfi! (2012) นายคนเนี้ยะ!!! บาร์ฟี่",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/BARFI-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d69f2028-d0c6-4c9f-9d52-19b9277ea084/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Barfi! (2012) นายคนเนี้ยะ!!! บาร์ฟี่",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/BARFI-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0010fe75-1e0d-5b89-a0da-cd6e3e1a21d2.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2738,7 +4599,14 @@
    "stations": [
     {
      "name": "Don 2 (2011) ดอน นักฆ่าหน้าหยก 2",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Don228201129-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/6f6d6a77-3253-4b93-a294-f11fb926ad8f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Don 2 (2011) ดอน นักฆ่าหน้าหยก 2",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Don228201129-190x300-c-default.webp",
      "url": "https://streamhls.com/view/30c5488b-7a11-53d2-b327-db5c4e85797d.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2752,7 +4620,14 @@
    "stations": [
     {
      "name": "No Problem (2010) เอาอยู่คร๊าบบบ!!!",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/proble-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/ecbe862a-0408-43f0-8aac-d832c0308ce7/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "No Problem (2010) เอาอยู่คร๊าบบบ!!!",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/proble-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0c44f1f0-5f24-5e04-8677-ab4abc6d7535.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2766,7 +4641,14 @@
    "stations": [
     {
      "name": "Billu (2009) บิลลู",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nmWKskigmvBow3uOP4RPQOIaUux-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/e6c290e4-738f-483f-922e-b6f0d1be32a8/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Billu (2009) บิลลู",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/nmWKskigmvBow3uOP4RPQOIaUux-190x300-c-default.webp",
      "url": "https://streamhls.com/view/72f6fb68-7ef7-55af-8e1a-1b0c7bb474a5.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2780,7 +4662,14 @@
    "stations": [
     {
      "name": "3 Idiots (2009) [ซับไทย]",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/3-Idiots.ZAKKY_-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/299af79a-c3ef-4f93-966f-ea08f66fb5e8/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "3 Idiots (2009) [ซับไทย]",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/3-Idiots.ZAKKY_-190x300-c-default.webp",
      "url": "https://streamhls.com/view/91267d43-b6be-5871-ac8f-c4d85cdb4fa1.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2794,7 +4683,14 @@
    "stations": [
     {
      "name": "Delhi-6 (2009) เดลฮี สวรรค์แดนภารตะ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Delhi-628200929-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/4bdc622c-b3e3-47cb-8ac8-00f1f3ace265/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Delhi-6 (2009) เดลฮี สวรรค์แดนภารตะ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Delhi-628200929-190x300-c-default.webp",
      "url": "https://streamhls.com/view/73af19c0-20d3-54f2-bdb6-104c9ef2e14d.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2808,14 +4704,28 @@
    "stations": [
     {
      "name": "Ghajini เกิดมาฆ่า…กาจินี (2008)",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/rkivh35t7l2-11271-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/5e70f481-b8c6-4d78-92ef-ab9775deb7d3/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ghajini เกิดมาฆ่า…กาจินี (2008)",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/rkivh35t7l2-11271-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/33a7047e-8706-54a0-8a73-5e832d76f847.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Ghajini เกิดมาฆ่า…กาจินี (2008)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/rkivh35t7l2-11271-poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/10aed86e-b118-4cfa-8d29-8c26b9d49d78/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Ghajini เกิดมาฆ่า…กาจินี (2008)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/rkivh35t7l2-11271-poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/32095319-2eee-5a1b-b37c-37808005683b.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2829,7 +4739,14 @@
    "stations": [
     {
      "name": "Om Shanti Om (2007) โอม ศานติ โอม",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tSaZOdHDBx4wxMa3E5ztkhPVYyO-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/524f19e8-45ef-4508-94e6-ca87649f19e2/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Om Shanti Om (2007) โอม ศานติ โอม",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tSaZOdHDBx4wxMa3E5ztkhPVYyO-190x300-c-default.webp",
      "url": "https://streamhls.com/view/731512ff-e1ce-5b3a-89d2-ba1f76f51d9a.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2843,7 +4760,14 @@
    "stations": [
     {
      "name": "Like Stars on Earth Taare Zameen Par (2007) ดวงดาวเล็กๆ บนผืนโลก [ซับไทย]",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Laar-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/77249a2d-2ed6-4419-88f8-4c4d926922cb/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Like Stars on Earth Taare Zameen Par (2007) ดวงดาวเล็กๆ บนผืนโลก [ซับไทย]",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Laar-190x300-c-default.webp",
      "url": "https://streamhls.com/view/23f870e7-216a-5cae-9a14-22d64414803b.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2857,7 +4781,14 @@
    "stations": [
     {
      "name": "Don (2006) ดอน นักฆ่าหน้าหยก",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Don28200629-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d5acd2bf-98e5-4e6c-98ae-a6648b830905/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Don (2006) ดอน นักฆ่าหน้าหยก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Don28200629-190x300-c-default.webp",
      "url": "https://streamhls.com/view/50d0a719-d3de-5ec3-b469-f4e5ba88650a.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2871,7 +4802,14 @@
    "stations": [
     {
      "name": "Rang De Basanti (2006) เลือดเนื้อพลีเสรีชน",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Rang-De-Basanti-2006-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/ca19a069-4ad5-4a19-bd50-389f08f7f12d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Rang De Basanti (2006) เลือดเนื้อพลีเสรีชน",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Rang-De-Basanti-2006-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5f4e6b8e-ca9c-505c-adf4-697ac629913f.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2885,7 +4823,14 @@
    "stations": [
     {
      "name": "Baabul (2006) พ่อเหนือเกล้าเหนือชีวิต",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Baabul-2006-Hindi-720p-WEB-HDRip-1.2GB-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/abc4fa36-c5bd-44db-9a4d-6c992127083f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Baabul (2006) พ่อเหนือเกล้าเหนือชีวิต",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Baabul-2006-Hindi-720p-WEB-HDRip-1.2GB-190x300-c-default.webp",
      "url": "https://streamhls.com/view/2be7bb1c-c6f4-5053-92e8-f86d4e7807a5.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2899,14 +4844,28 @@
    "stations": [
     {
      "name": "Paradise Now (2005) พาราไดซ์ นาว อุดมการณ์ปลิดโลก",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qWZkYa8VdcDZk8uzRB2PfhpM9IL-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/b87b6218-cb93-4387-a755-697c80b827e8/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Paradise Now (2005) พาราไดซ์ นาว อุดมการณ์ปลิดโลก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qWZkYa8VdcDZk8uzRB2PfhpM9IL-190x300-c-default.webp",
      "url": "https://streamhls.com/view/14598d7b-6dd3-524f-956a-cc61b1baf78d.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Paradise Now (2005) พาราไดซ์ นาว อุดมการณ์ปลิดโลก",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qWZkYa8VdcDZk8uzRB2PfhpM9IL-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/2dcdc931-1e7a-48dc-9d45-92eb069633e5/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Paradise Now (2005) พาราไดซ์ นาว อุดมการณ์ปลิดโลก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qWZkYa8VdcDZk8uzRB2PfhpM9IL-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b8f36a8e-a941-58f7-9224-780f72fa8e1c.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2920,7 +4879,14 @@
    "stations": [
     {
      "name": "Elaan (2005) ทีมล่าฆ่าไม่ปราณี",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Elaan_1247412468_2005-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/7de7bed2-2069-4c68-9778-0e05d1bfd63a/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Elaan (2005) ทีมล่าฆ่าไม่ปราณี",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Elaan_1247412468_2005-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3c5747e3-2c6f-52a0-9ef8-6b7707368bb3.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2934,7 +4900,14 @@
    "stations": [
     {
      "name": "K-9 P.I. (2002)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/lkI06uQJCnujYoN6MJzjnsxryaI-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/1ef0659d-e653-401a-b7e2-09650698d8d5/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "K-9 P.I. (2002)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/lkI06uQJCnujYoN6MJzjnsxryaI-190x300-c-default.webp",
      "url": "https://streamhls.com/view/7a0bccdc-dc7d-5124-9a9a-cf153399ec3e.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2948,14 +4921,28 @@
    "stations": [
     {
      "name": "Kabhi Khushi Kabhie Gham (2001) ฟ้ามิอาจกั้นรัก",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190307094331MV5BZjc5NGExODktNjE3MC-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f76bf793-ceb0-4ac1-8a8f-b71f43f15003/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kabhi Khushi Kabhie Gham (2001) ฟ้ามิอาจกั้นรัก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190307094331MV5BZjc5NGExODktNjE3MC-190x300-c-default.webp",
      "url": "https://streamhls.com/view/e2205984-4f74-582e-8930-eaaa455e7aac.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Kabhi Khushi Kabhie Gham (2001) ฟ้ามิอาจกั้นรัก",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190307094331MV5BZjc5NGExODktNjE3MC-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/856bca2a-8172-4707-b284-9b9edc5de21f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kabhi Khushi Kabhie Gham (2001) ฟ้ามิอาจกั้นรัก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190307094331MV5BZjc5NGExODktNjE3MC-190x300-c-default.webp",
      "url": "https://streamhls.com/view/bcffb9ac-c03d-5728-b507-0e53061532cb.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2969,7 +4956,14 @@
    "stations": [
     {
      "name": "Salaam Bombay (1998) สลัมบอมเบย์ เด็กข้างถนน {ซับไทย}",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/d4750-salaam-bombay-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/a601715e-b83c-419d-8c90-4a284e9bd851/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Salaam Bombay (1998) สลัมบอมเบย์ เด็กข้างถนน {ซับไทย}",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/d4750-salaam-bombay-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b30d261e-73ce-599f-bfd7-96f77f068f2f.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2983,7 +4977,14 @@
    "stations": [
     {
      "name": "Kama Sutra A Tale of Love (1996) กามาสุตรา ต้นกำเนิดตำนานรัก",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/dwbLcEPIjVISly6DW8GLX8vsZlE-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/87ef4c49-154b-4b06-bf72-59294da78c22/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kama Sutra A Tale of Love (1996) กามาสุตรา ต้นกำเนิดตำนานรัก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/dwbLcEPIjVISly6DW8GLX8vsZlE-190x300-c-default.webp",
      "url": "https://streamhls.com/view/377119a8-fd41-5bf6-b38a-91fdb2a4a940.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -2997,7 +4998,14 @@
    "stations": [
     {
      "name": "Gandhi (1982) มหาตมะ คานธี",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/GANDHI-TH-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/a97e78e4-482b-4209-af01-c9e47a667163/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Gandhi (1982) มหาตมะ คานธี",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/GANDHI-TH-190x300-c-default.webp",
      "url": "https://streamhls.com/view/133b284b-0266-5767-bd5e-6ed6095a724d.m3u8",
      "referer": "https://www.9nunghd.com/"

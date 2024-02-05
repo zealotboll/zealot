@@ -1,40 +1,243 @@
 {
  "name": "หนังไทย",
- "author": "เจียว เจียว อัพวันที่ 30 ธันวาคม 2566",
+ "author": "เจียว เจียว อัพวันที่ 25 มกราคม 2567",
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
  "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
  "groups": [
   {
-   "name": "My Undercover Chef มือปราบกระทะรั่ว (2023)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
+   "name": "หารักด้วยใจเธอ Find Yourself (2023)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
    "info": "พากย์ไทย",
    "stations": [
     {
      "name": "ซีซั่น 1 ตอนที่ 1",
      "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/480e4a6a-151a-537d-a4ef-303bd37ea5bb.m3u8",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/15d9f958-ab79-5b94-88a9-baad62fe0316.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "ซีซั่น 1 ตอนที่ 2",
      "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/3e615b22-b31e-5e08-b0c1-4cd757bda85c.m3u8",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/229c43be-366a-5cf2-a451-c0270ba36323.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "ซีซั่น 1 ตอนที่ 3",
      "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/b67466ac-2151-5cd2-b352-0db82301b012.m3u8",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/7b62d616-b0b8-59f7-99bf-989e9638242d.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
      "name": "ซีซั่น 1 ตอนที่ 4",
      "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/fd9c6704-778e-5cbc-a210-a77104a87bc8.m3u8",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/a9d1578b-44c9-5f14-b40c-5bd2d46971e0.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/f980d4af-cb4c-5989-8ccb-48f221c585fa.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/52499ebc-fe0f-524f-9bfd-9efe1271d914.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/8010f834-b023-5ebd-a61e-d334b3313659.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/2bdad575-5854-5660-8605-e8ff503e85c1.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Find-Yourself-2023.png",
+     "url": "https://sgcdnseriesn.xyz/view/3ce7a91d-bcb6-5d10-a6f7-d9367bf932f0.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "อนึ่ง คิดถึงพอสังเขป รุ่น 2 (1996) I Miss You 2",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/I-Miss-You-2.png",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "อนึ่ง คิดถึงพอสังเขป รุ่น 2 (1996) I Miss You 2",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/I-Miss-You-2.png",
+     "url": "https://streamhls.com/view/d05066df-00c6-54b7-b3a2-c2626ad33cb8.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "อนึ่ง คิดถึงเป็นอย่างยิ่ง (2009) Miss You Again",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Miss-You-Again.png",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "อนึ่ง คิดถึงเป็นอย่างยิ่ง (2009) Miss You Again",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Miss-You-Again.png",
+     "url": "https://play.kakjeawplay.xyz/030afbbd-0aaf-4828-8b0b-e93d5260d92c/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "อนึ่ง คิดถึงเป็นอย่างยิ่ง (2009) Miss You Again",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Miss-You-Again.png",
+     "url": "https://streamhls.com/view/800edef4-e884-5aaa-87ba-f66e8a0aaabe.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "เฮี้ยน (2003) The Unborn",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Unborn.png",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "เฮี้ยน (2003) The Unborn",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Unborn.png",
+     "url": "https://play.kakjeawplay.xyz/401fb5e2-f890-4a1c-9f3a-70679107f2fd/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "เฮี้ยน (2003) The Unborn",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Unborn.png",
+     "url": "https://streamhls.com/view/c284b6a7-b652-53a6-a473-14c27c9a9551.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "ตุ๊กกี้ เจ้าหญิงขายกบ (2010) Tukkie’s Diary",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tukkie-s-Diary.png",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตุ๊กกี้ เจ้าหญิงขายกบ (2010) Tukkie’s Diary",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tukkie-s-Diary.png",
+     "url": "https://play.kakjeawplay.xyz/37b86c24-f405-41d6-a52a-6a15da0b493a/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ตุ๊กกี้ เจ้าหญิงขายกบ (2010) Tukkie’s Diary",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tukkie-s-Diary.png",
+     "url": "https://streamhls.com/view/53a252ff-26ca-5c2c-b098-6b6c19be4997.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "ยุวชนทหาร เปิดเทอมไปรบ (2000) Boys Will Be Boys Boys Will Be Men",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Boys-Will-Be-Boys-Boys-Will-Be-Men.png",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ยุวชนทหาร เปิดเทอมไปรบ (2000) Boys Will Be Boys Boys Will Be Men",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Boys-Will-Be-Boys-Boys-Will-Be-Men.png",
+     "url": "https://play.kakjeawplay.xyz/5b3366c1-f770-4877-a504-7b87126484db/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ยุวชนทหาร เปิดเทอมไปรบ (2000) Boys Will Be Boys Boys Will Be Men",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Boys-Will-Be-Boys-Boys-Will-Be-Men.png",
+     "url": "https://streamhls.com/view/9bd5226f-a827-5b75-9cae-5e1886cc84d4.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "อันดากับฟ้าใส (1997) Anda Fahsai",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Anda-Fahsai.png",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "อันดากับฟ้าใส (1997) Anda Fahsai",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Anda-Fahsai.png",
+     "url": "https://play.kakjeawplay.xyz/12a944b2-0fe1-4e0f-acfb-633b7986b5c1/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "อันดากับฟ้าใส (1997) Anda Fahsai",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Anda-Fahsai.png",
+     "url": "https://streamhls.com/view/9eecd5af-4b65-5a64-aaac-657a6d06d136.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "นางทาสหัวทอง Blondie in an Ancient Time (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ซีซั่น 1 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/b70199ae-4242-51b3-b044-76e377e63a61.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/50db4d99-c5f7-531d-9554-bc896a74074d.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/0987e635-9d59-5ff0-9cbe-356978af8a1b.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/677a81b5-0349-5a3a-93f0-f58646b0fdf1.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/56bbea6d-856b-54c3-8cd3-adc7985e8637.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Blondie-in-an-Ancient-Time.png",
+     "url": "https://sgcdnseriesn.xyz/view/1d9762c8-1621-53ff-ab76-ed79a864c1c9.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
@@ -127,26 +330,362 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Office-Games-2023.jpg",
      "url": "https://sgcdnseriesn.xyz/view/affd111a-92ff-5ab5-aa6a-b022c62bc1f1.m3u8",
      "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Office-Games-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/346fa5ed-d4da-5261-9f06-2029ec43164b.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Office-Games-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/23c31d38-6ff4-53f6-8a3f-96f684e6fefc.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Office-Games-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/4c575faf-70b9-5961-933d-372923ffcaed.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/11/The-Office-Games-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/50846c44-7bbb-5949-a6f2-c9ca41933885.m3u8",
+     "referer": "https://www.nung2hdd.com/"
     }
    ]
   },
   {
-   "name": "รัก โพสต์ ลบ ลืม (2023) MONDO",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/MONDO.jpg",
+   "name": "My Undercover Chef มือปราบกระทะรั่ว (2023)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "รัก โพสต์ ลบ ลืม (2023) MONDO",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/MONDO.jpg",
-     "url": "https://play.kakjeawplay.xyz/f4af722a-610c-427d-8dfd-7b5798c2d39e/_",
+     "name": "ซีซั่น 1 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/480e4a6a-151a-537d-a4ef-303bd37ea5bb.m3u8",
      "referer": "https://www.nung2hdd.com/"
     },
     {
-     "name": "รัก โพสต์ ลบ ลืม (2023) MONDO",
+     "name": "ซีซั่น 1 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/3e615b22-b31e-5e08-b0c1-4cd757bda85c.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/b67466ac-2151-5cd2-b352-0db82301b012.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/fd9c6704-778e-5cbc-a210-a77104a87bc8.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7ef887af-9266-5876-9f38-dd631027a0e5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/d1abc706-0486-5a20-a744-6c0128f63efc.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/7d907678-de42-5c6d-a70f-d4e086d9dccf.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/58c1c30c-f332-5e57-9056-7f0dab124cbc.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/819199f6-0bb2-5fd0-b458-ac21e1ec2dee.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/My-Undercover-Chef.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/ecccca66-1e75-5022-b9fa-3ba60d9ec674.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "ไปรษณีย์ 4 โลก (2024) Postman",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Postman.png",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ไปรษณีย์ 4 โลก (2024) Postman",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Postman.png",
+     "url": "https://play.kakjeawplay.xyz/8c9c65c5-1fc5-4136-b0f5-7158299d1a6d/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ไปรษณีย์ 4 โลก (2024) Postman",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/MONDO.jpg",
-     "url": "https://streamhls.com/view/bf54c85b-2164-56b3-ba23-288621f23493.m3u8",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Postman.png",
+     "url": "https://streamhls.com/view/c7b86825-cc6f-566a-a5d4-d138722309a2.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "ฟอร์มาลีนแมน รักเธอเท่าฟ้า (2004) Formalin Man",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Formalin-Man.png",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ฟอร์มาลีนแมน รักเธอเท่าฟ้า (2004) Formalin Man",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Formalin-Man.png",
+     "url": "https://streamhls.com/view/49944577-d29d-5ddb-8725-53e66a8cfc9b.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "4 Kings II (2023) 4 คิงส์ 2",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/4-Kings-II-2023.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "4 Kings II (2023) 4 คิงส์ 2",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/4-Kings-II-2023.jpg",
+     "url": "https://play.kakjeawplay.xyz/fcdd4e06-938c-454f-940e-32aa15ff0d9b/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "4 Kings II (2023) 4 คิงส์ 2",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/4-Kings-II-2023.jpg",
+     "url": "https://streamhls.com/view/f2f52510-d646-535e-bad6-8a783d902c23.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "ไฉไล (2006) Chai Lai",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/chilai2006.png",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ไฉไล (2006) Chai Lai",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/chilai2006.png",
+     "url": "https://play.kakjeawplay.xyz/7fca182e-6c6c-4e51-a815-fbc503fe8fe6/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ไฉไล (2006) Chai Lai",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/chilai2006.png",
+     "url": "https://streamhls.com/view/4d639dfe-f60e-56ef-828f-58bf6651059a.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "พรางชมพู กะเทยประจัญบาน (2002) Saving Private Tootsie",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Saving-Private-Tootsie.png",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "พรางชมพู กะเทยประจัญบาน (2002) Saving Private Tootsie",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Saving-Private-Tootsie.png",
+     "url": "https://play.kakjeawplay.xyz/e78326d7-3e60-422d-a81e-7bdd21686f47/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "พรางชมพู กะเทยประจัญบาน (2002) Saving Private Tootsie",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Saving-Private-Tootsie.png",
+     "url": "https://streamhls.com/view/7b42a6c7-edf6-53c8-b491-306b31932022.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "เทวดาตกมันส์ (2008) Tevada tokmun",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tevada-tokmun-2008.png",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "เทวดาตกมันส์ (2008) Tevada tokmun",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tevada-tokmun-2008.png",
+     "url": "https://play.kakjeawplay.xyz/ccb5c080-0bf5-4989-a6cb-d78c4a817ebc/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "เทวดาตกมันส์ (2008) Tevada tokmun",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tevada-tokmun-2008.png",
+     "url": "https://streamhls.com/view/7fdf0286-c2f9-5188-a0bb-b33f0b0c9d22.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "เทวดาท่าจะเท่ง (2008) Teng’s Angel",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tengs-Angel-2008.png",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "เทวดาท่าจะเท่ง (2008) Teng’s Angel",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tengs-Angel-2008.png",
+     "url": "https://play.kakjeawplay.xyz/41fdde4b-5fc9-46b1-bd88-16bd68796def/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "เทวดาท่าจะเท่ง (2008) Teng’s Angel",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Tengs-Angel-2008.png",
+     "url": "https://streamhls.com/view/1f2287fa-b067-5d67-887f-5ee15468c771.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "ดับแสงรวี (2023) After Sundown",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/After-Sundown.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ดับแสงรวี (2023) After Sundown",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/After-Sundown.jpg",
+     "url": "https://play.kakjeawplay.xyz/4e0c8fb0-0d41-467f-ab61-b71503eb5fc6/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ดับแสงรวี (2023) After Sundown",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/After-Sundown.jpg",
+     "url": "https://streamhls.com/view/98d249be-a6ab-53af-bbc4-501edafba85a.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Curse Code แช่งชักหักกระดูก (2023)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ซีซั่น 1 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/db423671-2a91-5275-ba6e-a0a90ab7afca.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/36531b6a-3dc5-5db5-9283-05cb92d109f5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/bb4bd029-0090-5bae-bc46-d5dc22948e52.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/76b3dc01-5338-5574-945d-5d7e33fe7891.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/dbe4e564-4fbb-5240-9e27-481a41916415.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+     "url": "https://sgcdnseriesn.xyz/view/152e8cfa-5cbb-5c48-a5a7-c4add4c4a7b3.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "พันธุ์หมาบ้า (1990) Mad Dog",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Mad-Dog-1990.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "พันธุ์หมาบ้า (1990) Mad Dog",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Mad-Dog-1990.jpg",
+     "url": "https://play.kakjeawplay.xyz/fdd38f0c-c598-4ff2-8bd8-aa8d3d845a87/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "พันธุ์หมาบ้า (1990) Mad Dog",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Mad-Dog-1990.jpg",
+     "url": "https://streamhls.com/view/8488780f-2253-5734-af62-1a474a6289c2.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "มาห์ (1991) Mah",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Mah-1991.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "มาห์ (1991) Mah",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Mah-1991.jpg",
+     "url": "https://play.kakjeawplay.xyz/c27ca356-9c2f-4f8a-831d-f15289dec029/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "มาห์ (1991) Mah",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Mah-1991.jpg",
+     "url": "https://streamhls.com/view/289de25c-8472-5529-ba3b-4e49f313c17c.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
@@ -306,36 +845,22 @@
    ]
   },
   {
-   "name": "Curse Code แช่งชักหักกระดูก (2023)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+   "name": "รัก โพสต์ ลบ ลืม (2023) MONDO",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/MONDO.jpg",
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "ซีซั่น 1 ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/db423671-2a91-5275-ba6e-a0a90ab7afca.m3u8",
+     "name": "รัก โพสต์ ลบ ลืม (2023) MONDO",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/MONDO.jpg",
+     "url": "https://play.kakjeawplay.xyz/f4af722a-610c-427d-8dfd-7b5798c2d39e/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
-     "name": "ซีซั่น 1 ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/36531b6a-3dc5-5db5-9283-05cb92d109f5.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/bb4bd029-0090-5bae-bc46-d5dc22948e52.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น 1 ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
-     "url": "https://sgcdnseriesn.xyz/view/76b3dc01-5338-5574-945d-5d7e33fe7891.m3u8",
+     "name": "รัก โพสต์ ลบ ลืม (2023) MONDO",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/MONDO.jpg",
+     "url": "https://streamhls.com/view/bf54c85b-2164-56b3-ba23-288621f23493.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
@@ -843,12 +1368,6 @@
      "referer": "https://www.nung2hdd.com/"
     }
    ]
-  },
-  {
-   "name": "4 Kings II (2023) 4 คิงส์ 2",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2023/12/4-Kings-II-2023.jpg",
-   "info": "ZOOM",
-   "stations": []
   },
   {
    "name": "3 Idiot Heroes (2023) ฮีโร่ต้มแซ่บ",
@@ -5332,27 +5851,6 @@
    ]
   },
   {
-   "name": "มายริทึ่ม (2020) My Rhythm",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2022/03/14D2CF45-FFDF-4DD3-B0A3-8C02F8360E68-396x555-1-200x300.png",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "มายริทึ่ม (2020) My Rhythm",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/03/14D2CF45-FFDF-4DD3-B0A3-8C02F8360E68-396x555-1-200x300.png",
-     "url": "https://play.kakjeawplay.xyz/7cfc388b-cb34-4774-879e-6370b79f9b9b/_",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "มายริทึ่ม (2020) My Rhythm",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/03/14D2CF45-FFDF-4DD3-B0A3-8C02F8360E68-396x555-1-200x300.png",
-     "url": "https://streamhls.com/view/ce151bb1-f548-5cc2-8d65-2d275b456d18.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
    "name": "คิดถึงทุกปี (2017) Memories of New Years",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2022/03/m2J9X18vSdyKOXNUT8JY1WRtAbf-200x300.jpg",
    "info": "พากย์ไทย",
@@ -5369,6 +5867,27 @@
      "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2022/03/m2J9X18vSdyKOXNUT8JY1WRtAbf-200x300.jpg",
      "url": "https://streamhls.com/view/94b033c7-7c66-56b7-b44e-17646f9d1773.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "มายริทึ่ม (2020) My Rhythm",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2022/03/14D2CF45-FFDF-4DD3-B0A3-8C02F8360E68-396x555-1-200x300.png",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "มายริทึ่ม (2020) My Rhythm",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/03/14D2CF45-FFDF-4DD3-B0A3-8C02F8360E68-396x555-1-200x300.png",
+     "url": "https://play.kakjeawplay.xyz/7cfc388b-cb34-4774-879e-6370b79f9b9b/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "มายริทึ่ม (2020) My Rhythm",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2022/03/14D2CF45-FFDF-4DD3-B0A3-8C02F8360E68-396x555-1-200x300.png",
+     "url": "https://streamhls.com/view/ce151bb1-f548-5cc2-8d65-2d275b456d18.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
@@ -5927,22 +6446,22 @@
    ]
   },
   {
-   "name": "สาระแน โอเซกไก (2012) Saranae Osekai",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2021/08/zm6cvBx5HzKED8pnPCDipGJrxE9-200x300.jpg",
+   "name": "Dream Team (2008) ดรีมทีม ฮีโร่ฟันน้ำนม",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2021/07/3Ys4BqoFQMOmBeEKMNPQFSdZpqg-200x300.jpg",
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "สาระแน โอเซกไก (2012) Saranae Osekai",
+     "name": "Dream Team (2008) ดรีมทีม ฮีโร่ฟันน้ำนม",
      "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2021/08/zm6cvBx5HzKED8pnPCDipGJrxE9-200x300.jpg",
-     "url": "https://play.kakjeawplay.xyz/12ff19ac-ee7d-4296-8f62-91520d1e7b30/_",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2021/07/3Ys4BqoFQMOmBeEKMNPQFSdZpqg-200x300.jpg",
+     "url": "https://play.kakjeawplay.xyz/9d754ac9-3a01-47f4-b7fa-5a4f683cdf83/_",
      "referer": "https://www.nung2hdd.com/"
     },
     {
-     "name": "สาระแน โอเซกไก (2012) Saranae Osekai",
+     "name": "Dream Team (2008) ดรีมทีม ฮีโร่ฟันน้ำนม",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2021/08/zm6cvBx5HzKED8pnPCDipGJrxE9-200x300.jpg",
-     "url": "https://streamhls.com/view/a9db45be-fa88-51eb-b0c1-3869a3b25550.m3u8",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2021/07/3Ys4BqoFQMOmBeEKMNPQFSdZpqg-200x300.jpg",
+     "url": "https://streamhls.com/view/43ea75d1-6622-5a6f-8738-ac7771db91ff.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
@@ -6013,7 +6532,7 @@
   {
    "name": "Tigertail (2020) รอยรักแห่งวันวาน",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2021/08/tKqnN5CMSYQXjaNbTGZfbxpwK3t-200x300.jpg",
-   "info": "HD SoundTrack(TH)",
+   "info": "ซับไทย",
    "stations": [
     {
      "name": "Tigertail (2020) รอยรักแห่งวันวาน",

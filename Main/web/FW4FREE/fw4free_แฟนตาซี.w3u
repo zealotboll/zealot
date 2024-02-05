@@ -1,9 +1,48 @@
 {
  "name": "แฟนตาซี",
- "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 31 ตุลาคม 2566",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 11 พฤศจิกายน 2566",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://fw4free.com/images/logo7.png",
  "groups": [
+  {
+   "name": "V.1 The Marvels เดอะ มาร์เวลส์ (2023)",
+   "image": "https://img.inwiptv.net/postor/20231110234133csacsacascsa.jpg",
+   "stations": [
+    {
+     "name": "V.1 The Marvels เดอะ มาร์เวลส์ (2023)",
+     "info": " พากย์ไทยโรง",
+     "image": "https://img.inwiptv.net/postor/20231110234133csacsacascsa.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Marvels_2023/The_Marvels_2023_thr_v1.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Claus Family 3 คริสต์มาสตระกูลคลอส 3 (2022) NETFLIX บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20231110015648aJg7z3AVwBakEUDdJaah5QyebXn.jpg",
+   "stations": [
+    {
+     "name": "The Claus Family 3 คริสต์มาสตระกูลคลอส 3 (2022) NETFLIX บรรยายไทย",
+     "info": " บรรยายไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20231110015648aJg7z3AVwBakEUDdJaah5QyebXn.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/The_Claus_Family_3_2022/The_Claus_Family_3_2022_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
+  {
+   "name": "Pet Sematary: Bloodlines (2023) บรรยายไทย",
+   "image": "https://img.inwiptv.net/postor/20231105174604yqnNLn24shYnZ6kqGpbwuB3NJ0D.jpg",
+   "stations": [
+    {
+     "name": "Pet Sematary: Bloodlines (2023) บรรยายไทย",
+     "info": " บรรยายไทย [1080p]",
+     "image": "https://img.inwiptv.net/postor/20231105174604yqnNLn24shYnZ6kqGpbwuB3NJ0D.jpg",
+     "url": "https://m1free.inwstream.com:1936/movie3/Pet_Sematary_Bloodlines_2023/Pet_Sematary_Bloodlines_2023_st_1080.mp4/playlist.m3u8",
+     "referer": "https://fw4free.com/"
+    }
+   ]
+  },
   {
    "name": "One Day (2017) บรรยายไทย",
    "image": "https://img.inwiptv.net/postor/20231029115832anrjtPUUJEvB6BQRMQB4g3YIufB.jpg",

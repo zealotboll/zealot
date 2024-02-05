@@ -1,9 +1,44 @@
 {
  "name": "หนังซอมบี้",
- "author": "เจียว เจียว อัพวันที่ 29 ตุลาคม 2566",
+ "author": "เจียว เจียว อัพวันที่ 23 มกราคม 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
+  {
+   "name": "Renfield (2023) เรนฟิลด์",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Renfield-2023-Poster-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Renfield (2023) เรนฟิลด์",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Renfield-2023-Poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/113331b9-a92f-43e1-8848-821d1bd33acd/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Renfield (2023) เรนฟิลด์",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Renfield-2023-Poster-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/fb7a8d75-15a3-5015-aa33-7117d4a55ee7.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Renfield (2023) เรนฟิลด์",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Renfield-2023-Poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/9d9f8279-fe04-4dd6-b940-c7bfaf4d358c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Renfield (2023) เรนฟิลด์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Renfield-2023-Poster-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/d00444b5-3a0c-509c-976d-57e78c6cda12.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
   {
    "name": "Gangnam Zombie (2023) คังนัมซอมบี้",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Gangnam-Zombie-2023-190x300-c-default.webp",
@@ -11,30 +46,30 @@
    "stations": [
     {
      "name": "Gangnam Zombie (2023) คังนัมซอมบี้",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Gangnam-Zombie-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/c6cf5f67-73dc-4fe2-9ec6-330daa67a794/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Gangnam Zombie (2023) คังนัมซอมบี้",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Gangnam-Zombie-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c0a66eb0-a429-54a9-818a-80c5e3a5ed54.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Gangnam Zombie (2023) คังนัมซอมบี้",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Gangnam-Zombie-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/afe07039-21fb-4dad-83a5-4f45a3e6c544/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Gangnam Zombie (2023) คังนัมซอมบี้",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/01/Gangnam-Zombie-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/193923c4-f4e4-5110-b95d-1170767081f2.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Renfield (2023) เรนฟิลด์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Renfield-2023-Poster-190x300-c-default.webp",
-   "info": "พากย์ไทย(C)",
-   "stations": [
-    {
-     "name": "Renfield (2023) เรนฟิลด์",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Renfield-2023-Poster-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/fb7a8d75-15a3-5015-aa33-7117d4a55ee7.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -46,14 +81,28 @@
    "stations": [
     {
      "name": "Freaks of Nature (2015) สามพันธุ์เพี้ยน เกรียนพิทักษ์โลก",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/FreaksofNature28201529-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/9ef3c885-547f-4f32-a299-8a8a2a31985c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Freaks of Nature (2015) สามพันธุ์เพี้ยน เกรียนพิทักษ์โลก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/FreaksofNature28201529-190x300-c-default.webp",
      "url": "https://streamhls.com/view/18819d81-182f-5165-afa9-273b37cdae53.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Freaks of Nature (2015) สามพันธุ์เพี้ยน เกรียนพิทักษ์โลก",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/FreaksofNature28201529-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/4aaea5b4-b91d-4d83-8132-1cd13d373f75/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Freaks of Nature (2015) สามพันธุ์เพี้ยน เกรียนพิทักษ์โลก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/FreaksofNature28201529-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3c22cb79-7931-59e4-8e43-0f856175e861.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -67,14 +116,28 @@
    "stations": [
     {
      "name": "Kingdom Ashin of the North (2021) ผีดิบคลั่ง บัลลังก์เดือด อาชินแห่งเผ่าเหนือ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/880d27dfcf3c63551ec3bdf9b7bd8a86-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f10d8c4c-c3e5-443b-af0d-108b2706b0f4/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kingdom Ashin of the North (2021) ผีดิบคลั่ง บัลลังก์เดือด อาชินแห่งเผ่าเหนือ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/880d27dfcf3c63551ec3bdf9b7bd8a86-190x300-c-default.webp",
      "url": "https://streamhls.com/view/7b76bca1-2889-5972-9aa8-cb1138e898c3.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Kingdom Ashin of the North (2021) ผีดิบคลั่ง บัลลังก์เดือด อาชินแห่งเผ่าเหนือ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/880d27dfcf3c63551ec3bdf9b7bd8a86-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/3b41ad95-69e8-4671-aad7-4a841b732e9d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kingdom Ashin of the North (2021) ผีดิบคลั่ง บัลลังก์เดือด อาชินแห่งเผ่าเหนือ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/880d27dfcf3c63551ec3bdf9b7bd8a86-190x300-c-default.webp",
      "url": "https://streamhls.com/view/2d7b2bd5-fd7f-5170-bc56-7a3ded827b9d.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -88,14 +151,28 @@
    "stations": [
     {
      "name": "Army of the Dead (2021) แผนปล้นซอมบี้เดือด",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/x3taBaWfRzw1NIKhEPpKPwKBAOC-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/8ba6505f-1972-4f54-9b88-ed65ff88fc6b/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Army of the Dead (2021) แผนปล้นซอมบี้เดือด",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/x3taBaWfRzw1NIKhEPpKPwKBAOC-190x300-c-default.webp",
      "url": "https://streamhls.com/view/8b886b99-39fd-5ad9-aaf3-b066e61ee693.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Army of the Dead (2021) แผนปล้นซอมบี้เดือด",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/x3taBaWfRzw1NIKhEPpKPwKBAOC-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/980401c5-e571-4e29-bc8b-618a9020b66f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Army of the Dead (2021) แผนปล้นซอมบี้เดือด",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/x3taBaWfRzw1NIKhEPpKPwKBAOC-190x300-c-default.webp",
      "url": "https://streamhls.com/view/2f191b13-3d92-5ffa-84b1-4419a1095aef.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -109,14 +186,28 @@
    "stations": [
     {
      "name": "Alive (#Saraitda) (2020) | Netflix คนเป็นฝ่านรกซอมบี้",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/s6W4ujy2XtDzWh7c7EakTUrZqqv-1-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/b51c6fd5-dcde-411a-9d9b-3398223f6b6f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Alive (#Saraitda) (2020) | Netflix คนเป็นฝ่านรกซอมบี้",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/s6W4ujy2XtDzWh7c7EakTUrZqqv-1-190x300-c-default.webp",
      "url": "https://streamhls.com/view/bc835877-ddc1-56b9-be46-132bc58465f2.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Alive (#Saraitda) (2020) | Netflix คนเป็นฝ่านรกซอมบี้",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/s6W4ujy2XtDzWh7c7EakTUrZqqv-1-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d1a4cd64-019b-4eb6-a7b0-57cf31b7e41f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Alive (#Saraitda) (2020) | Netflix คนเป็นฝ่านรกซอมบี้",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/s6W4ujy2XtDzWh7c7EakTUrZqqv-1-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f0cc7188-ff74-5db4-b68b-96364dee19e4.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -130,7 +221,14 @@
    "stations": [
     {
      "name": "Alive (#Saraitda) (2020) (พัคชินฮเย ยูอาอิน)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/s6W4ujy2XtDzWh7c7EakTUrZqqv-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d1a4cd64-019b-4eb6-a7b0-57cf31b7e41f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Alive (#Saraitda) (2020) (พัคชินฮเย ยูอาอิน)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/s6W4ujy2XtDzWh7c7EakTUrZqqv-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f0cc7188-ff74-5db4-b68b-96364dee19e4.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -144,14 +242,28 @@
    "stations": [
     {
      "name": "Peninsula (Train to Busan 2) (2020) ฝ่านรกซอมบี้คลั่ง",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ew1lAU8yV66JbivBU1Zh4Wj4pOB-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/28982ab0-9ef9-400d-bc5d-d7662b578440/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Peninsula (Train to Busan 2) (2020) ฝ่านรกซอมบี้คลั่ง",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ew1lAU8yV66JbivBU1Zh4Wj4pOB-190x300-c-default.webp",
      "url": "https://streamhls.com/view/44d87c00-21c9-5271-b26d-036c51e533b9.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Peninsula (Train to Busan 2) (2020) ฝ่านรกซอมบี้คลั่ง",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ew1lAU8yV66JbivBU1Zh4Wj4pOB-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/cdee4d29-981e-40d0-a3ab-74ec0be5f8e3/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Peninsula (Train to Busan 2) (2020) ฝ่านรกซอมบี้คลั่ง",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/ew1lAU8yV66JbivBU1Zh4Wj4pOB-190x300-c-default.webp",
      "url": "https://streamhls.com/view/acf7b429-a487-5c37-b195-a794dfec0ee3.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -165,14 +277,28 @@
    "stations": [
     {
      "name": "Little Monsters (2019) ซอมบี้มาแล้วงับ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vN5wqEsnvBkkh1zFYGmn5zg6Wh4-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/166d2aa4-da9e-4031-88ea-9ebde82dc3d5/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Little Monsters (2019) ซอมบี้มาแล้วงับ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vN5wqEsnvBkkh1zFYGmn5zg6Wh4-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0b9d0988-dfd0-5479-af1e-65d4cd4f3c6e.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Little Monsters (2019) ซอมบี้มาแล้วงับ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vN5wqEsnvBkkh1zFYGmn5zg6Wh4-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/634603b3-476d-4e0c-bc36-c5ce1a1f2565/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Little Monsters (2019) ซอมบี้มาแล้วงับ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vN5wqEsnvBkkh1zFYGmn5zg6Wh4-190x300-c-default.webp",
      "url": "https://streamhls.com/view/13aab3bf-5c54-5973-81cf-232ae31d09f1.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -186,14 +312,28 @@
    "stations": [
     {
      "name": "Zombieland Double Tap (2019) ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Zombieland-Double-Tap-2019-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/c25aa4bf-60f0-4a11-b3a4-48ca9015f8f7/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Zombieland Double Tap (2019) ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Zombieland-Double-Tap-2019-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5a125938-3fbb-5f98-a0a7-f186ccd9d6ee.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Zombieland Double Tap (2019) ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Zombieland-Double-Tap-2019-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/bc54eaf0-11e4-4026-884d-906a351fe466/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Zombieland Double Tap (2019) ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Zombieland-Double-Tap-2019-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a54d6f07-ce3e-5947-8587-3b40f2a9bc0d.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -207,7 +347,14 @@
    "stations": [
     {
      "name": "Rampant (Chang-gwol) (2018) นครนรกซอมบี้คลั่ง",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8O6pXiKCBjYWN7BSReOQDPLF0Ty-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/0b15cfa8-9f8e-435b-8828-259fa94ad94e/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Rampant (Chang-gwol) (2018) นครนรกซอมบี้คลั่ง",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8O6pXiKCBjYWN7BSReOQDPLF0Ty-190x300-c-default.webp",
      "url": "https://streamhls.com/view/15955498-d75f-552b-8166-e61b9f3fa27c.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -221,7 +368,14 @@
    "stations": [
     {
      "name": "Day of the Dead Bloodline (2018) วันนรกเดือด มฤตยูซอมบี้สยอง",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/3jM4C1wJxHLWlF4tcSyyv6fnJPR-1-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/75546f1b-3491-4656-a230-6e080cba2d5c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Day of the Dead Bloodline (2018) วันนรกเดือด มฤตยูซอมบี้สยอง",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/3jM4C1wJxHLWlF4tcSyyv6fnJPR-1-190x300-c-default.webp",
      "url": "https://streamhls.com/view/e5690b78-3942-5192-8f37-ffc35fb8395d.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -235,7 +389,14 @@
    "stations": [
     {
      "name": "The Cured (2018) ซอมบี้กำเริบคลั่ง",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qheJcFjQ3hAMroE8y6FpCg6jNeN-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/4ff13e05-cd39-4a1e-8b75-48dfe27858af/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Cured (2018) ซอมบี้กำเริบคลั่ง",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qheJcFjQ3hAMroE8y6FpCg6jNeN-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6789fd26-6a26-5025-b3d0-0d8b0d02e065.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -249,7 +410,14 @@
    "stations": [
     {
      "name": "Cargo (2018) คาร์โก้ (ซับไทย)",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/q85QmUW1O4rGWNo3ObCGhrJ2b4R-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/18cdf19f-93a3-463d-b843-0085dce28302/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Cargo (2018) คาร์โก้ (ซับไทย)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/q85QmUW1O4rGWNo3ObCGhrJ2b4R-190x300-c-default.webp",
      "url": "https://streamhls.com/view/89e99296-7e1d-5af2-ac14-ec5284a44394.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -263,14 +431,28 @@
    "stations": [
     {
      "name": "The Girl With All The Gifts (2016) เชื้อนรกล้างซอมบี้",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vdCD8z55a4RNmHQDPIpuMFqoY2B-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/fb917fae-ea0c-4a3d-89e7-87a59103ac56/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Girl With All The Gifts (2016) เชื้อนรกล้างซอมบี้",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vdCD8z55a4RNmHQDPIpuMFqoY2B-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9e787d94-0d47-58b7-9557-187c3b8704ac.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "The Girl With All The Gifts (2016) เชื้อนรกล้างซอมบี้",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vdCD8z55a4RNmHQDPIpuMFqoY2B-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/289153c3-31ad-4e9a-99ff-b42d39d521d2/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Girl With All The Gifts (2016) เชื้อนรกล้างซอมบี้",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/vdCD8z55a4RNmHQDPIpuMFqoY2B-190x300-c-default.webp",
      "url": "https://streamhls.com/view/13b32a5e-b15d-5eda-824c-80dee3c4b258.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -284,7 +466,14 @@
    "stations": [
     {
      "name": "Pandemic (2016) หยุดวิบัติไวรัสซอมบี้",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Pandemic282016295BSubTH5D-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/e781710d-afcf-4532-a8b2-65ff65e26110/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Pandemic (2016) หยุดวิบัติไวรัสซอมบี้",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Pandemic282016295BSubTH5D-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ccd526f0-3330-5793-bd83-fc8809e829f5.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -298,7 +487,14 @@
    "stations": [
     {
      "name": "I Am A Hero (2015) ข้าคือฮีโร่",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/I-Am-a-Hero-2016-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/448500e9-130f-4290-90df-c58bc177d2d0/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "I Am A Hero (2015) ข้าคือฮีโร่",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/I-Am-a-Hero-2016-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c8193719-ee44-5923-a860-3c2e2b47b608.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -312,7 +508,14 @@
    "stations": [
     {
      "name": "Dead Rising Watchtower (2015) เชื้อสยองแพร่พันธุ์ซอมบี้",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DEADRISINGWATCHTOWERE0B980E0B88AE0B8B7E0B989E0B8ADE0B8AAE0B8A2E0B8ADE0B887E0B981E0B89EE0B8A3E0B988E0B89EE0B8B1E0B899E0B898E0B8B8E0B98CE0B88BE0B8ADE0B8A1E0B89AE0B8B5E0B989-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/12ff19ac-ee7d-4296-8f62-91520d1e7b30/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Dead Rising Watchtower (2015) เชื้อสยองแพร่พันธุ์ซอมบี้",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DEADRISINGWATCHTOWERE0B980E0B88AE0B8B7E0B989E0B8ADE0B8AAE0B8A2E0B8ADE0B887E0B981E0B89EE0B8A3E0B988E0B89EE0B8B1E0B899E0B898E0B8B8E0B98CE0B88BE0B8ADE0B8A1E0B89AE0B8B5E0B989-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a9db45be-fa88-51eb-b0c1-3869a3b25550.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -320,15 +523,22 @@
    ]
   },
   {
-   "name": "Strippers vs Werewolves (2012) สวยระห่ำ ปะทะ มนุษย์หมาป่า",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/McPFrYt-190x300-c-default.webp",
+   "name": "Zombie Fight Club (2014) เชื้อไวรัส ซัดสยองโลก",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/WoMJLX-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "Strippers vs Werewolves (2012) สวยระห่ำ ปะทะ มนุษย์หมาป่า",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/McPFrYt-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/22170e24-29cd-5acc-bd12-8c597f220a1d.m3u8",
+     "name": "Zombie Fight Club (2014) เชื้อไวรัส ซัดสยองโลก",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/WoMJLX-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/90cdc02e-6508-4bb8-8615-05c11cfb53dc/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Zombie Fight Club (2014) เชื้อไวรัส ซัดสยองโลก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/WoMJLX-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/4c85619b-649c-54f9-b637-37a8016bda4e.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -340,9 +550,37 @@
    "stations": [
     {
      "name": "Zombie School (2014) โรงเรียนเดือด ซอมบี้ดุ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Bb6dAFf-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/c79348fd-4218-49a5-8723-56f753256644/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Zombie School (2014) โรงเรียนเดือด ซอมบี้ดุ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Bb6dAFf-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d600c419-c2bd-578b-8661-9ec2f5da523b.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Strippers vs Werewolves (2012) สวยระห่ำ ปะทะ มนุษย์หมาป่า",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/McPFrYt-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Strippers vs Werewolves (2012) สวยระห่ำ ปะทะ มนุษย์หมาป่า",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/McPFrYt-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/0ebf4cf1-4108-40d2-baa9-1acf53ceb7e0/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Strippers vs Werewolves (2012) สวยระห่ำ ปะทะ มนุษย์หมาป่า",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/McPFrYt-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/22170e24-29cd-5acc-bd12-8c597f220a1d.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -354,7 +592,14 @@
    "stations": [
     {
      "name": "Infected (2013) ซอมบี้เขมือบโลก",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Infected-2013-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/40db8601-78f3-42ec-b9e8-6d2f74fe9e3c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Infected (2013) ซอมบี้เขมือบโลก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Infected-2013-190x300-c-default.webp",
      "url": "https://streamhls.com/view/27496f9c-00b0-5dc7-8aea-d640dfb08f29.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -368,7 +613,14 @@
    "stations": [
     {
      "name": "Fright Night 2 New Blood (2013) คืนนี้ผีมาตามนัด 2 ดุฝังเขี้ยว",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Fright-Night-2-C-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/0e564b9c-b8e5-4323-b6d9-39409a5a2ea3/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Fright Night 2 New Blood (2013) คืนนี้ผีมาตามนัด 2 ดุฝังเขี้ยว",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Fright-Night-2-C-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d02e5d4f-1fc0-51f2-86dc-c8dda348e505.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -382,7 +634,14 @@
    "stations": [
     {
      "name": "Battle Of The Damned (2013) สงครามจักรกลถล่มกองทัพซอมบี้",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/battle-of-the-damned-movie1-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/8b959b22-19b8-4c53-bb9e-ce16a8f54a0c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Battle Of The Damned (2013) สงครามจักรกลถล่มกองทัพซอมบี้",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/battle-of-the-damned-movie1-190x300-c-default.webp",
      "url": "https://streamhls.com/view/e7364191-4403-55f2-b116-d74698a83941.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -396,7 +655,14 @@
    "stations": [
     {
      "name": "Kiss of the Damned (2012) จุมพิตต้องคำสาป",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Ovtz2Br-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f614d201-c77f-423a-87f6-c23021166bbd/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Kiss of the Damned (2012) จุมพิตต้องคำสาป",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Ovtz2Br-190x300-c-default.webp",
      "url": "https://streamhls.com/view/786d7c9f-9bc7-5c07-99da-bb9ecf586018.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -410,7 +676,14 @@
    "stations": [
     {
      "name": "Werewolf The Beast Among Us (2012) ล่าอสูรนรก มนุษย์หมาป่า",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/WerewolfTheBeastAmongUs28201229-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/07e99f70-04d7-43a9-93c6-a186ce1c146e/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Werewolf The Beast Among Us (2012) ล่าอสูรนรก มนุษย์หมาป่า",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/WerewolfTheBeastAmongUs28201229-190x300-c-default.webp",
      "url": "https://streamhls.com/view/83777700-10d1-5945-b4c9-1a35dc440e75.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -424,7 +697,14 @@
    "stations": [
     {
      "name": "Byzantium (2012) ล่าแวมไพร์อมตะ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Byzantium-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/bf042477-fe94-4a84-8ebf-a19e8a1b3a90/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Byzantium (2012) ล่าแวมไพร์อมตะ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Byzantium-190x300-c-default.webp",
      "url": "https://streamhls.com/view/e0402da1-5d53-5b62-8bf3-94a754754014.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -438,7 +718,14 @@
    "stations": [
     {
      "name": "Cockneys vs Zombies (2012) แก่เก๋า ปะทะ ซอมบี้",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cockneys-vs-zombies_de-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/b1089e91-cac5-43cc-915b-0d5e1eaeac60/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Cockneys vs Zombies (2012) แก่เก๋า ปะทะ ซอมบี้",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/cockneys-vs-zombies_de-190x300-c-default.webp",
      "url": "https://streamhls.com/view/bdfd06dc-1e19-56dc-a621-c615f074ee78.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -452,7 +739,14 @@
    "stations": [
     {
      "name": "Abraham Lincoln Vampire Hunter (2012) อับราฮัม ลินคอล์น นักล่าแวมไพร์",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190223130201abraham-lincoln-vampire-hunter-534cbb46cb0bb-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/7fe1e886-6a78-45d7-b143-a9ed44ba0d6a/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Abraham Lincoln Vampire Hunter (2012) อับราฮัม ลินคอล์น นักล่าแวมไพร์",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/20190223130201abraham-lincoln-vampire-hunter-534cbb46cb0bb-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f8a18e47-b7b5-58fd-a716-e8c9fb014a5a.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -466,7 +760,14 @@
    "stations": [
     {
      "name": "Resident Evil 5 Retribution (2012) ผีชีวะ 5 สงครามไวรัสล้างนรก",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qRhi9UDgfstP9aIJTCoO9u13Q7t-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/e59dfe1f-45bd-4624-9fef-a2735a9ccc94/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Resident Evil 5 Retribution (2012) ผีชีวะ 5 สงครามไวรัสล้างนรก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qRhi9UDgfstP9aIJTCoO9u13Q7t-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ac53509c-5fcb-51c6-ad9e-bdc6f6346f44.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -480,7 +781,14 @@
    "stations": [
     {
      "name": "State of Emergency (2011) ฝ่าด่านนรกเมืองซอมบี้",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/psKpVNmmOspaEXIqpIq5p8yIJ1M-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/0acc39f4-81e7-44fc-8acc-41f784d6320b/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "State of Emergency (2011) ฝ่าด่านนรกเมืองซอมบี้",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/psKpVNmmOspaEXIqpIq5p8yIJ1M-190x300-c-default.webp",
      "url": "https://streamhls.com/view/86b2dc24-12fd-56d1-ba15-7708168a14af.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -494,7 +802,14 @@
    "stations": [
     {
      "name": "Fright Night (2011) คืนนี้ผีมาตามนัด",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/FrightNight28201129-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/3f1b3c85-6bcc-4087-80a7-58f627830e8c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Fright Night (2011) คืนนี้ผีมาตามนัด",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/FrightNight28201129-190x300-c-default.webp",
      "url": "https://streamhls.com/view/412df46b-324e-5182-9efd-ff1c35168d66.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -508,7 +823,14 @@
    "stations": [
     {
      "name": "War Of The Dead (2011) ฝ่าดงนรกกองทัพซอมบี้",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/NNF-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/a00a0d7d-25ab-4bba-9ec9-24b17df905ac/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "War Of The Dead (2011) ฝ่าดงนรกกองทัพซอมบี้",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/NNF-190x300-c-default.webp",
      "url": "https://streamhls.com/view/76fe7d3f-c148-5005-b622-8f7201294478.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -522,7 +844,14 @@
    "stations": [
     {
      "name": "The Devil’s Flower (2010) ปาฏิหาริย์มัจจุราชล่ารัก",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/0IR1oEh-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d32f5d37-b5d1-4a3b-80fd-5f0643440bc9/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Devil’s Flower (2010) ปาฏิหาริย์มัจจุราชล่ารัก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/0IR1oEh-190x300-c-default.webp",
      "url": "https://streamhls.com/view/24e01d61-0651-5aa6-af0b-d0ef5f2ba92b.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -536,7 +865,14 @@
    "stations": [
     {
      "name": "Resident Evil 4 Afterlife (2010) ผีชีวะ 4 สงครามแตกพันธุ์ไวรัส",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/szUA5nI2209cCQIv8iIP6tOw8Rf-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/3c10eb70-c26d-412a-bffb-208bd08451fb/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Resident Evil 4 Afterlife (2010) ผีชีวะ 4 สงครามแตกพันธุ์ไวรัส",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/szUA5nI2209cCQIv8iIP6tOw8Rf-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3d1c5514-f34e-5751-a29f-4299f375c6d6.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -550,7 +886,14 @@
    "stations": [
     {
      "name": "Let Me In (2010) แวมไพร์ ร้ายเดียงสา",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/LetMeIn-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/710e53fa-dff3-4c9d-8c71-0a248ba338ed/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Let Me In (2010) แวมไพร์ ร้ายเดียงสา",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/LetMeIn-190x300-c-default.webp",
      "url": "https://streamhls.com/view/cb8df461-2e7a-5d4b-8cbc-d1d2d3bf8ccf.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -564,14 +907,28 @@
    "stations": [
     {
      "name": "Blood The Last Vampire (2009) ยัยตัวร้าย สายพันธุ์อมตะ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/BloodTheLastVampire28200929-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/b8710689-54cf-449f-8105-d04dee424a20/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Blood The Last Vampire (2009) ยัยตัวร้าย สายพันธุ์อมตะ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/BloodTheLastVampire28200929-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c5e34b25-5c21-508c-8f80-fd442cfc2665.m3u8",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Blood The Last Vampire (2009) ยัยตัวร้าย สายพันธุ์อมตะ",
-     "info": "ซับไทย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/BloodTheLastVampire28200929-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/feb615ac-15d2-4380-bb4d-3b8b051be037/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Blood The Last Vampire (2009) ยัยตัวร้าย สายพันธุ์อมตะ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/BloodTheLastVampire28200929-190x300-c-default.webp",
      "url": "https://streamhls.com/view/4a048cf5-c73e-5a01-bad8-620e785218a8.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -585,7 +942,14 @@
    "stations": [
     {
      "name": "The Horde (La Horde) (2009) ฝ่านรก โขยงซอมบี้",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/La_horde_2009_2-754x1024-1-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/010813e2-2136-4b56-9a08-135afe5623f8/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Horde (La Horde) (2009) ฝ่านรก โขยงซอมบี้",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/La_horde_2009_2-754x1024-1-190x300-c-default.webp",
      "url": "https://streamhls.com/view/8bbfeb7d-1254-57a4-aa48-4be775c6229d.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -599,7 +963,14 @@
    "stations": [
     {
      "name": "Shadowland (2008) คืนชีพล่าเขี้ยวอาถรรพ์",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Shadowland-2010-Hollywood-Movie-Watch-Online1-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/84b9f59e-2029-4d6d-a397-a678015a2426/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Shadowland (2008) คืนชีพล่าเขี้ยวอาถรรพ์",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Shadowland-2010-Hollywood-Movie-Watch-Online1-190x300-c-default.webp",
      "url": "https://streamhls.com/view/e174d066-018a-51a9-8c20-bc1feb9ded91.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -613,7 +984,14 @@
    "stations": [
     {
      "name": "Vampire Twilight 1 (2008) แวมไพร์ ทไวไลท์ ภาค 1",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/lcMp3AONdNhjYE9MmTtMMTOiRDP-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/23520c11-4e3b-4e11-a16c-0bc8fcad7acd/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Vampire Twilight 1 (2008) แวมไพร์ ทไวไลท์ ภาค 1",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/lcMp3AONdNhjYE9MmTtMMTOiRDP-190x300-c-default.webp",
      "url": "https://streamhls.com/view/8be8d4bb-867b-5ca9-9bbb-a6aea2f56a02.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -627,7 +1005,14 @@
    "stations": [
     {
      "name": "Day of the Dead (2008) วันนรก กัดไม่เหลือซาก",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tumblr_nailecr09Y1tvsbvjo1_1280-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/210b21df-5f92-4a3a-b1d6-0bc40f3f80d8/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Day of the Dead (2008) วันนรก กัดไม่เหลือซาก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/tumblr_nailecr09Y1tvsbvjo1_1280-190x300-c-default.webp",
      "url": "https://streamhls.com/view/7237c235-e102-581a-b37b-92ff2a3199de.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -641,7 +1026,14 @@
    "stations": [
     {
      "name": "Blood and Chocolate (2007) เจ้าสาวพันธุ์อสูร",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xsAUldf-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/1c49c721-684b-4320-8651-a2a9fbe6886a/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Blood and Chocolate (2007) เจ้าสาวพันธุ์อสูร",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/xsAUldf-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f99517bd-4c3a-59e6-aa85-b7b0a76b941c.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -655,7 +1047,14 @@
    "stations": [
     {
      "name": "Bloodrayne 2 Deliverance (2007) ผ่าพิภพแวมไพร์ ภาค 2",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/AwmeqDr-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f1e304c2-b801-452a-814a-c7ab394b2657/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Bloodrayne 2 Deliverance (2007) ผ่าพิภพแวมไพร์ ภาค 2",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/AwmeqDr-190x300-c-default.webp",
      "url": "https://streamhls.com/view/0bb49015-dbf6-5ca6-82ec-232ba3b2b1ed.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -669,7 +1068,14 @@
    "stations": [
     {
      "name": "Moonlight the Vampire (2007) ผีกัดฟัดแวมไพร์",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/MOV811_Moonligh-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/6f5a5ceb-019d-44c1-b49c-8c2d9d922d4c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Moonlight the Vampire (2007) ผีกัดฟัดแวมไพร์",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/MOV811_Moonligh-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c0ac2786-058c-5a39-9705-9c750490e8dc.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -683,7 +1089,14 @@
    "stations": [
     {
      "name": "Resident Evil 3 Extinction (2007) ผีชีวะ 3 สงครามสูญพันธุ์ไวรัส",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/84s6e0V8hB87eOI5X3zVtkDboto-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/887b7ab0-37ec-468e-b52b-8ffe5cfbb96e/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Resident Evil 3 Extinction (2007) ผีชีวะ 3 สงครามสูญพันธุ์ไวรัส",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/84s6e0V8hB87eOI5X3zVtkDboto-190x300-c-default.webp",
      "url": "https://streamhls.com/view/44449f43-cf95-57ac-8dd9-e84bf66f2607.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -697,7 +1110,14 @@
    "stations": [
     {
      "name": "BloodRayne (2005) ผ่าพิภพแวมไพร์",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/u8XQ045-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/36ba93bf-3a13-4cad-8885-633bb458d9fb/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "BloodRayne (2005) ผ่าพิภพแวมไพร์",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/u8XQ045-190x300-c-default.webp",
      "url": "https://streamhls.com/view/3014e7cb-87f9-5280-aebd-7600a8e0c8d3.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -711,9 +1131,51 @@
    "stations": [
     {
      "name": "Feast (2005) พันธุ์ขย้ำเขี้ยวเขมือบโลก",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8lDq8P4-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/92357c5f-887b-4b3d-b01f-f976344e302f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Feast (2005) พันธุ์ขย้ำเขี้ยวเขมือบโลก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/8lDq8P4-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b5007266-2cf4-55d2-b8ed-3018d5904682.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Dawn of the Dead (2004) รุ่งอรุณแห่งความตาย",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DawnoftheDead-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Dawn of the Dead (2004) รุ่งอรุณแห่งความตาย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DawnoftheDead-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/e80e60ea-c6e4-4cbf-b06d-9fb4236567a7/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Dawn of the Dead (2004) รุ่งอรุณแห่งความตาย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DawnoftheDead-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/887ce209-819c-5142-aa4b-a4ef609ad408.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Dawn of the Dead (2004) รุ่งอรุณแห่งความตาย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DawnoftheDead-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/39c39025-a88d-4f55-90e4-5d2a60b1dca4/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Dawn of the Dead (2004) รุ่งอรุณแห่งความตาย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DawnoftheDead-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/c82fcba7-2ab7-5c59-9d57-62cc047a8a07.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -725,7 +1187,14 @@
    "stations": [
     {
      "name": "Resident Evil 2 Apocalypse (2004) ผีชีวะ 2 ผ่าวิกฤตไวรัสสยองโลก",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zJFZUe1TgvUevJwg2gmSPBbvutF-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/59efa759-2b82-4c49-8bf9-78e9e7ab61b6/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Resident Evil 2 Apocalypse (2004) ผีชีวะ 2 ผ่าวิกฤตไวรัสสยองโลก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/zJFZUe1TgvUevJwg2gmSPBbvutF-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6b9d0d75-1351-5a79-9c55-8835fd21722e.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -739,30 +1208,16 @@
    "stations": [
     {
      "name": "Blade 3 Trinity (2004) เบลด 3 อำมหิต…พันธุ์อมตะ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Blade-31-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/b896be66-c4eb-52d2-b1b6-4d20ed0b76c7.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Dawn of the Dead (2004) รุ่งอรุณแห่งความตาย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DawnoftheDead-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Dawn of the Dead (2004) รุ่งอรุณแห่งความตาย",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DawnoftheDead-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/887ce209-819c-5142-aa4b-a4ef609ad408.m3u8",
+     "url": "https://play.kakjeawplay.xyz/75f6fb1d-e0a6-4ba6-a50c-976771abf5bc/_",
      "referer": "https://www.9nunghd.com/"
     },
     {
-     "name": "Dawn of the Dead (2004) รุ่งอรุณแห่งความตาย",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/DawnoftheDead-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/c82fcba7-2ab7-5c59-9d57-62cc047a8a07.m3u8",
+     "name": "Blade 3 Trinity (2004) เบลด 3 อำมหิต…พันธุ์อมตะ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/Blade-31-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/b896be66-c4eb-52d2-b1b6-4d20ed0b76c7.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -774,7 +1229,14 @@
    "stations": [
     {
      "name": "Resident Evil (2002) ผีชีวะ 1",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5jdvEi57WBGuI5n2drG8FLAbYDp-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/c4a70ca2-0fe2-428d-9aba-7ffb206b2d1a/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Resident Evil (2002) ผีชีวะ 1",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/5jdvEi57WBGuI5n2drG8FLAbYDp-190x300-c-default.webp",
      "url": "https://streamhls.com/view/807e5599-361a-5dbf-aaad-15c5bc73c3ee.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -788,7 +1250,14 @@
    "stations": [
     {
      "name": "Blade 2 (2002) นักล่าพันธุ์อมตะ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/blade-ii-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/332b6d0f-6d9e-4b3d-a43c-6714d56af578/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Blade 2 (2002) นักล่าพันธุ์อมตะ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/blade-ii-190x300-c-default.webp",
      "url": "https://streamhls.com/view/98d55dbf-fb95-5f5b-aa57-ec98c1b5bdb2.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -802,7 +1271,14 @@
    "stations": [
     {
      "name": "Vampires (1998) รับจ้างล้างพันธุ์แวมไพร์",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qHGawU64MeGvtU86s6V0MA7MqFV-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/b93aa6b4-e44e-4688-bf7e-9f57882e141b/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Vampires (1998) รับจ้างล้างพันธุ์แวมไพร์",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/qHGawU64MeGvtU86s6V0MA7MqFV-190x300-c-default.webp",
      "url": "https://streamhls.com/view/82947914-ac56-5043-967f-ef3375faa45e.m3u8",
      "referer": "https://www.9nunghd.com/"
@@ -816,7 +1292,14 @@
    "stations": [
     {
      "name": "Blade 1 (1998) เบลดพันธุ์ฆ่าอมตะ",
-     "info": "พากย์ไทย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4fe96837df06c_260770n-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/8bc9797a-1872-429c-923e-4fd9ceabcffa/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Blade 1 (1998) เบลดพันธุ์ฆ่าอมตะ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2022/04/4fe96837df06c_260770n-190x300-c-default.webp",
      "url": "https://streamhls.com/view/8b6ef940-bb76-58bd-b7ad-744db3c0c476.m3u8",
      "referer": "https://www.9nunghd.com/"

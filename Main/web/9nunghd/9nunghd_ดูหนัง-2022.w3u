@@ -1,9 +1,37 @@
 {
  "name": "ดูหนัง 2022",
- "author": "เจียว เจียว อัพวันที่ 24 ธันวาคม 2566",
+ "author": "เจียว เจียว อัพวันที่ 22 มกราคม 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
+  {
+   "name": "Viking Wolf (2022) หมาป่าไวกิ้ง",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Viking-Wolf-2022-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Viking Wolf (2022) หมาป่าไวกิ้ง",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Viking-Wolf-2022-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/e05355f2-73b2-5983-9255-1275131a3add.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Viking Wolf (2022) หมาป่าไวกิ้ง",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Viking-Wolf-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/cfba50d6-7e36-47c3-ba11-e68d981d8299/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Viking Wolf (2022) หมาป่าไวกิ้ง",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Viking-Wolf-2022-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/708eb3dd-4741-51d4-8820-42578c4473bf.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
   {
    "name": "On the Come Up (2022)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/On-the-Come-Up-2022-Poster-190x300-c-default.webp",
@@ -1589,6 +1617,27 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Lizzo-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/21bc065a-e400-5f9c-a404-9999783c402e.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Curious Caterer Dying for Chocolate (2022) ตายเพื่อช็อคโกแลต",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Curious-Caterer-Dying-for-Chocolate-2022-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Curious Caterer Dying for Chocolate (2022) ตายเพื่อช็อคโกแลต",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Curious-Caterer-Dying-for-Chocolate-2022-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/473bd731-6273-42a2-b6fe-e7c09fbaae57/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Curious Caterer Dying for Chocolate (2022) ตายเพื่อช็อคโกแลต",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/Curious-Caterer-Dying-for-Chocolate-2022-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/2de20044-5a05-5094-8775-bca3679e91e1.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -3402,27 +3451,6 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Untold-Operation-Flagrant-Foul-2022-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f6317379-55cd-5458-974c-9d8fb6387bc3.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Viking Wolf (2022) หมาป่าไวกิ้ง",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Viking-Wolf-2022-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Viking Wolf (2022) หมาป่าไวกิ้ง",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Viking-Wolf-2022-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/cfba50d6-7e36-47c3-ba11-e68d981d8299/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Viking Wolf (2022) หมาป่าไวกิ้ง",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Viking-Wolf-2022-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/708eb3dd-4741-51d4-8820-42578c4473bf.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]

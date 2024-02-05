@@ -1,9 +1,44 @@
 {
   "name": "AppleTV+",
-  "author": "เจียว เจียว อัพวันที่ 15 มกราคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 30 มกราคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "Criminal Record (2024)",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Criminal-Record-220x300-c-default.png",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Criminal-Record-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/63fa267a-947f-5940-94aa-6abed33fde71.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Criminal-Record-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/f739e8aa-3cd3-5155-ac3e-f06c0838d12a.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Criminal-Record-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/b1743b8f-c189-520d-a9f9-48f0e18f17ef.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "ซับไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/01/Criminal-Record-220x300-c-default.png",
+          "url": "https://www.sgcdnseriesn.xyz/view/bf5dc008-3915-5fc2-9681-24437b5ccc54.m3u8",
+          "referer": "https://www.sgcdnseriesn.xyz/"
+        }
+      ]
+    },
     {
       "name": "Monarch: Legacy of Monsters (2023)",
       "info": "SUB",
