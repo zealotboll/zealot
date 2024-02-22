@@ -1,148 +1,158 @@
 {
-				"name":"Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี พากย์ไทย",
-				"info":"เรื่องย่อ: Keitarou Gentouga เป็นน้องใหม่ของวิทยาลัยที่เกลียดผี โชคร้ายสำหรับเขา เขามีความสามารถพิเศษในการดึงดูดวิญญาณ เมื่อสองปีที่แล้ว ความสัมพันธ์นี้ทำให้เขาได้รับบาดเจ็บทางวิญญาณที่มือขวา และเพื่อนของเขาก็ตกอยู่ในภวังค์ เหตุการณ์ดังกล่าวทำให้เขากลายเป็นคนเก็บตัว ทำให้เขาขาดทักษะทางสังคมอย่างมาก โชคดีที่ Keitarou เริ่มคลุกคลีกับสังคมอย่างช้าๆ ด้วยความช่วยเหลือจาก Eiko Houzuki เพื่อนสมัยเด็กของเขา ในส่วนหนึ่งของการฟื้นฟู เคทาโรรับงานพาร์ทไทม์เป็นครูสอนพิเศษส่วนตัว และลูกศิษย์คนแรกของเขาก็ไม่ใช่ใครอื่นนอกจากยาโยอิ โฮซูกิ ลูกพี่ลูกน้องของเอโกะ นอกจากการเป็นเด็กอัจฉริยะแล้ว ยาโยอิยังมีลักษณะพิเศษอีกอย่างคือ เธอมีจิตวิญญาณเหมือนกับเคตาโร อย่างไรก็ตาม ตรงกันข้ามกับ Keitarou เธอปรารถนาที่จะเผชิญหน้ากับวิญญาณ โดยหวังว่าจะพบผีที่พรากแม่ของเธอไป เมื่อเคย์ทาโร่ถูกยาโยอิและเอโกะลากไปตามสถานที่ผีสิง งานพาร์ทไทม์ของเขาดูเหมือนจะยิ่งห่างไกลจากจุดประสงค์เดิมมากขึ้นทุกที",
-				"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-				"stations": 
-					[
-						{
-							"name":" ตอนที่  1 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/55ebb66a-1e4c-5684-b3de-396c403629cd.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  2 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/891525ca-e034-587b-9aae-f728f277d471.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  3 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/57cd7142-f8f2-5dd8-aa36-e04a8a7d6cd0.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  4 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/e87327e5-deab-5fc0-800d-b04032f63520.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  5 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/377cdec4-7fae-5894-876d-bbda5b31e87e.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  6 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/81d47d65-ebb9-5e53-9326-c2d44381075b.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  7 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/6640dcab-8b12-5d14-8278-72d2e971cbed.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  8 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/c2e56067-9d99-5f4e-80d2-833fef4273b4.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  9 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/4d63b747-5669-5e9d-b703-3490d2ff5035.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  10 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/908709d3-0a7c-5217-93d4-6b41c9c16d60.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  11 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/e3e5f7e8-50b1-51b6-9e32-878e289ffb61.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  12 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/cf5674cc-fdd1-5930-8d73-499f19d76de6.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  13 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/d8f13819-45b3-5fa7-8c5e-dbab403976b3.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":" ตอนที่  14 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/822a2e5f-3291-57df-966b-3bb9a3bd3ad2.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  15 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/c1d2d127-cbf8-5e31-900c-7bc54e6a8b72.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  16 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/bcaa4999-c837-5338-a84c-899335356800.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  17 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/e0585ede-a1ea-5e74-b176-2a1724329e67.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  18 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/964f5fa2-eced-58e6-a52a-eddcf15769ba.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  19 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/0571c555-b6ae-5ad2-b8c8-4dec7a2b4c1b.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-						{
-							"name":"ตอนที่  20 ",
-							"info":"พากย์ไทย",
-							"image":"https://img.shirokami.me/images/2023/07/28/b2c169cdee827acc4040cd050741b2e4.jpg",
-							"url":"https://files.akuma-player.xyz/view/913e690e-c29c-56f7-ad76-12b53412b53e.m3u8",
-							"referer":"https://www.animehdzeroo.com/"	
-						},
-					]
-			},
+    "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY",
+    "author": "anime-indy",
+    "info": "",
+    "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+    "stations": [
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 1 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/0CB0sl9SL/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 2 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/ZIqq5qALEI/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 3 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/t0cWqAQbON/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 4 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/MmejBW44uD/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 5 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/XToFKNDGQK/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 6 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/WVdMZxZ4i/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 7 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/7uQkUhPAun/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 8 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/o623HReh3f/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 9 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/0lTrPPbJCA/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 10 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/kXkDfAkwU2/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 11 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/U034WwXJ55/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 12 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/OrPdePnLNJ/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 13 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/nMIfu2Q9dl/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 14 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/Mp5977nuVd/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 15 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/oCeMUXmJH/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 16 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/UiSNY21UmS/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 17 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/21m60SZ1mZ/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 18 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/FLBOkZlGTU/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 19 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/Y6S9DHataU/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 20 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/jjZQB3BaCc/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 21 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/1Yctob2UIA/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 22 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/8DMefMZaEz/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 23 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/5NVCLS37/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 24 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/H6OUxbyMID/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "Dark Gathering คู่หูต่างขั้วกับภารกิจกำจัดผี ตอนที่ 25 พากย์ไทย",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Dark-Gathering.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/HIFRGKm2Dt/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        }
+    ]
+}
