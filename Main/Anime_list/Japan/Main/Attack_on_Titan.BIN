@@ -1,0 +1,84 @@
+{
+	"name":"Attack on Titan ผ่าพิภพไททัน",
+	"info":"",
+	"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/attack-on-titan-shingeki-no-kyojin-ss-1-1.jpg?w=410&ssl=1",
+		"groups":
+			[
+			
+
+				{
+					"name":"พากย์ไทย",
+					"info":"",
+					"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/02/Attack-on-Titan_-The-Final-Season-Part-2.jpg?w=424&ssl=1",
+						"groups": [
+							
+						       {
+							"name":"Season 1",
+							"info":"",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/attack-on-titan-shingeki-no-kyojin-ss-1-1.jpg?fit=410%2C557&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/attack-on-titan-ss-th-i2-1h32a40.bin",
+							"import":"true"
+						       },
+						        {
+							"name":"Season 2",
+							"info":"",
+							"image":" ",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/ ",
+							"import":"true"
+						       },
+							 {
+							"name":"Season 3",
+							"info":"",
+							"image":" ",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/ ",
+							"import":"true"
+						       },
+							 {
+							"name":"Season 4",
+							"info":"",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/01/ONE-PIECE-SEASON-1-EAST-BLUE.jpg?fit=495%2C660&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/ ",
+							"import":"true"
+						       },
+					]
+						
+				},
+				{
+					"name":"ซับไทย",
+					"info":"",
+					"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/02/Attack-on-Titan_-The-Final-Season-Part-2.jpg?w=424&ssl=1",
+						"groups": [
+							
+						       {
+							"name":"Season 1",
+							"info":"",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/01/ONE-PIECE-SEASON-1-EAST-BLUE.jpg?fit=495%2C660&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/one-piece-season-1-east-blue-dubth.bin",
+							"import":"true"
+						       },
+						        {
+							"name":"Season 2",
+							"info":"",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/01/ONE-PIECE-SEASON-1-EAST-BLUE.jpg?fit=495%2C660&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/one-piece-season-1-east-blue-dubth.bin",
+							"import":"true"
+						       },
+							 {
+							"name":"Season 3",
+							"info":"",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/01/ONE-PIECE-SEASON-1-EAST-BLUE.jpg?fit=495%2C660&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/one-piece-season-1-east-blue-dubth.bin",
+							"import":"true"
+						       },
+							 {
+							"name":"Season 4",
+							"info":"",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/01/ONE-PIECE-SEASON-1-EAST-BLUE.jpg?fit=495%2C660&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/one-piece-season-1-east-blue-dubth.bin",
+							"import":"true"
+						       },
+					]
+						
+				},
+			]
+}
