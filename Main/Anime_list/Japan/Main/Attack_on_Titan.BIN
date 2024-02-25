@@ -22,24 +22,46 @@
 						        {
 							"name":"Season 2",
 							"info":"",
-							"image":" ",
-							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/ ",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/04/Attack-on-Titan-Season-2.jpg?fit=495%2C660&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/attack-on-titan-shingeki-no-kyojin-ss2-th-i2-1h32a40.bin",
 							"import":"true"
 						       },
 							 {
 							"name":"Season 3",
 							"info":"",
-							"image":" ",
-							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/ ",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/11/Attack-on-Titan.jpg?fit=495%2C660&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/attack-on-titan-s3-thai-i2-1h32a40.bin",
 							"import":"true"
 						       },
 							 {
 							"name":"Season 4",
 							"info":"",
-							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/01/ONE-PIECE-SEASON-1-EAST-BLUE.jpg?fit=495%2C660&ssl=1",
-							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/ ",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/05/Attack-on-Titan-Season-4-Part-1.jpg?w=495&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/attack-on-titan-season-4-part-1-th.bin",
 							"import":"true"
 						       },
+							{
+							"name":"Season 4.1",
+							"info":"",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/02/Attack-on-Titan_-The-Final-Season-Part-2.jpg?w=424&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/attack-on-titan-the-final-season-part-2-thai-1h32a40.bin",
+							"import":"true"
+						       },
+							{
+							"name":"Season 4.2",
+							"info":"",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Attack-on-Titan-Final-Season-Part-3-First-Half.jpg?w=495&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/attack-on-titan-final-season-part-3-thai.bin",
+							"import":"true"
+						       },
+							{
+							"name":"Season 4.3",
+							"info":"",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final.jpg?w=495&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/attack-on-titan-final-season-the-final-chapters-dubth.bin",
+							"import":"true"
+						       },
+							
 					]
 						
 				},
