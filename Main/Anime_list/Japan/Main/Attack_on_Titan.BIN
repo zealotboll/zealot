@@ -68,35 +68,56 @@
 				{
 					"name":"ซับไทย",
 					"info":"",
-					"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/02/Attack-on-Titan_-The-Final-Season-Part-2.jpg?w=424&ssl=1",
+					"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/01/attack-on-titan-the-final-season-part-2-ss-4-2.jpg?w=424&ssl=1",
 						"groups": [
 							
 						       {
 							"name":"Season 1",
 							"info":"",
-							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/01/ONE-PIECE-SEASON-1-EAST-BLUE.jpg?fit=495%2C660&ssl=1",
-							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/one-piece-season-1-east-blue-dubth.bin",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/01/84177.jpg?fit=225%2C321&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/",
 							"import":"true"
 						       },
 						        {
 							"name":"Season 2",
 							"info":"",
-							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/01/ONE-PIECE-SEASON-1-EAST-BLUE.jpg?fit=495%2C660&ssl=1",
-							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/one-piece-season-1-east-blue-dubth.bin",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/01/84177.jpg?fit=225%2C321&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/attack-on-titan-ss2-v3.bin",
 							"import":"true"
 						       },
 							 {
 							"name":"Season 3",
 							"info":"",
-							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/01/ONE-PIECE-SEASON-1-EAST-BLUE.jpg?fit=495%2C660&ssl=1",
-							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/one-piece-season-1-east-blue-dubth.bin",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/01/100633.jpg?fit=225%2C320&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/attack-on-titan-ss3-i2-1h32a40.bin",
 							"import":"true"
 						       },
 							 {
 							"name":"Season 4",
 							"info":"",
-							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/01/ONE-PIECE-SEASON-1-EAST-BLUE.jpg?fit=495%2C660&ssl=1",
-							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Thai/one-piece-season-1-east-blue-dubth.bin",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/01/110939l.jpg?w=424&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/",
+							"import":"true"
+						       },
+							 {
+							"name":"Season 4.1",
+							"info":"",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/01/attack-on-titan-the-final-season-part-2-ss-4-2.jpg?w=424&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/attack-on-titan-s4-v2.bin",
+							"import":"true"
+						       },
+							 {
+							"name":"Season 4.2",
+							"info":"",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/Attack-on-Titan-The-Final-Season-Part-3.jpg?w=858&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/attack-on-titan-the-final-season-part-2-i2i3-1h32a40.bin",
+							"import":"true"
+						       },
+							 {
+							"name":"Season 4.3",
+							"info":"",
+							"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/122343l.jpg?w=429&ssl=1",
+							"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Japan/Sub/attack-on-titan-final-season-the-final-chapters.bin",
 							"import":"true"
 						       },
 					]
