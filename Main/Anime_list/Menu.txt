@@ -16,5 +16,11 @@
 				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Us/Us_list.Bin",
 				"import":"true"
 			},
+			{
+				"name":"Anime-indy",
+				"image":"https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/cropped-151564.png?w=350&ssl=1",
+				"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/anime-indy_2023_.Bin",
+				"import":"true"
+			},
 		]
 	}
