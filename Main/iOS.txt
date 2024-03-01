@@ -42,6 +42,12 @@
 	"import":"true"
   },
   {
+	"name":"Series-Full", 
+	"image":"https://series-full.com/wp-content/uploads/2023/04/seriesfull-logo.png",
+	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/series-full/series-full.txt",
+	"import":"true"
+  },
+  {
 	"name":"123-HD", 
 	"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
 	"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/123HD/123hd.txt",

@@ -1,0 +1,43 @@
+{
+        "name": "series-full",
+        "author": "",
+        "image": "https://series-full.com/wp-content/uploads/2023/04/seriesfull-logo.png",
+        "groups": [
+		{
+			"name":"ดูซีรี่ย์ออนไลน์",
+			"image":"https://series-full.com/wp-content/uploads/2023/04/seriesfull-logo.png",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/series-full/series-full_series-all.w3u",
+			"import":"false"
+		},
+		{
+			"name":"ดูซีรี่ย์จีน",
+			"image":"https://series-full.com/wp-content/uploads/2023/04/seriesfull-logo.png",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/series-full/series-full_series-china.w3u",
+			"import":"false"
+		},
+		{
+			"name":"ดูซีรี่ย์จีน พากย์ไทย",
+			"image":"https://series-full.com/wp-content/uploads/2023/04/seriesfull-logo.png",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/series-full/series-full_ซีรี่ย์จีน-พากย์ไทย.w3u",
+			"import":"false"
+		},
+		{
+			"name":"ดูซีรี่ย์เกาหลี",
+			"image":"https://series-full.com/wp-content/uploads/2023/04/seriesfull-logo.png",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/series-full/series-full_series-korea.w3u",
+			"import":"false"
+		},
+		{
+			"name":"ดูซีรี่ย์ญี่ปุ่น",
+			"image":"https://series-full.com/wp-content/uploads/2023/04/seriesfull-logo.png",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/series-full/series-full_series-japan.w3u",
+			"import":"false"
+		},
+		{
+			"name":"ดูละครไทย",
+			"image":"https://series-full.com/wp-content/uploads/2023/04/seriesfull-logo.png",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/web/series-full/series-full_drama-thai.w3u",
+			"import":"false"
+		}
+	  ]
+	},
