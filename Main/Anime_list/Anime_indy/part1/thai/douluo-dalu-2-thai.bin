@@ -1,6 +1,6 @@
 {
-    "name": "Douluo Dalu 2 - ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-34 พากย์ไทย  ",
-    "author": "anime-indy",
+    "name": "Douluo Dalu 2 - ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-35 พากย์ไทย  ",
+    "author": "",
     "info": "",
     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg?fit=495%2C660&ssl=1",
     "stations": [
@@ -240,6 +240,13 @@
             "info": "",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg?fit=495%2C660&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/zQdgDbHHT/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "ตอนที่ 35 พากย์ไทย",
+            "info": "",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/fQFmRURn1/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         }
     ]

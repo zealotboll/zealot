@@ -1,6 +1,6 @@
 {
-    "name": "Wonderland 5 (Wan Jie Xian Zong) ดินแดนมหัศจรรย์ ภาค 5 ตอนที่ 1-252 ซับไทย  ",
-    "author": "anime-indy",
+    "name": "Wonderland 5 (Wan Jie Xian Zong) ดินแดนมหัศจรรย์ ภาค 5 ตอนที่ 1-253 ซับไทย  ",
+    "author": "",
     "info": "ภาค 5",
     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/07/wonderland-5-wan-jie-xian-zong.jpg?fit=400%2C563&ssl=1",
     "stations": [
@@ -1766,6 +1766,13 @@
             "info": "ภาค 5",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/07/wonderland-5-wan-jie-xian-zong.jpg?fit=400%2C563&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/Q5G2n8KIN3/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "ตอนที่ 253 ซับไทย",
+            "info": "ภาค 5",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/07/wonderland-5-wan-jie-xian-zong.jpg?fit=400%2C563&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/9wFMGS8b5/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         }
     ]
