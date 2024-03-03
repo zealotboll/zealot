@@ -1,56 +1,63 @@
 {
-    "name": "Mashle 2nd Season ศึกโลกเวทมนตร์คนพลังกล้าม ภาค 2 ตอนที่ 1-7 ซับไทย  ",
-    "author": "anime-indy",
+    "name": "Mashle 2nd Season ศึกโลกเวทมนตร์คนพลังกล้าม ภาค 2 ตอนที่ 1-8 ซับไทย  ",
+    "author": "",
     "info": "",
     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/140458l.jpg?fit=423%2C600&ssl=1",
     "stations": [
         {
             "name": "ตอนที่ 1 ซับไทย",
-            "info": "",
+            "info": "ภาค 2",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/140458l.jpg?fit=423%2C600&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/VtB50iodTq/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         },
         {
             "name": "ตอนที่ 2 ซับไทย",
-            "info": "",
+            "info": "ภาค 2",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/140458l.jpg?fit=423%2C600&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/sgJ8vDkEzl/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         },
         {
             "name": "ตอนที่ 3 ซับไทย",
-            "info": "",
+            "info": "ภาค 2",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/140458l.jpg?fit=423%2C600&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/RYteuufah3/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         },
         {
             "name": "ตอนที่ 4 ซับไทย",
-            "info": "",
+            "info": "ภาค 2",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/140458l.jpg?fit=423%2C600&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/wfr4xPzs7J/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         },
         {
             "name": "ตอนที่ 5 ซับไทย",
-            "info": "",
+            "info": "ภาค 2",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/140458l.jpg?fit=423%2C600&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/KfFPAmjvnm/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         },
         {
             "name": "ตอนที่ 6 ซับไทย",
-            "info": "",
+            "info": "ภาค 2",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/140458l.jpg?fit=423%2C600&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/D1VVRrQql/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         },
         {
             "name": "ตอนที่ 7 ซับไทย",
-            "info": "",
+            "info": "ภาค 2",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/140458l.jpg?fit=423%2C600&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/PpyNLtt6DG/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "ตอนที่ 8 ซับไทย",
+            "info": "ภาค 2",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/140458l.jpg?fit=423%2C600&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/w58C2Q6sW/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         }
     ]

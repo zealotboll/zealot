@@ -1,6 +1,6 @@
 {
-    "name": "Kusuriya No Hitorigoto - สืบคดีปริศนาหมอยาตำรับโคมแดง ตอนที่ 1-20 ซับไทย  ",
-    "author": "anime-indy",
+    "name": "Kusuriya No Hitorigoto - สืบคดีปริศนาหมอยาตำรับโคมแดง ตอนที่ 1-21 ซับไทย  ",
+    "author": "",
     "info": "",
     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/137009l.jpg?fit=424%2C600&ssl=1",
     "stations": [
@@ -142,6 +142,13 @@
             "info": "",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/137009l.jpg?fit=424%2C600&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/8cKsrdEiR/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "ตอนที่  21 ซับไทย",
+            "info": "",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/137009l.jpg?fit=424%2C600&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/vGO51Hqjd/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         }
     ]

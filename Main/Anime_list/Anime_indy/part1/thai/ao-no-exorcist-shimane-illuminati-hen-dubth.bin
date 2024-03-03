@@ -1,21 +1,28 @@
 {
-    "name": "Ao No Exorcist Shimane Illuminati-hen เอ็กซอร์ซิสต์พันธุ์ปีศาจ ภาคอิลลูมินาตีแห่งชิมาเนะ ตอนที่ 1-2 พากย์ไทย  ",
-    "author": "anime-indy",
+    "name": "Ao No Exorcist Shimane Illuminati-hen เอ็กซอร์ซิสต์พันธุ์ปีศาจ ภาคอิลลูมินาตีแห่งชิมาเนะ ตอนที่ 1-3 พากย์ไทย  ",
+    "author": "",
     "info": "",
     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3-1.jpg?fit=495%2C660&ssl=1",
     "stations": [
         {
             "name": "ตอนที่ 1 พากย์ไทย",
-            "info": "",
+            "info": "อิลลูมินาตีแห่งชิมาเนะ",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3-1.jpg?fit=495%2C660&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/4Ia7gYrnYa/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         },
         {
             "name": "ตอนที่ 2 พากย์ไทย",
-            "info": "",
+            "info": "อิลลูมินาตีแห่งชิมาเนะ",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3-1.jpg?fit=495%2C660&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/adC9VrVVT/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "ตอนที่ 3 พากย์ไทย",
+            "info": "อิลลูมินาตีแห่งชิมาเนะ",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3-1.jpg?fit=495%2C660&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/LnzoJWrPzo/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         }
     ]

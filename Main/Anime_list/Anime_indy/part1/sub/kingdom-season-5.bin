@@ -1,56 +1,63 @@
 {
-    "name": "Kingdom Season 5 สงครามผงาดบัลลังก์จิ๋นซี ภาค 5 ตอนที่ 1-7 ซับไทย  ",
-    "author": "anime-indy",
+    "name": "Kingdom Season 5 สงครามผงาดบัลลังก์จิ๋นซี ภาค 5 ตอนที่ 1-8 ซับไทย  ",
+    "author": "",
     "info": "",
     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/139641l.jpg?fit=427%2C600&ssl=1",
     "stations": [
         {
             "name": "ตอนที่ 1",
-            "info": "",
+            "info": "ภาค 5",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/139641l.jpg?fit=427%2C600&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/cfSkgdEKiU/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         },
         {
             "name": "ตอนที่ 2",
-            "info": "",
+            "info": "ภาค 5",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/139641l.jpg?fit=427%2C600&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/ad8gcYrfl/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         },
         {
             "name": "ตอนที่ 3",
-            "info": "",
+            "info": "ภาค 5",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/139641l.jpg?fit=427%2C600&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/PxQpEeoDma/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         },
         {
             "name": "ตอนที่ 4",
-            "info": "",
+            "info": "ภาค 5",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/139641l.jpg?fit=427%2C600&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/9wMniRhCO9/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         },
         {
             "name": "ตอนที่ 5",
-            "info": "",
+            "info": "ภาค 5",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/139641l.jpg?fit=427%2C600&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/47qaivLRoo/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         },
         {
             "name": "ตอนที่ 6",
-            "info": "",
+            "info": "ภาค 5",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/139641l.jpg?fit=427%2C600&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/pWPHvtW2pg/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         },
         {
             "name": "ตอนที่ 7",
-            "info": "",
+            "info": "ภาค 5",
             "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/139641l.jpg?fit=427%2C600&ssl=1",
             "url": "https://indy.team-indy.tech:8443/vid/r6bikZphAg/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "ตอนที่ 8",
+            "info": "ภาค 5",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/139641l.jpg?fit=427%2C600&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/w4V8W9bemE/video.mp4/playlist.m3u8",
             "referer": "https://indy.team-indy.net/"
         }
     ]
