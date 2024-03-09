@@ -1,6 +1,6 @@
 {
  "name": "เดอะมูฟวี่",
- "author": "เจียว เจียว อัพวันที่ 29 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 04 มีนาคม 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/cropped-151564.png?w=350&ssl=1",
  "groups": [
@@ -120,11 +120,6 @@
      "referer": "https://indy.team-indy.net/"
     }
    ]
-  },
-  {
-   "name": "Jujutsu Kaisen 0 : มหาเวทย์ผนึกมาร ซีโร่ เดอะมูฟวี่ ซับไทย(ชัดตาแตก)",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/09/Jujutsu-Kaisen-2.jpg",
-   "stations": []
   },
   {
    "name": "Drifting Home บ้านล่องลอย เดอะมูฟวี่ พากย์ไทย",
@@ -657,11 +652,6 @@
    ]
   },
   {
-   "name": "Bayonetta: Bloody Fate(2013) – บาโยเน็ตต้า บลัดดีเฟท เดอะมูฟวี่",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/04/bayonetta-bloody-fate.jpg",
-   "stations": []
-  },
-  {
    "name": "Steins Gate สไตนส์ เกท ฝ่าวิกฤตพิชิตกาลเวลา เดอะมูฟวี่ พากย์ไทย",
    "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/steins-gate.jpg",
    "stations": [
@@ -896,21 +886,6 @@
    ]
   },
   {
-   "name": "Kamen Rider Den-O : Final Countdown (2008) พากย์ไทย",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/08/Kamen-Rider-DenO-Final-Countdown.jpg",
-   "stations": []
-  },
-  {
-   "name": "Kamen Rider Den-O: I’m Born! (2000) เดอะมูฟวี่",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/08/Kamen-Rider-Den-O-Im-Born.jpg",
-   "stations": []
-  },
-  {
-   "name": "Super Masked Rider Den-O & Decade Neo The Onigashima Warship (2009) เดอะมูฟวี่ พากย์ไทย",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/08/Super-Masked-Rider-e1628834029537.jpg",
-   "stations": []
-  },
-  {
    "name": "Whistle วิสเซิ่ล ไอ้หนูนักเตะแข้งทอง เดอะมูฟวี่ พากย์ไทย",
    "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/10/whistle.jpg",
    "stations": [
@@ -960,19 +935,6 @@
      "info": "พากย์ไทย",
      "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/220px-Okami_Kodomo_no_Ame_to_Yuki_poster.jpg",
      "url": "https://indy.team-indy.tech:8443/vid/dAnrsmSySK/video.mp4/playlist.m3u8",
-     "referer": "https://indy.team-indy.net/"
-    }
-   ]
-  },
-  {
-   "name": "Howl’s Moving Castle ปราสาทเวทมนตร์ของฮาวล์ เดอะมูฟวี่  พากย์ไทย",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/Howls-moving-castleposter.jpg",
-   "stations": [
-    {
-     "name": "2004 Howls Moving Castle ปราสาทเวทมนตร์ของฮาวล์ Remastered",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/12/Howls-moving-castleposter.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/HRcYmBV/video.mp4/playlist.m3u8",
      "referer": "https://indy.team-indy.net/"
     }
    ]
