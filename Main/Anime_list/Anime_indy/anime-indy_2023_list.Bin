@@ -5,6 +5,112 @@
  "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/cropped-151564.png?w=350&ssl=1",
  "groups": [
  
+		
+		{
+			"name": "Legend of Xianwu ตำนานเซียนอู่  ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg?fit=480%2C639&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/legend-of-xianwu.bin"
+		},
+		{
+			"name": "Wushen Zhuzai มหาศึกเทพสงคราม (ซับใหม่)  ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/11/Wushen-Zhuzai-1.jpg?fit=495%2C660&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/wushen-zhuzai.bin"
+		},
+		{
+			"name": "Wan Jie Du Zun - หมื่นอาณาจักรจอมราชันย์  ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/06/Wan-Jie-Du-Zun.jpg?fit=495%2C660&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/wan-jie-du-zun-2023.bin"
+		},
+		{
+			"name": "One Hundred Thousand Years Of Qi Refining ข้าก็แค่ฝึกวิชาหนึ่งแสนปี  ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/05/One-Hundred-Thousand-Years-of-Qi-Refining-1.jpg?fit=495%2C660&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/one-hundred-thousand-years-of-qi-refining.bin"
+		},
+		{
+			"name": "Kusuriya No Hitorigoto - สืบคดีปริศนาหมอยาตำรับโคมแดง ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/137009l.jpg?fit=424%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/kusuriya-no-hitorigoto.bin"
+		},
+		{
+			"name": "Bai Yao Pu 4th Season เล่าขานตำนานปีศาจ ภาค 4  ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/Bai-Yao-Pu-4th-Season.jpg?fit=460%2C613&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/bai-yao-pu-4th-season.bin"
+		},
+		{
+			"name": "Kingdom Season 5 สงครามผงาดบัลลังก์จิ๋นซี ภาค 5  ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/139641l.jpg?fit=427%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/kingdom-season-5.bin"
+		},
+		{
+			"name": "Perfect World (Wanmei Shijie) โลกอันสมบูรณ์แบบ  ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/05/Perfect-World-Wanmei-Shijie.jpg?fit=495%2C660&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/perfect-world-wanmei-shijie.bin"
+		},
+		{
+			"name": "Boku no Kokoro no Yabai Yatsu Season 2 เธอผู้อันตรายต่อใจผม ภาค 2 ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/138581l.jpg?fit=424%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/boku-no-kokoro-no-yabai-yatsu-season-2.bin"
+		},
+		{
+			"name": "Saikyou Tank no Meikyuu Kouryaku แทงก์สุดแกร่ง แห่งวงกต ตัวแทงก์สุดโหด ค่าทนทาน 9999 แบบแรร์ ถูกเตะออกจากตี้ ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/140093l.jpg?fit=424%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/saikyou-tank-no-meikyuu-kouryaku.bin"
+		},
+		{
+			"name": "The Magic Chef of Ice and Fire จอมเวทย์แห่งน้ำแข็งและไฟ Bing Huo Mo Chu: ตอนที่ 1-131 ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/12/Bing-Huo-Mo-Chu-The-Magic-Chef-of-Ice-and-Fire.jpg?fit=434%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/bing-huo-mo-chu-the-magic-chef-of-ice-and-fire.bin"
+		},
+		{
+			"name": "Mashle 2nd Season ศึกโลกเวทมนตร์คนพลังกล้าม ภาค 2 ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/140458l.jpg?fit=423%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/mashle-2nd-season.bin"
+		},
+		{
+			"name": "Solo Leveling โซโลเลเวลลิง ตอนที่ 1-7.5 ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/bx151807-m1gX3iwfIsLu.png?fit=460%2C651&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/solo-leveling.bin"
+		},
+		{
+			"name": "Ao no Exorcist Shimane Illuminati-hen เอ็กซอร์ซิสต์พันธุ์ปีศาจ ภาคอิลลูมินาตีแห่งชิมาเนะ  ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/138381l.jpg?fit=425%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/ao-no-exorcist-shimane-illuminati-hen.bin"
+		},
+		{
+			"name": "Ragna Crimson ตำนานนักล่ามังกร  ซับไทย  ",
+			"author": "",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/mainimg.jpg?fit=1386%2C2000&ssl=1",
+		    "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/ragna-crimson.bin"
+		},
 		{
 			"name": "Kimi to Boku. 2nd Season คุณกับผม ภาค 2  พากย์ไทย  ",
 			"author": "anime-indy",
@@ -62,25 +168,11 @@
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/lian-qi-shi-wan-nian.bin"
 		},
 		{
-			"name": "Perfect World (Wanmei Shijie) โลกอันสมบูรณ์แบบ  ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/05/Perfect-World-Wanmei-Shijie.jpg?fit=495%2C660&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/perfect-world-wanmei-shijie.bin"
-		},
-		{
 			"name": "Nitian Xie Shen พลิกฟ้าท้าสวรรค์  ซับไทย  ",
 			"author": "anime-indy",
 			"info": "",
 			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/Untitled333.png?fit=649%2C834&ssl=1",
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/nitian-xie-shen.bin"
-		},
-		{
-			"name": "Wushen Zhuzai มหาศึกเทพสงคราม (ซับใหม่)  ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/11/Wushen-Zhuzai-1.jpg?fit=495%2C660&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/wushen-zhuzai.bin"
 		},
 		{
 			"name": "Snack Basue ซับไทย  ",
@@ -272,13 +364,6 @@
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/dan-dao-zhizun.bin"
 		},
 		{
-			"name": "Legend of Xianwu ตำนานเซียนอู่  ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/04/Legend-of-Xianwu-1.jpg?fit=480%2C639&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/legend-of-xianwu.bin"
-		},
-		{
 			"name": "Majo to Yajuu แม่มดและสัตว์ป่า ซับไทย  ",
 			"author": "",
 			"info": "",
@@ -454,13 +539,6 @@
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/jaku-chara-tomozaki-kun-2nd-stage.bin"
 		},
 		{
-			"name": "Wan Jie Du Zun - หมื่นอาณาจักรจอมราชันย์  ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/06/Wan-Jie-Du-Zun.jpg?fit=495%2C660&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/wan-jie-du-zun-2023.bin"
-		},
-		{
 			"name": "Akuyaku Reijou Level 99: Watashi Wa Ura Boss Desu Ga Maou De Wa Arimasen ชีวิตไม่ง่ายของนางร้าย LV99 ซับไทย  ",
 			"author": "",
 			"info": "",
@@ -601,13 +679,6 @@
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/kui-cheng-shoufu-cong-youxi-kaishi.bin"
 		},
 		{
-			"name": "One Hundred Thousand Years Of Qi Refining ข้าก็แค่ฝึกวิชาหนึ่งแสนปี  ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/05/One-Hundred-Thousand-Years-of-Qi-Refining-1.jpg?fit=495%2C660&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/one-hundred-thousand-years-of-qi-refining.bin"
-		},
-		{
 			"name": "Shin No Nakama Ja Nai To Yuusha No Party Wo Oidasareta Node Henkyou 2nd ผมโดนกลุ่มผู้กล้าขับไส ภาค 2 ซับไทย  ",
 			"author": "anime-indy",
 			"info": "",
@@ -648,76 +719,6 @@
 			"info": "",
 			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/One-Piece-Season-21.jpg?fit=300%2C450&ssl=1",
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/one-piece-season-21.bin"
-		},
-		{
-			"name": "Mashle 2nd Season ศึกโลกเวทมนตร์คนพลังกล้าม ภาค 2 ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/140458l.jpg?fit=423%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/mashle-2nd-season.bin"
-		},
-		{
-			"name": "Kusuriya No Hitorigoto - สืบคดีปริศนาหมอยาตำรับโคมแดง ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/137009l.jpg?fit=424%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/kusuriya-no-hitorigoto.bin"
-		},
-		{
-			"name": "Bai Yao Pu 4th Season เล่าขานตำนานปีศาจ ภาค 4  ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/Bai-Yao-Pu-4th-Season.jpg?fit=460%2C613&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/bai-yao-pu-4th-season.bin"
-		},
-		{
-			"name": "Kingdom Season 5 สงครามผงาดบัลลังก์จิ๋นซี ภาค 5  ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/139641l.jpg?fit=427%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/kingdom-season-5.bin"
-		},
-		{
-			"name": "Boku no Kokoro no Yabai Yatsu Season 2 เธอผู้อันตรายต่อใจผม ภาค 2 ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/138581l.jpg?fit=424%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/boku-no-kokoro-no-yabai-yatsu-season-2.bin"
-		},
-		{
-			"name": "Saikyou Tank no Meikyuu Kouryaku แทงก์สุดแกร่ง แห่งวงกต ตัวแทงก์สุดโหด ค่าทนทาน 9999 แบบแรร์ ถูกเตะออกจากตี้ ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/140093l.jpg?fit=424%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/saikyou-tank-no-meikyuu-kouryaku.bin"
-		},
-		{
-			"name": "Ao no Exorcist Shimane Illuminati-hen เอ็กซอร์ซิสต์พันธุ์ปีศาจ ภาคอิลลูมินาตีแห่งชิมาเนะ  ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/138381l.jpg?fit=425%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/ao-no-exorcist-shimane-illuminati-hen.bin"
-		},
-		{
-			"name": "Solo Leveling โซโลเลเวลลิง ตอนที่ 1-7.5 ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/bx151807-m1gX3iwfIsLu.png?fit=460%2C651&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/solo-leveling.bin"
-		},
-		{
-			"name": "Ragna Crimson ตำนานนักล่ามังกร  ซับไทย  ",
-			"author": "",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/mainimg.jpg?fit=1386%2C2000&ssl=1",
-		    "url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/ragna-crimson.bin"
-		},
-		{
-			"name": "The Magic Chef of Ice and Fire จอมเวทย์แห่งน้ำแข็งและไฟ Bing Huo Mo Chu: ตอนที่ 1-131 ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/12/Bing-Huo-Mo-Chu-The-Magic-Chef-of-Ice-and-Fire.jpg?fit=434%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/bing-huo-mo-chu-the-magic-chef-of-ice-and-fire.bin"
 		},
 		{
 			"name": "Ragna Crimson - ตำนานนักล่ามังกร  พากย์ไทย  ",
