@@ -1,5 +1,5 @@
 {
- "name": "อนิเมะ2023",
+ "name": "อนิเมะหน้าแรก",
  "author": "",
  "info": "",
  "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/cropped-151564.png?w=350&ssl=1",
@@ -7,11 +7,186 @@
  
  
 		{
+			"name": "Wonderland 5 (Wan Jie Xian Zong) ดินแดนมหัศจรรย์ ภาค 5",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/07/wonderland-5-wan-jie-xian-zong.jpg?fit=400%2C563&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/wonderland-season-5-wan-jie-xian-zong-season-5.bin"
+		},
+		{
+			"name": "One Step Toward Freedom หนึ่งก้าวสู่อิสรภาพ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/04/One-Step-Toward-Freedom-e1675102292939.jpg?fit=500%2C667&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/one-step-toward-freedom.bin"
+		},
+		{
+			"name": "Mato Seihei No Slave ทาสสุดแกร่งแห่งหน่วยป้องกันอสูร  พากย์ไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/Mato-Seihei-no-Slave.jpg?fit=495%2C660&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/mato-seihei-no-slave-dubth.bin"
+		},
+		{
+			"name": "Ling Jian Zun ดาบวิญญาณราชัน ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/Ling-Jian-Zun.jpg?fit=495%2C660&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/ling-jian-zun-newsub.bin"
+		},
+		{
+			"name": "Jin Zhan Fashi อยากเป็นยอดยุทธ์แต่ดันเป็นจอมเวทแทน ซับไทย  ",
+			"author": "",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/139235l.jpg?fit=428%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/jin-zhan-fashi.bin"
+		},
+		{
+			"name": "Overtake! โอเวอร์เทค! ตอนที่ 1-3 พากย์ไทย  ",
+			"author": "",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Overtake.jpg?fit=495%2C660&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/overtake-dubth.bin"
+		},
+		{
+			"name": "Honghuang Ling Zun - เจ้าแห่งจิตวิญญาณ ตับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/138327l.jpg?fit=424%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/honghuang-ling-zun.bin"
+		},
+		{
+			"name": "Shen Yin Wangzuo ผนึกเทพบัลลังก์ราชันย์  ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/04/Shen-Yin-Wangzuo.webp?fit=1460%2C2048&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/shen-yin-wangzuo.bin"
+		},
+		{
+			"name": "Wu Nao Monu ปิ๊งรักแม่มดจอมป่วน ตอนที่  ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/136705l.jpg?fit=450%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/wu-nao-monu.bin"
+		},
+		{
+			"name": "Shenyuan Youxi เกมนรกโลกเส้นตาย ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/2222-e1702824945795.png?fit=534%2C941&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/shenyuan-youxi.bin"
+		},
+		{
+			"name": "Metallic Rouge เมทัลลิค รูจ ตับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/Metallic-Rouge.jpg?fit=460%2C649&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/metallic-rouge.bin"
+		},
+		{
+			"name": "30-sai Made Doutei Da To Mahou Tsukai Ni Nareru Rashii 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/30-sai-made-Doutei-da-to-Mahou-Tsukai-ni-nareru-rashii.jpg?fit=424%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii.bin"
+		},
+		{
 			"name": "Kamonohashi Ron No Kindan Suiri สืบลับฉบับคาโมโนะฮาชิ รอน พากย์ไทย  ",
 			"author": "anime-indy",
 			"info": "",
 			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/Kamonohashi-Ron-no-Kindan-Suiri.jpg?fit=495%2C660&ssl=1",
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/kamonohashi-ron-no-kindan-suiri-dubth.bin"
+		},
+		{
+			"name": "Jue shi wu hun มหาเทพวิญญาณยุทธ์  ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/04/Jue-Shi-Wu-Hun-2.jpg?fit=500%2C701&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/jue-shi-wu-hun.bin"
+		},
+		{
+			"name": "Ishura อิชูระ ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/140122l.jpg?fit=419%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/ishura.bin"
+		},
+		{
+			"name": "Sengoku Youko อสูรจิ้งจอกโลกซามูไร ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/Sengoku-Youko.jpg?fit=425%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/sengoku-youko.bin"
+		},
+		{
+			"name": "Gekai Elise เอลิเซ่ แพทย์หญิงทะลุมิติ ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/Gekai-Elise.jpg?fit=425%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/gekai-elise.bin"
+		},
+		{
+			"name": "Youkoso Jitsuryoku Shijou Shugi No Kyoushitsu E 3rd ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ภาค 3  ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-3rd-Season.jpg?fit=423%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season.bin"
+		},
+		{
+			"name": "Youkoso Jitsuryoku Shijou Shugi No Kyoushitsu E 3rd ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ภาค 3 ตอนที่ 1 พากย์ไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-4.jpg?fit=495%2C660&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-dubth.bin"
+		},
+		{
+			"name": "Jaku-Chara Tomozaki-kun 2nd Stage เกมพลิกโฉมนายกระจอก ภาค 2  ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/bx143866-u9sM4nUMJvGP.jpg?fit=460%2C638&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/jaku-chara-tomozaki-kun-2nd-stage.bin"
+		},
+		{
+			"name": "Lian Qi Shi Wan Nian ข้าก็แค่กลั่นลมปราณหนึ่งแสนปี ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/02/One-Hundred-Thousand-Years-of-Qi-Refining-e1691242312851.jpg?fit=660%2C926&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/lian-qi-shi-wan-nian.bin"
+		},
+		{
+			"name": "Tunshi Xingkong 4th Season - มหาศึกล้างพิภพ ภาค 4 ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/138218l.jpg?fit=428%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/tunshi-xingkong-4th-season.bin"
+		},	
+		{
+			"name": "Yun Zhong Ju San Zi บุตรที่สามแห่งเมฆา ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/Yun-Zhong-Ju-San-Zi.png?fit=487%2C674&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/yun-zhong-ju-san-zi.bin"
+		},
+		{
+			"name": "Jian Yu Feng Yun:The Legend Of Sword Domain อาณาจักรแห่งดาบ  ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/12/Jian-Yu-Feng-YunThe-Legend-Of-Sword-Domain.jpg?fit=425%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/jian-yu-feng-yunthe-legend-of-sword-domain.bin"
+		},
+		{
+			"name": "Wan Jie Du Zun - หมื่นอาณาจักรจอมราชันย์  ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/06/Wan-Jie-Du-Zun.jpg?fit=495%2C660&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/wan-jie-du-zun-2023.bin"
+		},
+		{
+			"name": "Ling Jian Zun 4th Season (Spirit Sword Sovereign) ดาบวิญญาณราชัน ภาค 4 ซับไทย  ",
+			"author": "anime-indy",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/12/ling-jian-zun-4th-season-spirit-sword-sovereign-ss-4.jpg?fit=429%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/ling-jian-zun-4th-season-spirit-sword-sovereign.bin"
 		},
 		{
 			"name": "Dubu Wangu การแก้แค้นอันทรงเกียรติของเย่เฟิง ซับไทย  ",
@@ -35,26 +210,12 @@
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/perfect-world-wanmei-shijie-dub-th.bin"
 		},
 		{
-			"name": "Overtake! โอเวอร์เทค! ตอนที่ 1-3 พากย์ไทย  ",
-			"author": "",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Overtake.jpg?fit=495%2C660&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/overtake-dubth.bin"
-		},
-		{
 			"name": "Dan Dao Zhizun ยอดยุทธ์ นักแปรธาตุ  ซับไทย  ",
 			"author": "anime-indy",
 			"info": "",
 			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/Dan-Dao-Zhizun.jpg?fit=225%2C315&ssl=1",
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/dan-dao-zhizun.bin"
 		},
-		{
-			"name": "Tunshi Xingkong 4th Season - มหาศึกล้างพิภพ ภาค 4 ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/138218l.jpg?fit=428%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/tunshi-xingkong-4th-season.bin"
-		},	
 		{
 			"name": "Dosanko Gal Wa Namara Menkoi สาวแกลเมืองเหนือน่าฮักขนาด ซับไทย  ",
 			"author": "anime-indy",
@@ -119,13 +280,6 @@
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/xian-ni.bin"
 		},
 		{
-			"name": "One Step Toward Freedom หนึ่งก้าวสู่อิสรภาพ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/04/One-Step-Toward-Freedom-e1675102292939.jpg?fit=500%2C667&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/one-step-toward-freedom.bin"
-		},
-		{
 			"name": "Supreme God Emperor 2nd Season จักรพรรดิเทพสูงสุด ภาค 2",
 			"author": "anime-indy",
 			"info": "",
@@ -133,25 +287,11 @@
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/supreme-god-emperor-2nd-season.bin"
 		},
 		{
-			"name": "Wonderland 5 (Wan Jie Xian Zong) ดินแดนมหัศจรรย์ ภาค 5",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/07/wonderland-5-wan-jie-xian-zong.jpg?fit=400%2C563&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/wonderland-season-5-wan-jie-xian-zong-season-5.bin"
-		},
-		{
 			"name": "Ni Tian Zhizun (Against The Sky Supreme)",
 			"author": "anime-indy",
 			"info": "",
 			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/09/Ni-Tian-Zhizun.jpg?fit=392%2C600&ssl=1",
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/ni-tian-zhizun-against-the-sky-supreme.bin"
-		},
-		{
-			"name": "Shen Yin Wangzuo ผนึกเทพบัลลังก์ราชันย์  ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/04/Shen-Yin-Wangzuo.webp?fit=1460%2C2048&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/shen-yin-wangzuo.bin"
 		},
 		{
 			"name": "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5",
@@ -231,13 +371,6 @@
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/loop-7-kaime-no-akuyaku-reijou-wa.bin"
 		},
 		{
-			"name": "Jue shi wu hun มหาเทพวิญญาณยุทธ์  ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/04/Jue-Shi-Wu-Hun-2.jpg?fit=500%2C701&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/jue-shi-wu-hun.bin"
-		},
-		{
 			"name": "Shin No Nakama Ja Nai To Yuusha No Party Wo Oidasareta Node Henkyou 2nd ผมโดนกลุ่มผู้กล้าขับไส ภาค 2 ซับไทย  ",
 			"author": "anime-indy",
 			"info": "",
@@ -250,13 +383,6 @@
 			"info": "",
 			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3-1.jpg?fit=495%2C660&ssl=1",
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/ao-no-exorcist-shimane-illuminati-hen-dubth.bin"
-		},
-		{
-			"name": "Ling Jian Zun ดาบวิญญาณราชัน ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/Ling-Jian-Zun.jpg?fit=495%2C660&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/ling-jian-zun-newsub.bin"
 		},
 		{
 			"name": "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ  ซับไทย  ",
@@ -285,13 +411,6 @@
 			"info": "",
 			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2022/11/Wushen-Zhuzai-1.jpg?fit=495%2C660&ssl=1",
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/wushen-zhuzai.bin"
-		},
-		{
-			"name": "Wan Jie Du Zun - หมื่นอาณาจักรจอมราชันย์  ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/06/Wan-Jie-Du-Zun.jpg?fit=495%2C660&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/wan-jie-du-zun-2023.bin"
 		},
 		{
 			"name": "Kusuriya No Hitorigoto - สืบคดีปริศนาหมอยาตำรับโคมแดง ซับไทย  ",
@@ -406,13 +525,6 @@
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/megumi-no-daigo-kyuukoku-no-orange.bin"
 		},
 		{
-			"name": "Lian Qi Shi Wan Nian ข้าก็แค่กลั่นลมปราณหนึ่งแสนปี ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/02/One-Hundred-Thousand-Years-of-Qi-Refining-e1691242312851.jpg?fit=660%2C926&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/lian-qi-shi-wan-nian.bin"
-		},
-		{
 			"name": "Nitian Xie Shen พลิกฟ้าท้าสวรรค์  ซับไทย  ",
 			"author": "anime-indy",
 			"info": "",
@@ -474,13 +586,6 @@
 			"info": "",
 			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/Saijaku-Tamer-wa-Gomi-Hiroi-no-Tabi-wo-Hajimemashita.jpg?fit=424%2C600&ssl=1",
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita.bin"
-		},
-		{
-			"name": "Ling Jian Zun 4th Season (Spirit Sword Sovereign) ดาบวิญญาณราชัน ภาค 4 ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/12/ling-jian-zun-4th-season-spirit-sword-sovereign-ss-4.jpg?fit=429%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/ling-jian-zun-4th-season-spirit-sword-sovereign.bin"
 		},
 		{
 			"name": "Sousou No Frieren คำอธิษฐานในวันที่จากลา ฟรีเรน ตอนที่ 1-24 ซับไทย  ",
@@ -581,39 +686,11 @@
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/mato-seihei-no-slave.bin"
 		},
 		{
-			"name": "Honghuang Ling Zun - เจ้าแห่งจิตวิญญาณ ตับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/138327l.jpg?fit=424%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/honghuang-ling-zun.bin"
-		},
-		{
 			"name": "Sousou no Frieren คำอธิษฐานในวันที่จากลา ฟรีเรน พากย์ไทย  ",
 			"author": "",
 			"info": "",
 			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-8.jpg?fit=495%2C660&ssl=1",
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/sousou-no-frieren-dubth.bin"
-		},
-		{
-			"name": "Jin Zhan Fashi อยากเป็นยอดยุทธ์แต่ดันเป็นจอมเวทแทน ซับไทย  ",
-			"author": "",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/139235l.jpg?fit=428%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/jin-zhan-fashi.bin"
-		},
-		{
-			"name": "Mato Seihei No Slave ทาสสุดแกร่งแห่งหน่วยป้องกันอสูร  พากย์ไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/Mato-Seihei-no-Slave.jpg?fit=495%2C660&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/mato-seihei-no-slave-dubth.bin"
-		},
-		{
-			"name": "Yun Zhong Ju San Zi บุตรที่สามแห่งเมฆา ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/Yun-Zhong-Ju-San-Zi.png?fit=487%2C674&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/yun-zhong-ju-san-zi.bin"
 		},
 		{
 			"name": "Shixiong A Shixiong 2nd Season ศิษย์พี่ใหญ่ของข้า ภาค 2  ซับไทย  ",
@@ -623,32 +700,11 @@
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/shixiong-a-shixiong-2nd-season.bin"
 		},
 		{
-			"name": "Wu Nao Monu ปิ๊งรักแม่มดจอมป่วน ตอนที่  ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/136705l.jpg?fit=450%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/wu-nao-monu.bin"
-		},
-		{
-			"name": "Shenyuan Youxi เกมนรกโลกเส้นตาย ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/12/2222-e1702824945795.png?fit=534%2C941&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/shenyuan-youxi.bin"
-		},
-		{
 			"name": "Mahou Shoujo Ni Akogarete ฝันอยากเป็นสาวน้อยเวทมนตร์ แต่ดันกลายเป็นวายร้ายสาย S ไปซะงั้น!! ซับไทย",
 			"author": "anime-indy",
 			"info": "",
 			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/139345l.jpg?fit=425%2C600&ssl=1",
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/mahou-shoujo-ni-akogarete.bin"
-		},
-		{
-			"name": "Metallic Rouge เมทัลลิค รูจ ตับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/Metallic-Rouge.jpg?fit=460%2C649&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/metallic-rouge.bin"
 		},
 		{
 			"name": "Fresh Pretty Cure! 6 มหัศจรรย์สาวน้อยพริตตี้เคียว ปี6 ตอนที่ 1-50 พากย์ไทย  ",
@@ -658,67 +714,11 @@
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/fresh-pretty-cure-6.bin"
 		},
 		{
-			"name": "30-sai Made Doutei Da To Mahou Tsukai Ni Nareru Rashii 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/30-sai-made-Doutei-da-to-Mahou-Tsukai-ni-nareru-rashii.jpg?fit=424%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii.bin"
-		},
-		{
-			"name": "Ishura อิชูระ ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/140122l.jpg?fit=419%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/ishura.bin"
-		},
-		{
-			"name": "Sengoku Youko อสูรจิ้งจอกโลกซามูไร ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/Sengoku-Youko.jpg?fit=425%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/sengoku-youko.bin"
-		},
-		{
-			"name": "Youkoso Jitsuryoku Shijou Shugi No Kyoushitsu E 3rd ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ภาค 3  ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-3rd-Season.jpg?fit=423%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season.bin"
-		},
-		{
-			"name": "Gekai Elise เอลิเซ่ แพทย์หญิงทะลุมิติ ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/Gekai-Elise.jpg?fit=425%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/gekai-elise.bin"
-		},
-		{
-			"name": "Youkoso Jitsuryoku Shijou Shugi No Kyoushitsu E 3rd ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ภาค 3 ตอนที่ 1 พากย์ไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-4.jpg?fit=495%2C660&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-dubth.bin"
-		},
-		{
-			"name": "Jaku-Chara Tomozaki-kun 2nd Stage เกมพลิกโฉมนายกระจอก ภาค 2  ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/bx143866-u9sM4nUMJvGP.jpg?fit=460%2C638&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/jaku-chara-tomozaki-kun-2nd-stage.bin"
-		},
-		{
 			"name": "Akuyaku Reijou Level 99: Watashi Wa Ura Boss Desu Ga Maou De Wa Arimasen ชีวิตไม่ง่ายของนางร้าย LV99 ซับไทย  ",
 			"author": "",
 			"info": "",
 			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/Akuyaku-Reijou-Level-99-Watashi-wa-Ura-Boss-desu-ga-Maou-dewa-Arimasen.jpg?fit=423%2C600&ssl=1",
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen.bin"
-		},
-		{
-			"name": "Jian Yu Feng Yun:The Legend Of Sword Domain อาณาจักรแห่งดาบ  ซับไทย  ",
-			"author": "anime-indy",
-			"info": "",
-			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2021/12/Jian-Yu-Feng-YunThe-Legend-Of-Sword-Domain.jpg?fit=425%2C600&ssl=1",
-			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/jian-yu-feng-yunthe-legend-of-sword-domain.bin"
 		},
 		{
 			"name": "Tousouchuu: The Great Mission โทโซจู ภารกิจอันยิ่งใหญ่ ตอนที่ 1-45 ซับไทย  ",
@@ -1469,10 +1469,97 @@
 			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-9.jpg?fit=495%2C660&ssl=1",
 			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/onmyouji-th.bin"
 		},
-
-
-
-
+		{
+			"name": "Xiuluo Wu Shen เทพเจ้านักรบอสุรา ตอนที่ 1-16 ซับไทย  ",
+			"author": "",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/09/137693l-e1695727422109.jpg?fit=338%2C466&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/xiuluo-wu-shen.bin"
+		},
+		{
+			"name": "Arknights: Touin Kiro - สงครามหุบเขาน้ำเเข็ง ภาค 2 ตอนที่ 1-8 ซับไทย  ",
+			"author": "",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/Arknights-Touin-Kiro.png?fit=724%2C1024&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/arknights-touin-kiro.bin"
+		},
+		{
+			"name": "My Daemon ดีมอนของผม ตอนที่ 1-13 พากย์ไทย  ",
+			"author": "",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-8.jpg?fit=495%2C660&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/my-daemon-dubth.bin"
+		},
+		{
+			"name": "Attack On Titan: Final Season The Final Chapters ผ่าพิภพไททัน ไฟนอลซีซั่น บทสุดท้าย ตอนที่ 1-2 พากย์ไทย  ",
+			"author": "",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final.jpg?fit=495%2C660&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/attack-on-titan-final-season-the-final-chapters-dubth.bin"
+		},
+		{
+			"name": "Temple วัดป่วนชวนมารัก ตอนที่ 1-13 ซับไทย  ",
+			"author": "",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/132828l.jpg?fit=424%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/temple.bin"
+		},
+		{
+			"name": "Jitsu Wa Ore Saikyou Deshita? ผมเทพสุดจริงเหรอ? ตอนที่ 1-12 พากย์ไทย  ",
+			"author": "",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/Jitsu-wa-Ore-Saikyou-deshita.jpg?fit=495%2C660&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/jitsu-wa-ore-saikyou-deshita-dubth.bin"
+		},
+		{
+			"name": "Scott Pilgrim Takes Off  สก็อตต์ พิลกริมออกสตาร์ท ตอนที่ 1-8 พากย์ไทย  ",
+			"author": "",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-6.jpg?fit=495%2C660&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/scott-pilgrim-takes-off-dubth.bin"
+		},
+		{
+			"name": "Akuma-kun (ONA) เจ้าหนูประกาศิต ตอนที่ 1-12 พากย์ไทย  ",
+			"author": "",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-4.jpg?fit=495%2C660&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/akuma-kun-dubth.bin"
+		},
+		{
+			"name": "Horimiya: Piece โฮริมิยะ พีส ตอนที่ 1-13 พากย์ไทย  ",
+			"author": "",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/08/final-4.jpg?fit=495%2C660&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/horimiya-piece-dubth.bin"
+		},
+		{
+			"name": "Blue Eye Samurai ซามูไรตาฟ้า ตอนที่ 1-8 พากย์ไทย  ",
+			"author": "",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-2-1.jpg?fit=495%2C660&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/thai/blue-eye-samurai-dubth.bin"
+		},
+		{
+			"name": "Zhen Hun Jie 3rd Season เพชฌฆาตสับอสูร ภาค 3 ตอนที่ 1-16 ซับไทย  ",
+			"author": "",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/136725l.jpg?fit=412%2C550&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/zhen-hun-jie-3rd-season.bin"
+		},
+		{
+			"name": "Attack On Titan: Final Season The Final Chapters ผ่าพิภพไททัน ไฟนอลซีซั่น บทสุดท้าย ตอนที่ 1-2 ซับไทย  ",
+			"author": "",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/122343l.jpg?fit=429%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/attack-on-titan-final-season-the-final-chapters.bin"
+		},
+		{
+			"name": "Kawagoe Boys Sing - คาวาโกเอะ บอย ซิง ตอนที่ 1-3 ซับไทย  ",
+			"author": "",
+			"info": "",
+			"image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/138501l.jpg?fit=424%2C600&ssl=1",
+			"url":"https://raw.githubusercontent.com/zealotboll/zealot/main/Main/Anime_list/Anime_indy/part1/sub/kawagoe-boys-sing.bin"
+		},
 					
 	]
 }
