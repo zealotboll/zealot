@@ -1,0 +1,22 @@
+{
+    "name": "HIGH CARD Season 2 ยอดเซียนโป๊กเกอร์ ภาค 2 ตอนที่ 1-2 ซับไทย  ",
+    "author": "",
+    "info": "",
+    "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/HIGH-CARD-Season-2.jpg?fit=425%2C600&ssl=1",
+    "stations": [
+        {
+            "name": "ตอนที่ 1 ซับไทย",
+            "info": "",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/HIGH-CARD-Season-2.jpg?fit=425%2C600&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/cgC31mH6Cv/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        },
+        {
+            "name": "ตอนที่ 2 ซับไทย",
+            "info": "",
+            "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/HIGH-CARD-Season-2.jpg?fit=425%2C600&ssl=1",
+            "url": "https://indy.team-indy.tech:8443/vid/TZYMXyjdCf/video.mp4/playlist.m3u8",
+            "referer": "https://indy.team-indy.net/"
+        }
+    ]
+}
