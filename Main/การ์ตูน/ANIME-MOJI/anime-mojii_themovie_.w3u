@@ -1,6 +1,6 @@
 {
  "name": "เดอะมูฟวี่",
- "author": "เจียว เจียว อัพวันที่ 21 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 18 มีนาคม 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png?w=420&ssl=1",
  "groups": [
@@ -187,20 +187,6 @@
    ]
   },
   {
-   "name": "Kimetsu no Yaiba: Brother and Sister’s Bond(2019)",
-   "info": "จบแล้ว ซับไทย",
-   "image": "https://anime-mojii.com/wp-content/uploads/2021/03/Kimetsu-no-Yaiba-Brother-and-Sisters-Bond.png",
-   "stations": [
-    {
-     "name": "ตอนดาบพิฆาตอสูร : Brother and Sisters Bond",
-     "info": "จบแล้ว ซับไทย",
-     "image": "https://anime-mojii.com/wp-content/uploads/2021/03/Kimetsu-no-Yaiba-Brother-and-Sisters-Bond.png",
-     "url": "https://moji.abcdxzy.xyz:8443/vod/DFC6Q9lK/video.mp4/playlist.m3u8",
-     "referer": "https://abcdxzy.xyz/"
-    }
-   ]
-  },
-  {
    "name": "Karakai Jouzu no Takagi-san Movie แกล้งนัก รักนะรู้ยัง เดอะมูฟวี่ ซับไทย",
    "info": "ยังไม่จบ ซับไทย",
    "image": "https://anime-mojii.com/wp-content/uploads/2023/01/Karakai-Jouzu-no-Takagi-san-Movie.jpg",
@@ -224,20 +210,6 @@
      "info": "จบแล้ว ซับไทย",
      "image": "https://anime-mojii.com/wp-content/uploads/2022/12/Fuse-Memoirs-of-a-Hunter-Girl.jpg",
      "url": "https://moji.abcdxzy.xyz:8443/vod/yTGO7zSA/video.mp4/playlist.m3u8",
-     "referer": "https://abcdxzy.xyz/"
-    }
-   ]
-  },
-  {
-   "name": "Violet Evergarden The Movie จดหมายฉบับสุดท้าย… แด่เธอผู้เป็นที่รัก เดอะมูฟวี่ ซับไทย",
-   "info": "จบแล้ว ซับไทย",
-   "image": "https://anime-mojii.com/wp-content/uploads/2021/10/Violet-Evergarden-The-Movie-จดหมายฉบับสุดท้าย-แด่เธอผู้เป็นที่รัก-เดอะมูฟวี่.jpg",
-   "stations": [
-    {
-     "name": "ตอนViolet Evergarden The Movie จดหมายฉบับสุดท้าย… แด่เธอผู้เป็นที่รัก",
-     "info": "จบแล้ว ซับไทย",
-     "image": "https://anime-mojii.com/wp-content/uploads/2021/10/Violet-Evergarden-The-Movie-จดหมายฉบับสุดท้าย-แด่เธอผู้เป็นที่รัก-เดอะมูฟวี่.jpg",
-     "url": "https://moji.abcdxzy.xyz:8443/vod/YQuHU9x/video.mp4/playlist.m3u8",
      "referer": "https://abcdxzy.xyz/"
     }
    ]

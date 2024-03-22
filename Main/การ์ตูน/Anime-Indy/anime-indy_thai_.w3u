@@ -1,114 +1,564 @@
 {
  "name": "อนิเมะพากย์ไทย",
- "author": "เจียว เจียว อัพวันที่ 14 มีนาคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 18 มีนาคม 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/03/cropped-151564.png?w=350&ssl=1",
  "groups": [
   {
-   "name": "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ตอนที่ 1-17 พากย์ไทย",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+   "name": "Ao no Exorcist Shimane Illuminati-hen เอ็กซอร์ซิสต์พันธุ์ปีศาจ ภาคอิลลูมินาตีแห่งชิมาเนะ ตอนที่ 1-5 พากย์ไทย",
+   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3-1.jpg",
    "stations": [
     {
      "name": "ตอนที่ 1",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/Eqp7gVOIFv/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/4Ia7gYrnYa/video.mp4/playlist.m3u8"
     },
     {
      "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/hBz4exJL57/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/adC9VrVVT/video.mp4/playlist.m3u8"
     },
     {
      "name": "ตอนที่ 3",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/3YRbFucrN/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/LnzoJWrPzo/video.mp4/playlist.m3u8"
     },
     {
      "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/h1bqmUTNJ6/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/5S1gqT4OkJ/video.mp4/playlist.m3u8"
     },
     {
      "name": "ตอนที่ 5",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/AyxE1EomuX/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3-1.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/0wpxFVu9q2/video.mp4/playlist.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Ojou to Banken-kun องครักษ์พิทักษ์หวานใจ ตอนที่ 1-8 พากย์ไทย",
+   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/K5o7cK4bj0/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/EIJfpns3wB/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/RXPbiuEkOh/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/kGPQ8QEPzg/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/JjEe5yWds9/video.mp4/playlist.m3u8"
     },
     {
      "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/0lql355fHL/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/BydhOUX25b/video.mp4/playlist.m3u8"
     },
     {
      "name": "ตอนที่ 7",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/oFmT8nUHsr/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/4mFRLaLWh/video.mp4/playlist.m3u8"
     },
     {
      "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/SKa4IXziQR/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/f7ZZV99GF/video.mp4/playlist.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Ragna Crimson – ตำนานนักล่ามังกร ตอนที่ 1-21 พากย์ไทย",
+   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/arSWIMglob/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/rAFtiA9MiT/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/1C1KHhdohl/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/bKPHeIXzJl/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/X8RENpWYmn/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/ZTSvWOjk0J/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/YfFL8xff1V/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/jlJh9z48B0/video.mp4/playlist.m3u8"
     },
     {
      "name": "ตอนที่ 9",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/L4Fd7MtjnS/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/BSwOzS5tYl/video.mp4/playlist.m3u8"
     },
     {
      "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/mjyjabqFTJ/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/0CmnvAcq7P/video.mp4/playlist.m3u8"
     },
     {
      "name": "ตอนที่ 11",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/E9um1fkXX/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/tl8pa1hC0R/video.mp4/playlist.m3u8"
     },
     {
      "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/7HSZr8Ltrc/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/lX2HQPxQuI/video.mp4/playlist.m3u8"
     },
     {
      "name": "ตอนที่ 13",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/iq7puGDVbE/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/vFDGt18pQr/video.mp4/playlist.m3u8"
     },
     {
      "name": "ตอนที่ 14",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/DWXl4RbRCv/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/MnKCxWfWmJ/video.mp4/playlist.m3u8"
     },
     {
      "name": "ตอนที่ 15",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/IpP082Bwe5/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/8mmn0nZrAh/video.mp4/playlist.m3u8"
     },
     {
      "name": "ตอนที่ 16",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/aBo8QQLw2o/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/2V9xkxYFNJ/video.mp4/playlist.m3u8"
     },
     {
      "name": "ตอนที่ 17",
      "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/hvW1CNhJ/video.mp4/playlist.m3u8"
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/weAqD8DGSX/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/7VynKxjXU/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/YrHpPV3n9x/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/cVAH2vJORl/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/052VgUFzjq/video.mp4/playlist.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Kimi to Boku. 2nd Season คุณกับผม ภาค 2 ตอนที่ 1-11 พากย์ไทย",
+   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/35mPqEmMv/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/HiEMfVVuII/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/dgsYYcMC4J/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/cUqIABmrzE/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/HMPdpn3lVm/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/P9WnSJbFHN/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/Bqujh5ly8U/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/aTbBgi0EIY/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/yXtL6dVXL6/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/xcfscUnyAv/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/sEZfffH3Ed/video.mp4/playlist.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Sasaki to Pii-chan ซาซากิกับพีจัง ตอนที่ 1-5 พากย์ไทย",
+   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/gyXfVk3WHS/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/JlHrceQczy/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/8UPEcbEa4V/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/jVe3zg85of/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/xYhIFqhIbn/video.mp4/playlist.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Douluo Dalu 2 – ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-37 พากย์ไทย",
+   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/HTlcZzAgUf/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/DxdDB8FXfR/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/Fi4WGDILkq/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/JOos9aWvI/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/67Fu3KMvXf/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/03ZubaKU1r/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/2njGaGjFfn/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/0vTk8ryojx/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/bdKwrtTcoC/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/uZO13c4vax/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/l6L1EdJjFt/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/iqXcJJdU5f/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/kNvq8yNpDw/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/VV2KFw7Bv4/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/4jfpZ8pxEa/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/3e6lJGI07/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/CAkcPYByV/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/O0dh9nOqFH/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/1ccbIQbcTZ/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/8TCI4C7FWX/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/pvTqmA8Nx6/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/sbM0zFbz4w/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/LqY3HyMj8S/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/CNowG8ZPlw/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/51dAniLbtN/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/LQYThgCC0/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 27",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/z2Kr3DllZ/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/sgpFjnnaXj/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 29",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/X5yLYhRFnf/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/dt1VKovI2a/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 31",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/2VQX1wRubL/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/QsmMK8FiC/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 33",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/QJLbWzmcIY/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 34",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/zQdgDbHHT/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 35",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/fQFmRURn1/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 36",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/fBFqiz9m0L/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 37",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/RLEaA5Sh8/video.mp4/playlist.m3u8"
     }
    ]
   },
@@ -235,6 +685,186 @@
      "info": "พากย์ไทย",
      "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-8.jpg",
      "url": "https://indy.team-indy.tech:8443/vid/cBcRdEc5BY/video.mp4/playlist.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Dungeon Meshi สูตรลับตำรับดันเจียน ตอนที่ 1-11 พากย์ไทย",
+   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/iCrr2tscd7/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/l98i0KR6SU/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/xvqCF1A43m/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/1n1uItVcw/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/QSgU4CSjPW/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/p7eBrpyH99/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/G8BaKhgVjf/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/iQ6hr3mH6/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/Gu9oaUtz7Q/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/bf5BaLGkff/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/fgINSHDqIF/video.mp4/playlist.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ตอนที่ 1-17 พากย์ไทย",
+   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/Eqp7gVOIFv/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/hBz4exJL57/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/3YRbFucrN/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/h1bqmUTNJ6/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/AyxE1EomuX/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/0lql355fHL/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/oFmT8nUHsr/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/SKa4IXziQR/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/L4Fd7MtjnS/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/mjyjabqFTJ/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/E9um1fkXX/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/7HSZr8Ltrc/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/iq7puGDVbE/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/DWXl4RbRCv/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/IpP082Bwe5/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/aBo8QQLw2o/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/11/final-7.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/hvW1CNhJ/video.mp4/playlist.m3u8"
     }
    ]
   },
@@ -2477,48 +3107,6 @@
    ]
   },
   {
-   "name": "Ojou to Banken-kun องครักษ์พิทักษ์หวานใจ ตอนที่ 1-6 พากย์ไทย",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/K5o7cK4bj0/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/EIJfpns3wB/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/RXPbiuEkOh/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/kGPQ8QEPzg/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/JjEe5yWds9/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/Ojou-to-Banken-kun.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/BydhOUX25b/video.mp4/playlist.m3u8"
-    }
-   ]
-  },
-  {
    "name": "Nitian Xie Shen พลิกฟ้าท้าสวรรค์ ตอนที่ 1-6 พากย์ไทย",
    "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/final.jpg",
    "stations": [
@@ -2557,546 +3145,6 @@
      "info": "พากย์ไทย",
      "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/03/final.jpg",
      "url": "https://indy.team-indy.tech:8443/vid/qa50iJ2nD/video.mp4/playlist.m3u8"
-    }
-   ]
-  },
-  {
-   "name": "Ao no Exorcist Shimane Illuminati-hen เอ็กซอร์ซิสต์พันธุ์ปีศาจ ภาคอิลลูมินาตีแห่งชิมาเนะ ตอนที่ 1-4 พากย์ไทย",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3-1.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/4Ia7gYrnYa/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/adC9VrVVT/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/LnzoJWrPzo/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3-1.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/5S1gqT4OkJ/video.mp4/playlist.m3u8"
-    }
-   ]
-  },
-  {
-   "name": "Kimi to Boku. 2nd Season คุณกับผม ภาค 2 ตอนที่ 1-10 พากย์ไทย",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/35mPqEmMv/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/HiEMfVVuII/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/dgsYYcMC4J/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/cUqIABmrzE/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/HMPdpn3lVm/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/P9WnSJbFHN/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/Bqujh5ly8U/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/aTbBgi0EIY/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/yXtL6dVXL6/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final-2.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/xcfscUnyAv/video.mp4/playlist.m3u8"
-    }
-   ]
-  },
-  {
-   "name": "Ragna Crimson – ตำนานนักล่ามังกร ตอนที่ 1-20 พากย์ไทย",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/arSWIMglob/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/rAFtiA9MiT/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/1C1KHhdohl/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/bKPHeIXzJl/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/X8RENpWYmn/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/ZTSvWOjk0J/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/YfFL8xff1V/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/jlJh9z48B0/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/BSwOzS5tYl/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/0CmnvAcq7P/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/tl8pa1hC0R/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/lX2HQPxQuI/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/vFDGt18pQr/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/MnKCxWfWmJ/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/8mmn0nZrAh/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/2V9xkxYFNJ/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/weAqD8DGSX/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/7VynKxjXU/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 19",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/YrHpPV3n9x/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/10/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/cVAH2vJORl/video.mp4/playlist.m3u8"
-    }
-   ]
-  },
-  {
-   "name": "Sasaki to Pii-chan ซาซากิกับพีจัง ตอนที่ 1-4 พากย์ไทย",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/gyXfVk3WHS/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/JlHrceQczy/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/8UPEcbEa4V/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/02/final-3.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/jVe3zg85of/video.mp4/playlist.m3u8"
-    }
-   ]
-  },
-  {
-   "name": "Douluo Dalu 2 – ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-36 พากย์ไทย",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/HTlcZzAgUf/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/DxdDB8FXfR/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/Fi4WGDILkq/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/JOos9aWvI/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/67Fu3KMvXf/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/03ZubaKU1r/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/2njGaGjFfn/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/0vTk8ryojx/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/bdKwrtTcoC/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/uZO13c4vax/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/l6L1EdJjFt/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/iqXcJJdU5f/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/kNvq8yNpDw/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/VV2KFw7Bv4/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/4jfpZ8pxEa/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/3e6lJGI07/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/CAkcPYByV/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/O0dh9nOqFH/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 19",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/1ccbIQbcTZ/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/8TCI4C7FWX/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 21",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/pvTqmA8Nx6/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 22",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/sbM0zFbz4w/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 23",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/LqY3HyMj8S/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 24",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/CNowG8ZPlw/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 25",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/51dAniLbtN/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 26",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/LQYThgCC0/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 27",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/z2Kr3DllZ/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 28",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/sgpFjnnaXj/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 29",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/X5yLYhRFnf/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 30",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/dt1VKovI2a/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 31",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/2VQX1wRubL/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 32",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/QsmMK8FiC/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 33",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/QJLbWzmcIY/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 34",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/zQdgDbHHT/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 35",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/fQFmRURn1/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 36",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2023/07/Douluo-Dalu-2-thai.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/fBFqiz9m0L/video.mp4/playlist.m3u8"
-    }
-   ]
-  },
-  {
-   "name": "Dungeon Meshi สูตรลับตำรับดันเจียน ตอนที่ 1-10 พากย์ไทย",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/iCrr2tscd7/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/l98i0KR6SU/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/xvqCF1A43m/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/1n1uItVcw/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/QSgU4CSjPW/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/p7eBrpyH99/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/G8BaKhgVjf/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/iQ6hr3mH6/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/Gu9oaUtz7Q/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2024/01/final.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/bf5BaLGkff/video.mp4/playlist.m3u8"
     }
    ]
   },
@@ -73569,156 +73617,6 @@
    ]
   },
   {
-   "name": "Shakugan no Shana ชานะ นักรบเนตรอัคคี ภาค 2 ตอนที่ 1-24 พากย์ไทย",
-   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/z6AeBG3djC/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/HeSRMdbt5W/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/cVnmz8xAS1/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/3tugfOjEe1/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/zD0RhKjhzb/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/DINkQsE7q/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/6ddaJ3AawH/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/5QEFcfJ9ZC/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/utgDDlIYKc/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/teejVZcGLF/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/16UIFrquk/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/WUrJpTVqsV/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/lqzK55Q7GU/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/IM76mQrjha/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/3O70czVJkp/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/ti37J5KJzb/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/yLA7ijp64J/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/yxbSOeJNDB/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 19",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/pIqNkC8szB/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/IQtG5plM3I/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 21",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/mthynapCxq/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 22",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/u0o4Fs1V/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 23",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/aiD6pIdQZP/video.mp4/playlist.m3u8"
-    },
-    {
-     "name": "ตอนที่ 24",
-     "info": "พากย์ไทย",
-     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
-     "url": "https://indy.team-indy.tech:8443/vid/zjCbwYHlic/video.mp4/playlist.m3u8"
-    }
-   ]
-  },
-  {
    "name": "Medaka Box เมดากะ บ๊อก คุโรคามิ มาดากะ ตอนที่ 1-12 พากย์ไทย",
    "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/37947.jpg",
    "stations": [
@@ -73943,6 +73841,156 @@
      "info": "พากย์ไทย",
      "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/shakugan-no-shana.jpg",
      "url": "https://indy.team-indy.tech:8443/vid/mLFD5diA/video.mp4/playlist.m3u8"
+    }
+   ]
+  },
+  {
+   "name": "Shakugan no Shana ชานะ นักรบเนตรอัคคี ภาค 2 ตอนที่ 1-24 พากย์ไทย",
+   "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/z6AeBG3djC/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/HeSRMdbt5W/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/cVnmz8xAS1/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/3tugfOjEe1/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/zD0RhKjhzb/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/DINkQsE7q/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/6ddaJ3AawH/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/5QEFcfJ9ZC/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/utgDDlIYKc/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/teejVZcGLF/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/16UIFrquk/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/WUrJpTVqsV/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/lqzK55Q7GU/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/IM76mQrjha/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/3O70czVJkp/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/ti37J5KJzb/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/yLA7ijp64J/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/yxbSOeJNDB/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/pIqNkC8szB/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/IQtG5plM3I/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/mthynapCxq/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/u0o4Fs1V/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/aiD6pIdQZP/video.mp4/playlist.m3u8"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "พากย์ไทย",
+     "image": "https://i0.wp.com/anime-indy.com/wp-content/uploads/2020/11/an66a2NeyEi3rJnD2NA8DYBLJTl.jpg",
+     "url": "https://indy.team-indy.tech:8443/vid/zjCbwYHlic/video.mp4/playlist.m3u8"
     }
    ]
   },
